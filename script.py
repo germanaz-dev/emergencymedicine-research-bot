@@ -1,5 +1,6 @@
 import os
 import time
+import json
 import requests
 from datetime import datetime
 from io import BytesIO
@@ -40,7 +41,7 @@ results_text = "\n\n".join([
 ])
 
 
-# --- 2. ANÁLISIS CON GEMINI ---
+# --- 2. GEMINI (INFORME) ---
 gemini_url = (
     "https://generativelanguage.googleapis.com/v1beta/"
     f"models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
@@ -54,54 +55,57 @@ Tema: {tema}
 Información recopilada:
 {results_text}
 
-Genera un informe en español con:
+INSTRUCCIONES:
+- Prioriza evidencia científica
+- Diferencia evidencia fuerte vs débil
+- Evita blogs si no aportan valor
+- Sé crítico
+
+Genera:
 
 1. Resumen ejecutivo
-2. Novedades recientes
+2. Novedades reales
 3. Nivel de evidencia
 4. Implicaciones clínicas
-5. Ideas aplicables en urgencias
-6. Bibliografía (urls)
+5. Qué cambia en urgencias
+6. Qué NO sabemos
+7. Bibliografía
 """
 
 gemini_payload = {
-    "contents": [
-        {
-            "parts": [{"text": prompt}]
-        }
-    ]
+    "contents": [{"parts": [{"text": prompt}]}]
 }
 
 gemini_response = requests.post(gemini_url, json=gemini_payload).json()
 
 if "candidates" not in gemini_response:
-    print("ERROR DE GEMINI:")
+    print("ERROR GEMINI:")
     print(gemini_response)
     raise SystemExit(1)
 
 output = gemini_response["candidates"][0]["content"]["parts"][0]["text"]
 
 
-# --- 3. GENERAR IMAGEN CON IMAGEN 4 FAST ---
+# --- 3. IMAGEN (Imagen 4 normal) ---
 def generate_cover_image():
     client = genai.Client(api_key=GEMINI_API_KEY)
 
     cover_prompt = f"""
-Beautiful editorial hero image for a medical web article about:
+Beautiful editorial hero image for a medical article about:
 {tema}
 
 Style:
-elegant, cinematic, realistic, warm clinical atmosphere,
-professional medical magazine cover,
-horizontal wide banner,
-soft light, high quality,
-no text, no letters, no logos, no gore.
+cinematic, elegant, realistic
+medical but human
+warm tones, soft light
+no text, no logos, no gore
+horizontal composition
 """
 
-    for attempt in range(3):
+    for attempt in range(5):
         try:
             response = client.models.generate_images(
-                model="imagen-4.0-fast-generate-001",
+                model="imagen-4.0-generate-001",
                 prompt=cover_prompt,
                 config=types.GenerateImagesConfig(
                     number_of_images=1,
@@ -116,14 +120,14 @@ no text, no letters, no logos, no gore.
             cover_file = f"cover-{today}.png"
             image.save(cover_file)
 
-            with open(f"cover-prompt-{today}.txt", "w", encoding="utf-8") as f:
-                f.write(cover_prompt)
-
+            print("Imagen generada correctamente")
             return cover_file
 
         except Exception as e:
-            print(f"Error generando imagen, intento {attempt + 1}: {e}")
-            time.sleep(5)
+            print(f"ERROR IMAGEN intento {attempt+1}:")
+            print(type(e))
+            print(e)
+            time.sleep(20)
 
     return None
 
@@ -131,16 +135,12 @@ no text, no letters, no logos, no gore.
 image_filename = generate_cover_image()
 
 
-# --- 4. GUARDAR DEBUG OPCIONAL ---
+# --- 4. DEBUG ---
 with open(f"debug-tavily-{today}.json", "w", encoding="utf-8") as f:
-    import json
     json.dump(tavily_response, f, indent=2, ensure_ascii=False)
 
-with open(f"debug-input-gemini-{today}.txt", "w", encoding="utf-8") as f:
+with open(f"debug-input-{today}.txt", "w", encoding="utf-8") as f:
     f.write(results_text)
-
-with open(f"debug-prompt-{today}.txt", "w", encoding="utf-8") as f:
-    f.write(prompt)
 
 
 # --- 5. GUARDAR INFORME ---
@@ -150,9 +150,10 @@ with open(filename, "w", encoding="utf-8") as f:
     if image_filename:
         f.write(f"![Imagen de portada]({image_filename})\n\n")
     else:
-        f.write("_No se pudo generar imagen de portada en este run._\n\n")
+        f.write("_No se pudo generar imagen en este run._\n\n")
 
     f.write(f"**Tema:** {tema}\n\n")
     f.write(output)
+
 
 print(f"Generado {filename}")
