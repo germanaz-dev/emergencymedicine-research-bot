@@ -72,7 +72,12 @@ filename = f"report-{today}.md"
 
 with open(filename, "w") as f:
     f.write(f"# Informe diario\n\n")
+    
+     # Imagen de portada
+    f.write(f"![Imagen de portada]({image_filename})\n\n")
+    
     f.write(f"**Tema:** {tema}\n\n")
+    
     f.write(output)
 
 print(f"Generado {filename}")
