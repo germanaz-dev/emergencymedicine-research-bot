@@ -57,6 +57,13 @@ gemini_payload = {
 
 gemini_response = requests.post(gemini_url, json=gemini_payload).json()
 
+gemini_response = requests.post(gemini_url, json=gemini_payload).json()
+
+if "candidates" not in gemini_response:
+    print("ERROR DE GEMINI:")
+    print(gemini_response)
+    raise SystemExit(1)
+
 output = gemini_response["candidates"][0]["content"]["parts"][0]["text"]
 
 # --- 3. GUARDAR INFORME ---
