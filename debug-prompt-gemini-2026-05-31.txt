@@ -1,0 +1,56 @@
+
+Eres un médico de urgencias experto.
+
+Tema: el ventriculo derecho en el tromboembolismo pulmonar. espiral de la muerte.
+
+Información recopilada:
+Embolia pulmonar - Trastornos pulmonares - Manual Merck versión para profesionales
+Cuando un émbolo grande ocluye en forma aguda las arterias pulmonares principales o muchos émbolos más pequeños se combinan para ocluir una proporción significativa de los vasos más distales, aumenta la presión ventricular derecha, que puede conducir a una insuficiencia aguda del ventrículo derecho, shock o muerte súbita. El riesgo de muerte depende del grado y la velocidad de elevación de las presiones de las cavidades derechas y del estado cardiopulmonar de base del paciente. Los pacientes con enfermedad cardiopulmonar preexistente tienen mayor riesgo de muerte, pero los pacientes jóvenes y/o saludables pueden sobrevivir a una embolia pulmonar que ocluya > 50% del lecho pulmonar. [...] Con frecuencia, el ECG muestra taquicardia y varias alteraciones de la onda ST-T que no son específicas de embolia pulmonar (véase figura Un ECG en la embolia pulmonar). Un S1Q3T3 (onda S en la derivación I, onda Q en la derivación III, onda T invertida en la derivación III) o un bloqueo nuevo de la rama derecha del haz puede indicar el efecto del aumento súbito del tamaño del ventrículo derecho qhe afecta las vías de conducción del ventrículo derecho; estos hallazgos son moderadamente específicos pero no son sensibles, aparecen solo en alrededor del 5% de los pacientes, aunque los hallazgos ocurren en mayor proporción en pacientes con embolia pulmonar masiva. La desviación del eje derecho (R > S en V1) y la P pulmonar pueden estar presentes. También aparece la inversión de la onda T en [...] Riesgo intermedio (submasivo): deterioro de la función ventricular derecha sin hipotensión. Esto se evidencia por el agrandamiento y/o la hipocinesia del ventrículo derecho en los estudios de diagnóstico por imágenes (p. ej., angiografía por TC, ecocardiografía), así como por el aumento de los biomarcadores circulantes (p. ej., troponina, péptido natriurético cerebral). Tenga en cuenta que la European Society of Cardiology (Sociedad Europea de Cardiología) define la embolia pulmonar de riesgo intermedio también como un índice de gravedad de la embolia pulmonar simplificado (sPESI) > 0, por lo que incluye pacientes con otros trastornos o hallazgos, como edad > 80 años, antecedentes de cáncer, enfermedad pulmonar crónica, taquicardia (frecuencia cardíaca > 110), hipotensión (tensión
+https://www.merckmanuals.com/es-us/professional/trastornos-pulmonares/embolia-pulmonar/embolia-pulmonar
+
+Disfunción e isquemia ventricular derecha en la embolia pulmonar
+Uno de los factores patogénicos de la disfunción ventricular derecha en la embolia pulmonar es la isquemia miocárdica, derivada fundamentalmente de la
+https://www.revespcardiol.org/en-disfuncion-e-isquemia-ventricular-derecha-articulo-13064831
+
+Tromboembolismo pulmonar - Fundación Española del Corazón
+En esta imagen se representa cómo se produce habitualmente un tromboembolismo pulmonar. Un trombo o coágulo se forma en las venas de los miembros inferiores y migra a través de la vena cava inferior hasta el ventrículo derecho del corazón. Éste lo impulsa hacia los pulmones por la arteria pulmonar, donde queda impactado, produciendo así una obstrucción, impidiendo que una parte del pulmón reciba sangre.
+
+## Factores predisponentes
+
+Existen varios factores que aumentan las posibilidades de sufrir un tromboembolismo pulmonar. Los más importantes son: [...] Una zona de los pulmones no recibe sangre venosa (pobre en oxígeno) y, por tanto, no podrá oxigenarla, repercutiendo negativamente en el oxígeno que posteriormente llegará al resto de órganos y tejidos del paciente.
+ El corazón seguirá bombeando sangre hacia los pulmones pero como consecuencia de dicha oclusión, encontrará un obstáculo y la presión aumentará dentro de la arteria pulmonar, debilitando el ventrículo derecho del corazón (la cavidad cardiaca que envía sangre sin oxígeno a los pulmones). [...] Las manifestaciones clínicas o síntomas más frecuentes son la disnea (sensación de falta de aire), el dolor torácico y el mareo o desvanecimiento aunque también puede aparecer fiebre y tos con sangre cuando se acompaña de un infarto pulmonar (una zona del pulmón se necrosa o muere como consecuencia de la falta de riego). Cuando el trombo es muy grande y obstruye la arteria pulmonar principal puede provocar incluso la muerte.
+https://fundaciondelcorazon.com/informacion-para-pacientes/enfermedades-cardiovasculares/tromboembolismo-pulmonar.html
+
+Pulmonary Embolism - PMC - NIH
+El aumento abrupto de la poscarga producido en la TEP puede producir efectos deletéreos sobre el miocardio del ventrículo derecho (VD), incluyendo daño miocárdico y disfunción del VD. Los principales marcadores de daño miocárdico son las troponinas cardiacas (troponinas I o T) y la proteína ligadora de ácidos grasos cardiacos (H-FABP), muy sensibles al daño celular del miocardio7. El aumento de tensión del miocardio produce la liberación del péptido natriurético tipo B (BNP) y su fragmento amino-terminal (NT)-proBNP, que expresan el grado de compromiso hemodinámico en la TEP aguda8. En pacientes con TEP aguda normotensos, valores elevados tanto de los marcadores de daño miocárdico como de BNP o NT-proBNP se asocian a una mayor mortalidad por la TEP, siendo particularmente útiles por su [...] AP: arteria pulmonar; BNP: péptido natriurético tipo B; H-FABP: proteína ligadora de ácidos grasos cardiacos; GDF-15: factor de diferenciación de crecimiento 15; HPTEC: hipertensión pulmonar tromboembólica crónica; LMR: relación linfocito-monocito; MR-proADM: región media de la proadrenomedulina; NGAL: lipocalina asociada con la gelatinasa de neutrófilos; NLR: relación neutrófilo-linfocito; NT-proBNP: fragmento amino-terminal del proBNP; O2: oxígeno; PLR: relación plaqueta-linfocito; pO2: presión arterial de oxígeno; TEP: tromboembolia pulmonar; TVP: trombosis venosa profunda; VD: ventrículo derecho; VI: ventrículo izquierdo. [...] Angio-TC: angiotomografía computarizada; ETT: ecografía transtorácica; TC: tomografía computarizada; TDCc: terapia dirigida por catéter convencional; USAT: trombólisis asistida por ultrasonidos; VD: ventrículo derecho; VI: ventrículo izquierdo.
+
+## ¿Cuáles son las principales limitaciones de las escalas pronósticas en la TEP aguda?
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11259928
+
+Abordaje del tromboembolismo pulmonar en la sala de autopsias
+4. Tras abrir el tórax e inspeccionar la cavidad, abrir el pericardio e introducir dos dedos ligeramente separados en el seno transverso, con la otra mano se secciona con una tijera la arteria pulmonar unos 3 cm por encima del origen de la arteria en el corazón (Figura 1). Ampliar la incisión del tronco de la arteria pulmonar hacia sus dos ramas. En los casos de muerte súbita por embolia pulmonar se podrá encontrar el típico trombo en "silla de montar" en la bifurcación o grandes trombos en las ramas principales (Figuras 2 y 3). Posteriormente se secciona la aorta en el mismo nivel que se hizo con la pulmonar. Esta maniobra no se hará si se observa una disección aórtica (hemopericardio o hemotórax masivo), en cuyo caso se extraerá el corazón unido a la aorta. [...] 6. En la autopsia del corazón comprobar la persistencia del agujero de Botal por posibilidad de embolismo sistémico en trombosis venosa.
+
+Cuando el fallecido haya sido sometido a intensas maniobras de reanimación no pueden descartarse desplazamientos del émbolo. En consecuencia, como existe la posibilidad de que un émbolo retroceda hacia el ventrículo o aurícula derechos, algunos patólogos recomiendan ligar las cavas antes de proceder a la extracción del corazón1,7.
+
+Diferenciación entre émbolo vital y coágulo postmortem [...] El origen del trombo puede estar en cualquier punto del sistema venoso, incluidos los senos venosos de la duramadre o en el corazón derecho. En venas iliacas, renales, ováricas, periprostáticas, etc. Incluso en venas subsidiarias de la cava superior (yugulares, subclavias o axilares) en caso de catéteres centrales. En su conjunto los casos de tromboembolismo pulmonar no originados en las extremidades inferiores no sobrepasan el 10% de los casos.
+
+Aun en los casos en los que el trombo se hubiese desprendido completamente, habría signos de trombosis venosa residual. En algunas series no se encontró el origen del trombo en el 27% de los casos de embolismo pulmonar9, pero para asegurarlo ha de hacerse un examen exhaustivo
+http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1135-76062013000100006
+
+INSTRUCCIONES:
+- Prioriza evidencia científica.
+- Diferencia evidencia fuerte, débil y especulativa.
+- Evita blogs si no aportan valor.
+- Señala limitaciones.
+- No inventes bibliografía.
+- Incluye URLs cuando estén disponibles.
+
+Genera un informe en español con:
+
+1. Resumen ejecutivo
+2. Novedades recientes
+3. Nivel de evidencia
+4. Implicaciones clínicas
+5. Qué cambia en urgencias
+6. Qué NO sabemos
+7. Bibliografía / fuentes
