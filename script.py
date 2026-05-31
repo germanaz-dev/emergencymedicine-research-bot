@@ -76,3 +76,39 @@ with open(filename, "w") as f:
     f.write(output)
 
 print(f"Generado {filename}")
+
+# generar imagen bonita con modelo g para portada
+from google import genai
+from google.genai import types
+from PIL import Image
+from io import BytesIO
+import os
+
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+
+cover_prompt = f"""
+Beautiful editorial hero image for a medical web article about:
+{tema}
+
+Style:
+elegant, cinematic, realistic, warm clinical atmosphere,
+professional medical magazine cover,
+horizontal wide banner,
+soft light, high quality,
+no text, no letters, no logos, no gore.
+"""
+
+response = client.models.generate_images(
+    model="imagen-4.0-fast-generate-001",
+    prompt=cover_prompt,
+    config=types.GenerateImagesConfig(
+        number_of_images=1,
+        aspect_ratio="16:9",
+    )
+)
+
+image = Image.open(BytesIO(response.generated_images[0].image.image_bytes))
+
+today = datetime.now().strftime("%Y-%m-%d")
+image_filename = f"cover-{today}.png"
+image.save(image_filename)
