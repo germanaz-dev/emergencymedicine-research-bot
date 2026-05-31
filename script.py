@@ -74,6 +74,7 @@ with open(filename, "w") as f:
     f.write(f"# Informe diario\n\n")
     
      # Imagen de portada
+    if image_filename:
     f.write(f"![Imagen de portada]({image_filename})\n\n")
     
     f.write(f"**Tema:** {tema}\n\n")
@@ -113,6 +114,7 @@ response = client.models.generate_images(
 )
 
 image = Image.open(BytesIO(response.generated_images[0].image.image_bytes))
+
 
 today = datetime.now().strftime("%Y-%m-%d")
 image_filename = f"cover-{today}.png"
