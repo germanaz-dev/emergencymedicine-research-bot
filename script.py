@@ -1,15 +1,28 @@
 import os
+import time
 import requests
 from datetime import datetime
+from io import BytesIO
+
+from google import genai
+from google.genai import types
+from PIL import Image
+
 
 TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-# Leer tema de la semana
-with open("tema.txt", "r") as f:
+today = datetime.now().strftime("%Y-%m-%d")
+filename = f"report-{today}.md"
+image_filename = None
+
+
+# --- 0. LEER TEMA ---
+with open("tema.txt", "r", encoding="utf-8") as f:
     tema = f.read().strip()
 
-# --- 1. BUSQUEDA CON TAVILY ---
+
+# --- 1. BÚSQUEDA CON TAVILY ---
 tavily_url = "https://api.tavily.com/search"
 
 tavily_payload = {
@@ -22,12 +35,16 @@ tavily_payload = {
 tavily_response = requests.post(tavily_url, json=tavily_payload).json()
 
 results_text = "\n\n".join([
-    f"{r['title']}\n{r['content']}\n{r['url']}"
+    f"{r.get('title', '')}\n{r.get('content', '')}\n{r.get('url', '')}"
     for r in tavily_response.get("results", [])
 ])
 
-# --- 2. ANALISIS CON GEMINI ---
-gemini_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+
+# --- 2. ANÁLISIS CON GEMINI ---
+gemini_url = (
+    "https://generativelanguage.googleapis.com/v1beta/"
+    f"models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+)
 
 prompt = f"""
 Eres un médico de urgencias experto.
@@ -57,8 +74,6 @@ gemini_payload = {
 
 gemini_response = requests.post(gemini_url, json=gemini_payload).json()
 
-gemini_response = requests.post(gemini_url, json=gemini_payload).json()
-
 if "candidates" not in gemini_response:
     print("ERROR DE GEMINI:")
     print(gemini_response)
@@ -66,33 +81,12 @@ if "candidates" not in gemini_response:
 
 output = gemini_response["candidates"][0]["content"]["parts"][0]["text"]
 
-# --- 3. GUARDAR INFORME ---
-today = datetime.now().strftime("%Y-%m-%d")
-filename = f"report-{today}.md"
 
-with open(filename, "w") as f:
-    f.write(f"# Informe diario\n\n")
-    
-     # Imagen de portada
-    if image_filename:
-    f.write(f"![Imagen de portada]({image_filename})\n\n")
-    
-    f.write(f"**Tema:** {tema}\n\n")
-    
-    f.write(output)
+# --- 3. GENERAR IMAGEN CON IMAGEN 4 FAST ---
+def generate_cover_image():
+    client = genai.Client(api_key=GEMINI_API_KEY)
 
-print(f"Generado {filename}")
-
-# generar imagen bonita con modelo g para portada
-from google import genai
-from google.genai import types
-from PIL import Image
-from io import BytesIO
-import os
-
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-
-cover_prompt = f"""
+    cover_prompt = f"""
 Beautiful editorial hero image for a medical web article about:
 {tema}
 
@@ -104,18 +98,61 @@ soft light, high quality,
 no text, no letters, no logos, no gore.
 """
 
-response = client.models.generate_images(
-    model="imagen-4.0-fast-generate-001",
-    prompt=cover_prompt,
-    config=types.GenerateImagesConfig(
-        number_of_images=1,
-        aspect_ratio="16:9",
-    )
-)
+    for attempt in range(3):
+        try:
+            response = client.models.generate_images(
+                model="imagen-4.0-fast-generate-001",
+                prompt=cover_prompt,
+                config=types.GenerateImagesConfig(
+                    number_of_images=1,
+                    aspect_ratio="16:9",
+                )
+            )
 
-image = Image.open(BytesIO(response.generated_images[0].image.image_bytes))
+            image = Image.open(
+                BytesIO(response.generated_images[0].image.image_bytes)
+            )
+
+            cover_file = f"cover-{today}.png"
+            image.save(cover_file)
+
+            with open(f"cover-prompt-{today}.txt", "w", encoding="utf-8") as f:
+                f.write(cover_prompt)
+
+            return cover_file
+
+        except Exception as e:
+            print(f"Error generando imagen, intento {attempt + 1}: {e}")
+            time.sleep(5)
+
+    return None
 
 
-today = datetime.now().strftime("%Y-%m-%d")
-image_filename = f"cover-{today}.png"
-image.save(image_filename)
+image_filename = generate_cover_image()
+
+
+# --- 4. GUARDAR DEBUG OPCIONAL ---
+with open(f"debug-tavily-{today}.json", "w", encoding="utf-8") as f:
+    import json
+    json.dump(tavily_response, f, indent=2, ensure_ascii=False)
+
+with open(f"debug-input-gemini-{today}.txt", "w", encoding="utf-8") as f:
+    f.write(results_text)
+
+with open(f"debug-prompt-{today}.txt", "w", encoding="utf-8") as f:
+    f.write(prompt)
+
+
+# --- 5. GUARDAR INFORME ---
+with open(filename, "w", encoding="utf-8") as f:
+    f.write("# Informe diario\n\n")
+
+    if image_filename:
+        f.write(f"![Imagen de portada]({image_filename})\n\n")
+    else:
+        f.write("_No se pudo generar imagen de portada en este run._\n\n")
+
+    f.write(f"**Tema:** {tema}\n\n")
+    f.write(output)
+
+print(f"Generado {filename}")
