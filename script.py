@@ -1,6 +1,7 @@
 import os
 import json
 import html
+import time
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -21,7 +22,10 @@ with open("tema.txt", "r", encoding="utf-8") as f:
     tema = f.read().strip()
 
 
-# --- 1. PUBMED COMO EJE CIENTÍFICO ---
+# =========================
+# 1. PUBMED COMO EJE
+# =========================
+
 def pubmed_search(query, max_results=8):
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 
@@ -35,12 +39,12 @@ def pubmed_search(query, max_results=8):
 
     response = requests.get(url, params=params, timeout=30)
     response.raise_for_status()
-    data = response.json()
 
+    data = response.json()
     return data.get("esearchresult", {}).get("idlist", [])
 
 
-def pubmed_fetch_details(pmids):
+def pubmed_fetch(pmids):
     if not pmids:
         return []
 
@@ -56,24 +60,26 @@ def pubmed_fetch_details(pmids):
     response.raise_for_status()
 
     root = ET.fromstring(response.content)
-    articles = []
+    results = []
 
     for article in root.findall(".//PubmedArticle"):
         pmid = article.findtext(".//PMID", default="")
 
-        title = article.findtext(".//ArticleTitle", default="")
-        title = "".join(title.itertext()) if hasattr(title, "itertext") else str(title)
-        title = html.unescape(title).strip()
+        title_node = article.find(".//ArticleTitle")
+        title = "".join(title_node.itertext()).strip() if title_node is not None else ""
+        title = html.unescape(title)
 
         journal = article.findtext(".//Journal/Title", default="")
+
         year = article.findtext(".//PubDate/Year", default="")
         medline_date = article.findtext(".//PubDate/MedlineDate", default="")
         pubdate = year or medline_date or "Fecha no disponible"
 
         abstract_parts = []
-        for abstract in article.findall(".//AbstractText"):
-            label = abstract.attrib.get("Label")
-            text = "".join(abstract.itertext()).strip()
+        for abstract_node in article.findall(".//AbstractText"):
+            label = abstract_node.attrib.get("Label")
+            text = "".join(abstract_node.itertext()).strip()
+
             if label:
                 abstract_parts.append(f"{label}: {text}")
             else:
@@ -102,7 +108,7 @@ def pubmed_fetch_details(pmids):
             if aid.attrib.get("IdType") == "doi":
                 doi = aid.text or ""
 
-        articles.append({
+        results.append({
             "pmid": pmid,
             "title": title,
             "journal": journal,
@@ -110,11 +116,11 @@ def pubmed_fetch_details(pmids):
             "authors": authors[:6],
             "publication_types": publication_types,
             "doi": doi,
-            "abstract": abstract_text,
+            "abstract": abstract_text[:5000],
             "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
         })
 
-    return articles
+    return results
 
 
 pubmed_query = f"""
@@ -133,7 +139,7 @@ AND ("{from_year}/01/01"[Date - Publication] : "3000"[Date - Publication])
 
 try:
     pubmed_ids = pubmed_search(pubmed_query, max_results=8)
-    pubmed_results = pubmed_fetch_details(pubmed_ids)
+    pubmed_results = pubmed_fetch(pubmed_ids)
 except Exception as e:
     print("ERROR PUBMED:")
     print(e)
@@ -161,7 +167,7 @@ DOI: {r['doi']}
 URL: {r['url']}
 
 Abstract:
-{abstract[:5000]}
+{abstract}
 """
 
     return text
@@ -170,13 +176,13 @@ Abstract:
 pubmed_text = format_pubmed(pubmed_results)
 
 
-# --- 2. TAVILY COMO CONTEXTO WEB ---
+# =========================
+# 2. TAVILY COMO CONTEXTO
+# =========================
+
 tavily_payload = {
     "api_key": TAVILY_API_KEY,
-    "query": (
-        tema
-        + " recent evidence emergency medicine clinical update review trial guideline"
-    ),
+    "query": tema + " recent evidence clinical update emergency medicine review trial guideline",
     "search_depth": "advanced",
     "max_results": 8,
     "include_raw_content": True,
@@ -210,8 +216,9 @@ def source_text(r, max_chars=6000):
     return text[:max_chars]
 
 
-tavily_text = "\n\n--- FUENTE WEB ---\n\n".join([
+tavily_text = "\n\n".join([
     f"""
+--- FUENTE WEB ---
 Título: {r.get('title', '')}
 URL: {r.get('url', '')}
 Score: {r.get('score', '')}
@@ -223,11 +230,15 @@ Texto:
 ])
 
 
-# --- 3. GEMINI: INFORME LARGO ---
-gemini_url = (
-    "https://generativelanguage.googleapis.com/v1beta/"
-    f"models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
-)
+# =========================
+# 3. GEMINI CON FALLBACK
+# =========================
+
+gemini_models = [
+    "gemini-3.1-flash-lite",
+    "gemini-2.5-flash-lite",
+    "gemini-3.5-flash",
+]
 
 prompt = f"""
 Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
@@ -269,47 +280,62 @@ ESTRUCTURA DEL INFORME:
    - Separar otras fuentes web
 """
 
-gemini_payload = {
-    "contents": [{"parts": [{"text": prompt}]}],
-    "generationConfig": {
-        "temperature": 0.25,
-        "maxOutputTokens": 8192
+
+def gemini_call():
+    last_error = None
+
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "temperature": 0.25,
+            "maxOutputTokens": 8192
+        }
     }
-}
 
-gemini_response = requests.post(gemini_url, json=gemini_payload, timeout=120).json()
+    for model in gemini_models:
+        for attempt in range(3):
+            print(f"Intentando modelo: {model} | intento {attempt + 1}/3")
 
-if "candidates" not in gemini_response:
-    print("ERROR GEMINI:")
-    print(gemini_response)
-    raise SystemExit(1)
+            url = (
+                "https://generativelanguage.googleapis.com/v1beta/"
+                f"models/{model}:generateContent?key={GEMINI_API_KEY}"
+            )
 
-output = gemini_response["candidates"][0]["content"]["parts"][0]["text"]
+            try:
+                response = requests.post(url, json=payload, timeout=120)
+                res = response.json()
 
+                if "candidates" in res:
+                    print(f"Modelo usado: {model}")
+                    return res["candidates"][0]["content"]["parts"][0]["text"], model
 
-# --- 4. DEBUG ---
-with open(f"debug-pubmed-{today}.json", "w", encoding="utf-8") as f:
-    json.dump(pubmed_results, f, indent=2, ensure_ascii=False)
+                print(f"Error con {model}:")
+                print(res)
+                last_error = res
 
-with open(f"debug-tavily-{today}.json", "w", encoding="utf-8") as f:
-    json.dump(tavily_response, f, indent=2, ensure_ascii=False)
+                time.sleep(10)
 
-with open(f"debug-input-pubmed-{today}.txt", "w", encoding="utf-8") as f:
-    f.write(pubmed_text)
+            except Exception as e:
+                print(f"Excepción con {model}:")
+                print(e)
+                last_error = str(e)
+                time.sleep(10)
 
-with open(f"debug-input-tavily-{today}.txt", "w", encoding="utf-8") as f:
-    f.write(tavily_text)
+    fallback_text = f"""
+## Informe no generado automáticamente
 
-with open(f"debug-prompt-{today}.txt", "w", encoding="utf-8") as f:
-    f.write(prompt)
+No se pudo generar el informe porque todos los modelos disponibles devolvieron error o estaban saturados.
 
+### Tema
 
-# --- 5. GUARDAR INFORME ---
-with open(filename, "w", encoding="utf-8") as f:
-    f.write("# Informe diario v0.2\n\n")
-    f.write(f"**Fecha:** {today}\n\n")
-    f.write(f"**Tema:** {tema}\n\n")
-    f.write("---\n\n")
-    f.write(output)
+{tema}
 
-print(f"Generado {filename}")
+### Datos sí recuperados
+
+- PubMed: {len(pubmed_results)} resultados recuperados.
+- Tavily: {len(tavily_response.get("results", []))} resultados recuperados.
+
+### Último error registrado
+
+```text
+{last_error}
