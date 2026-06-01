@@ -1,6 +1,7 @@
 name: Daily Research
 
 on:
+  push:
   schedule:
     - cron: '*/10 * * * *'
     # - cron: '0 6 * * *'   # cada día a las 6 UTC
