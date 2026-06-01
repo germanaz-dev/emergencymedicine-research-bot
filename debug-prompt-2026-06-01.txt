@@ -1,221 +1,109 @@
 Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
 
-Tema de actualización: el ventriculo derecho en el tromboembolismo pulmonar. espiral de la muerte.
+Tema de actualización: right ventricular dysfunction in pulmonary embolism
 
 PAPERS RECUPERADOS DE PUBMED:
-No se recuperaron resultados relevantes de PubMed.
+--- PAPER PUBMED ---
+Título: The Role of Mechanical Circulatory Support Devices in Pulmonary Embolism: A Comprehensive Review.
+Revista: Interventional cardiology clinics
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42209070
+DOI: 10.1016/j.iccl.2026.03.006
+URL: https://pubmed.ncbi.nlm.nih.gov/42209070/
+
+Abstract:
+Pulmonary embolism (PE) remains a leading cause of cardiovascular mortality, particularly in its high-risk and intermediate-high risk presentations where acute right ventricular (RV) failure is the primary driver of hemodynamic collapse. This review comprehensively examines the pathophysiology of RV failure in PE, their indications based on current evidence and guidelines, practical considerations for implementation, management strategies, complications, and integration with other therapeutic modalities. We also highlight the crucial role of a multidisciplinary team and discuss future directions in this rapidly evolving field. Emphasis is placed on practical application for the interventional cardiologist.
+
+--- PAPER PUBMED ---
+Título: Point-of-care ultrasound in hemodynamically unstable pulmonary embolism.
+Revista: Critical care (London, England)
+Fecha: 2026
+Tipo: Journal Article, Review, Letter
+PMID: 42169048
+DOI: 10.1007/s11239-025-03236-6
+URL: https://pubmed.ncbi.nlm.nih.gov/42169048/
+
+Abstract:
+The recent guideline from the American Heart Association on acute pulmonary embolism provides an updated framework for diagnosis, risk stratification, and management. Computed tomography pulmonary angiography remains the reference standard for confirming pulmonary embolism. However, in critically ill patients with hemodynamic or respiratory instability, transport for definitive imaging may be unsafe or impractical. In this context, bedside evaluation becomes central to early decision-making. Point-of-care ultrasound (POCUS), particularly when performed as a multi-organ assessment integrating cardiac, pulmonary, and venous ultrasound, can rapidly identify signs of right ventricular dysfunction, detect thrombus in transit, and exclude alternative life-threatening causes of shock. Emerging evidence suggests that multi-organ POCUS has high diagnostic performance in critically ill patients with suspected pulmonary embolism. In unstable patients, bedside ultrasound may therefore provide clinically actionable information to support timely therapeutic decisions when definitive imaging is not immediately feasible.
+
+--- PAPER PUBMED ---
+Título: Imaging-Driven Risk Stratification and Endovascular Decision Pathways in Acute Pulmonary Embolism.
+Revista: Diagnostics (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42072825
+DOI: 10.1002/ccd.31386
+URL: https://pubmed.ncbi.nlm.nih.gov/42072825/
+
+Abstract:
+Acute pulmonary embolism (PE) is increasingly managed as a dynamic risk continuum in which imaging findings guide therapeutic escalation rather than merely confirm diagnosis. The principal challenge still remains normotensive patients with intermediate-high-risk features, where early right ventricular (RV) dysfunction may precede overt hemodynamic collapse. New trends focus on a trajectory-based model by integrating clinical, laboratory, and standardized imaging parameters into severity categorization. This review critically examines how imaging-derived markers influence risk stratification, escalation timing, and endovascular decision pathways in contemporary PE management. A structured narrative review was conducted focusing on the literature published between January 2020 and January 2026. PubMed/MEDLINE, Scopus, and Web of Science were searched for studies addressing imaging-based risk assessment, catheter-based reperfusion strategies, randomized trials, prospective registries, and guideline documents. Contemporary data consistently demonstrate that catheter directed therapies (CDTs) lead to rapid improvement in RV imaging surrogates and hemodynamic parameters. However, short-term mortality differences are uncommon in predominantly normotensive cohorts. Clinically meaningful signals instead emerge in the reduction in early clinical deterioration, the need for rescue escalation, bleeding optimization, and healthcare resource utilization. Imaging, as standardized reporting of RV strain on computed tomography pulmonary angiography and echocardiography, should be further embedded into escalation algorithms. In modern PE care, imaging functions as a trigger for escalation within multidisciplinary pathways rather than as a passive prognostic marker. CDTs should be interpreted as tools for trajectory modulation in selected intermediate-risk patients rather than mortality-reduction strategies. Future research should integrate imaging phenotyping, dynamic reassessment models, and organizational variables to refine patient selection and optimize outcome-relevant endpoints.
+
+--- PAPER PUBMED ---
+Título: Recognition and Management of Pregnancy-Associated Venous Thromboembolism.
+Revista: Journal of emergency nursing
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42067375
+DOI: 10.1016/j.jen.2025.10.022
+URL: https://pubmed.ncbi.nlm.nih.gov/42067375/
+
+Abstract:
+Pregnancy-associated venous thromboembolism is a leading cause of maternal mortality, particularly in the postpartum period. Thrombotic risk is heightened by physiological adaptations of pregnancy, including hypercoagulability, venous stasis, and vascular compression. Clinical signs and symptoms of pregnancy-associated venous thromboembolism such as edema and shortness of breath are frequently normal findings in pregnancy. Given the overlap of pathology and physiology, there is a low threshold for evaluation in the emergency department. Computed tomography is the gold standard for diagnosing pulmonary embolism. Noninvasive testing strategies use ultrasound and D-dimer testing to avoid chest imaging in patients with a low pretest probability for pregnancy-associated pulmonary embolism. Advanced emergency clinicians can influence maternal and fetal outcomes through evidence-based test selection and treatment. Management of pregnancy-associated pulmonary embolism is guided by hemodynamic status. Patients with a low risk of short-term mortality are typically managed with anticoagulation for a minimum of 3 months and through 6 weeks postpartum. Hemorrhagic complications occur in less than one-third of patients treated with anticoagulation. The presence of hypotension, hypoxemia, and/or right ventricular dysfunction may necessitate urgent reperfusion. Reperfusion strategies include catheter-directed thrombolysis, mechanical or surgical thrombectomy, or, less frequently, systemic thrombolysis or extracorporeal membrane oxygenation. Early nonpharmacologic reperfusion should be considered for those who are at a higher risk of hemorrhagic complications.
+
+--- PAPER PUBMED ---
+Título: A Narrative Review of Right Heart Dysfunction in Pulmonary Embolism: Current Insights and Clinical Perspectives.
+Revista: Cureus
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 41994789
+DOI: 10.7759/cureus.105115
+URL: https://pubmed.ncbi.nlm.nih.gov/41994789/
+
+Abstract:
+Pulmonary embolism (PE) often presents with non-specific symptoms that make the diagnosis challenging, but the identification of right heart strain (RHS) can help determine the disease severity. Therefore, timely identification and diagnosis of RHS in patients with pulmonary embolisms is critical for accurate risk categorization and appropriate management. The review mainly concentrates on acute pulmonary embolism and right‑heart strain assessment, risk stratification, and management using European Society of Cardiology (ESC) 2019 guidelines developed in collaboration with the European Respiratory Society (ERS). Right‑heart strain is diagnosed by imaging signs such as right‑ventricular dilation, interventricular septal flattening, McConnell's sign, TAPSE < 16 mm, or an RV/LV ratio > 1 on CTPA, together with elevated biomarkers (NT‑proBNP, troponin I, and MPV). These biochemical markers are chosen because they rise with right‑ventricular overload or injury. The aim of this study is to identify a literature gap in the diagnosis of RHS in the context of PE. Various biochemical markers and imaging modalities to diagnose RHS with PE are assessed. Despite the available tools, the current diagnostic approaches remain limited due to the absence of standardized measurement techniques and guidelines for right heart strain assessment on CTPA and echocardiography. Standardization of the assessment of right heart structure and function should be established, as this significantly impacts patient management. This study invites the researchers and international collaboration to set guidelines for the diagnosis of right heart strain in the context of pulmonary embolism to improve patient management and outcomes. This will also help to reduce mortality worldwide. A narrative review of existing studies, imaging techniques, and blood test markers was conducted to highlight existing gaps and call for future guidelines. A literature search was conducted using the Google Scholar database for articles published from 2000 to the most recent ones. Keywords included 'pulmonary embolism,' 'right ventricular dysfunction,' 'right heart strain,' 'thromboembolism,' 'deep venous thrombosis,' 'CT pulmonary angiogram,' 'echocardiography,' and 'anticoagulation.' No limitations were placed on the search to maximize inclusion of relevant literature. Duplicates and non-English articles were excluded.
+
+--- PAPER PUBMED ---
+Título: Management of pulmonary arterial hypertension with intermediate-high-risk pulmonary embolism during pregnancy: Diagnostic challenges, catheter-directed thrombolysis, and intravenous treprostinil - A narrative review with an institutional case snapshot.
+Revista: Current problems in cardiology
+Fecha: 2026
+Tipo: Journal Article, Case Reports, Review
+PMID: 41937007
+DOI: 10.1016/j.cpcardiol.2026.103337
+URL: https://pubmed.ncbi.nlm.nih.gov/41937007/
+
+Abstract:
+Maternal mortality from pregnancy-related pulmonary arterial hypertension (PAH) is estimated at 7-12%. The superimposition of pulmonary embolism (PE) and COVID-19 further compromises right-ventricular (RV) function. Pregnancy-compatible PAH pharmacotherapy and catheter-directed techniques show promise; however, their intersection remains undocumented. We performed a narrative review of imaging diagnosis, risk stratification, catheter-directed reperfusion, PAH-targeted pharmacotherapy, and multidisciplinary peripartum management of PAH complicated by acute PE during pregnancy. MEDLINE/PubMed, Embase, Scopus, and the Cochrane Library were searched up to March 2026. We also describe an institutional case from the Hospital General de México Dr. Eduardo Liceaga (Mexico City, Mexico). Evidence supports echocardiography for initial assessment, CT pulmonary angiography for embolic/vascular evaluation, right-heart catheterization for hemodynamic determination, and catheter-directed thrombolysis for intermediate-high-risk PE when systemic thrombolysis is contraindicated. The institutional case describes a 17-year-old primigravida (24.6 weeks' gestation) with undiagnosed idiopathic PAH (mean pulmonary artery pressure 64 mmHg; pulmonary vascular resistance (PVR) 13.8 Wood units), intermediate-high-risk PE (thrombotic burden 37.5%), and COVID-19 pneumonia. Catheter-directed thrombolysis combined with sildenafil and intravenous treprostinil achieved substantial hemodynamic improvement (cardiac index 2.8 to 4.2 L/min/m²; PVR 13.8 to 6.7 Wood units). Elective cesarean at 37 weeks resulted in satisfactory maternal and neonatal outcomes. Early, multidisciplinary approaches integrating invasive hemodynamics, catheter-directed thrombolysis, and pregnancy-compatible PAH therapy can decompress RV function and allow safe pregnancy continuation. Prospective international registries and pregnancy-specific PERT pathways are urgently needed.
+
+--- PAPER PUBMED ---
+Título: Right Ventricular Assist Devices: Radiographic and CT Findings with Illustrations.
+Revista: Radiology. Cardiothoracic imaging
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 41784491
+DOI: 10.1148/ryct.250113
+URL: https://pubmed.ncbi.nlm.nih.gov/41784491/
+
+Abstract:
+Right ventricular dysfunction is a critical predictor of mortality, often progressing to right heart failure, contributing to 3%-9% of heart failure admissions. Acute right heart failure is the primary cause of death in conditions such as right ventricular myocardial infarction and massive pulmonary embolism. Mechanical circulatory support with right ventricular assist devices (RVADs) has become essential in managing both acute and chronic right heart failure. Such devices provide hemodynamic support by assisting the failing right ventricle. This review outlines the mechanisms, clinical indications, and complications of these RVADs. Chest radiography and echocardiography are the primary modalities used for confirming the correct positioning of these devices, and CT is useful for evaluating intra- and extracardiac complications. These imaging modalities are vital for identifying complications and ensuring optimal device performance. As the use of RVADs grows, radiology's role in optimizing outcomes will continue to expand. Keywords: Right Ventricle, Cardiac Assist Devices, Conventional Radiography, CT, Echocardiography Supplemental material is available for this article. © RSNA, 2026.
+
+--- PAPER PUBMED ---
+Título: Post-pulmonary embolism syndrome: a practical narrative review.
+Revista: Revista clinica espanola
+Fecha: 2026
+Tipo: Journal Article, Review, Research Support, Non-U.S. Gov't
+PMID: 41765088
+DOI: 10.1016/j.rceng.2026.502497
+URL: https://pubmed.ncbi.nlm.nih.gov/41765088/
+
+Abstract:
+Post-pulmonary embolism syndrome (PPES) describes the spectrum of long-term sequelae following acute pulmonary embolism (PE), including persistent dyspnea, exercise intolerance, and psychological impairment, often in the absence of pulmonary hypertension (PH) or right ventricular (RV) abnormalities. Persistent RV dysfunction occurs in up to 18% of patients beyond three months and is associated with recurrent venous thromboembolism (VTE) and PE-related mortality. The FOCUS study introduced the concept of post-PE impairment (PPI), defined by a combination of echocardiographic RV dysfunction and clinical or functional deterioration, which predicted higher mortality, rehospitalization rates, and impaired quality of life. Chronic thromboembolic pulmonary disease (CTEPD) refers to symptomatic patients with residual perfusion defects but without PH. In contrast, chronic thromboembolic pulmonary hypertension (CTEPH) is defined by pre-capillary PH in the presence of residual obstruction, with a cumulative incidence of 0.5-4% within two years. Prognosis in CTEPH is driven primarily by RV dysfunction, but advances in multimodal therapies-surgical, interventional, and pharmacological-have improved survival, underscoring the importance of early recognition and systematic follow-up.
 
 CONTEXTO WEB COMPLEMENTARIO:
 --- FUENTE WEB ---
-Título: Managing right ventricular failure in the setting of pulmonary embolism
-URL: https://www.ccjm.org/content/92/5/301
-Score: 0.9997868
-
-Texto:
-# Managing right ventricular failure in the setting of pulmonary embolism | Cleveland Clinic Journal of Medicine
-
-[Skip to main content](https://www.ccjm.org/content/92/5/301#main-content)
-
-*   Main menu
-*   User menu
-*   Search
-
-## Main menu
-
-*   [Home](https://www.ccjm.org/)
-*   [Content](https://www.ccjm.org/content/current)
-    *   [Current Issue](https://www.ccjm.org/content/current "Most recent issue")
-    *   [Ahead of Print](https://www.ccjm.org/content/early/recent)
-    *   [Past Issues](https://www.ccjm.org/content/by/year "View past issues")
-    *   [Supplements](https://www.ccjm.org/content/supplemental "Current and past supplements")
-    *   [Article Type](https://www.ccjm.org/content/article-type "Content by article type")
-
-*   [Specialty](https://www.ccjm.org/collection)
-    *   [Articles by Specialty](https://www.ccjm.org/collection)
-
-*   [CME/MOC](https://www.ccjm.org/content/latest-articles-cmemoc)
-    *   [Articles](https://www.ccjm.org/content/latest-articles-cmemoc "Articles for CME/MOC credit")
-    *   [Calendar](https://www.ccjm.org/content/cmemoc-calendar "Upcoming CME/MOC events")
-
-*   [Info For](https://www.ccjm.org/page/info)
-    *   [Manuscript Submission](https://www.ccjm.org/content/manuscript-submission "Manuscript submission details")
-    *   [Authors & Reviewers](https://www.ccjm.org/content/authors-reviewers "Author and reviewer resources")
-    *   [Subscriptions](https://www.ccjm.org/content/subscriptions "How to subscribe and change an address")
-    *   [About CCJM](https://www.ccjm.org/content/about-ccjm "Our mission, editors, and editorial staff")
-    *   [Contact Us](https://www.ccjm.org/content/contact-us "Mailing and email addresses, key contacts")
-    *   [Media Kit](https://www.ccjm.org/content/media-kit "View the Media Kit")
-
-*   [Conversations with Leaders](https://www.ccjm.org/page/conversations)
-*   [Conference Coverage](https://www.ccjm.org/content/acc-2020)
-    *   [ASCO 2026](https://www.ccjm.org/page/asco-2026)
-    *   [AACE 2026](https://www.ccjm.org/page/aace-2026)
-    *   [Kidney Week 2025](https://www.ccjm.org/page/asn-2025)
-    *   [ACR Convergence 2025](https://www.ccjm.org/page/acr-2025)
-    *   [Kidney Week 2024](https://www.ccjm.org/page/asn-2024)
-    *   [CHEST 2024](https://www.ccjm.org/page/chest-2024)
-    *   [ACR Convergence 2023](https://www.ccjm.org/page/acr-2023)
-    *   [Kidney Week 2023](https://www.ccjm.org/page/asn-2023)
-    *   [ObesityWeek 2023](https://www.ccjm.org/page/obweek-2023)
-    *   [IDWeek 2023](https://www.ccjm.org/page/idweek-2023)
-    *   [CHEST 2023](https://www.ccjm.org/page/chest-2023)
-    *   [MDS 2023](https://www.ccjm.org/page/mds-2023)
-    *   [IAS 2023](https://www.ccjm.org/page/ias-2023)
-    *   [ACP 2023](https://www.ccjm.org/page/acp-2023)
-    *   [AAN 2023](https://www.ccjm.org/page/aan-2023)
-    *   [ACC / WCC 2023](https://www.ccjm.org/page/acc-2023)
-    *   [AAAAI Meeting 2023](https://www.ccjm.org/page/aaaai-2023)
-
-*   [Other Publications](https://www.ccjm.org/)
-    *   [www.clevelandclinic.org](http://www.clevelandclinic.org/)
-
-## User menu
-
-*   [Register](https://www.ccjm.org/user/register)
-*   [Log in](https://www.ccjm.org/user/login?destination=/content/92/5/301)
-
-## Search
-
-Search for this keyword  
-
-*   [Advanced search](https://www.ccjm.org/search "Advanced search")
-
-[![Image 1: Cleveland Clinic Journal of Medicine](https://www.ccjm.org/sites/default/files/main.png)](https://www.ccjm.org/)
-
-*   [Other Publications](https://www.ccjm.org/)
-    *   [www.clevelandclinic.org](http://www.clevelandclinic.org/)
-
-*   [Register](https://www.ccjm.org/user/register)
-*   [Log in](https://www.ccjm.org/user/login?destination=/content/92/5/301)
-
-[![Image 3: Cleveland Clinic Journal of Medicine](https://www.ccjm.org/sites/default/files/main_0.png)](https://www.ccjm.org/)
-
-Search for this keyword  
-
-[Advanced Search](https://www.ccjm.org/search)
-
-*   [Home](https://www.ccjm.org/)
-*   [Content](https://www.ccjm.org/content/current)
-    *   [Current Issue](https://www.ccjm.org/content/current "Most recent issue")
-    *   [Ahead of Print](https://www.ccjm.org/content/early/recent)
-    *   [Past Issues](https://www.ccjm.org/content/by/year "View past issues")
-    *   [Supplements](https://www.ccjm.org/content/supplemental "Current and past supplements")
-    *   [Article Type](https://www.ccjm.org/content/article-type "Content by article type")
-
-*   [Specialty](https://www.ccjm.org/collection)
-    *   [Articles by Specialty](https://www.ccjm.org/collection)
-
-*   [CME/MOC](https://www.ccjm.org/content/latest-articles-cmemoc)
-    *   [Articles](https://www.ccjm.org/content/latest-articles-cmemoc "Articles for CME/MOC credit")
-    *   [Calendar](https://www.ccjm.org/content/cmemoc-calendar "Upcoming CME/MOC events")
-
-*   [Info For](https://www.ccjm.org/page/info)
-    *   [Manuscript Submission](https://www.ccjm.org/content/manuscript-submission "Manuscript submission details")
-    *   [Authors & Reviewers](https://www.ccjm.org/content/authors-reviewers "Author and reviewer resources")
-    *   [Subscriptions](https://www.ccjm.org/content/subscriptions "How to subscribe and change an address")
-    *   [About CCJM](https://www.ccjm.org/content/about-ccjm "Our mission, editors, and editorial staff")
-    *   [Contact Us](https://www.ccjm.org/content/contact-us "Mailing and email addresses, key contacts")
-    *   [Media Kit](https://www.ccjm.org/content/media-kit "View the Media Kit")
-
-*   [Conversations with Leaders](https://www.ccjm.org/page/conversations)
-*   [Conference Coverage](https://www.ccjm.org/content/acc-2020)
-    *   [ASCO 2026](https://www.ccjm.org/page/asco-2026)
-    *   [AACE 2026](https://www.ccjm.org/page/aace-2026)
-    *   [Kidney Week 2025](https://www.ccjm.org/page/asn-2025)
-    *   [ACR Convergence 2025](https://www.ccjm.org/page/acr-2025)
-    *   [Kidney Week 2024](https://www.ccjm.org/page/asn-2024)
-    *   [CHEST 2024](https://www.ccjm.org/page/chest-2024)
-    *   [ACR Convergence 2023]
-
---- FUENTE WEB ---
-Título: RV Failure and Acute Pulmonary Embolism
-URL: https://emottawablog.com/2023/03/right-ventricular-failure-and-acute-pulmonary-embolism
-Score: 0.99965405
-
-Texto:
-# RV Failure and Acute Pulmonary Embolism - EMOttawa Blog
-
-[![Image 1: EMOttawa Blog](https://emottawablog.com/wp-content/uploads/2018/09/EMOttawa.png)](https://emottawablog.com/)
-
-*   [Ottawa Handbook of Emergency Medicine](https://emottawablog.com/sdm_downloads/ottawa-handbook-of-emergency-medicine-6th-edition/)
-*   [DEM Tri-Cycle Report](https://emottawablog.com/2025/12/14160/)
-*   [EMOttawa Podcast](http://www.emottawapodcast.com/)
-*   [Point-of-Care Echo](https://emottawablog.com/2020/09/point-of-care-echocardiography/)
-*   [Grand Round Summaries](https://emottawablog.com/category/grand-rounds/)
-*   [Journal Club](https://emottawablog.com/category/journal-club/)
-*   [Commentary](https://emottawablog.com/category/commentary/)
-*   [Ultrasound](https://emottawablog.com/category/ultrasound/)
-*   [Infographics](https://emottawablog.com/category/infographics/)
-*   [EDI](https://emottawablog.com/category/edi/)
-*   [Prehospital and Transport Medicine](https://emottawablog.com/category/prehospital-and-transport-medicine/)
-*   [Ottawa Acute Care Resources](https://emottawablog.com/resources/)
-*   [About Us](https://emottawablog.com/about-us/)
-
-Select Page
-
-# RV Failure and Acute Pulmonary Embolism
-
-by [Alie Wudwud](https://emottawablog.com/author/cap-awudwud/ "Posts by Alie Wudwud") | Mar 30, 2023 | [0 comments](https://emottawablog.com/2023/03/right-ventricular-failure-and-acute-pulmonary-embolism/#respond)
-
-![Image 2](https://emottawablog.com/wp-content/uploads/2023/03/PE-risk-strat.png)
-
-## Right here, Right now!
-
-[![Image 3](https://emottawablog.com/wp-content/uploads/2023/03/Right_Here_Right_Now_Fatboy_Slim_song_front_cover.jpg)](https://emottawablog.com/2023/03/right-ventricular-failure-and-acute-pulmonary-embolism/right_here_right_now_fatboy_slim_song_front_cover/)
-
-### Pumping up our Knowledge on Right Ventricular Failure and Acute Pulmonary Embolism
-
-The treatment of patients with right ventricular failure from pulmonary embolism follows some key principles that differ from our typical resuscitation of hypotension and hypoxemic respiratory failure. This typical management will not only not help these patients, but can actually be fatal.
-
-RV failure and acute PE management matters to us in the emergency department because:
-
-*   The mortality rate for unstable patients with a PE is 50% 1.
-*   For all patients with PE, the in-hospital mortality ~7% 2.
-*   Up to 10% of PE cases are fatal within the first hour of symptoms 3.
-*   Death due to PE is largely from progressive RV failure.
-
-Recognition and the appropriate management of acute RV failure is critical in the emergency department. Routine interventions often performed early in a patient’s ED course and a delay in definitive therapy can lead to deterioration in these patients. It is important for us to be comfortable with the ED management of acute RV failure. There is, truthfully, not a robust body of evidence to guide ED management. Recently, more attention has been placed in understanding RV anatomy, physiology and dysfunction, and most of the recommendations now around managing RV failure come from an understanding of this pathophysiology. Before getting straight to the management of these patients, we first need to briefly review the pathophysiology of acute pulmonary hypertension and RV failure. In this post, we will:
-
-1.   Provide an overview for the pathophysiology of right ventricular (RV) failure in acute pulmonary embolism (PE)
-2.   Outline the principles of managing a patient with RV failure and acute PE
-3.   Provide a brief review of the evidence for thrombolytics and other therapy options in an acute PE
-4.   Discuss the role of Thrombosis and PERT in the management of acute PE
-
-## Pathophysiology of RV Failure in Acute PE
-
-RV failure can produce a set of vicious spirals, or a ‘spiral of death’ as you may have read of before. This tends to cause progressively worse RV failure, and if, left untreated or mistreated, this will spiral out of control. This explains why patients with RV failure can suddenly die despite, or because of, our interventions- and this is what makes an acute PE so dangerous.Let’s break this ‘spiral’ down…
-
-There are 3 main causes or precipitants of RV failure, or essentially 3 ways to enter the spiral:
-
-1.   RV pressure overload
-2.   Reduced RV contractility
-3.   RV volume overload
-
-We’ll focus on RV pressure overload in the context of an acute PE.
-
-[![Image 4](https://emottawablog.com/wp-content/uploads/2023/03/RV-failure-595x350.png)](https://www.tomwademd.net/links-to-emcrit-272-right-heart-failure-with-dr-sara-crager/)
-Adapted from Right Heart Failure with Sara Crager, EMCrit 272 https://www.tomwademd.net/links-to-emcrit-272-right-heart-failure-with-dr-sara-crager/
-
-An acute PE can cause a sudden hike in RV afterload by an acute increase in pulmonary vascular resistance. This leads to a rapid decrease in stroke volume and contractility, leading to RV dilation. This RV volume and pressure overload results in a decrease in RV perfusion, leading to ischemia. RV dilation also leads to interventricular septum deviation toward the left ventricle. This limits LV filling and preload, which is followed by a decrease in cardiac output and systemic hypotension. Ultimately, this results in decreased RV coronary perfusion and ischemia, and worsening RV function.
-
-Any of the boxes highlighted above can act as entry points to the cycle of acute RV failure. Processes that can contribute to this cycle include pathologic processes, such as an acute PE or arrythmias, but also unfortunately our own interventions, such as administration of large volumes of fluid.
-
-It is therefore important that we follow an RV-centric resuscitation.
-
-## Principles of Management of RV Failure in an acute PE
-
-There are 4 main principles that guide management of RV failure in an acute PE:
-
-1.   Appropriate fluid resuscitation
-2.   Supporting the systemic blood pressure
-3.   Decreasing RV afterload
-4.   Avoiding intubation
-
-1. Appropriat
-
---- FUENTE WEB ---
 Título: Pulmonary Embolism and Right Ventricular Dysfunction: Mechanism and Management
 URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11443303
-Score: 0.9993436
+Score: 0.7125728
 
 Texto:
 # Pulmonary Embolism and Right Ventricular Dysfunction: Mechanism and Management
@@ -319,409 +207,423 @@ PMCID: PMC11443303 PMID: [39355468](https://pubmed.ncbi.nlm.nih.gov/39355468/)
 Pulmonary embolism (PE) occurs when thrombi from deep vein thrombosis dislodge and obstruct pulmonary arteries, raising pulmonary artery pressure and straining the right ventricle. This strain can lead to right ventricular dysfunction (RVD), characterized by reduced cardiac output, impaired contractility, and potential development of chronic thromboembolic pulmonary hypertension. Clinically, PE may present with symptoms such as dyspnea, pleuritic chest pain, and tachycardia. Diagnosis is typically confirmed through computed tomography pulmonary angiography, biomarkers like D-dimer and cardiac troponins, and clinical scoring systems. Acute management focuses on hemodynamic support, including intravenous fluids and vasopressors, and may involve anticoagulation with low-molecular-weight heparin or direct oral anticoagulants. Severe cases may require systemic anticoagulation, catheter-directed techniques, and surgeries like pulmonary endarterectomy. Long-term management involves continued anticoagulation tailored to individual risk factors, with ongoing monitoring to prevent recurrence. Effective early diagnosis and management are crucial, as severe PE can 
 
 --- FUENTE WEB ---
-Título: New guidelines for the diagnosis and management of pulmonary embolism: Key changes
-URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7284001
-Score: 0.9975656
+Título: Interventions for Intermediate-Risk Pulmonary Embolism
+URL: https://clinician.nejm.org/interventions-intermediate-risk-pulmonary-embolism-nejm-jw.NA58077
+Score: 0.70531887
 
 Texto:
-# New guidelines for the diagnosis and management of pulmonary embolism: Key changes
-[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC7284001#main-content)
+# Interventions for Intermediate-Risk Pulmonary Embolism | NEJM Clinician
 
-![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+[](https://clinician.nejm.org/)
 
-An official website of the United States government
+[This Week's Edition](https://clinician.nejm.org/)[Browse All](https://clinician.nejm.org/browse)Saved Items
 
-Here's how you know
+Sign In|Create Account
 
-Here's how you know
+SUBSCRIBE
 
-![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+[](https://clinician.nejm.org/)
 
-**Official websites use .gov**
+Clinician User Menu
 
- A **.gov** website belongs to an official government organization in the United States.
+[](https://clinician.nejm.org/)
 
-![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+Sign In|Create Account
 
-**Secure .gov websites use HTTPS**
+SUBSCRIBE
 
- A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+[This Week's Edition](https://clinician.nejm.org/)[Browse All](https://clinician.nejm.org/browse)Saved Items
 
-[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+[Journal Watch](https://clinician.nejm.org/browse/journal-watch "Browse Journal Watch articles")
 
-![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+# Interventions for Intermediate-Risk Pulmonary Embolism
 
-![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
-*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
-*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
-*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
-*    Log out 
+![Image 1: Author Image](https://media-assets.nejm.org/clinician/ds/f005f5ac-0519-4924-aaf2-b31556e14a37.jpg?w=1080&h=auto)
 
- Search…   Search NCBI 
+[Daniel D. Dressler, MD, MSc, MHM, FACP](https://clinician.nejm.org/interventions-intermediate-risk-pulmonary-embolism-nejm-jw.NA58077?show-author=true&author-id=AU1502)
 
-Primary site navigation
+[Daniel D. Dressler, MD, MSc, MHM, FACP](https://clinician.nejm.org/interventions-intermediate-risk-pulmonary-embolism-nejm-jw.NA58077?show-author=true&author-id=AU1502)
 
-![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+Mar 25, 2025
 
-Logged in as:
+![Image 2: Author Image](https://media-assets.nejm.org/clinician/ds/f005f5ac-0519-4924-aaf2-b31556e14a37.jpg?w=1080&h=auto)
 
-*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
-*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
-*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+[Daniel D. Dressler, MD, MSc, MHM, FACP](https://clinician.nejm.org/interventions-intermediate-risk-pulmonary-embolism-nejm-jw.NA58077?show-author=true&author-id=AU1502)
 
- Log in 
+[Daniel D. Dressler, MD, MSc, MHM, FACP](https://clinician.nejm.org/interventions-intermediate-risk-pulmonary-embolism-nejm-jw.NA58077?show-author=true&author-id=AU1502)
 
-[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+March 25, 2025
 
-![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+![Image 3: Author Image](https://media-assets.nejm.org/clinician/ds/f005f5ac-0519-4924-aaf2-b31556e14a37.jpg?w=1080&h=auto)
 
-Search PMC Full-Text Archive 
+[Daniel D. Dressler, MD, MSc, MHM, FACP](https://clinician.nejm.org/interventions-intermediate-risk-pulmonary-embolism-nejm-jw.NA58077?show-author=true&author-id=AU1502)
 
-Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+[Daniel D. Dressler, MD, MSc, MHM, FACP](https://clinician.nejm.org/interventions-intermediate-risk-pulmonary-embolism-nejm-jw.NA58077?show-author=true&author-id=AU1502)
 
-*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
-*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+March 25, 2025
 
- As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+Large-bore mechanical thrombectomy was superior to catheter-directed thrombolysis in a randomized trial.
 
- Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+For patients with intermediate-risk pulmonary embolism (PE) — evidence of right ventricular (RV) dysfunction without overt hypotension — guidelines recommend anticoagulation alone ([Circulation 2019; 140:e774](https://doi.org/10.1161/CIR.0000000000000707)). However, when such patients receive anticoagulation only, they have a small but relevant excess short-term mortality risk (≈3%; [NEJM JW Gen Med Aug 15 2014](https://www.jwatch.org/na34953) and _JAMA_ 2014; 311:2414).
 
-![Image 14: World Journal of Cardiology logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-worldjcardio.png)
+Investigators randomized 550 adults with intermediate-risk proximal acute PE to receive either large-bore mechanical thrombectomy (LBMT) or catheter-directed thrombolysis (CDT) within 72 hours of hospital arrival. Patients who were unable to receive anticoagulation or with suspected chronic PEs were excluded.
 
-World J Cardiol
+Significant results for patients who received LBM…
 
-. 2020 May 26;12(5):161. doi: [10.4330/wjc.v12.i5.161](https://doi.org/10.4330/wjc.v12.i5.161)
+###### Reviewing Author
 
-*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22World%20J%20Cardiol%22[jour])
-*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22World%20J%20Cardiol%22[jour])
-*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22World%20J%20Cardiol%22[Title%20Abbreviation])
-*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC7284001?term=%22World%20J%20Cardiol%22[jour])
+![Image 4: Author Image](https://media-assets.nejm.org/clinician/ds/f005f5ac-0519-4924-aaf2-b31556e14a37.jpg?w=1080&h=auto)
 
-# New guidelines for the diagnosis and management of pulmonary embolism: Key changes
+[Daniel D. Dressler, MD, MSc, MHM, FACP](https://clinician.nejm.org/interventions-intermediate-risk-pulmonary-embolism-nejm-jw.NA58077?show-author=true&author-id=AU1502)
 
-[Anastasia Erythropoulou-Kaltsidou](https://pubmed.ncbi.nlm.nih.gov/?term=%22Erythropoulou-Kaltsidou%20A%22[Author])
+Disclosures
 
-### Anastasia Erythropoulou-Kaltsidou
+Royalties McGraw-Hill; Elsevier
 
- Find articles by [Anastasia Erythropoulou-Kaltsidou](https://pubmed.ncbi.nlm.nih.gov/?term=%22Erythropoulou-Kaltsidou%20A%22[Author])
+Editorial Boards Medical Clinics of North America; Caribbean Medical Journal International Advisory Panel (2021–2026) 
 
-, [Stelina Alkagiet](https://pubmed.ncbi.nlm.nih.gov/?term=%22Alkagiet%20S%22[Author])
+![Image 5: Author Image](https://media-assets.nejm.org/clinician/ds/f005f5ac-0519-4924-aaf2-b31556e14a37.jpg?w=1080&h=auto)
 
-### Stelina Alkagiet
+[Daniel D. Dressler, MD, MSc, MHM, FACP](https://clinician.nejm.org/interventions-intermediate-risk-pulmonary-embolism-nejm-jw.NA58077?show-author=true&author-id=AU1502)
 
- Find articles by [Stelina Alkagiet](https://pubmed.ncbi.nlm.nih.gov/?term=%22Alkagiet%20S%22[Author])
+Disclosures
 
-, [Konstantinos Tziomalos](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tziomalos%20K%22[Author])
+Royalties McGraw-Hill; Elsevier
 
-### Konstantinos Tziomalos
-
- Find articles by [Konstantinos Tziomalos](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tziomalos%20K%22[Author])
-
-*   Author information
-*   Article notes
-*   Copyright and License information
-
-Author contributions: Erythropoulou-Kaltsidou A and Alkagiet S drafted the editorial; Tziomalos K critically revised the draft.
-
-Corresponding author: Konstantinos Tziomalos, MD, MSc, PhD, Associate Professor, First Propedeutic Department of Internal Medicine, Medical School, Aristotle University of Thessaloniki, AHEPA Hospital, 1 Stilponos Kyriakidi Street, Thessaloniki 54636, Greece. ktziomalos@yahoo.com
-
-Received 2020 Feb 29; Revised 2020 Apr 29; Accepted 2020 May 5
-
-©The Author(s) 2020. Published by Baishideng Publishing Group Inc. All rights reserved.
-
-This article is an open-access article which was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial
-
---- FUENTE WEB ---
-Título: untitled
-URL: https://secardiologia.es/images/stories/documentos/guia-tep.pdf
-Score: 0.9961456
-
-Texto:
-Rev Esp Cardiol. 2008;61(12):1330.e1-1330.e52 1e 
-
-Este artículo completo sólo se encuentra disponible en versión electrónica: www.revespcardiol.org Guías de práctica clínica de la Sociedad Europea de Cardiología. Guías de práctica clínica sobre diagnóstico y manejo del tromboembolismo pulmonar agudo Grupo de Trabajo para el Diagnóstico y Manejo del Tromboembolismo Pulmonar Agudo de la Sociedad Europea de Cardiología (ESC) Autores/Miembros del Grupo de Trabajo: Adam Torbicki, Moderador (Polonia)*, Arnaud Perrier (Suiza), Stavros Konstantinides (Alemania), Giancarlo Agnelli (Italia), Nazzareno Galiè (Italia), Piotr Pruszczyk (Polonia), Frank Bengel (Estados Unidos), Adrian J.B. Brady (Reino Unido), Daniel Ferreira (Portugal), Uwe Janssens (Alemania), Walter Klepetko (Austria), Eckhard Mayer (Alemania), Martine Remy-Jardin (Francia) y Jean-Pierre Bassand (Francia) La filiación completa de los autores se puede encontrar en la página web de la ESC dedicada a estas guías (www.escardio.org/guidelines) Comité de la ESC para las Guías de Práctica Clínica: Alec Vahanian, Moderador (Francia), John Camm (Reino Unido), Raffaele De Caterina (Italia), Veronica Dean (Francia), Kenneth Dickstein (Noruega), Gerasimos Filippatos (Grecia), Christian Funck-Brentano (Francia), Irene Hellemans (Países Bajos), Steen Dalby Kristensen (Dinamarca), Keith McGregor (Francia), Udo Sechtem (Alemania), Sigmund Silber (Alemania), Michal Tendera (Polonia), Petr Widimsky (República Checa) y José Luis Zamorano (España) Revisores del documento: José Luis Zamorano (Coordinador de la revisión del Comité para las Guías de Práctica Clínica) (España), Felicita Andreotti (Italia), Michael Ascherman (República Checa), George Athanassopoulos (Grecia), Johan De Sutter (Bélgica), David Fitzmaurice (Reino Unido), Tamas Forster (Hungría), Magda Heras (España), Guillaume Jondeau (Francia), Keld Kjeldsen (Dinamarca), Juhani Knuuti (Finlandia), Irene Lang (Austria), Mattie Lenzen (Países Bajos), José López-Sendon (España), Petros Nihoyannopoulos (Reino Unido), Leopoldo Pérez Isla (España), Udo Schwehr (Alemania), Lucia Torraca (Italia) y Jean-Luc Vachiery (Bélgica) *Correspondencia: Adam Torbicki. Department of Chest Medicine. Institute for Tuberculosis and Lung Diseases. ul. Plocka 26, 01-138 Varsovia. Polonia. Tel: +48 22 431 2114; fax: +48 22 431 2414. Correo electrónico: a.torbicki@igichp.edu.pl El contenido de las Guías de Práctica Clínica de la Sociedad Europea de Cardiología (ESC) ha sido publicado para uso exclusivamente personal y educacional. No está autorizado su uso comercial. No se autoriza la traducción o reproducción en ningún formato de las Guías de la ESC ni de ninguna de sus partes sin un permiso escrito de la ESC. El permiso puede obtenerse enviando una solicitud por escrito a Oxford University Press, la empresa editorial del European Heart Journal y representante autorizada de la ESC para gestionar estos permisos. 
-
-Responsabilidad: Las Guías de Práctica Clínica recogen la opinión de la ESC y se han elaborado tras una consideración minuciosa de las evidencias disponibles en el momento en el que fueron escritas. Se anima a los profesionales de la sanidad a que las tengan en plena consideración cuando ejerzan su juicio clínico. No obstante, las Guías de Práctica Clínica no deben invalidar la responsabilidad individual de los profesionales de la salud a la hora de tomar decisiones adecuadas a las circunstancias individuales de cada paciente, consultando con el propio paciente y, cuando sea necesario y pertinente, con su tutor o representante legal. También es responsabilidad del profesional de la salud verificar las normas y los reglamentos que se aplican a los fármacos o dispositivos en el momento de la prescripción. © The European Society of Cardiology 2008. Reservados todos los derechos. Para la solicitud de permisos, diríjase por correo electrónico a: journals.permissions@oxfordjournals.org Los comentarios-anotaciones ( *) incluidos en esta traducción de las Guías han sido realizadas por la Dra. Pilar Escribano (Madrid, España). Full English text available from: www.revespcardiol.org 
-
-A R T Í C U L O E S P E C I A L 
-
-ÍNDICE DE CONTENIDOS 
-
-Acrónimos y abreviaturas............................................2 Preámbulo....................................................................2 Introducción.................................................................3 Epidemiología ..........................................................4 Factores predisponentes ..........................................5 Historia natural ........................................................5 Fisiopatología ..........................................................6 Gravedad del tromboembolismo pulmonar .............7 Diagnóstico..................................................................8 Presentación clínica .................................................8 Evaluación de la probabilidad clínica .....................9 Dímero-D ..............................................................10 Ultrasonografía de compresión y venografía tomográfica computarizada ....................................11 Escintigrafía de ventilación-perfusión ..................12 Tomografía computarizada ....................................13 Angiografía pulmonar ...........................................14 Ecocardiografía .....................................................15 Estrategias diagnósticas ........................................16 Sospecha de tromboembolismo pulmonar de alto riesgo ......................................................16 Sospecha de tromboembolismo pulmonar de no alto riesgo ..................................................17 Evaluación pronóstica ..............................................20 Evaluación clínica del estado hemodinámico .......20 Marcadores de disfunción ventricular derecha .....21 Marcadores de daño miocárdico ...........................22 Marcadores de riesgo adicionales .........................
-
---- FUENTE WEB ---
-Título: 13129756.pdf
-URL: https://www.revespcardiol.org/es-guias-de-practica-clinica-de-la-sociedad-articulo-13129756-pdf-file
-Score: 0.99486035
-
-Texto:
-Rev Esp Cardiol. 2008;61(12):1330.e1-1330.e52 1e 
-
-Este artículo completo sólo se encuentra disponible en versión electrónica: www.revespcardiol.org 
-
-# Guías de práctica clínica de la Sociedad Europea de Cardiología. Guías de práctica clínica sobre diagnóstico y manejo del tromboembolismo pulmonar agudo 
-
-Grupo de Trabajo para el Diagnóstico y Manejo del Tromboembolismo Pulmonar Agudo de la Sociedad Europea de Cardiología (ESC) 
-
-Autores/Miembros del Grupo de Trabajo: Adam Torbicki, Moderador (Polonia)*, Arnaud Perrier (Suiza), Stavros Konstantinides (Alemania), Giancarlo Agnelli (Italia), Nazzareno Galiè (Italia), Piotr Pruszczyk (Polonia), Frank Bengel (Estados Unidos), Adrian J.B. Brady (Reino Unido), Daniel Ferreira (Portugal), Uwe Janssens (Alemania), Walter Klepetko (Austria), Eckhard Mayer (Alemania), Martine Remy-Jardin (Francia) y Jean-Pierre Bassand (Francia) 
-
-La filiación completa de los autores se puede encontrar en la página web de la ESC dedicada a estas guías (www.escardio.org/guidelines) Comité de la ESC para las Guías de Práctica Clínica: Alec Vahanian, Moderador (Francia), John Camm (Reino Unido), Raffaele De Caterina (Italia), Veronica Dean (Francia), Kenneth Dickstein (Noruega), Gerasimos Filippatos (Grecia), Christian Funck-Brentano (Francia), Irene Hellemans (Países Bajos), Steen Dalby Kristensen (Dinamarca), Keith McGregor (Francia), Udo Sechtem (Alemania), Sigmund Silber (Alemania), Michal Tendera (Polonia), Petr Widimsky (República Checa) y José Luis Zamorano (España) Revisores del documento: José Luis Zamorano (Coordinador de la revisión del Comité para las Guías de Práctica Clínica) (España), Felicita Andreotti (Italia), Michael Ascherman (República Checa), George Athanassopoulos (Grecia), Johan De Sutter (Bélgica), David Fitzmaurice (Reino Unido), Tamas Forster (Hungría), Magda Heras (España), Guillaume Jondeau (Francia), Keld Kjeldsen (Dinamarca), Juhani Knuuti (Finlandia), Irene Lang (Austria), Mattie Lenzen (Países Bajos), José López-Sendon (España), Petros Nihoyannopoulos (Reino Unido), Leopoldo Pérez Isla (España), Udo Schwehr (Alemania), Lucia Torraca (Italia) y Jean-Luc Vachiery (Bélgica) 
-
-*Correspondencia: Adam Torbicki. Department of Chest Medicine. Institute for Tuberculosis and Lung Diseases. ul. Plocka 26, 01-138 Varsovia. Polonia. Tel: +48 22 431 2114; fax: +48 22 431 2414. Correo electrónico: a.torbicki@igichp.edu.pl El contenido de las Guías de Práctica Clínica de la Sociedad Europea de Cardiología (ESC) ha sido publicado para uso exclusivamente personal y educacional. No está autorizado su uso comercial. No se autoriza la traducción o reproducción en ningún formato de las Guías de la ESC ni de ninguna de sus partes sin un permiso escrito de la ESC. El permiso puede obtenerse enviando una solicitud por escrito a Oxford University Press, la empresa editorial del 
-
-European Heart Journal y representante autorizada de la ESC para gestionar estos permisos. 
-
-Responsabilidad: Las Guías de Práctica Clínica recogen la opinión de la ESC y se han elaborado tras una consideración minuciosa de las evidencias disponibles en el momento en el que fueron escritas. Se anima a los profesionales de la sanidad a que las tengan en plena consideración cuando ejerzan su juicio clínico. No obstante, las Guías de Práctica Clínica no deben invalidar la responsabilidad individual de los profesionales de la salud a la hora de tomar decisiones adecuadas a las circunstancias individuales de cada paciente, consultando con el propio paciente y, cuando sea necesario y pertinente, con su tutor o representante legal. También es responsabilidad del profesional de la salud verificar las normas y los reglamentos que se aplican a los fármacos o dispositivos en el momento de la prescripción. © The European Society of Cardiology 2008. Reservados todos los derechos. Para la solicitud de permisos, diríjase por correo electrónico a: journals.permissions@oxfordjournals.org Los comentarios-anotaciones ( *) incluidos en esta traducción de las Guías han sido realizadas por la Dra. Pilar Escribano (Madrid, España). 
-
-A R T Í C U L O E S P E C I A L 
-
-ÍNDICE DE CONTENIDOS 
-
-Acrónimos y abreviaturas............................................2 Preámbulo....................................................................2 Introducción.................................................................3 Epidemiología ..........................................................4 Factores predisponentes ..........................................5 Historia natural ........................................................5 Fisiopatología ..........................................................6 Gravedad del tromboembolismo pulmonar .............7 Diagnóstico..................................................................8 Presentación clínica .................................................8 Evaluación de la probabilidad clínica .....................9 Dímero-D ..............................................................10 Ultrasonografía de compresión y venografía tomográfica computarizada ....................................11 Escintigrafía de ventilación-perfusión ..................12 Tomografía computarizada ....................................13 Angiografía pulmonar ...........................................14 Ecocardiografía .....................................................15 Estrategias diagnósticas ........................................16 Sospecha de tromboembolismo pulmonar de alto riesgo ......................................................16 Sospecha de tromboembolismo pulmonar de no alto riesgo ..................................................17 Evaluación pronóstica ..............................................20 Evaluación clínica del estado hemodinámico .......20 Marcadores de disfunción ventricular derecha .....21 Marcadores de daño miocárdico ...........................22 Marcadores de riesgo adicionales .........................23 Estrategia de la evaluación pronóstica 
-
---- FUENTE WEB ---
-Título: EMCrit 409 – Pulmonary Embolism (PE) Update 2025 with Jeff Kline
-URL: https://emcrit.org/emcrit/pe-update
-Score: 0.94417685
-
-Texto:
-# EMCrit 409 - Pulmonary Embolism (PE) Update 2025 with Jeff Kline
-
-*   [Home](https://emcrit.org/)
-*   [EMCrit](https://emcrit.org/category/emcrit/)
-*   [PulmCrit](http://pulmcrit.org/)
-*   [IBCC](https://emcrit.org/ibcc/toc/)
-*   [1:1](https://emcrit.org/category/emcrit/1to1/)
-*   [ODR](https://emcrit.org/odr)
-*   [About](https://emcrit.org/about-me)
-    *   [About EMCrit](https://emcrit.org/about/)
-    *   [PulmCrit – The Full Story](https://emcrit.org/about-pulmcrit/)
-    *   [EMCrit FAQ](https://emcrit.org/faq/)
-    *   [Subscribe to the Newsletter](https://emcrit.org/subscribe/)
-
-*   [Contact](https://emcrit.org/contact/)
-*   [Join](https://emcrit.org/join)
-    *   [Why Should I Become a Member?](https://emcrit.org/why-join/)
-    *   [Questions Before Joining (FAQ)](https://emcrit.org/why-join/faq/)
-    *   [Join Now!](https://emcrit.org/join)
-
-# [EMCrit RACC](https://emcrit.org/)
-
-Online Medical Education on Emergency Department (ED) Critical Care, Trauma, and Resuscitation
-
-*   [EMCrit Archives](https://emcrit.org/emcrit-archives/)
-*   [EDICUs](https://emcrit.org/squirt/edicu/)
-*   [Show Types ▿](https://emcrit.org/emcrit/pe-update#)
-    *   [1:1 Nursing Podcast](https://emcrit.org/category/emcrit/1to1/)
-    *   [Foundational Stabilization (FoundStab) Project](https://emcrit.org/foundstab/)
-    *   [RACC-Lit](https://emcrit.org/tag/racc-lit)
-    *   [CV-EMCrit](https://emcrit.org/tag/cv-emcrit/)
-    *   [Mind of the Resuscitationist](https://emcrit.org/subject/mind-of-the-resuscitationist/)
-    *   [Procedures](https://emcrit.org/subject/procedures/)
-
-*   [Outside Shows](https://emcrit.org/outside-shows/)
-
-![Image 1](https://i0.wp.com/emcrit.org/wp-content/uploads/2025/10/20251002_1821_Platinum-Lungs-with-Ruby-Clot_simple_compose_01k6kg6dq8f048ret333say46t.png?fit=1536%2C1024&ssl=1)
-
-You are here: [Home](https://emcrit.org/)/[EMCrit](https://emcrit.org/category/emcrit/)/ EMCrit 409 – Pulmonary Embolism (PE) Update 2025 with Jeff Kline
-
-# EMCrit 409 – Pulmonary Embolism (PE) Update 2025 with Jeff Kline
-
-October 2, 2025 by [Scott Weingart, MD FCCM](https://emcrit.org/author/emcrit-2/)[8 Comments](https://emcrit.org/emcrit/pe-update/#comments)
-
-[![Image 2](https://i0.wp.com/emcrit.org/wp-content/uploads/2025/10/20251002_1821_Platinum-Lungs-with-Ruby-Clot_simple_compose_01k6kg6dq8f048ret333say46t.png?resize=750%2C500&ssl=1)](https://i0.wp.com/emcrit.org/wp-content/uploads/2025/10/20251002_1821_Platinum-Lungs-with-Ruby-Clot_simple_compose_01k6kg6dq8f048ret333say46t.png?ssl=1)
-
-Pulmonary embolism management keeps evolving, and nobody has shaped the conversation more than Jeff Kline, MD. In this episode, I sit down with Jeff to tackle when to use the PERC score and so much more.
-
-## Unexplained Dyspnea is PE unless you can Explain
-
-## Can you PERC?
-
-*   Pleuritic Chest Pain – Yes
-*   Pleuritic Chest Pain where they point to one tiny area on their chest – No
-*   Pregnant – No
-*   Post-Partum after C-Section – Not for 30 days
-*   Post-Partum after Vaginal Delivery – Yes (but Jeff feels much better about 2nd pregnancy and beyond)
-*   COVID – Yes
-*   PEDs – Study coming soon
-
-See also [23260692]
-
-## Age-Adjusted D-dimer
-
-Do it!
-
-## ECG
-
-More to come in a EMCrit Wee
-
-Jeff talks about the Daniel Criteria [doi: [10.1111/acem.12769](https://doi.org/10.1111/acem.12769)]
-
-## Thrombolytics
-
-Jeff is still recommending simultaneous low-molecular-weight heparin
-
-He feels we can use half-dose TNK
-
-## Catheter Directed Therapies
-
-### Catheter Thrombectomy for Sick Sub-Massive PEs
-
-Thrombectomy (Inari flowtriever) looked better than CDLysis in this RCT
-
-*   Jaber, Wissam A., Carin F. Gonsalves, Stefan Stortecky, Samuel Horr, Orestis Pappas, Ripal T. Gandhi, Keith Pereira, et al. “Large-Bore Mechanical Thrombectomy Versus Catheter-Directed Thrombolysis in the Management of Intermediate-Risk Pulmonary Embolism: Primary Results of the PEERLESS Randomized Controlled Trial.”_Circulation_ 151, no. 5 (February 4, 2025): 260–73.[https://doi.org/10.1161/CIRCULATIONAHA.124.072364](https://doi.org/10.1161/CIRCULATIONAHA.124.072364).
-
-Hi PEITHO Trial
-
-*   Hi PEITHO
-
-## Additional Info
-
-Listen Matthias asks:
-
-> Are there any studies that show Covid is no longer a risk factor for PE? I did a search on Open Evidence that says Covid is still a significant risk factor. On what basis is Jeff basing his statement that it isn’t?
-
-Dr. Kline kindly replied with:
-
-It is critical that we pay close attention to the population cited by OE and other resources. My statement was and is restricted to **ambulatory patients only**, and my statements are backed up by the Thoppil paper attached and the manuscript from RESP-LENS, that we are again revising, now with >500K patients with acute respiratory illness from over 90 hospitals across the US who underwent testing for COVID in the ED setting: the figure below summarizes the results: COVID is a viable alternative diagnosis to PE (i.e. LOWERS risk).
-
-Then, look at Figure 2 in the attached SRMA of VTE risk in COVID. Note that the authors did not cite a single paper from the ED or ambulatory setting—all hospitalized. I do not doubt that COVID increases VTE risk in very sick patients, but it does not increase risk in outpatients.
-
-JK
-
-[![Image 3](https://i0.wp.com/emcrit.org/wp-content/uploads/2025/10/kline-data.jpg?resize=533%2C600&ssl=1)](https://i0.wp.com/emcrit.org/wp-content/uploads/2025/10/kline-data.jpg?ssl=1)
-
-*   [9-5-23 figures and SUPPLEMENT MATERIALS](https://emcrit.org/wp-content/uploads/2025/10/9-5-23-figures-and-SUPPLEMENT-MATERIALS.pptx)
-*   [Preprint](https://www.researchgate.net/publication/374423898_Respiratory_viral_infections_do_not_increase_risk_of_venous_thromboembolism)
-*   [Thoppil et al PIIS0736467921010623](https://emcrit.org/wp-content/uploads/2025/10/Thoppil-et-al-PIIS0736467921010623.pdf)
-*   [SRMA PIIS2475037922020970](https://emcrit.org/wp-content/uploads/2025/10/SRMA-PIIS2475037922020970.pdf)
-
-## Additional Resources
-
-[ALIEM When PERC Fails](https://www.a
-
---- FUENTE WEB ---
-Título: Right Ventricular failure - EMCrit Project
-URL: https://emcrit.org/ibcc/rv
-Score: 0.8705973
-
-Texto:
-# Right Ventricular failure - EMCrit Project
-
-*   [Home](https://emcrit.org/)
-*   [EMCrit](https://emcrit.org/category/emcrit/)
-*   [PulmCrit](http://pulmcrit.org/)
-*   [IBCC](https://emcrit.org/ibcc/toc/)
-*   [1:1](https://emcrit.org/category/emcrit/1to1/)
-*   [ODR](https://emcrit.org/odr)
-*   [About](https://emcrit.org/about-me)
-    *   [About EMCrit](https://emcrit.org/about/)
-    *   [PulmCrit – The Full Story](https://emcrit.org/about-pulmcrit/)
-    *   [EMCrit FAQ](https://emcrit.org/faq/)
-    *   [Subscribe to the Newsletter](https://emcrit.org/subscribe/)
-
-*   [Contact](https://emcrit.org/contact/)
-*   [Join](https://emcrit.org/join)
-    *   [Why Should I Become a Member?](https://emcrit.org/why-join/)
-    *   [Questions Before Joining (FAQ)](https://emcrit.org/why-join/faq/)
-    *   [Join Now!](https://emcrit.org/join)
-
-# [Internet Book of Critical Care (IBCC)](https://emcrit.org/)
-
-Online Medical Education on Emergency Department (ED) Critical Care, Trauma, and Resuscitation
-
-*   [ToC](https://emcrit.org/ibcc/toc)
-*   [About the IBCC](https://emcrit.org/ibcc/about-guide/)
-*   [Tweet Us](http://twitter.com/ibookcc)
-*   [RSS](https://feeds.feedburner.com/emcrit/uhOHtT20HXK)
-*   [IBCC Podcast](http://ibccpodcast.libsyn.com/)
-
-You are here: [Home](https://emcrit.org/)/ IBCC / Right Ventricular failure
-
-[![Image 1](https://emcrit.org/wp-content/uploads/2018/07/ibcclogo.jpg)](https://emcrit.org/ibcc/toc/ "ibcclogo")
-
-# Right Ventricular failure
-
-March 21, 2025 by [Josh Farkas](https://emcrit.org/author/pulmcrit/)
-
-### **CONTENTS**
-
-#### **diagnosis of RV failure**
-
-*   [Defining RV failure](https://emcrit.org/ibcc/rv#defining_RV_failure)
-*   [Clinical manifestations of RV failure](https://emcrit.org/ibcc/rv#clinical_manifestations_of_RV_failure)
-    *   [Congestive nephropathy (cardiorenal)](https://emcrit.org/ibcc/rv#congestive_nephropathy)
-    *   [Congestive encephalopathy](https://emcrit.org/ibcc/rv#congestive_encephalopathy)
-    *   [Congestive hepatopathy (cardiohepatic)](https://emcrit.org/ibcc/rv#congestive_hepatopathy)
-
-*   [Laboratory findings](https://emcrit.org/ibcc/rv#laboratory_findings_in_RV_failure_may_include)
-*   Radiological findings 
-    *   [Chest radiograph](https://emcrit.org/ibcc/rv#radiological_findings_in_RV_failure:_chest_radiography)
-    *   [CT scan](https://emcrit.org/ibcc/rv#radiological_findings_in_RV_failure:_CT_scan)
-
-*   [ECG](https://emcrit.org/ibcc/rv#electrocardiographic_findings_in_RV_failure)
-*   [Echocardiography](https://emcrit.org/ibcc/rv#echocardiography_in_RV_failure)
-*   [POCUS evaluation of venous congestion](https://emcrit.org/ibcc/rv#POCUS_evaluation_of_venous_congestion)
-    *   [IVC](https://emcrit.org/ibcc/rv#ivc)
-    *   [Femoral vein doppler](https://emcrit.org/ibcc/rv#fem)
-    *   [Portal vein pulsatility](https://emcrit.org/ibcc/rv#portal)
-
-#### **causes of RV failure**
-
-*   [[1] Elevated afterload (pulmonary hypertension)](https://emcrit.org/ibcc/rv#chronicph)
-*   [[2] Elevated preload (volume overload)](https://emcrit.org/ibcc/rv#excesspreload)
-*   [[3] Impaired contractility (RV myocardial dysfunction)](https://emcrit.org/ibcc/rv#rvmyocardium)
-
-#### **treatment of RV failure**
-
-*   [[1] Correct any precipitating factors](https://emcrit.org/ibcc/rv#rx_#1/6:_correct_any_precipitating_factors)
-*   [[2] Optimize the lungs (oxygenation, ventilation)](https://emcrit.org/ibcc/rv#rx_#2/6:_optimize_the_lungs,_oxygenation,_and_ventilation)
-*   [[3] Establish an adequate MAP](https://emcrit.org/ibcc/rv#tx_#3/6:_establish_an_adequate_MAP)
-*   [[4] Pulmonary vasodilators](https://emcrit.org/ibcc/rv#tx_#4/6:_pulmonary_vasodilators)
-*   [[5] Volume & preload management](https://emcrit.org/ibcc/rv#tx_#5/6:_volume_&_preload_management)
-*   [[6] Inotropes](https://emcrit.org/ibcc/rv#tx_#6/6:_inotropes)
-*   [[7] Mechanical circulatory support](https://emcrit.org/ibcc/rv#tx_#7/6:_mechanical_circulatory_support)
-
-#### **related/background information**
-
-*   [Intubation in RV failure](https://emcrit.org/ibcc/rv#intubation_in_severe_pulmonary_hypertension)
-*   [Preamble: Don't forget the right ventricle!](https://emcrit.org/ibcc/rv#preamble:_don't_forget_the_right_ventricle!)
-*   [Pathophysiology of RV failure](https://emcrit.org/ibcc/rv#pathophysiology_of_RV_failure)
-    *   [RV death spiral](https://emcrit.org/ibcc/rv#rvspiral)
-    *   [RV myocardial perfusion](https://emcrit.org/ibcc/rv#RVmyocardialperf)
-    *   [Falling off the Starling curve](https://emcrit.org/ibcc/rv#RVstarlingcurve)
-    *   [Occult systemic hypoperfusion](https://emcrit.org/ibcc/rv#occultsystemichypoperfusion)
-
-*   [High-output heart failure](https://emcrit.org/ibcc/rv#high-output_heart_failure)
-
-###### * * *
-
-### defining RV failure
-
-[(back to contents)](https://emcrit.org/ibcc/rv#top)
+Editorial Boards Medical Clinics of North America; Caribbean Medical Journal International Advisory Panel (2021–2026) 
 
 * * *
 
-#### **getting started**
+###### Topics
 
-*   There is no universal definition of RV failure. ([29744563](https://pubmed.ncbi.nlm.nih.gov/29744563/))
-*   Technically, the RV could fail in two ways: 
-    *   “Forwards failure” – RV fails to generate an adequate cardiac output, leading to cardiogenic shock.
-    *   “Backwards failure” – RV fails to decongest the systemic venous system, leading to an excessively high central venous pressure with systemic congestion.
+[Emergency Medicine](https://clinician.nejm.org/browse/specialty/emergency-medicine "Browse Emergency Medicine articles")[Geriatrics/Aging](https://clinician.nejm.org/browse/specialty/geriatrics-aging "Browse Geriatrics/Aging articles")[Geriatrics/Aging General](https://clinician.nejm.org/browse/topic/geriatrics-aging-general "Browse Geriatrics/Aging General articles")[Clinical Medicine](https://clinician.nejm.org/browse/specialty/clinical-medicine "Browse Clinical Medicine articles")[Clinical Medicine General](https://clinician.nejm.org/browse/topic/clinical-medicine-general "Browse Clinical Medicine General articles")[Hospital-Based Clinical Medicine](https://clinician.nejm.org/browse/topic/hospital-based-clinical-medicine "Browse Hospital-Based Clinical Medicine articles")
 
-*   Physiologically, RV failure nearly _always_ involves systemic congestion. (Isolated “forward failure” of the RV is extremely rare in the absence of marked hypovolemia.)
+[![Image 6: Advertisement](https://clinician.nejm.org/images/ads/default-ad.png?w=1080)](https://store.nejm.org/signup/clinician/register/thisweeksedition?promo=OCAQTWE3&query=cm-rr&utm_source=clinician&utm_medium=cm&utm_campaign=twe25)
 
-#### **stages of RV failure**
+## This content is available to subscribers.
 
-![Image 2](https://i0.wp.com/emcrit.org/wp-content/uploads/2017/01/rvfdef.jpg?resize=300%2C35&ssl=1)
+[SUBSCRIBE NOW FOR FULL ACCESS](https://store.nejm.org/clinician/subscribe/choice?promo=OCLGCDP1&url=https://clinician.nejm.org/interventions-intermediate-risk-pulmonary-embolism-nejm-jw.NA58077)
 
-*   [1] Systemic congestion (“backward failure” of the RV): 
-    *   Marked elevation of CVP usually indicates RV failure.
-    *   Further discussion of CVP here: [📖](https://emcrit.org/ibcc/rhc/#CVP_(central_venous_pressure))
+Already have an account?
 
-*   [2] Hypoperfusion without frank hypotension (“occult systemic hypoperfusion”) 
-    *   Severe congestion can cause organ hypoperfusion without obvious hypotension.
-    *   The systemic perfusion pressure equals
+SIGN IN
+
+[](https://www.nejmgroup.org/)
+
+Copyright © 2026
+
+[Massachusetts Medical Society](https://www.massmed.org/).
+
+All rights reserved, including those for text and data mining, AI training, and similar technologies.
+
+Electronic ISSN 3067-1876
+
+The content of this site is intended for health care professionals.
+
+Journals
+
+[The New England Journal of Medicine](https://www.nejm.org/ "The New England Journal of Medicine")
+
+[NEJM Evidence](https://evidence.nejm.org/ "NEJM Evidence")
+
+[NEJM AI](https://ai.nejm.org/ "NEJM AI")
+
+[NEJM Catalyst Innovations in Care Delivery](https://catalyst.nejm.org/ "NEJM Catalyst Innovations in Care Delivery")
+
+About
+
+[About NEJM Clinician](https://clinician.
+
+--- FUENTE WEB ---
+Título: RV Failure and Acute Pulmonary Embolism
+URL: https://emottawablog.com/2023/03/right-ventricular-failure-and-acute-pulmonary-embolism
+Score: 0.629889
+
+Texto:
+# RV Failure and Acute Pulmonary Embolism - EMOttawa Blog
+
+[![Image 1: EMOttawa Blog](https://emottawablog.com/wp-content/uploads/2018/09/EMOttawa.png)](https://emottawablog.com/)
+
+*   [Ottawa Handbook of Emergency Medicine](https://emottawablog.com/sdm_downloads/ottawa-handbook-of-emergency-medicine-6th-edition/)
+*   [DEM Tri-Cycle Report](https://emottawablog.com/2025/12/14160/)
+*   [EMOttawa Podcast](http://www.emottawapodcast.com/)
+*   [Point-of-Care Echo](https://emottawablog.com/2020/09/point-of-care-echocardiography/)
+*   [Grand Round Summaries](https://emottawablog.com/category/grand-rounds/)
+*   [Journal Club](https://emottawablog.com/category/journal-club/)
+*   [Commentary](https://emottawablog.com/category/commentary/)
+*   [Ultrasound](https://emottawablog.com/category/ultrasound/)
+*   [Infographics](https://emottawablog.com/category/infographics/)
+*   [EDI](https://emottawablog.com/category/edi/)
+*   [Prehospital and Transport Medicine](https://emottawablog.com/category/prehospital-and-transport-medicine/)
+*   [Ottawa Acute Care Resources](https://emottawablog.com/resources/)
+*   [About Us](https://emottawablog.com/about-us/)
+
+Select Page
+*   [Ottawa Handbook of Emergency Medicine](https://emottawablog.com/sdm_downloads/ottawa-handbook-of-emergency-medicine-6th-edition/)
+*   [DEM Tri-Cycle Report](https://emottawablog.com/2025/12/14160/)
+*   [EMOttawa Podcast](http://www.emottawapodcast.com/)
+*   [Point-of-Care Echo](https://emottawablog.com/2020/09/point-of-care-echocardiography/)
+*   [Grand Round Summaries](https://emottawablog.com/category/grand-rounds/)
+*   [Journal Club](https://emottawablog.com/category/journal-club/)
+*   [Commentary](https://emottawablog.com/category/commentary/)
+*   [Ultrasound](https://emottawablog.com/category/ultrasound/)
+*   [Infographics](https://emottawablog.com/category/infographics/)
+*   [EDI](https://emottawablog.com/category/edi/)
+*   [Prehospital and Transport Medicine](https://emottawablog.com/category/prehospital-and-transport-medicine/)
+*   [Ottawa Acute Care Resources](https://emottawablog.com/resources/)
+*   [About Us](https://emottawablog.com/about-us/)
+
+# RV Failure and Acute Pulmonary Embolism
+
+by [Alie Wudwud](https://emottawablog.com/author/cap-awudwud/ "Posts by Alie Wudwud") | Mar 30, 2023 | [0 comments](https://emottawablog.com/2023/03/right-ventricular-failure-and-acute-pulmonary-embolism/#respond)
+
+![Image 2](https://emottawablog.com/wp-content/uploads/2023/03/PE-risk-strat.png)
+
+## Right here, Right now!
+
+[![Image 3](https://emottawablog.com/wp-content/uploads/2023/03/Right_Here_Right_Now_Fatboy_Slim_song_front_cover.jpg)](https://emottawablog.com/2023/03/right-ventricular-failure-and-acute-pulmonary-embolism/right_here_right_now_fatboy_slim_song_front_cover/)
+
+### Pumping up our Knowledge on Right Ventricular Failure and Acute Pulmonary Embolism
+
+The treatment of patients with right ventricular failure from pulmonary embolism follows some key principles that differ from our typical resuscitation of hypotension and hypoxemic respiratory failure. This typical management will not only not help these patients, but can actually be fatal.
+
+RV failure and acute PE management matters to us in the emergency department because:
+
+*   The mortality rate for unstable patients with a PE is 50% 1.
+*   For all patients with PE, the in-hospital mortality ~7% 2.
+*   Up to 10% of PE cases are fatal within the first hour of symptoms 3.
+*   Death due to PE is largely from progressive RV failure.
+
+Recognition and the appropriate management of acute RV failure is critical in the emergency department. Routine interventions often performed early in a patient’s ED course and a delay in definitive therapy can lead to deterioration in these patients. It is important for us to be comfortable with the ED management of acute RV failure. There is, truthfully, not a robust body of evidence to guide ED management. Recently, more attention has been placed in understanding RV anatomy, physiology and dysfunction, and most of the recommendations now around managing RV failure come from an understanding of this pathophysiology. Before getting straight to the management of these patients, we first need to briefly review the pathophysiology of acute pulmonary hypertension and RV failure. In this post, we will:
+
+1.   Provide an overview for the pathophysiology of right ventricular (RV) failure in acute pulmonary embolism (PE)
+2.   Outline the principles of managing a patient with RV failure and acute PE
+3.   Provide a brief review of the evidence for thrombolytics and other therapy options in an acute PE
+4.   Discuss the role of Thrombosis and PERT in the management of acute PE
+
+## Pathophysiology of RV Failure in Acute PE
+
+RV failure can produce a set of vicious spirals, or a ‘spiral of death’ as you may have read of before. This tends to cause progressively worse RV failure, and if, left untreated or mistreated, this will spiral out of control. This explains why patients with RV failure can suddenly die despite, or because of, our interventions- and this is what makes an acute PE so dangerous.Let’s break this ‘spiral’ down…
+
+There are 3 main causes or precipitants of RV failure, or essentially 3 ways to enter the spiral:
+
+1.   RV pressure overload
+2.   Reduced RV contractility
+3.   RV volume overload
+
+We’ll focus on RV pressure overload in the context of an acute PE.
+
+[![Image 4](https://emottawablog.com/wp-content/uploads/2023/03/RV-failure-595x350.png)](https://www.tomwademd.net/links-to-emcrit-272-right-heart-failure-with-dr-sara-crager/)
+Adapted from Right Heart Failure with Sara Crager, EMCrit 272 https://www.tomwademd.net/links-to-emcrit-272-right-heart-failure-with-dr-sara-crager/
+
+An acute PE can cause a sudden hike in RV afterload by an acute increase in pulmonary vascular resistance. This leads to a rapid decrease in stroke volume and contractility, leading to RV dilation. This RV volume and pressure overload results in a decrease in RV perfusion, leadi
+
+--- FUENTE WEB ---
+Título: Intermediate-Risk Pulmonary Embolism in 2026: New guidelines, new evidence, and the same old problem | Docwire News
+URL: https://www.docwirenews.com/post/intermediate-risk-pulmonary-embolism-in-2026
+Score: 0.6164054
+
+Texto:
+# Intermediate-Risk Pulmonary Embolism in 2026
+
+By [Hassan Bencheqroun, MD, EMBA](/author/hassan-bencheqroun-md-emba) - Last Updated: April 20, 2026
+
+## *New guidelines, new evidence, and the same old problem*
+
+The 2026 American Heart Association (AHA)/American College of Cardiology (ACC)/ American College of Clinical Pharmacy/American College of Emergency Physicians/ American College of Chest Physicians/Society for Cardiovascular Angiography & Interventions/Society of Hospital Medicine/Society of Interventional Radiology/Society for Vascular Medicine/Society of Vascular Nursing guideline for acute pulmonary embolism (PE) is the most ambitious attempt in years to standardize how we think about, classify, and treat PE. It retired the terms *massive* and *submassive*, introduced a five-tier clinical category system (A through E), and added a respiratory modifier. The HI-PEITHO trial, published simultaneously in the *New England Journal of Medicine* and presented at ACC 2026, offered the first evidence from a randomized controlled trial (RCT) that catheter-directed thrombolysis (CDT) reduces a composite clinical end point in intermediate-risk PE.
+
+These are real advances. But after spending time with the guideline document, the trial data, and the firestorm of commentary that followed, I think we need an honest conversation about what these developments actually deliver at the bedside and where they fall short.
+
+To ground this discussion, start with the [new framework](https://www.ahajournals.org/cms/10.1161/CIR.0000000000001415/asset/dd9dbb7b-03a9-4bf2-b6ba-e9aded72e43a/assets/graphic/cir.0000000000001415.fig02.jpg), then meet a patient I could have seen last week on any tele-ICU shift in America.
+
+### **Clinical Vignette**
+
+#### ***The Patient***
+
+A 71-year-old woman with a history of heart failure with preserved ejection fraction (HFpEF; baseline EF, 58%), hypertension, obesity (BMI, 38), and recent left knee arthroplasty presents to the emergency department 10 days post-surgery with progressive dyspnea over 48 hours. She is alert, mildly diaphoretic, speaking in short sentences.
+
+**Vital signs on arrival:** Heart rate (HR), 112 bpm; respiratory rate, 26 breaths/min; BP, 104/72 mm Hg (mean arterial pressure [MAP], 83 mm Hg); oxygen saturation measured by pulse oximetry (SpO2), 89% on room air, improving to 93% on 4 L of oxygen via nasal cannula. Temperature is 37.2° C.
+
+**Laboratory values:** Troponin I, 0.18 ng/mL (elevated); B-type natriuretic peptide (BNP), 580 pg/mL (her baseline from a clinic visit 3 months ago was 420 pg/mL); lactate, 2.8 mmol/L; creatinine, 1.4 mg/dL (baseline, 1.0).
+
+**CT pulmonary angiography:** Bilateral pulmonary emboli involving the right main and left lower lobar arteries. The right ventricle to left ventricle ratio (RV:LV) is 1.3 on CT. No evidence of right heart thrombus in transit.
+
+She begins receiving unfractionated heparin. Forty-five minutes later, her systolic BP drops to 87 mm Hg for approximately 45 seconds during a coughing spell, then recovers to 98/68 (MAP, 78) without intervention. Fifteen minutes after that, an automated cuff reads 92/58 (MAP, 69). The nurse rechecks manually: BP is 102/70 (MAP, 81).
+
+#### ***Now Apply the 2026 AHA/ACC Guideline***
+
+This is the patient who exposes every fault line in the new classification. Watch what happens when you try to categorize her condition.
+
+***The Four Criticisms, Alive in One Patient***
+
+**Criticism 1 (Score interchangeability):** Her Simplified Pulmonary Embolism Severity Index (sPESI) is 2 (age >80 receives 0 points, but she scores 2 for cancer-free; HR, >110; SpO2 <90%; systolic BP [SBP] preserved). This places her in Category C. Her Bova score is 3 (HR, 100-109 = 0; SBP > 100 = 0; RV dysfunction = 2; troponin = 1). A Bova score of 4 or lower places her in Category B. Same patient. Two different risk tiers. The guideline permits either tool, and the clinical path diverges based on which one you pick.
+
+**Criticism 2 (BNP-troponin conflation):** Her BNP of 580 pg/mL is flagged as a positive cardiac biomarker. But her baseline BNP was 420, a 38% increase that could easily reflect volume shifts post-surgery in a patient with HFpEF. Her troponin, at 0.18 ng/mL, is genuinely elevated and more likely reflects acute RV myocardial injury from the PE. The guideline treats these two markers as interchangeable. They are not. If a clinician anchors on the BNP value alone, this patient looks like C3 even without meaningful acute RV injury. If a clinician correctly prioritizes the troponin, the classification is the same (C3), but the reasoning is fundamentally different, and the confidence in the assessment changes.
+
+**Criticism 3 (Transient SBP < 90):** The 45-second dip to 87 mm Hg during a coughing spell technically meets the D1 criterion: transient SBP less than 90. That single reading, captured by an automated cuff during a Valsalva-equivalent maneuver, now reclassifies her from C3 to D1 and implies she may need consideration for advanced therapy. The clinical reality is that her hemodynamics recovered spontaneously, and SBP was never sustained below 90.
+
+**Criticism 4 (MAP < 60 as normotensive shock):** The automated cuff that read 92/58 produces a calculated MAP of 69, above the D2 threshold. But the manual recheck reading was 102/70, with MAP of 81. Had the nurse not rechecked, and had a different automated reading landed at MAP 58, this patient would meet the D2 “normotensive shock” criterion: a MAP below 60 in a patient whose SBP was never sustained below 90. The guideline calls this *normotensive*. It is not.
+
+#### ***What Physiology Actually Tells Us: Echocardiography and VExUS at the Bedside***
+
+Here is where the guideline stops and where the bedside clinician needs to keep going. Scores and biomarkers have told us this patient is somewhere between Categories B and D1, depending on which tool you use and which BP reading you believe. That range is clinically meaningless for decision-making.
+
+A fo
+
+--- FUENTE WEB ---
+Título: Detection of right ventricular dysfunction in acute pulmonary ...
+URL: https://www.sciencedirect.com/science/article/pii/S1538783622021523
+Score: 0.4233394
+
+Texto:
+Right ventricular dysfunction can be detected by CT scan with RV/LV ratio having the highest sensitivity and septal bowing the highest specificity.
+
+--- FUENTE WEB ---
+Título: 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN ...
+URL: https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001415?doi=10.1161%2FCIR.0000000000001415
+Score: 0.40839532
+
+Texto:
+This guideline introduces an Acute Pulmonary Embolism Clinical Category system to classify severity, assess prognosis, and enable more effective evidence-based
+
+--- FUENTE WEB ---
+Título: Management of Intermediate-Risk PE
+URL: https://emergencymedicine.wustl.edu/management-of-intermediate-risk-pe
+Score: 0.33882108
+
+Texto:
+# Management of Intermediate-Risk PE - Emergency Medicine
+[Skip to content](https://emergencymedicine.wustl.edu/management-of-intermediate-risk-pe#content)[Skip to search](https://emergencymedicine.wustl.edu/management-of-intermediate-risk-pe#header-search-field)[Skip to footer](https://emergencymedicine.wustl.edu/management-of-intermediate-risk-pe#colophon)
+
+[](https://medicine.washu.edu/)
+
+[Emergency Medicine](https://emergencymedicine.wustl.edu/)
+
+Open Menu
+
+Back Close Menu
+
+Search for: ![Image 1](https://emergencymedicine.wustl.edu/app/themes/wutheme_chauvenet/_assets/icons/search.svg)Search![Image 2](https://emergencymedicine.wustl.edu/app/themes/wutheme_chauvenet/_assets/icons/close.svg)Close Search
+
+*   [About](https://emergencymedicine.wustl.edu/about/)About
+    *   [Clinical Sites](https://emergencymedicine.wustl.edu/about/clinical-sites/)
+    *   [Community Impact](https://emergencymedicine.wustl.edu/about/community-impact/)
+    *   [Explore St. Louis](https://emergencymedicine.wustl.edu/about/explore-st-louis/)
+    *   [Giving](https://emergencymedicine.wustl.edu/about/giving/)
+    *   [Contact Us](https://emergencymedicine.wustl.edu/about/contact-us/)
+
+*   [Our Team](https://emergencymedicine.wustl.edu/team/)Our Team
+    *   [Leadership](https://emergencymedicine.wustl.edu/team/leadership/)
+    *   [Faculty](https://emergencymedicine.wustl.edu/team/faculty/)
+    *   [Residency Administration](https://emergencymedicine.wustl.edu/team/residency-administration/)
+    *   [Fellowship Administration](https://emergencymedicine.wustl.edu/team/fellowship-administration/)
+    *   [ECRC (Research Personnel)](https://emergencymedicine.wustl.edu/team/research-personnel/)
+    *   [APP](https://emergencymedicine.wustl.edu/team/app/)
+    *   [Researchers](https://emergencymedicine.wustl.edu/team/researchers/)
+    *   [Fellows](https://emergencymedicine.wustl.edu/team/fellows/)
+    *   [Business Operations](https://emergencymedicine.wustl.edu/team/business-operations/)
+    *   [Administrative Staff](https://emergencymedicine.wustl.edu/team/administrative-staff/)
+
+*   [Divisions](https://emergencymedicine.wustl.edu/divisions/)Divisions
+    *   [Critical Care Medicine](https://emergencymedicine.wustl.edu/divisions/critical-care-medicine/)Critical Care Medicine
+        *   [People](https://emergencymedicine.wustl.edu/divisions/critical-care-medicine/people-ccm/)
+
+    *   [Emergency Medical Services](https://emergencymedicine.wustl.edu/divisions/ems/)Emergency Medical Services
+        *   [Our Partners](https://emergencymedicine.wustl.edu/divisions/ems/our-partners/)
+        *   [People](https://emergencymedicine.wustl.edu/divisions/ems/people-ems/)
+
+    *   [General Emergency Medicine](https://emergencymedicine.wustl.edu/divisions/general-emergency-medicine/)General Emergency Medicine
+        *   [People](https://emergencymedicine.wustl.edu/divisions/general-emergency-medicine/people-em/)
+
+    *   [Medical Toxicology](https://emergencymedicine.wustl.edu/divisions/medtoxicology/)Medical Toxicology
+        *   [Resources](https://emergencymedicine.wustl.edu/divisions/medtoxicology/resources/)
+        *   [People](https://emergencymedicine.wustl.edu/divisions/medtoxicology/people-toxicology/)
+
+    *   [Neurological Emergencies](https://emergencymedicine.wustl.edu/divisions/neuro/)Neurological Emergencies
+        *   [People](https://emergencymedicine.wustl.edu/divisions/neuro/people-neuro-em/)
+        *   [Recent Publications](https://emergencymedicine.wustl.edu/divisions/neuro/recent-publications/)
+
+    *   [Ultrasound](https://emergencymedicine.wustl.edu/divisions/ultrasound/)Ultrasound
+        *   [People](https://emergencymedicine.wustl.edu/divisions/ultrasound/people-ultrasound/)
+
+*   [Sections](https://emergencymedicine.wustl.edu/sections/)Sections
+    *   [Clinical Affairs](https://emergencymedicine.wustl.edu/sections/clinical-affairs/)
+    *   [Faculty Affairs](https://emergencymedicine.wustl.edu/sections/faculty-affairs/)
+    *   [Patient Safety & Quality Improvement](https://emergencymedicine.wustl.edu/sections/patient-safety-quality-improvement/)Patient Safety & Quality Improvement
+        *   [People – Patient Safety & Quality Improvement](https://emergencymedicine.wustl.edu/sections/patient-safety-quality-improvement/people-patientsafety-qualityimprovement/)
+
+*   [Education](https://emergencymedicine.wustl.edu/education/)Education
+    *   [Residency](https://emergencymedicine.wustl.edu/education/residency/)Residency
+        *   [Prospective Applicants](https://emergencymedicine.wustl.edu/education/residency/how-to-apply/)
+        *   [Curriculum](https://emergencymedicine.wustl.edu/education/residency/curriculum/)
+        *   [Division Rotations](https://emergencymedicine.wustl.edu/education/residency/division-rotations/)
+        *   [Simulation](https://emergencymedicine.wustl.edu/education/residency/simulation/)
+        *   [Benefits](https://emergencymedicine.wustl.edu/education/residency/benefits/)
+        *   [Current Residents](https://emergencymedicine.wustl.edu/education/residency/current-residents/)
+        *   [Residency Resources](https://emergencymedicine.wustl.edu/education/residency/resources/)
+
+    *   [Fellowships](https://emergencymedicine.wustl.edu/education/fellowships/)Fellowships
+        *   [Emergency Medical Services](https://emergencymedicine.wustl.edu/education/fellowships/ems/)
+        *   [Medical Toxicology](https://emergencymedicine.wustl.edu/education/fellowships/toxicology/)
+        *   [Advanced Emergency Clinical Ultrasound](https://emergencymedicine.wustl.edu/education/fellowships/ultrasound/)
+        *   [Administration Fellowship](https://emergencymedicine.wustl.edu/education/fellowships/administration-fellowship/)
+        *   [Emergency Medicine Research](https://emergencymedicine.wustl.edu/education/fellowships/research/)
+        *   [Medical Education](https://emergencymedicine.wustl.edu/education/fellowships/education/)
+        *   [Critical Care
+
+--- FUENTE WEB ---
+Título: American College of Cardiology
+URL: https://www.facebook.com/AmericanCollegeofCardiology/posts/-jacc-spotlight-issue-highlights-key-guideline-recommendations-for-acute-pulmona/1498444755644941
+Score: 0.26428524
+
+Texto:
+# 🆕 #JACC Spotlight Issue... - American College of Cardiology | Facebook
+
+[Log In](https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https%3A%2F%2Fwww.facebook.com%2FAmericanCollegeofCardiology%2Fposts%2F-jacc-spotlight-issue-highlights-key-guideline-recommendations-for-acute-pulmona%2F1498444755644941)
+
+Log In
+
+[Forgot Account?](https://www.facebook.com/recover/initiate?ars=royal_blue_bar)
+
+## American College of Cardiology's Post
+
+* * *
+
+[](https://www.facebook.com/AmericanCollegeofCardiology?__cft__[0]=AZYX0DMOO1q4BT_bjhztta8AxverH0DDuFTDLpwTt8z6Y_v6fpB6M0Ui-o9oIcOxKcMEC5pQeYJNN6-BQsRZNEpWkjk_Bq-a8wJ36fTyPHpMQ9p0SACs9KezJsBmCb_rCXFhz97F_G10wICjUXd12L40C8gtiGLFMvCIPP6FTkl2Rw&__tn__=%3C%3C%2CP-R)
+
+### [**American College of Cardiology**](https://www.facebook.com/AmericanCollegeofCardiology?__cft__[0]=AZYX0DMOO1q4BT_bjhztta8AxverH0DDuFTDLpwTt8z6Y_v6fpB6M0Ui-o9oIcOxKcMEC5pQeYJNN6-BQsRZNEpWkjk_Bq-a8wJ36fTyPHpMQ9p0SACs9KezJsBmCb_rCXFhz97F_G10wICjUXd12L40C8gtiGLFMvCIPP6FTkl2Rw&__tn__=-UC%2CP-R)
+
+[April 9](https://www.facebook.com/AmericanCollegeofCardiology/posts/pfbid0CCvUHMzoVwHd8nymNa1hqh4ZPEXk3LkmhWtCZdYpigbXyaKckaJiCBZWMc1brbLNl?__cft__[0]=AZYX0DMOO1q4BT_bjhztta8AxverH0DDuFTDLpwTt8z6Y_v6fpB6M0Ui-o9oIcOxKcMEC5pQeYJNN6-BQsRZNEpWkjk_Bq-a8wJ36fTyPHpMQ9p0SACs9KezJsBmCb_rCXFhz97F_G10wICjUXd12L40C8gtiGLFMvCIPP6FTkl2Rw&__tn__=%2CO%2CP-R) · 
+
+![Image 1: 🆕](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/2/16/1f195.png)[#JACC](https://www.facebook.com/hashtag/jacc?__eep__=6&__cft__[0]=AZYX0DMOO1q4BT_bjhztta8AxverH0DDuFTDLpwTt8z6Y_v6fpB6M0Ui-o9oIcOxKcMEC5pQeYJNN6-BQsRZNEpWkjk_Bq-a8wJ36fTyPHpMQ9p0SACs9KezJsBmCb_rCXFhz97F_G10wICjUXd12L40C8gtiGLFMvCIPP6FTkl2Rw&__tn__=*NK-R) Spotlight Issue highlights key guideline recommendations for acute [#PulmonaryEmbolism](https://www.facebook.com/hashtag/pulmonaryembolism?__eep__=6&__cft__[0]=AZYX0DMOO1q4BT_bjhztta8AxverH0DDuFTDLpwTt8z6Y_v6fpB6M0Ui-o9oIcOxKcMEC5pQeYJNN6-BQsRZNEpWkjk_Bq-a8wJ36fTyPHpMQ9p0SACs9KezJsBmCb_rCXFhz97F_G10wICjUXd12L40C8gtiGLFMvCIPP6FTkl2Rw&__tn__=*NK-R) through a patient-centered journey – from risk factors to long-term management, while also identifying areas for future clarification and updates.
+
+Read more: [https://bit.ly/4cAZoME](https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F4cAZoME&h=AUAFJf8F0QfIhWNwPVmdw1TULfLCiQuyUsmeNj0XRt8Ov9BY85FK5nGOOJgJRgVT6KuEwc2FaxHbwps_Y19ztxbmm1BcpuWUeyWv_C9TPY8CqqL5laMkMXKT7VzDE3rXRiROWz5VGDWtc-MPg_21ILT09TgFf3Zb4T0EZw8IQLO4_KUr_FiYqA&__tn__=-UK-R&c[0]=AUCG-ArYayT15-y2bJHOfy4eMiAsNnp5M0reIN5q2ssZDYyvlnAez-g4o4Xy_ouFNjPkSN-6JWZnpmqppmI85CPJjDWYKbVFrvr-Qw-Qulzh0A5Gu_5w6fYydkGUnzxigen37mX740hyC4Dys2EtvGGr7icZMKv-DYbifoaILHzDEpdb6siH30QjtpdA-1w)
+
+[![Image 2: May be an image of text that says 'JACC Spotlight Issue Highlights New 2026 Acute PE Guideline JACC'](https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/667037519_1498444722311611_5204486446109771313_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HwGAu50xlZkQ7kNvwFacWzq&_nc_oc=AdoYczOFVQHF0zcuNOJTaQv7M-0QHjL-Z_6NHWxSIN04OC2bsrrHsGMgf_WgHNQg66v-wTJI8wJXdLqrv_QermXQ&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=SsHmoPtBwj32NBO5nahi8Q&_nc_ss=7b289&oh=00_Af97gIhm7GJl0BwpaoQ04ekx4V0NZjO-I6UTLOdFHsiIHw&oe=6A23859E)](https://www.facebook.com/photo/?fbid=1498444718978278&set=a.494880926001334&__cft__[0]=AZYX0DMOO1q4BT_bjhztta8AxverH0DDuFTDLpwTt8z6Y_v6fpB6M0Ui-o9oIcOxKcMEC5pQeYJNN6-BQsRZNEpWkjk_Bq-a8wJ36fTyPHpMQ9p0SACs9KezJsBmCb_rCXFhz97F_G10wICjUXd12L40C8gtiGLFMvCIPP6FTkl2Rw&__tn__=EH-R)
+
+![Image 3](blob:http://localhost/85d8b181a20aeb64a3afc2f1c39d2480)
+
+![Image 4](blob:http://localhost/2b45e6f1a2ae097354c0b291152873d5)
+
+All reactions:
+
+21
+
+Like
+
+Comment
+
+![Image 5](blob:http://localhost/85d8b181a20aeb64a3afc2f1c39d2480)
+
+![Image 6](blob:http://localhost/2b45e6f1a2ae097354c0b291152873d5)
+
+All reactions:
+
+21
+
+Like
+
+Comment
 
 INSTRUCCIONES IMPORTANTES:
 - PubMed es el eje principal.
