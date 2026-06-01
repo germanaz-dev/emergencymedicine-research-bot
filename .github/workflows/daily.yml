@@ -1,10 +1,10 @@
 name: Daily Research
 
 on:
-  push:
+  # push:
   schedule:
-    - cron: '*/9 * * * *'
-    # - cron: '0 6 * * *'   # cada día a las 6 UTC
+    #- cron: '*/9 * * * *'
+     - cron: '11 6 * * *'   # cada día a las 6 UTC
   workflow_dispatch:       # permite ejecutarlo manualmente
 
 jobs:
