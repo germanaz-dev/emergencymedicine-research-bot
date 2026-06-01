@@ -321,7 +321,7 @@ def gemini_call():
                 last_error = str(e)
                 time.sleep(10)
 
-    fallback_text = f"""
+    fallback_text = f""
 ## Informe no generado automáticamente
 
 No se pudo generar el informe porque todos los modelos disponibles devolvieron error o estaban saturados.
