@@ -1,0 +1,9 @@
+{
+  "priority_weight": 10,
+  "recency_weight": 0.25,
+  "axis_weight": 20,
+  "alert_weight": 1.2,
+  "exploration_rate": 0.15,
+  "frontier_cap": 0.75,
+  "recent_axis_penalty": 0.65
+}
