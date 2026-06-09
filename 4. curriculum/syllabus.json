@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pulmonary_embolism_rv",
+    "title": "right ventricular dysfunction in pulmonary embolism",
+    "axis": "cardiovascular",
+    "priority": 10,
+    "review_interval_days": 180,
+    "keywords": ["pulmonary embolism", "right ventricular dysfunction", "risk stratification"]
+  },
+  {
+    "id": "acute_coronary_syndrome_troponin",
+    "title": "high sensitivity troponin in acute coronary syndrome",
+    "axis": "cardiovascular",
+    "priority": 10,
+    "review_interval_days": 120,
+    "keywords": ["acute coronary syndrome", "high sensitivity troponin", "emergency department"]
+  },
+  {
+    "id": "sepsis_early_recognition",
+    "title": "sepsis early recognition in the emergency department",
+    "axis": "infectious",
+    "priority": 10,
+    "review_interval_days": 120,
+    "keywords": ["sepsis", "early recognition", "emergency department"]
+  },
+  {
+    "id": "shock_undifferentiated",
+    "title": "undifferentiated shock in emergency medicine",
+    "axis": "critical_care",
+    "priority": 10,
+    "review_interval_days": 120,
+    "keywords": ["shock", "undifferentiated shock", "emergency medicine"]
+  },
+  {
+    "id": "dyspnea_ed",
+    "title": "acute dyspnea in the emergency department",
+    "axis": "cardinal_symptoms",
+    "priority": 9,
+    "review_interval_days": 120,
+    "keywords": ["dyspnea", "emergency department", "diagnosis"]
+  },
+  {
+    "id": "syncope_risk",
+    "title": "syncope risk stratification in emergency medicine",
+    "axis": "cardinal_symptoms",
+    "priority": 9,
+    "review_interval_days": 180,
+    "keywords": ["syncope", "risk stratification", "emergency medicine"]
+  },
+  {
+    "id": "copd_exacerbation",
+    "title": "COPD exacerbation emergency department management",
+    "axis": "respiratory",
+    "priority": 8,
+    "review_interval_days": 180,
+    "keywords": ["COPD exacerbation", "emergency department", "non invasive ventilation"]
+  },
+  {
+    "id": "stroke_thrombectomy_selection",
+    "title": "acute ischemic stroke thrombectomy selection",
+    "axis": "neurology",
+    "priority": 10,
+    "review_interval_days": 180,
+    "keywords": ["ischemic stroke", "thrombectomy", "patient selection"]
+  },
+  {
+    "id": "delirium_elderly",
+    "title": "delirium in older adults in the emergency department",
+    "axis": "vulnerable_populations",
+    "priority": 8,
+    "review_interval_days": 180,
+    "keywords": ["delirium", "older adults", "emergency department"]
+  },
+  {
+    "id": "pocus_shock",
+    "title": "point of care ultrasound in undifferentiated shock",
+    "axis": "pocus_procedures",
+    "priority": 9,
+    "review_interval_days": 120,
+    "keywords": ["POCUS", "shock", "emergency medicine"]
+  },
+  {
+    "id": "diagnostic_error_abdominal_pain",
+    "title": "diagnostic error in acute abdominal pain",
+    "axis": "systems_safety",
+    "priority": 8,
+    "review_interval_days": 180,
+    "keywords": ["diagnostic error", "abdominal pain", "emergency department"]
+  },
+  {
+    "id": "ai_triage_ed",
+    "title": "artificial intelligence triage in emergency medicine",
+    "axis": "innovation",
+    "priority": 6,
+    "review_interval_days": 240,
+    "keywords": ["artificial intelligence", "triage", "emergency department"]
+  }
+]
