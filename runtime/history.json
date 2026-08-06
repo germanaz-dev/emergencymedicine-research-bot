@@ -1,1 +1,7 @@
-{}
+{
+  "diagnostic_error_abdominal_pain": {
+    "last_seen": "2026-08-06",
+    "times_reviewed": 1,
+    "axis": "systems_safety"
+  }
+}
