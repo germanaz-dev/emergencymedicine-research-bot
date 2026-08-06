@@ -3,5 +3,10 @@
     "last_seen": "2026-08-06",
     "times_reviewed": 1,
     "axis": "systems_safety"
+  },
+  "pulmonary_embolism_rv": {
+    "last_seen": "2026-08-06",
+    "times_reviewed": 1,
+    "axis": "cardiovascular"
   }
 }

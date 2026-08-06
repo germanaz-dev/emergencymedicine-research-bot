@@ -1,23 +1,23 @@
 {
   "date": "2026-08-06",
   "selected_topic": {
-    "id": "diagnostic_error_abdominal_pain",
-    "title": "diagnostic error in acute abdominal pain",
-    "axis": "systems_safety",
-    "priority": 8,
+    "id": "pulmonary_embolism_rv",
+    "title": "right ventricular dysfunction in pulmonary embolism",
+    "axis": "cardiovascular",
+    "priority": 10,
     "review_interval_days": 180,
     "keywords": [
-      "diagnostic error",
-      "abdominal pain",
-      "emergency department"
+      "pulmonary embolism",
+      "right ventricular dysfunction",
+      "risk stratification"
     ]
   },
-  "score": 149.0,
-  "exploration": true,
+  "score": 168.0,
+  "exploration": false,
   "reason": {
-    "priority_score": 80,
+    "priority_score": 100,
     "recency_score": 45.0,
-    "axis_score": 24.0,
+    "axis_score": 23.0,
     "alert_score": 0,
     "last_axis_penalty": false,
     "matched_alerts": []

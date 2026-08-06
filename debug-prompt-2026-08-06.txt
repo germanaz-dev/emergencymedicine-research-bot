@@ -1,732 +1,719 @@
 Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
 
-Tema de actualización: diagnostic error in acute abdominal pain
+Tema de actualización: right ventricular dysfunction in pulmonary embolism
 
 PAPERS RECUPERADOS DE PUBMED:
 --- PAPER PUBMED ---
-Título: Rare and Unusual Consequences of Blunt Abdominal Trauma-The Significance of Anatomical Anomalies.
-Revista: Journal of clinical medicine
+Título: Catheter-Based Therapies for Intermediate-High Risk Pulmonary Embolism: A Protocol for a Systematic Review With Bayesian Pairwise and Network Meta-Analyses.
+Revista: Acta anaesthesiologica Scandinavica
 Fecha: 2026
 Tipo: Journal Article, Review
-PMID: 42074645
-DOI: 10.1117/1.JMI.8.5.052110
-URL: https://pubmed.ncbi.nlm.nih.gov/42074645/
+PMID: 42469156
+DOI: 10.1056/NEJMoa1208410
+URL: https://pubmed.ncbi.nlm.nih.gov/42469156/
 
 Abstract:
-Background/Objectives: Blunt abdominal trauma is a frequent challenge in emergency medicine, but its diagnosis and treatment become significantly more complex when rare anatomical anomalies are present. Atypical anatomy may mask symptoms or mimic other acute abdominal conditions, causing delays in treatment. The aim of this paper is to review the literature on six rare anatomical anomalies and their impact on the consequences of blunt abdominal trauma. Methods: A Narrative literature review was undertaken, covering PubMed, Scopus, Web of Science and Google Scholar databases, analysing publications from 1960 to 2025. Case reports and case series (91 patients in total) with confirmed organ damage following blunt trauma in the course of: duodenal diverticulum, Meckel's diverticulum, splenic torsion, rupture or torsion of the accessory spleen, visceral inversion (situs inversus) and horseshoe kidney. Results: Demographic analysis revealed a predominance of perforations of the duodenal diverticulum in older women (mean age 62 years), while younger men predominated in all other groups. The clinical picture was often non-specific or misleading, especially in situs inversus, where the location of pain did not correlate with the typical topography of organs. Contrast-enhanced computed tomography (CECT) has proved to be a key diagnostic tool, surpassing ultrasound/FAST scans due to its ability to provide precise anatomical imaging. Surgical treatment was predominant (100% in Meckel's diverticulum, 95% in duodenal diverticulum), while conservative treatment was effective in horseshoe kidney injuries (94.8%). Mortality was highest in situs inversus (29%) and duodenal diverticulum perforation (20%). The vast majority of these fatal cases occurred in the era of modern computed tomography, suggesting that the therapeutic challenges stem directly from the specific nature of these anomalies, rather than from past diagnostic limitations. Conclusions: Anatomical anomalies significantly modulate the clinical manifestations of blunt abdominal trauma, increasing the risk of diagnostic errors. Early contrast-enhanced computed tomography and awareness of these rare pathologies are crucial for appropriate management and improved prognosis.
+Intermediate-high risk pulmonary embolism (PE) represents a clinically challenging subgroup of acute PE, characterized by right ventricular dysfunction and increased risk of hemodynamic deterioration despite treatment with anticoagulation therapy. Although systemic thrombolysis may provide more rapid reperfusion, its use is limited by an increased risk of major bleeding. Catheter-based treatment strategies have emerged as potential alternatives, but their comparative efficacy and safety remain uncertain. To assess the benefits and harms of catheter-based treatment strategies compared with contemporary control regimens, including standard anticoagulation with or without systemic thrombolysis, in patients with intermediate-high risk PE. This protocol outlines a systematic review with Bayesian pairwise meta-analysis and network meta-analysis of randomized clinical trials evaluating catheter-based therapies for hospitalized patients with intermediate-high risk PE. Eligible interventions include catheter-directed thrombolysis, ultrasound-assisted thrombolysis, and catheter-based embolectomy. Comparators may include standard anticoagulation alone or in combination with systemic thrombolysis or other active control regimens reflecting standard of care. Searches will be conducted in relevant databases, supplemented by trial registries. Two reviewers will independently screen studies, extract data, and assess risk of bias using the Cochrane Risk of Bias 2 tool. Bayesian pairwise meta-analyses and network meta-analysis will be performed using weakly informative priors to synthesize direct and indirect evidence across interventions. Results will be reported as posterior effect estimates with 95% credible intervals. The primary outcome will be all-cause mortality. Secondary and exploratory outcomes include major bleeding as defined according to the criteria of the International Society on Thrombosis and Haemostasis within 7 days, hospital length of stay, and change in RV/LV ratio within 48 h. GRADE assessments will be performed where applicable. This review will synthesize direct and indirect randomized evidence on catheter-based treatment strategies for intermediate-high risk PE. The findings may help clarify the role of these interventions in contemporary management, inform future guideline recommendations, and identify persistent evidence gaps requiring further large-scale randomized trials.
 
 --- PAPER PUBMED ---
-Título: CT patterns of acute enterocolitis - a practical guide for the emergency radiologist.
-Revista: Emergency radiology
-Fecha: 2025
+Título: Pulmonary embolism consensus.
+Revista: Archivos de cardiologia de Mexico
+Fecha: 2026
+Tipo: Journal Article, Consensus Statement
+PMID: 42447143
+DOI: 10.24875/ACM.M26000101
+URL: https://pubmed.ncbi.nlm.nih.gov/42447143/
+
+Abstract:
+Pulmonary embolism (PE) remains a major cause of cardiovascular morbidity and mortality. Despite significant advances in diagnosis and treatment, important challenges persist in the early identification of patients at risk of clinical deterioration and in the integration of clinical, imaging, and biomarker data for more accurate risk stratification. A multidisciplinary panel of experts reviewed the available scientific evidence, including international guidelines, randomized clinical trials, observational studies, and contemporary registries. Recommendations were developed through a structured consensus process, with particular emphasis on areas of uncertainty or ongoing evolution in clinical practice. This document updates recommendations on the diagnosis, risk stratification, anticoagulation, reperfusion therapies, and follow-up of patients with acute PE. A key focus is the concept of dynamic risk assessment, recognizing that clinical status may change significantly during the first hours and days after diagnosis. As an innovative proposal, the Integrated Cardiorespiratory Involvement System (SIAC) is introduced as a complementary framework that integrates hemodynamic parameters, right ventricular dysfunction, gas exchange impairment, biomarker profile, and clinical evolution. SIAC is designed to enhance traditional risk stratification models by enabling serial bedside reassessment and facilitating early identification of patients at risk of clinical deterioration and adverse outcomes. Modern management of acute PE requires a comprehensive and dynamic approach. This consensus integrates current evidence and proposes SIAC as a complementary tool to improve prognostic assessment and support more individualized therapeutic decision-making. El embolismo pulmonar (EP) continúa siendo una causa importante de morbimortalidad cardiovascular. A pesar de los avances diagnósticos y terapéuticos, persisten desafíos en la identificación temprana de pacientes con riesgo de deterioro clínico y en la integración de variables clínicas, de imagen y biomarcadores para una estratificación pronóstica más precisa. Un panel multidisciplinario de expertos revisó la evidencia científica disponible, incluyendo guías internacionales, ensayos clínicos, estudios observacionales y registros contemporáneos. Las recomendaciones fueron elaboradas mediante consenso estructurado, con énfasis en aspectos controvertidos o en evolución. El documento actualiza las recomendaciones para el diagnóstico, la estratificación del riesgo, la anticoagulación, las terapias de reperfusión y el seguimiento de los pacientes con EP aguda. Se destaca la necesidad de una evaluación dinámica del riesgo, considerando que la condición clínica puede modificarse durante las primeras horas y días posteriores al diagnóstico. Como propuesta innovadora, se introduce el Sistema Integrado de Afectación Cardiorrespiratoria (SIAC), una herramienta que integra parámetros hemodinámicos, disfunción ventricular derecha, alteraciones del intercambio gaseoso, biomarcadores y evolución clínica para complementar los modelos tradicionales de estratificación. El SIAC permite una reevaluación seriada del paciente y facilita la identificación precoz de quienes presentan riesgo de progresión clínica o eventos adversos. El manejo moderno del EP requiere una aproximación integral y dinámica. Este consenso reúne la evidencia actual y propone el SIAC como una estrategia complementaria para optimizar la evaluación pronóstica y apoyar una toma de decisiones terapéuticas más individualizada.
+
+--- PAPER PUBMED ---
+Título: The Right Ventricle in Cardiac Critical Care: Pathophysiology, Evaluation and Management.
+Revista: Medicina (Kaunas, Lithuania)
+Fecha: 2026
 Tipo: Journal Article, Review
-PMID: 41193916
-DOI: 10.1016/j.jviscsurg.2020.08.012
-URL: https://pubmed.ncbi.nlm.nih.gov/41193916/
+PMID: 42356083
+DOI: 10.1016/j.echo.2022.12.022
+URL: https://pubmed.ncbi.nlm.nih.gov/42356083/
 
 Abstract:
-Acute enterocolitis encompasses a broad spectrum of conditions affecting the small and large bowel, frequently presenting with nonspecific symptoms such as abdominal pain, diarrhea, fever, and vomiting. Given the clinical overlap among infectious, inflammatory, immune-mediated, vascular, and miscellaneous etiologies, imaging plays a pivotal role in refining the differential diagnosis, identifying complications, and guiding timely management. Computed tomography (CT), owing to its accessibility and rapid acquisition, remains the cornerstone of imaging evaluation in acute settings. CT enables detailed assessment of bowel wall morphology, disease distribution, vascular involvement, and extraintestinal manifestations. While ancillary imaging modalities have a role in select scenarios, this review emphasizes a CT-focused approach tailored for acute care. We present a comprehensive, pattern-based review of the CT imaging features across various forms of acute enterocolitis, highlighting diagnostic hallmarks, interpretive pitfalls, and clinically relevant mimics. The included cases were encountered by the radiologists in their day-to day practice and included based on their ability to highlight the majority representative features of each pathology. Through the integration of structured tables, illustrative cases, and diagnostic tips, this article aims to enhance the radiologist's ability to recognize key imaging signatures, avoid diagnostic errors, and contribute meaningfully to multidisciplinary patient care.
+The right ventricle (RV) is a primary determinant of outcomes in cardiac critical care. RV dysfunction independently predicts morbidity and mortality in conditions such as acute coronary syndromes, pulmonary embolism, and cardiogenic shock. This review synthesizes RV evaluation and management by integrating physiologic principles with bedside diagnostic and therapeutic strategies. The RV is exceptionally sensitive to acute afterload increases due to its adaptation to low-pressure pulmonary circulation. Evaluation utilizes a multimodal approach combining echocardiography, invasive hemodynamics, and specifically the pulmonary artery pulsatility index and central venous pressure/pulmonary capillary wedge pressure (CVP/PCWP) ratio and biomarkers. Management focuses on three pillars: individualized preload optimization, afterload reduction via selective pulmonary vasodilators, and contractility augmentation with inotropes. For refractory cases, mechanical circulatory support options like Impella RP, ProtekDuo, and VA-ECMO provide critical bridges to recovery or transplantation.
 
 --- PAPER PUBMED ---
-Título: Diagnostic errors in acute cholecystitis: a scoping review.
-Revista: Diagnosis (Berlin, Germany)
-Fecha: 2025
+Título: Review of Interventional Options and Surgical Techniques in the Management of Acute Pulmonary Embolism.
+Revista: The Journal of surgical research
+Fecha: 2026
 Tipo: Journal Article, Review
-PMID: 41091049
-DOI: 10.1515/dx-2025-0061
-URL: https://pubmed.ncbi.nlm.nih.gov/41091049/
+PMID: 42349359
+DOI: 10.1016/j.jss.2026.05.055
+URL: https://pubmed.ncbi.nlm.nih.gov/42349359/
 
 Abstract:
-Diagnostic errors in acute cholecystitis significantly impact patient safety. Misdiagnosis, including both false negatives and false positives, is common due to the complex nature of abdominal pain and the overlapping symptoms of various conditions. This scoping review examines the definition, prevalence, and contributing factors of diagnostic errors in acute cholecystitis, emphasizing the need for improved diagnostic processes. Employing the PRISMA-ScR framework, this review examined definitions and factors contributing to diagnostic errors in cholecystitis. It highlights the variability in diagnostic criteria, with many studies relying on clinical judgment rather than standardized guidelines such as the Tokyo Guidelines. False negative diagnoses are often due to hypoalbuminemia, inconspicuous imaging findings, and the clinical setting, whereas false positives often result from misinterpreted imaging findings and failure to differentiate from other conditions. This review found that approximately 30 % of acute cholecystitis cases may be missed (false negative), and 20-36 % of cases initially diagnosed can be incorrect (false positive). Adherence to standardized guidelines and improved recognition of atypical presentations could reduce diagnostic errors. Future research should aim for large-scale studies with clear diagnostic criteria and detailed clinical data to enhance diagnostic accuracy and patient safety.
+Acute massive pulmonary embolism (PE) represents a potentially lethal condition causing acute right ventricular heart dysfunction and cardiogenic shock. We aim to provide an overview of interventional and surgical options for PE management, with a focus on surgical techniques and outcomes. This was a narrative review so a systematic literature search was not performed. Catheter-directed thrombolysis and catheter-directed mechanical thrombectomy have demonstrated improved outcomes in several recent trials compared to medical management alone for higher risk PE. Surgical pulmonary embolectomy techniques have also evolved greatly over the years. Both in-hospital and short-term outcomes after surgical management show significant improvement from historical data that have limited the widespread acceptance of surgical management for acute PE. Veno-arterial extracorporeal membrane oxygenation has also emerged as a potential strategy to bridge high risk patients to definitive therapies. Surgical pulmonary embolectomy has gained popularity in recent years for PE management, with evolving techniques and improving outcomes compared to historical data. A thorough understanding of interventional and surgical techniques and options, combined with a multidisciplinary approach to care, are crucial to ensure timely and effective management of patients with acute PE.
 
 --- PAPER PUBMED ---
-Título: Epiploic appendagitis: An overlooked cause of acute abdominal pain.
-Revista: World journal of gastroenterology
-Fecha: 2025
+Título: The Utility of Extracorporeal Membrane Oxygenation in the Setting of Chronic Thromboembolic Pulmonary Hypertension.
+Revista: Medical sciences (Basel, Switzerland)
+Fecha: 2026
 Tipo: Journal Article, Review
-PMID: 40900773
-DOI: 10.3748/wjg.v31.i32.109897
-URL: https://pubmed.ncbi.nlm.nih.gov/40900773/
+PMID: 42346812
+DOI: 10.1536/ihj.14-257
+URL: https://pubmed.ncbi.nlm.nih.gov/42346812/
 
 Abstract:
-Epiploic appendagitis is a rare, often underrecognized cause of acute abdominal pain. Misdiagnosis can lead to unnecessary hospitalization, antibiotic use, or surgical intervention. Advances in imaging have improved the recognition of this self-limiting condition, but clinical awareness remains critical. To provide a comprehensive update on the epidemiology, anatomy, pathogenesis, clinical presentation, diagnostic strategies, differential diagnosis, and management of epiploic appendagitis, emphasizing its distinguishing features from other causes of acute abdomen. A review of the literature was conducted, focusing on the clinical characteristics, imaging findings, differential diagnoses, and evidence-based management strategies for epiploic appendagitis. Epiploic appendagitis typically presents with acute, localized, non-radiating abdominal pain without significant systemic symptoms. Diagnosis is heavily reliant on imaging, with computed tomography (CT) being the gold standard. Hallmark CT findings include a small, fat-density ovoid lesion adjacent to the colon, with the usual characteristic ring and dot signs. Differential diagnoses include mainly diverticulitis, appendicitis, omental infarction, and many other causes. Management is predominantly conservative with nonsteroidal anti-inflammatory drugs and observation, reserving surgical intervention for rare, complicated cases. Recognizing the clinical and imaging features of epiploic appendagitis is essential to avoid unnecessary interventions. Increased clinician awareness, coupled with judicious use of imaging, facilitates timely diagnosis and appropriate management, ensuring optimal patient outcomes.
+Chronic thromboembolic pulmonary hypertension (CTEPH) is a progressive disease that occurs due to fibrotic remodeling of the pulmonary vessels. This leads to increased pressure overload onto the right ventricle, resulting in complications such as heart failure. Pulmonary endarterectomy (PEA) remains the gold standard of treatment for CTEPH, yet many patients experience life-threatening perioperative complications, including refractory right ventricular failure, reperfusion pulmonary edema, and endobronchial hemorrhage. Extracorporeal membrane oxygenation (ECMO) has been used as a form of mechanical circulatory support to aid recovery in patients with perioperative complications in the context of CTEPH. This review identifies preoperative risk factors, including pulmonary vascular resistance, high body mass index, and elevated neutrophil-to-lymphocyte ratios. It also identifies differences in ECMO configuration, with veno-arterial ECMO preferred for hemodynamic instability and veno-venous ECMO for respiratory failure. Finally, we posit that, based on contemporary literature, the implementation of early ECMO in decompensated patients may be associated with reduced hospital mortality, and in those who survive beget excellent mid-term survival.
 
 --- PAPER PUBMED ---
-Título: Hemorrhagic necrosis of omental cysts misdiagnosed as torsion of ovarian cysts: a case report and literature review.
-Revista: BMC women's health
-Fecha: 2025
-Tipo: Journal Article, Case Reports, Review
-PMID: 40660240
-DOI: 10.1186/s12905-025-03893-y
-URL: https://pubmed.ncbi.nlm.nih.gov/40660240/
-
-Abstract:
-Omental cysts are extremely rare intra-abdominal lesions that are typically benign and asymptomatic. When hemorrhagic necrosis occurs, it may mimic other acute abdominal emergencies, such as adnexal torsion. Omental cysts are easily misdiagnosed as other diseases because of their lack of specific clinical symptoms and signs, thus posing a diagnostic challenge. We report a 32-year-old woman presenting with acute lower abdominal pain and fever, initially diagnosed with ovarian cyst torsion. Imaging revealed a large pelvic cystic mass; however, laparoscopic exploration identified a hemorrhagic omental cyst with necrosis and inflammatory adhesion. Complete excision was performed, and histopathology confirmed a benign omental cyst with hemorrhage and necrosis. The patient recovered uneventfully and showed no recurrence over 11 months of follow-up. Analyzing this case allowed us to delve into the causes of misdiagnosis of omental cysts. This case emphasizes the diagnostic difficulty posed by complicated omental cysts and highlights the necessity of considering omental cyst in women presenting with acute abdomen and pelvic masses. Imaging aids diagnosis, but surgical exploration is the most direct and reliable method for confirming the cause of abdominal pain. Timely laparoscopic intervention facilitates accurate diagnosis and effective management.
-
---- PAPER PUBMED ---
-Título: Artificial intelligence in gynecologic and obstetric emergencies.
-Revista: International journal of emergency medicine
-Fecha: 2025
-Tipo: Journal Article, Review
-PMID: 39924503
-DOI: 10.1308/rcsbull.2021.111
-URL: https://pubmed.ncbi.nlm.nih.gov/39924503/
-
-Abstract:
-Artificial intelligence (AI) uses a process by which machines perform human-like functions such as automated clinical decisions. This may operate efficiently in gynecologic and obstetric emergencies. We aimed to review the role and applications of AI in gynecologic and obstetric emergencies. A literature search was carried out in November 2023 in PubMed, Cochrane Library and Google Scholar using the keywords combination of "artificial intelligence, gynecology and obstetrics". Relevant articles were selected and read. Reference lists of the selected articles were also searched. The literature demonstrated the role of AI to improve healthcare in emergency settings in several aspects such as diagnostic imaging, improving predictions in emergencies, and improving planning and resource allocation for emergency services. AI works objectively, overcoming human biases in decision-making. Creating interconnected data registries for AI will likely enhance its performance. Validation research in emergency settings has shown that AI-prediction tools perform more accurately compared with the estimation of risk and outcomes by gynecologists and obstetricians in emergency situations including endometriosis and acute abdominal pain. There was acceptance of AI and its potential benefits. Ethical dilemmas of using AI include data governance, responsibility for errors, and security issues. Providing training on AI to healthcare professionals working in emergency departments is needed. Healthcare professionals should educate themselves about the anticipated role of AI in gynecologic and obstetric emergencies, its indications, limitations, and ethical considerations so that they can take steps towards its application in their future practice using defined guidelines. WHY IS THIS REVIEW IS IMPORTANT?: The use of AI in healthcare has created polarized thoughts among emergency medicine professionals. This review is an effort to compare the pros and cons of using AI in gynecologic and obstetric emergencies so that AI can be properly applied in these specialities. WHAT DOES THIS REVIEW SHOW?: This review shows that there are several research studies in gynecology and obstetrics emergencies with positive points in favor of using AI in emergencies like acute abdominal and pelvic pain, and endometriosis. There are some reservations from the practitioners to use it due to lack of understanding of its nature, advantages and limitations. By narrating the findings of AI-related publications in gynecology and obstetrics emergency, we propose their applications and their limitations. WHAT ARE THE KEY FINDINGS?: AI can help in critical decision-making in emergency gynecologic and obstetric situations under the conditions of correct input information and human supervision. So, AI can assist gynecologists in deciding which treatment approach to use in emergencies and it may also reduce the burden on human professionals and save time by prompt interventional decisions. HOW IS PATIENT CARE IMPACTED?: Using AI with the input of trained medical professionals and software engineers, decision-making in gynecologic and obstetric emergencies can be made more efficient. AI-assisted tools can predict the outcomes of patients rapidly, saving time and avoiding delays in directing further care.
-
---- PAPER PUBMED ---
-Título: When Not to Operate on Acute Cases-A Surgeon's Perspective on Rapid Assessment of Emergency Abdominopelvic Computed Tomography.
-Revista: Journal of imaging
-Fecha: 2023
-Tipo: Journal Article, Review
-PMID: 37888307
-DOI: 10.2214/AJR.10.4340
-URL: https://pubmed.ncbi.nlm.nih.gov/37888307/
-
-Abstract:
-Clinical problem solving evolves in parallel with advances in technology and discoveries in the medical field. However, it always reverts to basic cognitive processes involved in critical thinking, such as hypothetical-deductive reasoning, pattern recognition, and compilation models. When dealing with cases of acute abdominal pain, clinicians should employ all available tools that allow them to rapidly refine their analysis for a definitive diagnosis. Therefore, we propose a standardized method for the quick assessment of abdominopelvic computed tomography as a supplement to the traditional clinical reasoning process. This narrative review explores the cognitive basis of errors in reading imaging. It explains the practical use of attenuation values, contrast phases, and windowing for non-radiologists and details a multistep protocol for finding radiological cues during CT reading and interpretation. This systematic approach describes the salient features and technical tools needed to ascertain the causality between clinical patterns and abdominopelvic changes visible on CT scans from a surgeon's perspective. It comprises 16 sections that should be read successively and that cover the entire abdominopelvic region. Each section details specific radiological signs and provides clear explanations for targeted searches, as well as anatomical and technical hints. Reliance on imaging in clinical problem solving does not make a decision dichotomous nor does it guarantee success in diagnostic endeavors. However, it contributes exact information for supporting the clinical assessments even in the most subtle and intricate conditions.
-
---- PAPER PUBMED ---
-Título: Accuracy of ultrasound for the diagnosis of acute appendicitis in the emergency department: A systematic review.
-Revista: Medicine
-Fecha: 2023
+Título: The Diagnostic and Prognostic Role of Focused Cardiac Ultrasound Performed by Non-cardiologist Specialists in Acute Symptomatic Pulmonary Embolism: A Systematic Review.
+Revista: Heart failure clinics
+Fecha: 2026
 Tipo: Systematic Review, Journal Article
-PMID: 37000097
-DOI: 10.1097/MD.0000000000033397
-URL: https://pubmed.ncbi.nlm.nih.gov/37000097/
+PMID: 42309622
+DOI: 10.1016/j.hfc.2026.02.005
+URL: https://pubmed.ncbi.nlm.nih.gov/42309622/
 
 Abstract:
-Point-of-Care Ultrasound (POCUS) is a quick, useful, noninvasive, and inexpensive diagnostic tool used for the diagnosis of trauma, abdominal pain, dyspnea, and chest pain in the emergency department (ED). However, the diagnostic accuracy of ultrasound in the ED may be different from those reported in previous studies owing to the setting and time constraints in ED. We conducted our study in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines. A literature search was conducted using databases on US National Library of Medicine's database of biomedical literature, Ovid MEDLINE, online database of biomedical articles, and the collection of databases of systematic reviews and other evidence. The inclusion criteria were the use of bedside ultrasound as a diagnostic tool for acute appendicitis in the ED and the available data on diagnostic parameters such as sensitivity, specificity, and positive and negative predictive values (NPV). We constructed forest plots and summary receiver operating characteristic curves to evaluate the diagnostic accuracy of bedside ultrasound for acute appendicitis in the ED. A total of 21 studies that met the inclusion criteria of this study were included for analysis. The overall pooled sensitivity was 0.81 (95% CI, 0.78-0.83), whereas the pooled specificity was 0.87 (95% CI, 0.85-0.88). However, the I2 test showed 91.7% and 90.9% heterogeneity in the sensitivity and specificity values, respectively. The summary receiver operating characteristic curves showed high levels of accuracy, as evidenced by an area under the curve of 0.9249 (standard error: 0.0180). The use of ultrasound for the diagnosis of acute appendicitis in the ED showed that ultrasound has high overall sensitivity and specificity for the diagnosis of acute appendicitis. however, high heterogeneity among the included studies was observed.
+Transthoracic echocardiography is key for assessing right ventricle (RV) dysfunction in acute symptomatic pulmonary embolism (PE), but limited availability hinders its use. Focused cardiac ultrasound (FoCUS) offers a rapid bedside alternative. We performed a systematic review through PubMed literature (2000-2025) on FoCUS performed by non-cardiologists in PE. Seven studies assessed its diagnostic utility and one its prognostic role. The most useful FoCUS parameters were RV/LV ratio greater than 1, RV hypokinesia, paradoxical septal motion, McConnell's sign, and reduced tricuspid annular plane systolic excursion. Despite growing interest, direct evidence supporting the diagnostic accuracy and prognostic value of FoCUS remains limited.
+
+--- PAPER PUBMED ---
+Título: The Role of Mechanical Circulatory Support Devices in Pulmonary Embolism: A Comprehensive Review.
+Revista: Interventional cardiology clinics
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42209070
+DOI: 10.1016/j.iccl.2026.03.006
+URL: https://pubmed.ncbi.nlm.nih.gov/42209070/
+
+Abstract:
+Pulmonary embolism (PE) remains a leading cause of cardiovascular mortality, particularly in its high-risk and intermediate-high risk presentations where acute right ventricular (RV) failure is the primary driver of hemodynamic collapse. This review comprehensively examines the pathophysiology of RV failure in PE, their indications based on current evidence and guidelines, practical considerations for implementation, management strategies, complications, and integration with other therapeutic modalities. We also highlight the crucial role of a multidisciplinary team and discuss future directions in this rapidly evolving field. Emphasis is placed on practical application for the interventional cardiologist.
+
+--- PAPER PUBMED ---
+Título: Point-of-care ultrasound in hemodynamically unstable pulmonary embolism.
+Revista: Critical care (London, England)
+Fecha: 2026
+Tipo: Journal Article, Review, Letter
+PMID: 42169048
+DOI: 10.1007/s11239-025-03236-6
+URL: https://pubmed.ncbi.nlm.nih.gov/42169048/
+
+Abstract:
+The recent guideline from the American Heart Association on acute pulmonary embolism provides an updated framework for diagnosis, risk stratification, and management. Computed tomography pulmonary angiography remains the reference standard for confirming pulmonary embolism. However, in critically ill patients with hemodynamic or respiratory instability, transport for definitive imaging may be unsafe or impractical. In this context, bedside evaluation becomes central to early decision-making. Point-of-care ultrasound (POCUS), particularly when performed as a multi-organ assessment integrating cardiac, pulmonary, and venous ultrasound, can rapidly identify signs of right ventricular dysfunction, detect thrombus in transit, and exclude alternative life-threatening causes of shock. Emerging evidence suggests that multi-organ POCUS has high diagnostic performance in critically ill patients with suspected pulmonary embolism. In unstable patients, bedside ultrasound may therefore provide clinically actionable information to support timely therapeutic decisions when definitive imaging is not immediately feasible.
 
 CONTEXTO WEB COMPLEMENTARIO:
 --- FUENTE WEB ---
-Título: Diagnostic errors related to acute abdominal pain in the emergency department - PubMed
-URL: https://pubmed.ncbi.nlm.nih.gov/26531859
-Score: 0.68318754
+Título: What's new in emergency medicine - UpToDate
+URL: https://www.uptodate.com/contents/whats-new-in-emergency-medicine/print
+Score: 0.7915799
 
 Texto:
-Clipboard, Search History, and several other advanced features are temporarily unavailable.
+Page loading    
 
- [Skip to main page content](#article-details) 
+What's new in emergency medicine
 
-![U.S. flag](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png)
+ 
 
-An official website of the United States government
+* Ver tema
 
-![Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
 
-**The .gov means it’s official.**   
- Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
 
-![Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
 
-**The site is secure.**   
- The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+* Herramientas
 
-[![NIH NLM Logo](https://cdn.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg)](https://www.ncbi.nlm.nih.gov/)
+No drug references linked in this topic.
 
-[Log in](https://account.ncbi.nlm.nih.gov)
+* Find in topic
+* Formulario
+* [Imprimir](/contents/whats-new-in-emergency-medicine/print/print)
+* Compartir
+* Feedback
 
-#### Account
+ 
 
-Logged in as:  
- **username**
+##### Print Options
 
-* [Dashboard](/myncbi/)
-* [Publications](/myncbi/collections/bibliography/)
-* [Account settings](/account/settings/)
-* [Log out](/account/signout/)
+![Wolters Kluwer Health](data:image/svg+xml,%3csvg%20width='26'%20height='26'%20viewBox='0%200%2026%2026'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='13'%20cy='13'%20r='13'%20fill='%23007AC3'/%3e%3cmask%20id='mask0_361_239'%20style='mask-type:luminance'%20maskUnits='userSpaceOnUse'%20x='0'%20y='0'%20width='26'%20height='26'%3e%3ccircle%20cx='13'%20cy='13'%20r='13'%20fill='white'/%3e%3c/mask%3e%3cg%20mask='url(%23mask0_361_239)'%3e%3crect%20x='3.82352'%20y='3.82355'%20width='18.3529'%20height='18.3529'%20fill='%2385BC20'/%3e%3crect%20y='9.94116'%20width='26'%20height='6.11765'%20fill='%23A6D1EA'/%3e%3crect%20x='9.94116'%20y='9.94116'%20width='16.0588'%20height='6.11765'%20fill='%23409BD2'/%3e%3crect%20x='9.94116'%20width='6.11765'%20height='26'%20fill='%23A6D1EA'/%3e%3crect%20x='9.94116'%20y='9.94116'%20width='6.11765'%20height='16.0588'%20fill='%23409BD2'/%3e%3crect%20x='9.94116'%20y='9.94116'%20width='12.2353'%20height='12.2353'%20fill='%23A4CD58'/%3e%3crect%20x='3.82352'%20y='3.82355'%20width='12.2353'%20height='12.2353'%20fill='%23D4E8B1'/%3e%3crect%20width='9.94118'%20height='9.94118'%20fill='%23409BD2'/%3e%3crect%20x='9.94116'%20y='9.94116'%20width='6.11765'%20height='6.11765'%20fill='%23E5202E'/%3e%3crect%20x='3.82352'%20y='3.82355'%20width='6.11765'%20height='6.11765'%20fill='%23A4CD58'/%3e%3crect%20x='16.0588'%20y='16.0588'%20width='6.11765'%20height='6.11765'%20fill='%2385BC20'/%3e%3c/g%3e%3cg%20clip-path='url(%23clip0_361_239)'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M23.9375%2023.75H24.421C24.5195%2023.75%2024.606%2023.7616%2024.6691%2023.7854C24.8725%2023.8426%2024.9718%2023.991%2024.9718%2024.1613C24.9718%2024.4023%2024.7825%2024.5269%2024.606%2024.5677V24.5746C24.7116%2024.6256%2024.8768%2024.9225%2025.0625%2025.25H24.6996C24.4954%2024.8939%2024.3742%2024.6583%2024.3068%2024.6529H24.253V25.25H23.9375V23.75ZM24.3288%2024.4132C24.4911%2024.4132%2024.6336%2024.3512%2024.6336%2024.1967C24.6336%2024.1047%2024.5925%2024.0353%2024.5082%2024.0142C24.4614%2023.9944%2024.4096%2023.991%2024.3366%2023.991H24.253V24.4132H24.3288Z'%20fill='%23474747'/%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M26%2024.5C26%2025.3283%2025.3283%2026%2024.5%2026C23.6717%2026%2023%2025.3283%2023%2024.5C23%2023.6717%2023.6717%2023%2024.5%2023C25.3283%2023%2026%2023.6717%2026%2024.5ZM24.4993%2023.316C23.8452%2023.316%2023.3153%2023.8466%2023.3153%2024.5C23.3153%2025.1534%2023.8459%2025.684%2024.4993%2025.684C25.1534%2025.684%2025.684%2025.1534%2025.684%2024.5C25.684%2023.8466%2025.1534%2023.316%2024.4993%2023.316Z'%20fill='%23474747'/%3e%3c/g%3e%3cdefs%3e%3cclipPath%20id='clip0_361_239'%3e%3crect%20width='3'%20height='3'%20fill='white'%20transform='translate(23%2023)'/%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e) ![UpToDate](/app/assets/utd-logo-CA6-ErWD.svg)
 
-[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys) [NCBI Homepage](https://www.ncbi.nlm.nih.gov) [MyNCBI Homepage](/myncbi/) [Main Content](#maincontent) [Main Navigation](#)
+Official reprint from UpToDate®
 
-* [Clipboard](#)
-* [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F26531859%2F%23open-bibliography-panel)
-* [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F26531859%2F%23open-collections-panel)
-* [Citation manager](#)
+[www.uptodate.com](https://www.uptodate.com)
 
-Display options
+© 2026 UpToDate, Inc. y/o sus afiliadas. Todos los derechos reservados.
 
-Format
+![](/images/logos/utd-wheel-icon.svg)
+![UpToDate](/images/logos/utd-logo.svg)
 
-## Save citation to file
+Official reprint from UpToDate®
+  
+[www.uptodate.com](https://www.uptodate.com)
+© 2026 UpToDate, Inc. and/or its affiliates. All Rights Reserved.
 
-## Email citation
+What's new in emergency medicine
 
-Email address has not been verified. Go to  [My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/)  to confirm your email and then refresh this page.
+Authors:
+:   [Michael Ganetsky, MD](/contents/whats-new-in-emergency-medicine/contributors)
+:   [Jonathan S Grayzel, MD](/contents/whats-new-in-emergency-medicine/contributors)
+:   [James F Wiley, II, MD, MPH](/contents/whats-new-in-emergency-medicine/contributors)
 
-### Add to Collections
+All topics are updated as new evidence becomes available and our [peer review process](/home/editorial-policy) is complete.
 
-### Add to My Bibliography
+Literature review current through: Jul 2026.
 
-## Your saved search
+This topic last updated: Aug 04, 2026.
 
-## Create a file for external citation management software
+Please read the [Disclaimer](#disclaimerContent) at the end of this page.
 
-## Your RSS Feed
+The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.
 
-Actions
+ADULT RESUSCITATION
 
-* [Search in PubMed](/?term=%22Emerg+Med+J%22%5Bjour%5D&sort=date&sort_order=desc)
-* [Search in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Emerg+Med+J%22%5BTitle+Abbreviation%5D)
-* [Add to Search](#)
+Anticoagulation in extracorporeal membrane oxygenation (July 2026)
 
-. 2016 Apr;33(4):253-9.
+Data guiding anticoagulation during extracorporeal membrane oxygenation (ECMO) are limited. In a recent randomized trial of 330 patients (60 percent venoarterial ECMO, 40 percent venovenous ECMO), low-dose [unfractionated heparin](/contents/heparin-unfractionated-drug-information?topicRef=8365&source=see_link) (UFH) resulted in a nonsignificant reduction in severe bleeding compared with standard-dose UFH (58 versus 65 percent), without increasing severe thromboembolic complications (11 versus 10 percent) [[1](/contents/whats-new-in-emergency-medicine/abstract/1)]. Although promising, interpretation is limited because the standard-dose regimen may not reflect current practice, anti-factor Xa monitoring was inconsistent and the study was open label. More robust data are needed before we can routinely use low-dose UFH for anticoagulating ECMO patients. (See ["Extracorporeal life support in adults: Management of venoarterial extracorporeal membrane oxygenation (VA ECMO)", section on 'Anticoagulation'](/contents/extracorporeal-life-support-in-adults-management-of-venoarterial-extracorporeal-membrane-oxygenation-va-ecmo?sectionName=Anticoagulation&topicRef=8365&anchor=H372499665&source=see_link#H372499665).)
 
- doi: 10.1136/emermed-2015-204754.   Epub 2015 Nov 3.
+Liberal versus restrictive oxygenation targets after cardiac arrest (June 2026)
 
-# Diagnostic errors related to acute abdominal pain in the emergency department
-
-[Laura Medford-Davis](/?term=Medford-Davis+L&cauthor_id=26531859)[1](#full-view-affiliation-1 "Department of Emergency Medicine, Robert Wood Johnson Foundation Clinical Scholars, University of Pennsylvania, Philadelphia, Pennsylvania, USA.") , [Elizabeth Park](/?term=Park+E&cauthor_id=26531859)[2](#full-view-affiliation-2 "Section of Emergency Medicine, Baylor College of Medicine and Harris Health System, Ben Taub General Hospital Emergency Center, Houston, Texas, USA.") , [Gil Shlamovitz](/?term=Shlamovitz+G&cauthor_id=26531859)[3](#full-view-affiliation-3 "Department of Emergency Medicine, University of Southern California Keck School of Medicine, Los Angeles, California, USA.") , [James Suliburk](/?term=Suliburk+J&cauthor_id=26531859)[4](#full-view-affiliation-4 "Michael E DeBakey Department of Surgery, Baylor College of Medicine and Harris Health System, Houston, Texas, USA.") , [Ashley N D Meyer](/?term=Meyer+AN&cauthor_id=26531859)[5](#full-view-affiliation-5 "Houston Veterans Affairs Center for Innovations in Quality, Effectiveness and Safety, Michael E. DeBakey Veterans Affairs Medical Center and Baylor College of Medicine, Houston, Texas, USA.") , [Hardeep Singh](/?term=Singh+H&cauthor_id=26531859)[5](#full-view-affiliation-5 "Houston Veterans Affairs Center for Innovations in Quality, Effectiveness and Safety, Michael E. DeBakey Veterans Affairs Medical Center and Baylor College of Medicine, Houston, Texas, USA.")
-
-Affiliations
-
-### Affiliations
-
-* 1 Department of Emergency Medicine, Robert Wood Johnson Foundation Clinical Scholars, University of Pennsylvania, Philadelphia, Pennsylvania, USA.
-* 2 Section of Emergency Medicine, Baylor College of Medicine and Harris Health System, Ben Taub General Hospital Emergency Center, Houston, Texas, USA.
-* 3 Department of Emergency Medicine, University of Southern California Keck School of Medicine, Los Angeles, California, USA.
-* 4 Michael E DeBakey Department of Surgery, Baylor College of Medicine and Harris Health System, Houston, Texas, USA.
-* 5 Houston Veterans Affairs Center for Innovations in Quality, Effectiveness and Safety, Michael E. DeBakey Veterans Affairs Medical Center and Baylor College of Medicine, Houston, Texas, USA.
-
-* PMID:  **26531859**
-* DOI:   [10.1136/emermed-2015-204754](https://doi.org/10.1136/emermed-2015-204754)
-
-Item in Clipboard
-
-# Diagnostic errors related to acute abdominal pain in the emergency department
-
-Laura Medford-Davis et al.   Emerg Med J.   2016 Apr.
-
-Display options
-
-Format
-
-Actions
-
-* [Search in PubMed](/?term=%22Emerg+Med+J%22%5Bjour%5D&sort=date&sort_order=desc)
-* [Search in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Emerg+Med+J%22%5BTitle+Abbreviation%5D)
-* [Add to Search](#)
-
-. 2016 Apr;33(4):253-9.
-
- doi: 10.1136/emermed-2015-204754.   Epub 2015 Nov 3.
-
-### Authors
-
-[Laura Medford-Davis](/?term=Medford-Davis+L&cauthor_id=26531859)[1](#short-view-affiliation-1 "Department of Emergency Medicine, Robert Wood Johnson Foundation Clinical Scholars, University of Pennsylvania, Philadelphia, Pennsylvania, USA.") , [Elizabeth Park](/?term=Park+E&cauthor_id=26531859)[2](#short-view-affiliation-2 "Section of Emergency Medicine, Baylor College of Medicine and Harris Health System, Ben Taub General Hospital Emergency Center, Houston, Texas, USA.") , [Gil Shlamovitz](/?term=Shlamovitz+G&cauthor_id=26531859)[3](#short-view-affiliation-3 "Department of Emergency Medicine, University of Southern California Keck School of Medicine, Los Angeles, California, USA.") , [James Suliburk](/?te
+The optimal peripheral oxygen saturation (SpO2) target in mechanically ventilated cardiac arrest survivors is uncertain. In a recent randomized trial of 1840 such patients targeting an SpO₂ of 95 percent with an allowable minimum fraction of inspired oxygen (FiO₂) of 0.21 resulted in similar rates of fav
 
 --- FUENTE WEB ---
-Título: Guideline for the Diagnostic Pathway in Patients with Acute Abdominal Pain | Semantic Scholar
-URL: https://www.semanticscholar.org/paper/Guideline-for-the-Diagnostic-Pathway-in-Patients-Gans-Pols/c25fc6fb6289b300f97aec3e5dee88dbfc66932b
-Score: 0.6641271
-
-Texto:
-* DOI:[10.1159/000371583](https://doi.org/10.1159/000371583)
-* Corpus ID: 5721656
-
-# Guideline for the Diagnostic Pathway in Patients with Acute Abdominal Pain
-
-```
-@article{Gans2015GuidelineFT,
-  title={Guideline for the Diagnostic Pathway in Patients with Acute Abdominal Pain},
-  author={Sarah Gans and Margreet A. Pols and Jaap Stoker and Marja A Boermeester},
-  journal={Digestive Surgery},
-  year={2015},
-  volume={32},
-  pages={23 - 31},
-  url={https://api.semanticscholar.org/CorpusID:5721656}
-}
-```
-
-* [S. Gans](/author/S.-Gans/40610573), [M. Pols](/author/M.-Pols/3383401),  [M. Boermeester](/author/M.-Boermeester/4803285)
-* Published in [Digestive Surgery](/venue?name=Digestive%20Surgery) 28 January 2015
-* Medicine
-
-Developing an evidence-based guideline for the diagnostic pathway of patients with abdominal pain of non-traumatic origin and proposing the use of the following definition for acute abdominal pain: pain of nontraumatic origin with a maximum duration of 5 days.
-
-[View on PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25659265 "https://www.ncbi.nlm.nih.gov/pubmed/25659265")
-
-## Figures from this paper
-
-* [![figure 1](https://figures.semanticscholar.org/c25fc6fb6289b300f97aec3e5dee88dbfc66932b/7-Figure1-1.png)
-
-  figure 1](/paper/Guideline-for-the-Diagnostic-Pathway-in-Patients-Gans-Pols/c25fc6fb6289b300f97aec3e5dee88dbfc66932b/figure/0)
-
-## 187 Citations
-
-[### Akutes Abdomen: Diagnostik](/paper/Akutes-Abdomen%3A-Diagnostik-Bokemeyer-Ochs/883abc73f073ce0718c113599b103da3744a0b17)
-
-[A. Bokemeyer](/author/A.-Bokemeyer/48182877)[K. Ochs](/author/K.-Ochs/2054158269)[V. Fuhrmann](/author/V.-Fuhrmann/3716428)
-
-Medicine
-
-[Deutsche Medizinische Wochenschrift](/venue?name=Deutsche%20Medizinische%20Wochenschrift)
-
-* 2020
-
-The clinical assessment is the leading diagnostic tool that determines further diagnostic approaches for patients with an acute abdomen and thus enables adequate and timely therapy.
-
-* [14](/paper/883abc73f073ce0718c113599b103da3744a0b17#citing-papers)
-* [Highly Influenced](/paper/883abc73f073ce0718c113599b103da3744a0b17?sort=is-influential#citing-papers)
-
-[### Assessment and management of recurrent abdominal pain in the emergency department](/paper/Assessment-and-management-of-recurrent-abdominal-in-Daniels-Griffiths/39ef095736a10216afce223505b7b6b3663cd29c)
-
-[J. Daniels](/author/J.-Daniels/7187341)[M. Griffiths](/author/M.-Griffiths/2053649891)[Emma Fisher](/author/Emma-Fisher/46693811)
-
-Medicine
-
-[Emergency Medicine Journal](/venue?name=Emergency%20Medicine%20Journal)
-
-* 2019
-
-An alternative evidence-based biopsychosocial approach using the mnemonic ‘ERROR’ is offered, recommending five steps to assessment and clinical management of recurrent abdominal pain in the emergency department, and critiquing guidelines and approaches to diagnosis and management.
-
-* [14](/paper/39ef095736a10216afce223505b7b6b3663cd29c#citing-papers)
-* [Highly Influenced](/paper/39ef095736a10216afce223505b7b6b3663cd29c?sort=is-influential#citing-papers)
-* [PDF](/paper/39ef095736a10216afce223505b7b6b3663cd29c)
-
-[### Towards clinically interpretable machine learning in emergency surgery: feature importance and insights across clinical time points in abdominal pain cases](/paper/Towards-clinically-interpretable-machine-learning-Henn-Hatterscheidt/93a95bc177fd30a4d252cfa0d51d470acbb6dfca)
-
-[Jonas Henn](/author/Jonas-Henn/1734720332)[Simon Hatterscheidt](/author/Simon-Hatterscheidt/2231142711) [H. Matthaei](/author/H.-Matthaei/3981952)
-
-Medicine, Computer Science
-
-[Langenbeck's archives of surgery (Print)](/venue?name=Langenbeck%27s%20archives%20of%20surgery%20%28Print%29)
-
-* 2026
-
-A random-forest classifier for predicting urgent abdominal surgery is evaluated and how predictive value and feature importance evolve across clinical timepoints is examined, finding timepoint-specific feature contribution may facilitate integration of ML into surgical decision-making.
-
-* [Highly Influenced](/paper/93a95bc177fd30a4d252cfa0d51d470acbb6dfca?sort=is-influential#citing-papers)
-
-[### Diagnostic Value of Physical Examination, Ultrasound, and Radiography Compared to Computed Tomography in the Evaluation of Nontraumatic Left Lower Quadrant Acute Abdominal Pain](/paper/Diagnostic-Value-of-Physical-Examination%2C-and-to-in-Kiani-Yazd/6317b45c6574a9e7e11cf6af5d2a656d7c863769)
-
-[Fakhroddin Kiani](/author/Fakhroddin-Kiani/2209769756)[S. M. Meshkati Yazd](/author/S.-M.-Meshkati-Yazd/2156852665) [Reza Shahriarirad](/author/Reza-Shahriarirad/2092387486)
-
-Medicine
-
-[Emergency Medicine International](/venue?name=Emergency%20Medicine%20International)
-
-* 2025
-
-This study aimed to evaluate the diagnostic efficacies of physical examination, plain abdominal radiography, and ultrasonography compared to the computed tomography scan in patients with nontraumatic LLQ AAP coming into the emergency department.
-
-* [1](/paper/6317b45c6574a9e7e11cf6af5d2a656d7c863769#citing-papers)
-* [Highly Influenced](/paper/6317b45c6574a9e7e11cf6af5d2a656d7c863769?sort=is-influential#citing-papers)
-
-[### Quantifying and Statistically Modeling Residual Pneumoperitoneum after Robotic-Assisted Laparoscopic Prostatectomy: A Prospective, Single-Center, Observational Study](/paper/Quantifying-and-Statistically-Modeling-Residual-A-Ramakrishnan-Niemann/e3d34ab844bbb654e52ae479344cd4f0328d4225)
-
-[V. Ramakrishnan](/author/V.-Ramakrishnan/48220415)[T. Niemann](/author/T.-Niemann/50276658) [L. Hefermehl](/author/L.-Hefermehl/5047275)
-
-Medicine, Engineering
-
-[Diagnostics](/venue?name=Diagnostics)
-
-* 2022
-
-This is the first study to systematically assess RPP after a standardized laparoscopic procedure using CT, and there was a significant correlation between RPP and obesity (p = 0.04665), in which higher BMIs resulted in lower initial insufflation volumes and lower RPP.
-
-* [Highly Influenced](/paper/e3d34ab844bbb654e52ae479344cd4f0328d4225?sort=is-influential#citing-papers)
-[PDF]
-
-[### ROLE OF IMAGING IN ACUTE ABDOMEN IN ADULT](/paper/ROLE-OF-IMAGING-IN-ACUTE-ABD
-
---- FUENTE WEB ---
-Título: Root Cause Analysis of Cases Involving Diagnosis A ...
-URL: https://www.leapfroggroup.org/sites/default/files/Files/Root%20Cause%20Analysis%20of%20Cases%20Involving%20Diagnosis%20A%20Handbook%20for%20Healthcare%20Organizations.pdf
-Score: 0.6485337
-
-Texto:
-1 ROOT CAUSE ANALYSIS OF CASES INVOLVING DIAGNOSIS A Handbook for Healthcare Organizations Mark L Graber, MD FACP & Gerry Castro, PhD, MPH RCA Advisory Group: Missy Danforth and Jean-Luc Tilly, MPA; The Leapfrog Group Pat Croskerry, PhD MD CCFP FRCP; Dalhousie University Rob El-Kareh, MD MPH MS; University of California, San Diego Carole Hemmalgarn, MS MS; Patients for Patient Safety Ruth Ryan, BSN, MSW; Medical Writer Michael P Tozier, MD; Maine Medical Center Bob Trowbridge, MD; Maine Medical Center Julie Wright, MSN Ed RN; Intermountain Healthcare Laura Zwaan, PhD; Erasmus Medical Center, NL Editor: Christine Holzmueller, MS; Illustrator: Kristen Garcia, Garcia Alfaro LLC With appreciation for funding from the Gordon and Betty Moore Foundation through a grant to The Leapfrog Group, and support from The Society to Improve Diagnosis in Medicine 2 ©Leapfrog Group, 2024 ROOT CAUSE ANALYSIS OF CASES INVOLVING DIAGNOSIS A Handbook for Healthcare Organizations TABLE OF CONTENTS 2 EXECUTIVE SUMMARY 3 INTRODUCTION 4 RECOMMENDED PRACTICES Getting Started 9 Case Finding 10 Is this a diagnostic error? 13 Triaging: Peer review or RCA? 16 Convening the RCA Team 17 The RCA process Identifying Root Causes 19 Where did things go wrong? 20 The fishbone diagram 22 Clinical reasoning 25 Common cognitive biases 28 Crafting Interventions 30 Conclusions & Safety 2 34 REFERENCES 37 “Safety is an emergent property of systems; it does not reside in a person, device or department of an organization or system. Safety cannot be purchased or manufactured; it is not a feature that is separate from the other components of the system…The state of safety in any system is always dynamic; continuous systemic change insures that hazard and its management are constantly changing.” “People continuously create safety.” Richard I Cook. How Complex Systems Fail (1) 3 EXECUTIVE SUMMARY Diagnostic errors comprise the largest threat to patient safety in healthcare today. Improving the quality and safety of diagnosis will require learning from cases of diagnostic error (Safety 1) and from cases where the diagnostic process works well (Safety 2). Most healthcare organizations use root cause analysis (RCA) to study safety breakdowns, and there are many comprehensive resources already available on how to conduct these investigations, from IHI, ASHRM, The Joint Commission, and the VA. Unfortunately, none of these are suitable for analyzing cases of diagnostic error (or success); cases involving diagnosis require considering the cognitive aspects of medical decision-making, a critical area that is not adequately addressed by any of the existing manuals. This RCA Handbook provides up-to-date and authoritative guidance on how the existing approaches to conducting an RCA can be modified to study cases involving diagnosis. There are several differences: In cases involving diagnosis, the investigation should begin immediately after the incident, the clinicians involved should be members of the RCA team, and the review must include consideration of how the clinical reasoning process went astray (or succeeded), in addition to using a human-factors perspective to consider the system-related contextual factors that might have played a role in the incident. The Handbook presents detailed instructions for conducting RCA’s of cases involving diagnosis: • How to find cases of diagnostic error or success • How to confirm that the case does indeed reflect a diagnostic error • Whether a particular case should be peer reviewed, or go to RCA • Who should be on the RCA team? Clinicians and patients should be involved • How to map where in the diagnostic process problems were encountered • Using fishbone diagrams to consider the 4 major domains relevant to most cases: The case, the patient, the clinicians, and the context of care • How to evaluate the cognitive aspects of the decisions that were made by considering both the subconscious, intuitive aspects of clinical reasoning as well as the deliberate, conscious counterparts • Guidance on selecting appropriate interventions A collection of useful tools and resources is presented in the accompanying Appendix. Although the factors that contribute to diagnostic errors are well established, healthcare organizations have been slow to address the problem in a meaningful way. The RCA Handbook represents a novel resource for any organizations seriously interested in improving the quality and safety of diagnosis for their patients. 4 INTRODUCTION This Handbook is intended to be a resource for healthcare risk managers, patient safety leads and clinicians responsible for conducting root cause analyses (RCAs). Originally developed to improve the safety of commercial aviation, RCA has become the primary tool for reviewing adverse safety events in health care organizations today. The Joint Commission requires accredited hospitals and facilities to identify and address Sentinel Events, and they recommend using RCAs to do so (2, 3). Several healthcare organizations have published comprehensive RCA manuals and guidance: • IHI, the Institute for Healthcare Improvement, (4) • ASHRM, the American Society for Healthcare Risk Management (5) • TJC, The Joint Commission, (3) and the • VA, the Department of Veterans Affairs (6). The IHI’s “RCA2” handbook, which is free and endorsed by over 20 of the nation’s leading health care and patient safety organizations, is perhaps the most widely used approach to conducting RCAs in US health care organizations. Why do I need another RCA model and handbook? The various handbooks of healthcare-related RCAs listed above (we will refer to them as the system-focused RCAs) focus largely on the systems-related and organizational issues to be examined in a particular case. Even the ones that include the consideration of ‘human factors’ were not designed to consider the cognitive aspects of the clinical reasoning processes involved in deriving a medical diagnosis (7, 8), and as a result none of 
-
---- FUENTE WEB ---
-Título: Assessing Abdominal Pain in the ED: Ensuring Safe Management & Care
-URL: https://www.ebmedicine.net/topics/abdominal/abdominal-pain
-Score: 0.62824833
-
-Texto:
-![](https://www.facebook.com/tr?id=245213793436832&ev=PageView&noscript=1)
-![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png)
-![EB Medicine logo](/template_images/EBM_logo_2.png)
-![Click to search](/template_images/_ebm_icon_search.png)
-![Click to check your cart](/template_images/_ebm_cart_icon.png)
-![navigation bar background](/template_images/_icon_bars_trans.png)
-![Click to search](/template_images/_ebm_icon_search.png)
-![EB Medicine logo](/template_images/EBM_logo_2.png)
-![](/template_images/_icon_grid_trans.png)
-![Click to search](/template_images/_ebm_icon_search.png)
-![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png)
-![Click to check your cart](/template_images/_ebm_cart_icon.png)
-![](/publicationImages/EMP-Heading.png "Emergency Medicine Practice")
-
-# Assessing Abdominal Pain in Adults: A Rational, Cost-Effective, and Evidence-Based Strategy
-
-|  |  |
-| --- | --- |
-|  | Get a FREE Issue of Emergency Medicine Practice See why tens of thousands of emergency clinicians choose *Emergency Medicine Practice* to stay sharp, save time, and improve patient care.  Email Address  Website |
-
-### Get a FREE Issue of Emergency Medicine Practice
-
-![](/template_images/New-TOC-desktop-icon.png)
-![](/template_images/New-TOC-mobile-icon.png)
-![](/template_images/icon-close.png)
-
-## Patients with abdominal pain are common in the ED, but you need a strategy for quickly identifying patients who are at high risk for life-threatening causes of pain, and you need to order testing and consultation that improves the accuracy of your clinical assessment.
-
-## What are the 4 groups of patients with abdominal pain who are frequently misdiagnosed?
-
-## Why do elderly patients with appendicitis often have little or no abdominal pain?
-
-## In women of childbearing age, is there a realistic algorithm to distinguish gastroenteritis from appendicitis, ectopic pregnancy, and PID?
-
-## What role should prior abdominal surgeries have in assessing abdominal pain?
-
-## What are the 18 high-yield historical questions to ask patients who present with abdominal pain?
-
-## Fever, high WBC, low blood pressure, tachycardia: how reliable are these in pointing to a cause for abdominal pain?
-
-## Pain location, migration, tenderness, and guarding: what each one can (and can’t) tell you about what is going on.
-
-## When pelvic and testicular exams are must-dos.
-
-## What are the highest-yield lab tests? CBC? Lipase or amylase? CRP?
-
-## When x-ray is all you need, and when CT is a must.
-
-## Will opioids make diagnosis more difficult?
-
-### Abstract
-
-The management of abdominal pain has changed significantly in the past 20 years, with increasing emphasis on identifying patients who are at high risk for occult pathology and worse outcomes. Emphasizing safe disposition over diagnosis, this issue identifies the important aspects of the history and physical examination, explores strengths and weaknesses of laboratory evaluations, and summarizes the pros and cons of the many types of imaging now available. With abdominal pain still the most common chief complaint seen in the emergency department, a new look at the evolution of assessment strategies is in order, such as new recommendations on the use of oral contrast, managing HIV patients on highly active antiretroviral therapy, maximizing use of bedside ultrasound, when and how to offer pain relief, and the value of serial examinations and observation to reduce costs and improve care.
-
-### Case Presentations
-
-*As you begin your shift, a 68-year-old woman presents with severe abdominal pain. She requires 4 mg of morphine before you can even talk to her. Surprisingly, her abdomen is soft, and not particularly tender. She is tachycardic to the 120s, and her pulse feels irregular. Her blood pressure is 100/50 mm Hg. It seems strange that her pain is so incongruent with her exam, and you wonder: What is the best imaging study to help clarify things?*
-
-*In the next room, a 24-year-old man with no past medical history has presented with sudden, severe left lower quadrant pain followed by vomiting. He has normal vital signs except for tachycardia and a nontender abdomen. He seems too young to have diverticulitis, and since the pain is on the left side, you doubt appendicitis. A urinalysis is negative for blood, making renal colic less likely. Pain medication helps, and you wonder whether this is just gas or further diagnostic testing is needed…*
-
-### Introduction
-
-An experienced emergency clinician might compare the painful abdomen to the dark side of the moon—a terrain both indistinct and enigmatic. The patient’s history is frequently uncertain and the physical examination misleading. To further complicate the issue, “textbook” presentations of serious disease seem to exist only in print. After an extensive workup, patients with severe pain may prove to have gastroenteritis, while those with a seemingly benign belly are hiding a surgical catastrophe.
-
-This 20th anniversary issue of *Emergency Medicine Practice* will once again address the dilemma of abdominal pain and take another look at the structured approach to this complaint. The central principles include: (1) recognizing the high-risk patient, (2) selecting appropriate testing, and (3) using flexible clinical pathways. This issue emphasizes disposition over diagnosis, as it is not as important to identify an exact cause of abdominal pain as it is to recognize a surgical abdomen.
-
-### Critical Appraisal of the Literature
-
-The broad scope of abdominal pain makes it less amenable to the large randomized double-blind studies seen with sepsis, stroke, or pulmonary embolism. Much of the emergency medicine literature focuses on incidence, causes, and misdiagnosis of abdominal pain. Some researchers concentrate on radiation-reduction strategies or clinical scoring systems to detect a particular cause of abdominal pain (such as appendicitis). The A
-
---- FUENTE WEB ---
-Título: Development and implementation of an etiology-based diagnostic framework for acute abdominal pain in emergency settings | Hereditas | Springer Nature Link
-URL: https://link.springer.com/article/10.1186/s41065-025-00507-3
-Score: 0.62742686
+Título: Management of acute pulmonary embolism 2019: what is new in the updated European guidelines? | Internal and Emergency Medicine | Springer Nature Link
+URL: https://link.springer.com/article/10.1007/s11739-020-02340-0
+Score: 0.7813477
 
 Texto:
 Advertisement
 
-![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/41065/article&sz=728x90&pos=top&articleid=s41065-025-00507-3)
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/11739/article&sz=728x90&pos=top&articleid=s11739-020-02340-0)
 ![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
 
-# Development and implementation of an etiology-based diagnostic framework for acute abdominal pain in emergency settings
+# Management of acute pulmonary embolism 2019: what is new in the updated European guidelines?
 
 You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
 
-![](https://media.springernature.com/w72/springer-static/cover-hires/journal/41065?as=webp)
+![](https://media.springernature.com/w72/springer-static/cover-hires/journal/11739?as=webp)
 
-1546 Accesses
+17k Accesses
 
-[Explore all metrics](/article/10.1186/s41065-025-00507-3/metrics)
+25 Citations
+
+[Explore all metrics](/article/10.1007/s11739-020-02340-0/metrics)
 
 ## Abstract
 
-### Background
-
-Diagnostic checklists have been demonstrated to reduce errors in clinical reasoning. Building on previous validation studies, this research presents the development and clinical application of an etiology-based diagnostic framework for evaluating acute abdominal pain. The framework integrates a structured checklist of abdominal pain etiologies with a process-oriented diagnostic strategy, aiming to enhance diagnostic accuracy and clinical outcomes. This approach also serves as a potential model for the creation of diagnostic tools applicable to other symptom complexes encountered in emergency medicine.
-
-### Methods
-
-A cognitive task analysis (CTA) was conducted with participation from five emergency medicine experts employing a think-aloud methodology. The experts described their diagnostic reasoning processes and queried relevant clinical data to extract foundational diagnostic principles. Based on these findings, a checklist categorizing etiologies of abdominal pain was constructed, drawing from anatomical and diagnostic considerations. The clinical utility of the checklist was evaluated through its application to a representative complex case.
-
-### Results
-
-The diagnostic checklist was organized into five principal etiological categories: local organ disorders, diseases of adjacent organs, systemic diseases, psychogenic disorders, and gynecological conditions. Its implementation facilitated the accurate identification of atypical acute renal infarction in a diagnostically challenging case, enabling prompt clinical intervention.
-
-### Conclusions
-
-CTA provides a robust method for modeling expert diagnostic reasoning and supports the development of structured, etiology-based diagnostic tools. This framework enhances diagnostic precision for individuals presenting with acute abdominal pain in emergency settings and may inform the development of similar tools for other clinical presentations.
+Pulmonary embolism (PE) is the third most frequent acute cardiovascular syndrome. Annual PE incidence and PE-related mortality rates rise exponentially with age, and consequently, the disease burden imposed by PE on the society continues to rise as the population ages worldwide. Recently published landmark trials provided the basis for new or changed recommendations included in the 2019 update of the European Society of Cardiology Guidelines (developed in cooperation with the European Respiratory Society). Refinements in diagnostic algorithms were proposed and validated, increasing the specificity of pre-test clinical probability and d-dimer testing, and thus helping to avoid unnecessary pulmonary angiograms. Improved diagnostic strategies were also successfully tested in pregnant women with suspected PE. Non-vitamin K antagonist oral anticoagulants (NOACs) are now the preferred agents for treating the majority of patients with PE, both in the acute phase (with or without a brief lead-in period of parenteral heparin or fondaparinux) and over the long term. Primary reperfusion is reserved for haemodynamically unstable patients. Besides, the 2019 Guidelines endorse multidisciplinary teams for coordinating the acute-phase management of high-risk and (in selected cases) intermediate-risk PE. For normotensive patients, physicians are advised to include the assessment of the right ventricle on top of clinical severity scores in further risk stratification, especially if early discharge of the patient is envisaged. Further important updates include guidance (1) on extended anticoagulation after PE, taking into account the improved safety profile of NOACs; and (2) on the overall care and follow-up of patients who have suffered PE, with the aim to prevent, detect and treat late sequelae of venous thromboembolism.
 
 ### Similar content being viewed by others
 
-![](https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png)
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1186%2Fs43044-026-00771-2/MediaObjects/43044_2026_771_Fig1_HTML.png)
 
-### [Assessing clinical reasoning ability in fourth-year medical students via an integrative group history-taking with an individual reasoning activity](https://link.springer.com/10.1186/s12909-022-03649-4?fromPaywallRec=false)
+### [Assessment of adherence to acute pulmonary embolism management guidelines: a single-centre registry](https://link.springer.com/10.1186/s43044-026-00771-2?fromPaywallRec=false)
 
-![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-030-26630-1?as=webp)
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-030-70904-4?as=webp)
 
-### [Knowledge Based Decision Support System for Detecting and Diagnosis of Acute Abdomen Using Hybrid Approach](https://link.springer.com/10.1007/978-3-030-26630-1_6?fromPaywallRec=false)
+### [Efficacy of PERT Care: Evidence](https://link.springer.com/10.1007/978-3-030-70904-4_46-2?fromPaywallRec=false)
 
-![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-031-79150-5?as=webp)
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-030-87090-4?as=webp)
 
-### [Acute Abdomen in Children](https://link.springer.com/10.1007/978-3-031-79150-5_84?fromPaywallRec=false)
+### [Pharmacologic Treatment of Pulmonary Embolism](https://link.springer.com/10.1007/978-3-030-87090-4_11?fromPaywallRec=false)
 
 ### Explore related subjects
 
-## Introduction
+## Acute pulmonary embolism: magnitude of the problem
 
-Acute abdominal pain is among the most frequently encountered symptoms in emergency medicine. In the United States and Europe, approximately 8–9% of patients presenting to emergency departments report abdominal pain as a chief complaint [[1](/article/10.1186/s41065-025-00507-3#ref-CR1 "Daniels J, Griffiths M, Fisher E. Assessment and management of recurrent abdominal pain in the emergency department. Emerg Med J. 2020;37(8):515–21. Epub 2019 Dec 6. PMID: 31810974. 
-                  https://doi.org/10.1136/emermed-2019-209113
-                  
-                ")]. The etiology of acute abdominal pain is often complex, with potential causes arising from both intra-abdominal and extra-abdominal sources, involving multiple organ systems. The majority of cases are characterized by a sudden onset and rapid progression, and may involve various life-threatening conditions [[2](/article/10.1186/s41065-025-00507-3#ref-CR2 "Fagerström A, Paajanen P, Saarelainen H, Ahonen-Siirtola M, Ukkonen M, Miettinen P, Paajanen H. Non-specific abdominal pain remains as the most common reason for acute abdomen: 26-year retrospective audit in one emergency unit. Scand J Gastroenterol. 2017;52(10):1072–7. Epub 2017 Jun 28. PMID: 28657380.")]. Consequently, the diagnostic process is frequently complicated by uncertainty and the risk of diagnostic error [[3](/article/10.1186/s41065-025-00507-3#ref-CR3 "Osterwalder I, Özkan M, Malinovska A, Nickel CH, Bingisser R. Acute abdominal pain: missed diagnoses, extra-abdominal conditions, and outcomes. J Clin Med. 2020;9(4):899. 10.3390/jcm9040899. Erratum in: J Clin Med. 2023;12(4):1403. PMID: 32218137; PMCID: PMC7230393. 
-                  https://doi.org/10.3390/jcm12041403
-                  
-                "), [4](/article/10.1186/s41065-025-00507-3#ref-CR4 "Pan HM, Li HL, Shen ZS, Guo H, Zhao Q, Li JG. Observation of the effectiveness of a diagnostic model for acute abdominal pain based on the etiology checklist and process thinking. Risk Manag Healthc Policy. 2021;14:835–45. PMID: 33664605; PMCID: PMC7924112.")].
+Venous thromboembolism (VTE), clinically presenting as deep vein thrombosis (DVT) or acute pulmonary embolism (PE), is the third most frequent acute cardiovascular syndrome after myocardial infarction and stroke [[1](/article/10.1007/s11739-020-02340-0#ref-CR1 "Raskob GE, Angchaisuksiri P, Blanco AN, Buller H, Gallus A, Hunt BJ et al (2014) Thrombosis: a major contributor to global disease burden. Arterioscler Thromb Vasc Biol 34(11):2363–2371")]. Annual incidence rates for PE lie between 39 and 115 per 100,000 population; for DVT, the rates are 53–162 per 100,000 [[2](/article/10.1007/s11739-020-02340-0#ref-CR2 "Wendelboe AM, Raskob GE (2016) Global burden of thrombosis: epidemiologic aspects. Circ Res 118(9):1340–1347")]. The incidence of VTE is almost eight times higher in individuals aged 80 years or older than in the fifth decade of life [[2](/article/10.1007/s11739-020-02340-0#ref-CR2 "Wendelboe AM, Raskob GE (2016) Global burden of thrombosis: epidemiologic aspects. Circ Res 118(9):1340–1347")]; consequently, and as society’s age, longitudinal studies keep showing a rising tendency in annual PE incidence rates [[3](#ref-CR3 "de Miguel-Diez J, Jimenez-Garcia R, Jimenez D, Monreal M, Guijarro R, Otero R et al (2014) Trends in hospital admissions for pulmonary embolism in Spain from 2002 to 2011. Eur Respir J 44(4):942–950"),[4](#ref-CR4 "Dentali F, Ageno W, Pomero F, Fenoglio L, Squizzato A, Bonzini M (2016) Time trends and case fatality rate of in-hospital treated pulmonary embolism during 11 years of observation in Northwestern Italy. Thromb Haemost 115(2):399–405"),[5](#ref-CR5 "Lehnert P, Lange T, Moller CH, Olsen PS, Carlsen J (2018) Acute pulmonary embolism in a national Danish cohort: increasing incidence and decreasing mortality. Thromb Haemost 118(3):539–546"),[6](/article/10.1007/s11739-020-02340-0#ref-CR6 "Keller K, Hobohm L, Ebner M, Kresoja KP, Munzel T, Konstantinides SV et al (2019) Trends in thrombolytic treatment and outcomes of acute pulmonary embolism in Germany. Eur Heart J 41(4):522–529")] over time.
 
-Although the *Practice Guidelines for Primary Care of Acute Abdomen* (2015) developed by the Japanese Society for Abdominal Emergency Medicine and the Dutch *Guideline for the Diagnostic Pathway in Patients with Acute Abdominal Pain* provide structured approaches to diagnosis [[5](/articl
+A recent analysis of vital registration data from the World Health Organisation (WHO) Mortality Database (2000–2015) reported an average of 38,929 PE-related deaths each year in 41 states of the WHO European Region (which includes Central Asia) with a total population of approximately 651 million [[7](/article/10.1007/s11739-020-02340-0#ref-CR7 "Barco S, Mahmoudpour SH, Valerio L, Klok FA, Munzel T, Middeldorp S et al (2020) Trends in mortality related to pulm
 
 --- FUENTE WEB ---
-Título: The Future of Acute Abdomen Management in Emergency Care
-URL: https://www.medscape.com/viewarticle/future-acute-abdomen-management-emergency-care-2024a1000jx4
-Score: 0.5942929
+Título: Pulmonary Embolism Clinical Trial Updates - Endovascular Today
+URL: https://evtoday.com/articles/2023-july-supplement/pulmonary-embolism-clinical-trial-updates
+Score: 0.7355091
 
 Texto:
-![](https://www.medscape.com/mspx/tr.gif?e=nsps)
-![Medscape Logo](https://img.medscapestatic.com/pi/logos/mscp-logo.png)
-![AI search Logo](//img.wbmdstatic.com/medscape_v1_static_vue/091e9c5e8270faf1/client/img/medscape-ai-emblem-DPNF9g6V.svg)
-![Medscape AI](//img.wbmdstatic.com/medscape_v1_static_vue/091e9c5e8270faf1/client/img/medscape-ai-emblem-DPNF9g6V.svg)
+MENU
 
-COMMENTARY
+Advertisement
 
-# The Future of Acute Abdomen Management in Emergency Care
+Advertisement
 
-Sylvain Beorchia, MD
+##### [July 2023 Supplement](https://evtoday.com/issues/2023-july-supplement)
 
-## DISCLOSURES
+Sponsored by The PERT Consortium™
 
-Gastroenterologist; Consultant, Yansys Medical, Vichy, France
+# Pulmonary Embolism Clinical Trial Updates
 
-Disclosure: Sylvain Beorchia, MD, discloses the following relevant financial relationships:   
-Shareholder: Yansys Medical
+Trial principal investigators provide insight into and updates to the APEX-AV, PE-TRACT, HI-PEITHO, and STORM-PE studies.
 
-Gastroenterologist; Consultant, Yansys Medical, Vichy, France
+[With Mona Ranade, MD](/search?q=mona+ranade); [Akhilesh Sista, MD, FSIR, FAHA](/search?q=akhilesh+sista); [Stavros V. Konstantinides, MD](/search?q=stavros+v+konstantinides); [Kenneth Rosenfield, MD, MHCDS](/search?q=kenneth+rosenfield); and [Rachel P. Rosovsky, MD, MPH](/search?q=rachel+p+rosovsky)
 
-Disclosure: Sylvain Beorchia, MD, discloses the following relevant financial relationships:   
-Shareholder: Yansys Medical
+[View PDF](https://assets.bmctoday.net/evtoday/pdfs/et0723_PERT_Supp_sec 3.pdf)
+[Reprints](https://evtoday.com/reprints?f=https://evtoday.com/articles/2023-july-supplement/pulmonary-embolism-clinical-trial-updates)
 
-The debate between traditional methods and modern technology in gastrointestinal emergency medicine can be seen in two recent publications. One, a review article by American surgeons Selwyn O. Rogers and Orlando C. Kirton, [published in*The New England Journal of Medicine*](https://www.nejm.org/doi/abs/10.1056/NEJMra2304821), advocated for the surgeon’s pivotal role in abdominal emergencies, supported by imaging, just like in the early 20th century. The other, [published in the *Canadian Association of Radiologists Journal*](https://journals.sagepub.com/doi/10.1177/08465371241250197), anticipated the imminent arrival of artificial intelligence (AI) in managing acute abdomen and minimizing human bias.
+## The APEX-AV Study
 
-Acute abdominal pain accounts for 4%-10% of emergency department visits, with hospitalization admission rates ranging from 18% to 42%. Today, the first-line physicians — emergency doctors or advanced practice professionals (nurses or physician assistants) — are often the first to evaluate a patient with acute abdominal pain.
+![](https://core4-cms.imgix.net/issue-2435/Ranade_Mona.jpg?auto=compress,format)
 
-These clinicians may administer analgesics, order laboratory tests, and request diagnostic imaging. On the basis of the results, they decide when to call for a surgical consultation. Despite advancements in imaging techniques, diagnostic errors and delays in surgical intervention for abdominal emergencies persist. This article summarizes the key points from these two North American reviews, with a synthesis of the findings.
+**Mona Ranade, MD**  
+Assistant Professor  
+Interventional Radiology  
+David Geffen School of Medicine at UCLA  
+Los Angeles, California  
+*Disclosures: Consultant to Inari Medical and Medtronic; National Principal Investigator and speaker for AngioDynamics, Inc.*
 
-### Importance of Analgesia
+The APEX-AV (Acute Pulmonary Embolism Extraction Trial with the AlphaVac System) study (NCT05318092) is an investigational device exemption study aimed at evaluating the efficacy and safety of the AlphaVac multipurpose mechanical aspiration (MMA) F1885 system (AngioDynamics, Inc.) for the treatment of acute intermediate-risk pulmonary embolism (PE) [Figure 1](https://core4-cms.imgix.net/issue-2435/0723_Supp3_Fig1.png?auto=compress,format "Figure 1.  AlphaVac MMA F1885 System. The cannula is indicated for the nonsurgical removal of thrombi or emboli from the venous vasculature as well as aspiration of contrast media and other fluids from the venous vasculature.<br>Courtesy of AngioDynamics, Inc."). The single-arm study is led by Coprincipal Investigators William Brent Keeling, MD, and Mona Ranade, MD. The study will enroll patients at up to 20 hospital-based sites in the United States. Patient enrollment commenced in October 2022 and is expected to complete by early 2024.1
 
-The myth that analgesia should not be prescribed for patients with abdominal pain in the emergency room because it masks the diagnosis has long been debunked. Studies and meta-analyses conducted between 2000 and 2015 highlighted the superiority of opioid treatment over placebo for pain relief, without increasing diagnostic errors in properly medicated patients. These studies also showed no worsening of outcomes and improved comfort for patients awaiting test results and surgical evaluation. The rapid administration of protocolized analgesic treatments, such as paracetamol, nefopam, [tramadol](https://reference.medscape.com/drug/ultram-conzip-tramadol-343324), [morphine](https://reference.medscape.com/drug/ms-contin-astramorph-morphine-343319) hydrochloride, and NSAIDs (in the absence of [sepsis](https://emedicine.medscape.com/article/234587-overview)), is essential for quality care. A patient who is not in pain is more easily assessable and transportable for a CT scan or ultrasonography.
+![](https://core4-cms.imgix.net/issue-2435/0723_Supp3_Fig1.png?auto=compress,format)
 
-During abdominal pain management, it’s important for the physician and emergency nurses to repeat clinical exams, including hemodynamic monitoring and pain scale assessments. The progression of some conditions may be slow or, conversely, may worsen rapidly. Rogers and Kirton strongly recommended administering modest doses of analgesics for patients with acute abdominal pain.
+Figure 1. AlphaVac MMA F1885 System. The cannula is indicated for the nonsurgical removal of thrombi or emboli from the venous vasculature as well as aspiration of contrast media and other fluids from the venous vasculature.  
+Courtesy of AngioDynamics, Inc.
 
-### Key Role of Imaging
+The AlphaVac F1885 thrombectomy system consists of an 18-F cannula (105-cm long) with an 85° angled tip and was cleared by the FDA for the removal of thrombus from the venous system.\* An ergonomic handle that acts as the engine or the vacuum source creates an off-circuit method of action and includes the volume-limiting switch, which allows the user to dictate the amount of aspirated material per pull of the handle, thereby minimizing blood loss during the procedure.
 
-With the decline of plain abdominal radiography, contrast-enhanced abdominopelvic CT has become the primary imaging technique for accurately identifying intra-abdominal inflammation, perforation, or ischemia. It has a high predictive value for specific abdominal diagnoses. In [one study](https://www.ajronline.org/doi/10.2214/ajr.174.5.1741391), it increased diagnostic certainty, reduced hospital admissions by 23.8%, and led to faster surgical interventions. However, contrast-enhanced CT is harmful in cases of renal failure, and noncontrast abdominal and pelvic CTs are about [30% less accurate](https://jamanetwork.com/journals/jamasurgery/fullarticle/2804484). Early vascular imaging in contrast-enhanced exams is particularly useful for evaluating acute abdomen and identifying secondary diagnoses.
+The primary efficacy endpoint of the APEX-AV study is the reduction in right ventricular/left ventricular (RV/LV) ratio from baseline to 48 hours postprocedure. The primary safety endpoint is the rate of major adverse events, including device-related death and major bleeding within the first 48 hours. Patients will be followed for 30 days after the index procedure. The study will also evaluate secondary efficacy endpoints, including thrombolytic use within 48 hours of the procedure, length of stay in the intensive care unit/hospital, and change in modified Miller Index from baseline to 48 hours postprocedure, as assessed by CTA. The secondary safety endpoints include rate of device-related complications (comprising clinical deterioration, cardiac injury, pulmonary vascular injury, major bleeding) and device-related death within 48 hours of the index procedure. This study will also conduct an exploratory analysis to evaluate unmet health care needs with study enrollments and outcomes.
 
-Rapid interpretation of cross-sectional images is vital so that surgical consultation can begin promptly. A wait of more than 2 hours for a final interpretation by a radiologist is associated with an increased risk for systemic complications and death. Teleradiology has become an indispensable tool for some emergency departments, offering 24/7 access to specialized radiologists, particularly in digestive imaging, optimizing resources for smaller hospitals. However, it also has drawbacks, such as a lack of direct communication with the radiologist, degraded image quality depending on network congestion, and diluted legal responsibility.
+*\*The AlphaVac MMA F1885 System is not indicated for treatment of PE and is considered off-label.*
 
-Teleradiology is a valuable tool for improving access to rapid and specialized diagnostics in emergency rooms, but it must be well supervised to avoid technical, communication, and legal problems. The number of CT scans performed on patients presenting with new, nontraumatic acute abdominal pain has steadily increased over the past few decades. However, abdominal imaging may not reveal all intra-abdominal diseases, and in one study, 20% of exams were [deemed unnecessary](https://academic.oup.com/intqhc/article-abstract/30/9/678/4969898?redirectedFrom=fulltext&login=false) by third-party radiologists. Yet, CT has become a legal safeguard, reassuring all involved physicians when the results are normal and aiding decisions regarding hospitalization for observation.
+1. Evaluating the safety and efficacy of the AlphaVac multipurpose mechanical aspiration (MMA) F1885 PE for treatment of acute pulmonary embolism (APEX-AV). Clinicaltrials.gov website. Accessed June 8, 2023. https://clinicaltrials.gov/ct2/show/NCT05318092
 
-### Imaging in Olde
+## The PE-TRACT Study
+
+![](https://core4-cms.imgix.net/issue-2435/Sista_Akhilesh.jpg?auto=compress,format)
+
+**Akhilesh Sista, MD, FSIR, FAHA**  
+Professor  
+Department of Radiology  
+Weill Cornell Medicine  
+Principal Investigator, PE-TRACT trial  
+New York, New York  
+aks9010@med.cornell.edu  
+*Disclosures: Receives grant funding from the National Heart, Lung, and Blood Institute.*
+
+Approximately 5% of patients presenting with submassive PE treated with anticoagulation alone will experience fatal or nonfatal clinical deterioration.1 Thus, routine reperfusion therapy with the intent of reducing the incidence of clinical deterioration is unlikely to be of benefit in most patients with submassive PE. However, many more patients (30%-50%) suffer from dyspnea, reduced quality of life, and physiologic impairment (a combination termed by some as the “post-PE syndrome”).2-4 It is hypothesized that residual thrombus and RV dysfunction contribute to these symptoms, and an outstanding question is whether up-front thrombus removal with catheter-directed therapy (CDT) reduces the incidence of these post-PE impairments.
+
+The PE-TRACT (Pulmonary Embolism–Thrombus Removal with Catheter-Directed Therapy) study (NCT05591118) has been designed to address this knowledge gap. Funded by the National Heart, Lung, and Blood Institute, PE-TRACT is a randomized, controlled, open-label, assessor-blinded, parallel-group, multicenter trial comparing CDT plus anticoagulation (CDT group) to anticoagulation alone (no-CDT group) in patients with acute submassive PE. Its primary objective is to determine whether the CDT group has be
 
 --- FUENTE WEB ---
-Título: Signa Vitae
-URL: https://www.signavitae.com/articles/10.22514/sv.2023.006/htm
-Score: 0.5914643
+Título: Right-Heart-Failure-Emergency-Medicine.pdf
+URL: https://www.ebmedicine.net/media_library/files/Right-Heart-Failure-Emergency-Medicine.pdf
+Score: 0.72465646
 
 Texto:
-[![](/_nuxt/img/mrepress-logo-50x50.44e10ac.png)](/)
+FEBRUARY 2024  | VOLUME 26  | ISSUE 2 
 
-[MRE Press](/)
+# Emergency Department 
 
-Advanced
+# Management of Patients 
 
-Signa Vitae. 2023; 19(4): 37-42. doi: 10.22514/sv.2023.006
+# With Right Heart Failure 
 
-Acute abdomen in the emergency department: the emergency surgeon contribute "old is the new approach"
+n Abstract 
 
-Carlos Macedo-Oliveira1,\*,, Márcia Carvalho1, Luís Madureira1, Nuno Muralha1
+Right heart failure (RHF) can result from many cardiac, pulmonary, 
 
-1Department of General Surgery, Centro Hospitalar do Médio Ave, 4780-371 Santo Tirso, Portugal
+and systemic pathologies. Common causes of RHF include 
 
-\***Corresponding Author(s):**carlosmacedoliveira@gmail.com (Carlos Macedo-Oliveira)
+pulmonary embolism, left heart failure, congenital heart disease, 
 
- 
+chronic lung disease, acute myocardial infarction, infiltrative 
 
-|  |  |
-| --- | --- |
-| **History** | Submitted: 13 May 2022 |  Accepted: 06 July 2022 | Published: 08 July 2023 |
+disease, infectious disease, and valvular abnormalities. Acute 
 
-|  |  |
-| --- | --- |
-| **Copyright:** | ©2023 The Author(s). Published by MRE Press. |
-|  | This is an open access article under the CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/). |
+and chronic RHF confer a high risk for morbidity and mortality 
 
-![]()
+in the acute care setting, and interventions commonly used in 
 
-**Abstract**
+emergency care can prompt acute decompensation if the RHF 
 
-Acute abdominal pain is the most frequent
-complaint evaluated by the emergency surgeon. The frequency of this presentation
-and the multitude of diagnoses and severity of cases reinforce the importance of
-a methodic clinical approach and knowledge of the causes of acute abdomen. In
-this article, we intend to review the process of diagnosing an acute abdomen and
-remind the medical community the importance of an accurate history and physical
-examination in this process.
+is not recognized. The severity of presentation may range from 
 
-**Keywords:**Acute abdomen;Anamnesis;Physical examination;Emergency surgery
+compensated clinically silent cardiovascular dysfunction to venous 
 
-[PDF(173.94 kB)](https://oss.signavitae.com/mre-signavitae/article/20230707-69/pdf/SV2022051301.pdf)|[EndNote (RIS)](blob:https://www.signavitae.com/eaa2246e-8fe4-4d01-92e8-37e7ace21aee)|[BibTeX](blob:https://www.signavitae.com/12b1f302-9b94-45cd-aa8d-c4a6efad8020)|[RefMan](blob:https://www.signavitae.com/d44a6d07-439a-4c43-976e-9dc2a9e6e1eb)|[RefWorks](blob:https://www.signavitae.com/e928ac1c-8b91-4ca4-9117-641d2eac8786)
+congestion, multiorgan failure, and circulatory collapse. This review 
 
-**Cite this article**
+describes the pathophysiology of right heart failure and offers an 
 
-Carlos Macedo-Oliveira, Márcia Carvalho, Luís Madureira, Nuno Muralha. Acute abdomen in the emergency department: the emergency surgeon contribute "old is the new approach". Signa Vitae. 2023; 19(4): 37-42. doi: 10.22514/sv.2023.006
+evidence-based approach to the diagnosis, management, and 
 
-## 1. Introduction
+disposition of both acute and chronic RHF. 
 
-Acute abdominal pain is one of the most common reasons for visits to the
-emergency department and accounts for 5.76% of total emergency department visits
-in 1 year [1]. Underlying causes are vast, ranging from simple harmless diseases
-to life-threatening surgical emergencies.
+EBMEDICINE.NET This issue is eligible for CME credit. See page 2. 
 
-In an era of easily accessible laboratory testing, ultrasound and CT (computed
-tomography), the once quintessential clinical history and physical examination
-are today relinquished to a secondary role. Indeed, nowadays physicians tend to
-trust more on complementary diagnostic exams than in the classic clinical
-findings. As a result, numerous unnecessary exams are requested every day,
-sometimes with deleterious consequences to our patients and increases in costs to
-health systems.
+CLINICAL CHALLENGES: 
 
-On the other hand, an experienced emergency surgeon can rapidly identify a
-patient who needs immediate care or surgical intervention.
+• What are the primary etiologies of 
 
-In this paper, we aim to bring back the emphasis on the traditional, but sharp
-and detailed, clinical history and physical examination in order to allow
-surgeons to make accurate diagnoses in the emergency department and to be
-judicial when requesting complementary exams.
+right heart failure (RHF)? 
 
-## 2. Pathophysiology
+• Which diagnostic studies should 
 
-There is no universal definition for acute abdomen as it refers to multiple
-diagnosis presentations. Mayumi *et al*. [2] describe it as an
-intra-abdominal disease, with less than one week of evolution that may require
-urgent treatment, such as surgery. In fact, this entity is associated with
-symptoms and signs such as abdominal pain and tenderness requiring proper
-management, as it is often a surgical problem.
+be ordered for patients with 
 
-It is important to mention that some extra-abdominal diseases may mimic an acute
-abdomen and they must be investigated and discarded. Besides, there are also some
-non-surgical pathologies that mimic the acute abdomen presentation and need
-urgent treatment. These causes, such as diabetic ketoacidosis and vaso-occlusive
-pain crises due to sickle cell anemia, must be listed in the differential
-diagnosis.
+suspected RHF? 
 
-Embryological development is a cornerstone science to be able to understand and
-correlate the patient’s symptoms with the affected anatomy (Table 1) [3, 4].
-Neurological pathways define three types of abdominal pain: visceral, parietal
-and referred.
+• What are the most effective 
 
-Table 1.**Development of the
-digestive system.**
+treatment strategies for RHF, 
 
-|  |  |  |
-| --- | --- | --- |
-| Divisions | Organs and structures | Pain location |
-| Foregut | Esophagus, stomach, liver, gallbladder, bile ducts, pancreas and proximal duodenum | Epigastric |
-| Midgut | Distal duodenum, jejunum, ileum, cecum, appendix, ascending colon, and proximal 2/3 of transverse colon | Periumbilical |
-| Hindgut | Distal 1/3 of the transverse colon, descending colon, sigmoid colon and the upper anal canal | Hypogastric |
+based on underlying etiologies? 
 
-—Visceral: vague and its localization is related to the embryologic
-development of the digestive tract.
+Authors 
 
-—Parietal (somatic): occurs due to irritation of the parietal peritoneum,
-giving an accurately localized sharp pain.
+Daniel S. Brenner, MD, PhD 
 
-—Referred: is a pain perceived in a different location from the affected organ
-as the sensitive innervation of both sites are connected.
+Assistant Professor of Clinical Emergency 
 
-## 3. History
+Medicine, Department of Emergency Medicine, 
 
-Clinical history is the basis of medical practice and the beginning of the
-doctor-patient relationship [5].
+Indiana University School of Medicine, 
 
-A good clinical history should be meticulous and the information collected must
-include details about the acute symptoms, as well as past family and personal
-history and medication. Medical practice is an art and the artistic process is to
-extract information from the patient without the rigidity of a flowchart or an
-algorithm in a formulary.
+Indianapolis, IN 
 
-Abdominal pain is the chief complaint of the patient with an acute abdomen.
-Therefore, it is of utmost importance to describe it as incisively as possible.
+Onyedika J. Ilonze, MD 
 
-### 3.1 Pain characteristics
+Division of Cardiovascular Medicine, Krannerat 
 
-A classic mnemonic can be used to systematically describe the patient’s
-pain—PQRST [3].
+Cardiovascular Research Center, Indiana 
 
-—P3: Positional, palliat
+University School of Medicine, Indianapolis, IN 
+
+Shelby Beil, MD 
+
+Fellow, Indiana University School of Medicine, 
+
+Department of Pulmonary and Critical Care 
+
+Medicine, Indianapolis, IN 
+
+Kellie Kaneshiro, AMLS 
+
+Librarian, Ruth Lilly Medical Library, Indiana 
+
+University School of Medicine, Indianapolis, IN 
+
+Nicholas E. Harrison, MD, MSc 
+
+Assistant Professor, Department of Emergency 
+
+Medicine, Indiana University School of Medicine, 
+
+Indianapolis, IN 
+
+Peer Reviewers 
+
+James Morris, MD, MPH, FACEP 
+
+Program Director, Emergency Medicine 
+
+Residency, Texas Tech University Health Sciences 
+
+Center, Lubbock, TX 
+
+Kestrel Reopelle, MD, MEd 
+
+Assistant Professor; Assistant Program Director, 
+
+Residency in Emergency Medicine, Icahn School 
+
+of Medicine at Mount Sinai, New York, NY 
+
+Prior to beginning this activity, see “CME 
+
+Information” on page 2. 
+
+# Emergency  Medicine Practice Evidence-Based Education  • Practical Application 
+
+For online 
+
+access: 
+
+For mobile 
+
+app access: FEBRUARY 2024  • www.ebmedicine.net  2©2024 EB MEDICINE 
+
+CME Information 
+
+Date of Original Release : February 1, 2024 . Date of most recent review: January 10, 2024. Termination date: February 1, 2027. 
+
+Accreditation:  EB Medicine is accredited by the Accreditation Council for Continuing Medical Education (ACCME) to provide 
+
+continuing medical education for physicians. 
+
+Credit Designation:  EB Medicine designates this enduring material for a maximum of 
+
+4 AMA PRA Category 1 Credits TM . Physi -
+
+cians should claim only the credit commensurate with the extent of their participation in the activity. 
+
+Specialty CME:  Not applicable. For more information, call Customer Service at 678-366-7933. 
+
+ACEP Accreditation: 
+
+Emergency Medicine Practice  is approved by the American College of Emergency Physicians for 48 hours of ACEP Cat -
+
+egory I credit per annual subscription. 
+
+AAFP Accreditation:  The AAFP has reviewed  Emergency Medicine Practice , and deemed it acceptable for AAFP credit. Term of approval is from 
+
+07/01/2023 to 06/30/2024. Physicians should claim only the credit commensurate with the extent of their participation in the activity. This session, 
+
+Emergency Department Management of Patients With Right Heart Failure is approved for 4.0 enduring material AAFP Prescribed credits. 
+
+AOA Accreditation: 
+
+Emergency Medicine Practice  is eligible for 4 Category 2-B credit hours per issue by the American Osteopathic Association. 
+
+Needs Assessment:  The need for this educational activity was determined by a practice gap analysis; a survey of medical staff, including the 
+
+editorial board of this publication; review of morbidity and mortality data from the CDC, AHA, NCHS, and ACEP; and evaluation responses from 
+
+prior educational activities for emergency physicians. 
+
+Target Audience:  This enduring material is designed for emergency medicine physicians, physician assistants, nurse practitioners, and residents. 
+
+Goals:  Upon completion of this activity, you should be able to: (1) identify areas in practice that require modification to be consistent with current 
+
+evidence in order to improve competence and performance; (2) develop strategies to accurately diagnose and treat both common and critical ED 
+
+presentations; and (3) demonstrate informed medical decision-making based on the strongest clinical evidence. 
+
+CME Objectives:  Upon completion of this activity, you should be able to: (1) outline the etiologies of right heart failure (RHF)/right ventricular 
+
+dysfunction (RVD)/pulmonary hypertension (PH); (2) describe the recommended diagnostic studies for RHF; (3) describe treatment strategies for 
+
+RHF, based on etiology; and (4) explain the importance of risk stratification of patients with RHF/RVD/PH for disposition. 
+
+Discussion of Investigational Information:  As part of the activity, faculty may be presenting investigational information about pharmaceutical 
+
+products that is outside Food and Drug Administration approved labeling. Information presented as part of this activity is intended solely as 
+
+continuing medical education and is not intended to promote off-label use of any pharmaceutical product. 
+
+Disclosure:  It is the policy of EB Medicine to ensure objectivity, balance, independence, transparency, and scientific rigor in all CME activities. 
+
 
 --- FUENTE WEB ---
-Título: Acute Abdominal Pain in Adults: Evaluation and Diagnosis
-URL: https://www.aafp.org/afp/2023/0600/acute-abdominal-pain-adults
-Score: 0.57666177
+Título: [PDF] A Narrative Review of Right Heart Dysfunction in Pulmonary Embolism
+URL: https://www.cureus.com/articles/428524-a-narrative-review-of-right-heart-dysfunction-in-pulmonary-embolism-current-insights-and-clinical-perspectives.pdf
+Score: 0.72042775
 
 Texto:
-![American Family Physician logo.](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1779209772/american_family_physician_navigation_desktop.svg)
-![AAFP logo](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1753724394/aafp_logo_tri029.png)
+Review began 10/14/2025 Review ended 03/10/2026 Published 03/12/2026 © Copyright 2026 Ilyas et al. This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+DOI: 10.7759/cureus.105115 A Narrative Review of Right Heart Dysfunction in Pulmonary Embolism: Current Insights and Clinical Perspectives Rida Ilyas , Sana Masood , Ambreen Fatima 1. Gastroenterology, South Tees NHS Foundation Trust-James Cook University Hospital, Middlesbrough, GBR 2.
+General Internal Medicine, South Tees NHS Foundation Trust-James Cook University Hospital, Middlesbrough, GBR 3.
+Community Medicine, Shalamar Medical and Dental College, Lahore, PAK Corresponding author: Ambreen Fatima, ambreenf54@gmail.com Abstract Pulmonary embolism (PE) often presents with non-specific symptoms that make the diagnosis challenging, but the identification of right heart strain (RHS) can help determine the disease severity. Therefore, timely identification and diagnosis of RHS in patients with pulmonary embolisms is critical for accurate risk categorization and appropriate management. The review mainly concentrates on acute pulmonary embolism and right‑heart strain assessment, risk stratification, and management using European Society of Cardiology (ESC) 2019 guidelines developed in collaboration with the European Respiratory Society (ERS).
+Right‑heart strain is diagnosed by imaging signs such as right‑ventricular dilation, interventricular septal flattening, McConnell’s sign, TAPSE<16mm, or an RV/LV ratio>1 on CTPA, together with elevated biomarkers (NT‑proBNP, troponinI, and MPV). These biochemical markers are chosen because they rise with right‑ventricular overload or injury.
+The aim of this study is to identify a literature gap in the diagnosis of RHS in the context of PE. Various biochemical markers and imaging modalities to diagnose RHS with PE are assessed. Despite the available tools, the current diagnostic approaches remain limited due to the absence of standardized measurement techniques and guidelines for right heart strain assessment on CTPA and echocardiography. Standardization of the assessment of right heart structure and function should be established, as this significantly impacts patient management. This study invites the researchers and international collaboration to set guidelines for the diagnosis of right heart strain in the context of pulmonary embolism to improve patient management and outcomes. This will also help to reduce mortality worldwide.
+A narrative review of existing studies, imaging techniques, and blood test markers was conducted to highlight existing gaps and call for future guidelines. A literature search was conducted using the Google Scholar database for articles published from 2000 to the most recent ones. Keywords included 'pulmonary embolism,' 'right ventricular dysfunction,' 'right heart strain,' 'thromboembolism,' 'deep venous thrombosis,' 'CT pulmonary angiogram,' 'echocardiography,' and 'anticoagulation.' No limitations were placed on the search to maximize inclusion of relevant literature. Duplicates and non-English articles were excluded.
+Categories: Cardiology, Internal Medicine, Pulmonology Keywords: anti-coagulation, ctpa, deep venous thrombosis, echocardiography, pulmonary embolism, right heart strain, risk stratification, thromboembolism Introduction And Background Pulmonary embolism (PE) is described as a blockage of one or more branches of the pulmonary arterial system by a thrombus. This thrombus typically originates from deep venous thrombosis (DVT) of the lower limbs. If pulmonary embolism is not treated in time, it may lead to right ventricular disorders due to chronic thromboembolic pulmonary hypertension (CTEPH) [1]. CTEPH is defined as a chronic complication of PE due to persistent pulmonary hypertension secondary to obstruction, even after six months of anticoagulation [2]. Right ventricular (RV) dysfunction refers to impaired systolic performance of the right ventricle. This impairment causes reduced right ventricular filling and diminished ventricular flow output [3]. It leads to increased pulmonary vascular resistance and eventually, right ventricular failure. This advanced stage is characterized by hemodynamic instability and reduced cardiac output [4]. Right heart strain (RHS) refers to acute imaging or biochemical evidence of RV pressure overload in the setting of PE. Acute pulmonary embolism (PE) is a major cause of morbidity and mortality in the United States and Europe, accounting for 100,000 and 300,000 deaths annually, respectively. Massive PE, characterized by systemic hypotension or cardiogenic shock, is associated with an in-hospital mortality of 25-50%. Whereas submassive PE, characterized by RV dysfunction without hypotension, has an in-hospital mortality rate of 3-15% [5]. PE and DVT survivors face a higher chance of death, which can persist for as long as 30 years after diagnosis. Also, the cumulative incidence of CTEPH has previously been estimated to be 2.2% 10 years after VTE [6]. Patients can present with various clinical manifestations, including syncope in 5-13%. First 1 2 3 Open Access Review Article How to cite this article Ilyas R, Masood S, Fatima A (March 12, 2026) A Narrative Review of Right Heart Dysfunction in Pulmonary Embolism: Current Insights and Clinical Perspectives. Cureus 18(3): e105115. DOI 10.7759/cureus.105115 reported in the 1970s, syncope was associated with evidence of right ventricular (RV) strain on electrocardiograms [7]. According to Heidinger et al., right ventricular (RV) systolic dysfunction is associated with increased short-term mortality in patients with PE [8].
+An important risk factor for PE is deep venous thrombosis (DVT). Pulmonary emboli originate when clots are dislodged from the deep veins, most commonly from the calf veins, 
 
-## Login / Create account
+--- FUENTE WEB ---
+Título: Pulmonary Embolism and Right Ventricular Dysfunction: Mechanism and Management
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11443303
+Score: 0.7125728
 
-Sign in to the website to make the most of your experience. When you log in, you can:
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC11443303#main-content)
 
-Having a free website account offers several benefits:
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
 
-AAFP informs and advocates for family physicians throughout their careers. Join for access to:
+An official website of the United States government
 
-# Acute Abdominal Pain in Adults: Evaluation and Diagnosis
+Here's how you know
 
-American Family Physician. 2023;107(6):585-596.
+Here's how you know
 
-Author disclosure: No relevant financial relationships.
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
 
-Diagnosis
+**Official websites use .gov**
 
-Laboratory Testing
+ A **.gov** website belongs to an official government organization in the United States.
 
-Imaging
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
 
-SORT: KEY RECOMMENDATIONS FOR PRACTICE
+**Secure .gov websites use HTTPS**
 
-Selected Differential Diagnosis of Acute Abdominal Pain
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
-Useful Findings in the Evaluation of Abdominal Pain
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
 
-Possible Causes of Sudden Onset or Severe Abdominal Pain
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
 
-Recommended Initial Imaging Based on Location of Abdominal Pain
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
 
-Applications of Point-of-Care Ultrasonography by Location of Abdominal Pain
+ Search…   Search NCBI 
 
-Diagnostic Scores in the Evaluation of Adults to Diagnose Cholecystitis and Urolithiasis
+Primary site navigation
 
-Acute abdominal pain, defined as nontraumatic abdominal pain lasting fewer than seven days, is a common presenting concern with a broad differential diagnosis. The most common causes are gastroenteritis and nonspecific abdominal pain, followed by cholelithiasis, urolithiasis, diverticulitis, and appendicitis. Extra-abdominal causes such as respiratory infections and abdominal wall pain should be considered. Pain location, history, and examination findings help guide the workup after ensuring hemodynamic stability. Recommended tests may include a complete blood count, C-reactive protein, hepatobiliary markers, electrolytes, creatinine, glucose, urinalysis, lipase, and pregnancy testing. Several diagnoses, such as cholecystitis, appendicitis, and mesenteric ischemia, cannot be confirmed clinically and typically require imaging. Conditions such as urolithiasis and diverticulitis may be diagnosed clinically in certain cases. Imaging studies are chosen based on the location of pain and index of suspicion for specific etiologies. Computed tomography with intravenous contrast media is often chosen for generalized abdominal pain, left upper quadrant pain, and lower abdominal pain. Ultrasonography is the study of choice for right upper quadrant pain. Point-of-care ultrasonography can aid in the prompt diagnosis of several etiologies of acute abdominal pain, including cholelithiasis, urolithiasis, and appendicitis. In patients who have female reproductive organs, diagnoses such as ectopic pregnancy, pelvic inflammatory disease, and adnexal torsion should be considered. If ultrasonography results are inconclusive in pregnant patients, magnetic resonance imaging is preferred over computed tomography when available.
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
 
-Acute abdominal pain is defined as pain lasting fewer than seven days and accounts for up to 10% of emergency department visits.[1](#afp20230600p585-b1) In one large study of patients presenting to the emergency department with recent abdominal pain, 20 conditions accounted for up to 70% of the causes, but more than 150 etiologies were diagnosed.[2](#afp20230600p585-b2) Acute gastroenteritis (10.8%) and non-specific abdominal pain (10.4%) were the most common diagnoses, followed by cholelithiasis (4.5%), urolithiasis (4.3%), diverticulitis (3.8%), and appendicitis (3.8%).[2](#afp20230600p585-b2) Extra-abdominal causes were common. About 10% of patients had a urinary etiology, and 10% of patients 65 years and older had a respiratory cause.[2](#afp20230600p585-b2) [*Table 1*](#afp20230600p585-t1) lists causes of acute abdominal pain by location.[3](#afp20230600p585-b3)
+Logged in as:
 
-### SORT: KEY RECOMMENDATIONS FOR PRACTICE
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
 
-| **Clinical recommendation** | **Evidence rating** | **Comments** |
-| --- | --- | --- |
-| [Analgesia should be provided for patients with acute abdominal pain because it improves patient comfort, does not hinder accuracy of the physical examination, and may facilitate the assessment.](#afp20230600p585-sort1)[24](#afp20230600p585-b24),[25](#afp20230600p585-b25) | **A** | Two systematic reviews of randomized controlled trials assessing diagnostic accuracy and other patient-oriented outcomes |
-| [Right upper quadrant ultrasonography should be performed in patients with suspected acute cholecystitis](#afp20230600p585-sort2A) [because no single clinical finding can exclude this diagnosis.](#afp20230600p585-sort2B)[13](#afp20230600p585-b13),[37](#afp20230600p585-b37),[38](#afp20230600p585-b38) | **C** | Disease-oriented evidence based on systematic review of cohort studies and two guidelines |
-| [Clinical diagnosis of left-sided diverticulitis is reasonable for patients who are immunocompetent without risk factors for complicated diverticulitis, reserving CT imaging for cases of diagnostic uncertainty.](#afp20230600p585-sort3)[47](#afp20230600p585-b47) | **C** | Conditional recommendation from the American College of Physicians based on one systematic review that found limited evidence that imaging improved outcomes over clinical diagnosis alone |
-| [Abdominopelvic CT with intravenous contrast media is the imaging test of choice in nonpregnant patients with right lower quadrant pain, but ultrasonography and clinical risk scores can assist with selective use of CT.](#afp20230600p585-sort4)[9](#afp20230600p585-b9),[33](#afp20230600p585-b33),[44](#afp20230600p585-b44),[48](#afp20230600p585-b48),[57](#afp20230600p585-b57)–[60](#afp20230600p585-b60),[68](#afp20230600p585-b68) | **C** | Narrative reviews, systematic reviews, observational studies, and American College of Radiology Appropriateness Criteria on the role of imaging |
-| [Ultrasonography and MRI are the imaging tests of choice in pregnant patients presenting with suspected appendicitis.Abdominal CT can be considered if ultrasonography is nondiagnostic and MRI is unavailable.](#afp20230600p585-sor
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: Cureus logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-cureus.png)
+
+Cureus
+
+. 2024 Sep 30;16(9):e70561. doi: [10.7759/cureus.70561](https://doi.org/10.7759/cureus.70561)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Cureus%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cureus%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Cureus%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC11443303?term=%22Cureus%22[jour])
+
+# Pulmonary Embolism and Right Ventricular Dysfunction: Mechanism and Management
+
+Editor: Alexander Muacevic, John R Adler
+
+*   Author information
+*   Article notes
+*   Copyright and License information
+
+1 Department of Emergency Medicine, Barnet General Hospital, London, GBR 
+
+✉
+Ogbonnaya N. Ajah ajahogbonnaya017@gmail.com
+
+Accepted 2024 Sep 29
+
+Copyright © 2024, Ajah et al.
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC11443303 PMID: [39355468](https://pubmed.ncbi.nlm.nih.gov/39355468/)
+
+## [](https://pmc.ncbi.nlm.nih.gov/articles/PMC11443303)Abstract
+
+Pulmonary embolism (PE) occurs when thrombi from deep vein thrombosis dislodge and obstruct pulmonary arteries, raising pulmonary artery pressure and straining the right ventricle. This strain can lead to right ventricular dysfunction (RVD), characterized by reduced cardiac output, impaired contractility, and potential development of chronic thromboembolic pulmonary hypertension. Clinically, PE may present with symptoms such as dyspnea, pleuritic chest pain, and tachycardia. Diagnosis is typically confirmed through computed tomography pulmonary angiography, biomarkers like D-dimer and cardiac troponins, and clinical scoring systems. Acute management focuses on hemodynamic support, including intravenous fluids and vasopressors, and may involve anticoagulation with low-molecular-weight heparin or direct oral anticoagulants. Severe cases may require systemic anticoagulation, catheter-directed techniques, and surgeries like pulmonary endarterectomy. Long-term management involves continued anticoagulation tailored to individual risk factors, with ongoing monitoring to prevent recurrence. Effective early diagnosis and management are crucial, as severe PE can significantly increase mortality and lead to serious complications. This review e
+
+--- FUENTE WEB ---
+Título: Managing right ventricular failure in the setting of pulmonary embolism | Cleveland Clinic Journal of medicine
+URL: https://www.ccjm.org/content/92/5/301
+Score: 0.7089592
+
+Texto:
+![Other publications](/sites/default/files/2026-02/ccjm-umbrella.png)
+
+## Umbrella menu
+
+![logo](/sites/default/files/logo/main_0.png)
+![logo](/sites/default/files/logo/main.png)
+
+## Main navigation
+
+![logo](/sites/default/files/logo/main_0.png)
+![logo](/sites/default/files/logo/main.png)
+
+# Managing right ventricular failure in the setting of pulmonary embolism
+
+## ABSTRACT
+
+Pulmonary embolism (PE) has a significant impact on right-sided heart function. Clinical presentation can range from no involvement of the right ventricle to right ventricular dysfunction, cardiogenic shock, and even cardiac arrest. The authors explore the pathophysiology of PE-induced right ventricular failure, emphasizing the mechanisms by which PE contributes to dysfunction, current diagnostic tools for risk stratification, and the importance of timely diagnosis. The primary focus is on strategies for managing right ventricular failure secondary to PE, including medical, percutaneous interventional, and surgical options. Recent advances in the field are also noted, including emerging therapies and evolving treatment algorithms.
+
+Inpatient mortality for patients with high-risk PE is as high as 42.1% and is primarily due to right ventricular dysfunction from a sudden rise in right ventricular afterload.
+
+Risk of mortality is classified as low, intermediate (intermediate low-risk and intermediate high-risk), and high.
+
+Management of PE with right ventricular involvement of varying severity requires prompt and concomitant integration of several approaches: management of hemodynamics (preload and afterload), reperfusion, pharmacologic support, supportive care, and, in refractory cases, use of mechanical circulatory support and advanced therapy.
+
+Pulmonary embolism (PE) significantly impacts right-sided heart function. Clinical presentation can range from no involvement of the right ventricle to right ventricular dysfunction, cardiogenic shock, and even cardiac arrest. In a retrospective subset from the Pulmonary Embolism Response Team Consortium Registry,[1](#ref-1) inpatient mortality was as high as 42.1% in patients with high-risk PE with hemodynamic collapse (termed *catastrophic* PE). Management requires critical evaluation, risk stratification, and multidisciplinary care that can include medical, percutaneous interventional, and surgical options. This article predominantly discusses patients classified as having intermediate- and high-risk PE, given the associated hemodynamics and involvement of the right ventricle.
+
+## RIGHT VENTRICULAR FAILURE IN ACUTE PE
+
+Acute PE is associated with an elevated risk of death, primarily due to acute right ventricular dysfunction resulting from a sudden rise in right ventricular afterload.[2](#ref-2) Vascular obstruction caused by thrombus in the pulmonary arterial circulation can lead to significant increases in pulmonary pressures and pulmonary vascular resistance, raising right ventricular afterload. In PE, hypoxemia and pulmonary vasoconstrictors also contribute to pulmonary vascular resistance. The crescent-shaped right ventricle, characterized by fine layers of myofibrils arranged in series for volume expansion and enhanced compliance compared with the left ventricle, is designed to tolerate preload changes and is compliant in low-pressure systems. It struggles to adapt rapidly to acute elevations in circulatory pressures and has limited capacity to adapt to sudden increases in afterload.
+
+During an acute PE, the right ventricle attempts to preserve right ventricle–pulmonary artery coupling and maintain stroke volume and cardiac output by dilating and altering its geometry.[3](#ref-3) However, the right ventricle cannot endure consistently elevated pressures, which leads to further right ventricular dilation and acute septal deviation toward the left ventricle, giving rise to altered ventricular interdependence—a phenomenon where the performance of one ventricle is influenced by the other due to the shared interventricular septum. Consequently, the right ventricle exerts pressure on the interventricular septum, impairing filling of the left ventricle, decreasing left ventricular preload, and reducing blood supply to the coronary arteries.
+
+The increase in right ventricular intramural pressure and wall tension also causes straightening of the wall of the right ventricle, leading to decreased right coronary artery perfusion and right ventricular ischemia, even in individuals without preexisting coronary disease.[2](#ref-2) Furthermore, with persistent right ventricular dilation and enlargement, the tricuspid valve annulus may expand, resulting in inadequate closure of the valve leaflets and subsequent secondary tricuspid regurgitation. These effects create a cycle of ischemia, compounded by decreased oxygenation from obstructive thrombotic material, resulting in a drop in blood pressure and hemodynamic changes, all of which may manifest as syncope, hypotension, cardiogenic shock, and cardiac arrest ([Figure 1](#F1)).[2](#ref-2),[4](#ref-4) Moreover, this dysfunction permits retrograde blood flow into the right atrium, compromising right ventricular filling, elevating right atrial pressure, and contributing to progressive venous congestion.
+
+![Illustration of the pathophysiology and development of right ventricular (RV) failure in the setting of acute increase in afterload caused by pulmonary embolism. LV = left ventricular Based on information from references 2 and 4. ](https://www.ccjm.org/content/ccjom/92/5/301/F1.medium.gif)
+
+Illustration of the pathophysiology and development of right ventricular (RV) failure in the setting of acute increase in afterload caused by pulmonary embolism.
+
+LV = left ventricular
+
+Based on information from references [2](#ref-2) and [4](#ref-4).
+
+## DIAGNOSTIC AND PROGNOSTIC TOOLS IN ACUTE PE
+
+Signs of right ventricular involvement can be observed through laboratory and imaging studies. Computed tomography pulmonary angiography has been a corne
+
+--- FUENTE WEB ---
+Título: Intermediate-Risk Pulmonary Embolism in 2026: New guidelines, new evidence, and the same old problem | Docwire News
+URL: https://www.docwirenews.com/post/intermediate-risk-pulmonary-embolism-in-2026
+Score: 0.6161283
+
+Texto:
+[![Logo](https://www.docwirenews.com/cdn-cgi/image/w=180,q=85,f=auto,fit=scale-down/https://mumcdnstorage.blob.core.windows.net/dwnews/2023/08/docwirenews-logo-2023-88x600-1.png)](/)
+
+# Intermediate-Risk Pulmonary Embolism in 2026
+
+By [Hassan Bencheqroun, MD, EMBA](/author/hassan-bencheqroun-md-emba) - Last Updated: April 20, 2026
+
+![](https://www.docwirenews.com/cdn-cgi/image/w=400,h=280,q=85,f=auto,fit=scale-down,width=828/https://mumcdnstorage.blob.core.windows.net/dwnews/2023/09/Heme_9.22.23_Image2.jpg)
+
+## *New guidelines, new evidence, and the same old problem*
+
+The 2026 American Heart Association (AHA)/American College of Cardiology (ACC)/ American College of Clinical Pharmacy/American College of Emergency Physicians/ American College of Chest Physicians/Society for Cardiovascular Angiography & Interventions/Society of Hospital Medicine/Society of Interventional Radiology/Society for Vascular Medicine/Society of Vascular Nursing guideline for acute pulmonary embolism (PE) is the most ambitious attempt in years to standardize how we think about, classify, and treat PE. It retired the terms *massive* and *submassive*, introduced a five-tier clinical category system (A through E), and added a respiratory modifier. The HI-PEITHO trial, published simultaneously in the *New England Journal of Medicine* and presented at ACC 2026, offered the first evidence from a randomized controlled trial (RCT) that catheter-directed thrombolysis (CDT) reduces a composite clinical end point in intermediate-risk PE.
+
+These are real advances. But after spending time with the guideline document, the trial data, and the firestorm of commentary that followed, I think we need an honest conversation about what these developments actually deliver at the bedside and where they fall short.
+
+To ground this discussion, start with the [new framework](https://www.ahajournals.org/cms/10.1161/CIR.0000000000001415/asset/dd9dbb7b-03a9-4bf2-b6ba-e9aded72e43a/assets/graphic/cir.0000000000001415.fig02.jpg), then meet a patient I could have seen last week on any tele-ICU shift in America.
+
+### **Clinical Vignette**
+
+#### ***The Patient***
+
+A 71-year-old woman with a history of heart failure with preserved ejection fraction (HFpEF; baseline EF, 58%), hypertension, obesity (BMI, 38), and recent left knee arthroplasty presents to the emergency department 10 days post-surgery with progressive dyspnea over 48 hours. She is alert, mildly diaphoretic, speaking in short sentences.
+
+**Vital signs on arrival:** Heart rate (HR), 112 bpm; respiratory rate, 26 breaths/min; BP, 104/72 mm Hg (mean arterial pressure [MAP], 83 mm Hg); oxygen saturation measured by pulse oximetry (SpO2), 89% on room air, improving to 93% on 4 L of oxygen via nasal cannula. Temperature is 37.2° C.
+
+**Laboratory values:** Troponin I, 0.18 ng/mL (elevated); B-type natriuretic peptide (BNP), 580 pg/mL (her baseline from a clinic visit 3 months ago was 420 pg/mL); lactate, 2.8 mmol/L; creatinine, 1.4 mg/dL (baseline, 1.0).
+
+**CT pulmonary angiography:** Bilateral pulmonary emboli involving the right main and left lower lobar arteries. The right ventricle to left ventricle ratio (RV:LV) is 1.3 on CT. No evidence of right heart thrombus in transit.
+
+She begins receiving unfractionated heparin. Forty-five minutes later, her systolic BP drops to 87 mm Hg for approximately 45 seconds during a coughing spell, then recovers to 98/68 (MAP, 78) without intervention. Fifteen minutes after that, an automated cuff reads 92/58 (MAP, 69). The nurse rechecks manually: BP is 102/70 (MAP, 81).
+
+#### ***Now Apply the 2026 AHA/ACC Guideline***
+
+This is the patient who exposes every fault line in the new classification. Watch what happens when you try to categorize her condition.
+
+***The Four Criticisms, Alive in One Patient***
+
+**Criticism 1 (Score interchangeability):** Her Simplified Pulmonary Embolism Severity Index (sPESI) is 2 (age >80 receives 0 points, but she scores 2 for cancer-free; HR, >110; SpO2 <90%; systolic BP [SBP] preserved). This places her in Category C. Her Bova score is 3 (HR, 100-109 = 0; SBP > 100 = 0; RV dysfunction = 2; troponin = 1). A Bova score of 4 or lower places her in Category B. Same patient. Two different risk tiers. The guideline permits either tool, and the clinical path diverges based on which one you pick.
+
+**Criticism 2 (BNP-troponin conflation):** Her BNP of 580 pg/mL is flagged as a positive cardiac biomarker. But her baseline BNP was 420, a 38% increase that could easily reflect volume shifts post-surgery in a patient with HFpEF. Her troponin, at 0.18 ng/mL, is genuinely elevated and more likely reflects acute RV myocardial injury from the PE. The guideline treats these two markers as interchangeable. They are not. If a clinician anchors on the BNP value alone, this patient looks like C3 even without meaningful acute RV injury. If a clinician correctly prioritizes the troponin, the classification is the same (C3), but the reasoning is fundamentally different, and the confidence in the assessment changes.
+
+**Criticism 3 (Transient SBP < 90):** The 45-second dip to 87 mm Hg during a coughing spell technically meets the D1 criterion: transient SBP less than 90. That single reading, captured by an automated cuff during a Valsalva-equivalent maneuver, now reclassifies her from C3 to D1 and implies she may need consideration for advanced therapy. The clinical reality is that her hemodynamics recovered spontaneously, and SBP was never sustained below 90.
+
+**Criticism 4 (MAP < 60 as normotensive shock):** The automated cuff that read 92/58 produces a calculated MAP of 69, above the D2 threshold. But the manual recheck reading was 102/70, with MAP of 81. Had the nurse not rechecked, and had a different automated reading landed at MAP 58, this patient would meet the D2 “normotensive shock” criterion: a MAP below 60 in a patient whose SBP was never sustained below 90. The guideline calls this *normotensive*. It is not.
+
+#### ***What Physiology Actuall
 
 INSTRUCCIONES IMPORTANTES:
 - PubMed es el eje principal.

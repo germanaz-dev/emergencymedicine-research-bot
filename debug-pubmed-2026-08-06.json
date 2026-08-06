@@ -1,107 +1,107 @@
 [
   {
-    "pmid": "42074645",
-    "title": "Rare and Unusual Consequences of Blunt Abdominal Trauma-The Significance of Anatomical Anomalies.",
-    "journal": "Journal of clinical medicine",
+    "pmid": "42469156",
+    "title": "Catheter-Based Therapies for Intermediate-High Risk Pulmonary Embolism: A Protocol for a Systematic Review With Bayesian Pairwise and Network Meta-Analyses.",
+    "journal": "Acta anaesthesiologica Scandinavica",
     "date": "2026",
     "publication_types": [
       "Journal Article",
       "Review"
     ],
-    "doi": "10.1117/1.JMI.8.5.052110",
-    "abstract": "Background/Objectives: Blunt abdominal trauma is a frequent challenge in emergency medicine, but its diagnosis and treatment become significantly more complex when rare anatomical anomalies are present. Atypical anatomy may mask symptoms or mimic other acute abdominal conditions, causing delays in treatment. The aim of this paper is to review the literature on six rare anatomical anomalies and their impact on the consequences of blunt abdominal trauma. Methods: A Narrative literature review was undertaken, covering PubMed, Scopus, Web of Science and Google Scholar databases, analysing publications from 1960 to 2025. Case reports and case series (91 patients in total) with confirmed organ damage following blunt trauma in the course of: duodenal diverticulum, Meckel's diverticulum, splenic torsion, rupture or torsion of the accessory spleen, visceral inversion (situs inversus) and horseshoe kidney. Results: Demographic analysis revealed a predominance of perforations of the duodenal diverticulum in older women (mean age 62 years), while younger men predominated in all other groups. The clinical picture was often non-specific or misleading, especially in situs inversus, where the location of pain did not correlate with the typical topography of organs. Contrast-enhanced computed tomography (CECT) has proved to be a key diagnostic tool, surpassing ultrasound/FAST scans due to its ability to provide precise anatomical imaging. Surgical treatment was predominant (100% in Meckel's diverticulum, 95% in duodenal diverticulum), while conservative treatment was effective in horseshoe kidney injuries (94.8%). Mortality was highest in situs inversus (29%) and duodenal diverticulum perforation (20%). The vast majority of these fatal cases occurred in the era of modern computed tomography, suggesting that the therapeutic challenges stem directly from the specific nature of these anomalies, rather than from past diagnostic limitations. Conclusions: Anatomical anomalies significantly modulate the clinical manifestations of blunt abdominal trauma, increasing the risk of diagnostic errors. Early contrast-enhanced computed tomography and awareness of these rare pathologies are crucial for appropriate management and improved prognosis.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42074645/"
+    "doi": "10.1056/NEJMoa1208410",
+    "abstract": "Intermediate-high risk pulmonary embolism (PE) represents a clinically challenging subgroup of acute PE, characterized by right ventricular dysfunction and increased risk of hemodynamic deterioration despite treatment with anticoagulation therapy. Although systemic thrombolysis may provide more rapid reperfusion, its use is limited by an increased risk of major bleeding. Catheter-based treatment strategies have emerged as potential alternatives, but their comparative efficacy and safety remain uncertain. To assess the benefits and harms of catheter-based treatment strategies compared with contemporary control regimens, including standard anticoagulation with or without systemic thrombolysis, in patients with intermediate-high risk PE. This protocol outlines a systematic review with Bayesian pairwise meta-analysis and network meta-analysis of randomized clinical trials evaluating catheter-based therapies for hospitalized patients with intermediate-high risk PE. Eligible interventions include catheter-directed thrombolysis, ultrasound-assisted thrombolysis, and catheter-based embolectomy. Comparators may include standard anticoagulation alone or in combination with systemic thrombolysis or other active control regimens reflecting standard of care. Searches will be conducted in relevant databases, supplemented by trial registries. Two reviewers will independently screen studies, extract data, and assess risk of bias using the Cochrane Risk of Bias 2 tool. Bayesian pairwise meta-analyses and network meta-analysis will be performed using weakly informative priors to synthesize direct and indirect evidence across interventions. Results will be reported as posterior effect estimates with 95% credible intervals. The primary outcome will be all-cause mortality. Secondary and exploratory outcomes include major bleeding as defined according to the criteria of the International Society on Thrombosis and Haemostasis within 7 days, hospital length of stay, and change in RV/LV ratio within 48 h. GRADE assessments will be performed where applicable. This review will synthesize direct and indirect randomized evidence on catheter-based treatment strategies for intermediate-high risk PE. The findings may help clarify the role of these interventions in contemporary management, inform future guideline recommendations, and identify persistent evidence gaps requiring further large-scale randomized trials.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42469156/"
   },
   {
-    "pmid": "41193916",
-    "title": "CT patterns of acute enterocolitis - a practical guide for the emergency radiologist.",
-    "journal": "Emergency radiology",
-    "date": "2025",
+    "pmid": "42447143",
+    "title": "Pulmonary embolism consensus.",
+    "journal": "Archivos de cardiologia de Mexico",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Consensus Statement"
+    ],
+    "doi": "10.24875/ACM.M26000101",
+    "abstract": "Pulmonary embolism (PE) remains a major cause of cardiovascular morbidity and mortality. Despite significant advances in diagnosis and treatment, important challenges persist in the early identification of patients at risk of clinical deterioration and in the integration of clinical, imaging, and biomarker data for more accurate risk stratification. A multidisciplinary panel of experts reviewed the available scientific evidence, including international guidelines, randomized clinical trials, observational studies, and contemporary registries. Recommendations were developed through a structured consensus process, with particular emphasis on areas of uncertainty or ongoing evolution in clinical practice. This document updates recommendations on the diagnosis, risk stratification, anticoagulation, reperfusion therapies, and follow-up of patients with acute PE. A key focus is the concept of dynamic risk assessment, recognizing that clinical status may change significantly during the first hours and days after diagnosis. As an innovative proposal, the Integrated Cardiorespiratory Involvement System (SIAC) is introduced as a complementary framework that integrates hemodynamic parameters, right ventricular dysfunction, gas exchange impairment, biomarker profile, and clinical evolution. SIAC is designed to enhance traditional risk stratification models by enabling serial bedside reassessment and facilitating early identification of patients at risk of clinical deterioration and adverse outcomes. Modern management of acute PE requires a comprehensive and dynamic approach. This consensus integrates current evidence and proposes SIAC as a complementary tool to improve prognostic assessment and support more individualized therapeutic decision-making. El embolismo pulmonar (EP) continúa siendo una causa importante de morbimortalidad cardiovascular. A pesar de los avances diagnósticos y terapéuticos, persisten desafíos en la identificación temprana de pacientes con riesgo de deterioro clínico y en la integración de variables clínicas, de imagen y biomarcadores para una estratificación pronóstica más precisa. Un panel multidisciplinario de expertos revisó la evidencia científica disponible, incluyendo guías internacionales, ensayos clínicos, estudios observacionales y registros contemporáneos. Las recomendaciones fueron elaboradas mediante consenso estructurado, con énfasis en aspectos controvertidos o en evolución. El documento actualiza las recomendaciones para el diagnóstico, la estratificación del riesgo, la anticoagulación, las terapias de reperfusión y el seguimiento de los pacientes con EP aguda. Se destaca la necesidad de una evaluación dinámica del riesgo, considerando que la condición clínica puede modificarse durante las primeras horas y días posteriores al diagnóstico. Como propuesta innovadora, se introduce el Sistema Integrado de Afectación Cardiorrespiratoria (SIAC), una herramienta que integra parámetros hemodinámicos, disfunción ventricular derecha, alteraciones del intercambio gaseoso, biomarcadores y evolución clínica para complementar los modelos tradicionales de estratificación. El SIAC permite una reevaluación seriada del paciente y facilita la identificación precoz de quienes presentan riesgo de progresión clínica o eventos adversos. El manejo moderno del EP requiere una aproximación integral y dinámica. Este consenso reúne la evidencia actual y propone el SIAC como una estrategia complementaria para optimizar la evaluación pronóstica y apoyar una toma de decisiones terapéuticas más individualizada.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42447143/"
+  },
+  {
+    "pmid": "42356083",
+    "title": "The Right Ventricle in Cardiac Critical Care: Pathophysiology, Evaluation and Management.",
+    "journal": "Medicina (Kaunas, Lithuania)",
+    "date": "2026",
     "publication_types": [
       "Journal Article",
       "Review"
     ],
-    "doi": "10.1016/j.jviscsurg.2020.08.012",
-    "abstract": "Acute enterocolitis encompasses a broad spectrum of conditions affecting the small and large bowel, frequently presenting with nonspecific symptoms such as abdominal pain, diarrhea, fever, and vomiting. Given the clinical overlap among infectious, inflammatory, immune-mediated, vascular, and miscellaneous etiologies, imaging plays a pivotal role in refining the differential diagnosis, identifying complications, and guiding timely management. Computed tomography (CT), owing to its accessibility and rapid acquisition, remains the cornerstone of imaging evaluation in acute settings. CT enables detailed assessment of bowel wall morphology, disease distribution, vascular involvement, and extraintestinal manifestations. While ancillary imaging modalities have a role in select scenarios, this review emphasizes a CT-focused approach tailored for acute care. We present a comprehensive, pattern-based review of the CT imaging features across various forms of acute enterocolitis, highlighting diagnostic hallmarks, interpretive pitfalls, and clinically relevant mimics. The included cases were encountered by the radiologists in their day-to day practice and included based on their ability to highlight the majority representative features of each pathology. Through the integration of structured tables, illustrative cases, and diagnostic tips, this article aims to enhance the radiologist's ability to recognize key imaging signatures, avoid diagnostic errors, and contribute meaningfully to multidisciplinary patient care.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41193916/"
+    "doi": "10.1016/j.echo.2022.12.022",
+    "abstract": "The right ventricle (RV) is a primary determinant of outcomes in cardiac critical care. RV dysfunction independently predicts morbidity and mortality in conditions such as acute coronary syndromes, pulmonary embolism, and cardiogenic shock. This review synthesizes RV evaluation and management by integrating physiologic principles with bedside diagnostic and therapeutic strategies. The RV is exceptionally sensitive to acute afterload increases due to its adaptation to low-pressure pulmonary circulation. Evaluation utilizes a multimodal approach combining echocardiography, invasive hemodynamics, and specifically the pulmonary artery pulsatility index and central venous pressure/pulmonary capillary wedge pressure (CVP/PCWP) ratio and biomarkers. Management focuses on three pillars: individualized preload optimization, afterload reduction via selective pulmonary vasodilators, and contractility augmentation with inotropes. For refractory cases, mechanical circulatory support options like Impella RP, ProtekDuo, and VA-ECMO provide critical bridges to recovery or transplantation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42356083/"
   },
   {
-    "pmid": "41091049",
-    "title": "Diagnostic errors in acute cholecystitis: a scoping review.",
-    "journal": "Diagnosis (Berlin, Germany)",
-    "date": "2025",
+    "pmid": "42349359",
+    "title": "Review of Interventional Options and Surgical Techniques in the Management of Acute Pulmonary Embolism.",
+    "journal": "The Journal of surgical research",
+    "date": "2026",
     "publication_types": [
       "Journal Article",
       "Review"
     ],
-    "doi": "10.1515/dx-2025-0061",
-    "abstract": "Diagnostic errors in acute cholecystitis significantly impact patient safety. Misdiagnosis, including both false negatives and false positives, is common due to the complex nature of abdominal pain and the overlapping symptoms of various conditions. This scoping review examines the definition, prevalence, and contributing factors of diagnostic errors in acute cholecystitis, emphasizing the need for improved diagnostic processes. Employing the PRISMA-ScR framework, this review examined definitions and factors contributing to diagnostic errors in cholecystitis. It highlights the variability in diagnostic criteria, with many studies relying on clinical judgment rather than standardized guidelines such as the Tokyo Guidelines. False negative diagnoses are often due to hypoalbuminemia, inconspicuous imaging findings, and the clinical setting, whereas false positives often result from misinterpreted imaging findings and failure to differentiate from other conditions. This review found that approximately 30 % of acute cholecystitis cases may be missed (false negative), and 20-36 % of cases initially diagnosed can be incorrect (false positive). Adherence to standardized guidelines and improved recognition of atypical presentations could reduce diagnostic errors. Future research should aim for large-scale studies with clear diagnostic criteria and detailed clinical data to enhance diagnostic accuracy and patient safety.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41091049/"
+    "doi": "10.1016/j.jss.2026.05.055",
+    "abstract": "Acute massive pulmonary embolism (PE) represents a potentially lethal condition causing acute right ventricular heart dysfunction and cardiogenic shock. We aim to provide an overview of interventional and surgical options for PE management, with a focus on surgical techniques and outcomes. This was a narrative review so a systematic literature search was not performed. Catheter-directed thrombolysis and catheter-directed mechanical thrombectomy have demonstrated improved outcomes in several recent trials compared to medical management alone for higher risk PE. Surgical pulmonary embolectomy techniques have also evolved greatly over the years. Both in-hospital and short-term outcomes after surgical management show significant improvement from historical data that have limited the widespread acceptance of surgical management for acute PE. Veno-arterial extracorporeal membrane oxygenation has also emerged as a potential strategy to bridge high risk patients to definitive therapies. Surgical pulmonary embolectomy has gained popularity in recent years for PE management, with evolving techniques and improving outcomes compared to historical data. A thorough understanding of interventional and surgical techniques and options, combined with a multidisciplinary approach to care, are crucial to ensure timely and effective management of patients with acute PE.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42349359/"
   },
   {
-    "pmid": "40900773",
-    "title": "Epiploic appendagitis: An overlooked cause of acute abdominal pain.",
-    "journal": "World journal of gastroenterology",
-    "date": "2025",
+    "pmid": "42346812",
+    "title": "The Utility of Extracorporeal Membrane Oxygenation in the Setting of Chronic Thromboembolic Pulmonary Hypertension.",
+    "journal": "Medical sciences (Basel, Switzerland)",
+    "date": "2026",
     "publication_types": [
       "Journal Article",
       "Review"
     ],
-    "doi": "10.3748/wjg.v31.i32.109897",
-    "abstract": "Epiploic appendagitis is a rare, often underrecognized cause of acute abdominal pain. Misdiagnosis can lead to unnecessary hospitalization, antibiotic use, or surgical intervention. Advances in imaging have improved the recognition of this self-limiting condition, but clinical awareness remains critical. To provide a comprehensive update on the epidemiology, anatomy, pathogenesis, clinical presentation, diagnostic strategies, differential diagnosis, and management of epiploic appendagitis, emphasizing its distinguishing features from other causes of acute abdomen. A review of the literature was conducted, focusing on the clinical characteristics, imaging findings, differential diagnoses, and evidence-based management strategies for epiploic appendagitis. Epiploic appendagitis typically presents with acute, localized, non-radiating abdominal pain without significant systemic symptoms. Diagnosis is heavily reliant on imaging, with computed tomography (CT) being the gold standard. Hallmark CT findings include a small, fat-density ovoid lesion adjacent to the colon, with the usual characteristic ring and dot signs. Differential diagnoses include mainly diverticulitis, appendicitis, omental infarction, and many other causes. Management is predominantly conservative with nonsteroidal anti-inflammatory drugs and observation, reserving surgical intervention for rare, complicated cases. Recognizing the clinical and imaging features of epiploic appendagitis is essential to avoid unnecessary interventions. Increased clinician awareness, coupled with judicious use of imaging, facilitates timely diagnosis and appropriate management, ensuring optimal patient outcomes.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/40900773/"
+    "doi": "10.1536/ihj.14-257",
+    "abstract": "Chronic thromboembolic pulmonary hypertension (CTEPH) is a progressive disease that occurs due to fibrotic remodeling of the pulmonary vessels. This leads to increased pressure overload onto the right ventricle, resulting in complications such as heart failure. Pulmonary endarterectomy (PEA) remains the gold standard of treatment for CTEPH, yet many patients experience life-threatening perioperative complications, including refractory right ventricular failure, reperfusion pulmonary edema, and endobronchial hemorrhage. Extracorporeal membrane oxygenation (ECMO) has been used as a form of mechanical circulatory support to aid recovery in patients with perioperative complications in the context of CTEPH. This review identifies preoperative risk factors, including pulmonary vascular resistance, high body mass index, and elevated neutrophil-to-lymphocyte ratios. It also identifies differences in ECMO configuration, with veno-arterial ECMO preferred for hemodynamic instability and veno-venous ECMO for respiratory failure. Finally, we posit that, based on contemporary literature, the implementation of early ECMO in decompensated patients may be associated with reduced hospital mortality, and in those who survive beget excellent mid-term survival.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42346812/"
   },
   {
-    "pmid": "40660240",
-    "title": "Hemorrhagic necrosis of omental cysts misdiagnosed as torsion of ovarian cysts: a case report and literature review.",
-    "journal": "BMC women's health",
-    "date": "2025",
-    "publication_types": [
-      "Journal Article",
-      "Case Reports",
-      "Review"
-    ],
-    "doi": "10.1186/s12905-025-03893-y",
-    "abstract": "Omental cysts are extremely rare intra-abdominal lesions that are typically benign and asymptomatic. When hemorrhagic necrosis occurs, it may mimic other acute abdominal emergencies, such as adnexal torsion. Omental cysts are easily misdiagnosed as other diseases because of their lack of specific clinical symptoms and signs, thus posing a diagnostic challenge. We report a 32-year-old woman presenting with acute lower abdominal pain and fever, initially diagnosed with ovarian cyst torsion. Imaging revealed a large pelvic cystic mass; however, laparoscopic exploration identified a hemorrhagic omental cyst with necrosis and inflammatory adhesion. Complete excision was performed, and histopathology confirmed a benign omental cyst with hemorrhage and necrosis. The patient recovered uneventfully and showed no recurrence over 11 months of follow-up. Analyzing this case allowed us to delve into the causes of misdiagnosis of omental cysts. This case emphasizes the diagnostic difficulty posed by complicated omental cysts and highlights the necessity of considering omental cyst in women presenting with acute abdomen and pelvic masses. Imaging aids diagnosis, but surgical exploration is the most direct and reliable method for confirming the cause of abdominal pain. Timely laparoscopic intervention facilitates accurate diagnosis and effective management.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/40660240/"
-  },
-  {
-    "pmid": "39924503",
-    "title": "Artificial intelligence in gynecologic and obstetric emergencies.",
-    "journal": "International journal of emergency medicine",
-    "date": "2025",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "doi": "10.1308/rcsbull.2021.111",
-    "abstract": "Artificial intelligence (AI) uses a process by which machines perform human-like functions such as automated clinical decisions. This may operate efficiently in gynecologic and obstetric emergencies. We aimed to review the role and applications of AI in gynecologic and obstetric emergencies. A literature search was carried out in November 2023 in PubMed, Cochrane Library and Google Scholar using the keywords combination of \"artificial intelligence, gynecology and obstetrics\". Relevant articles were selected and read. Reference lists of the selected articles were also searched. The literature demonstrated the role of AI to improve healthcare in emergency settings in several aspects such as diagnostic imaging, improving predictions in emergencies, and improving planning and resource allocation for emergency services. AI works objectively, overcoming human biases in decision-making. Creating interconnected data registries for AI will likely enhance its performance. Validation research in emergency settings has shown that AI-prediction tools perform more accurately compared with the estimation of risk and outcomes by gynecologists and obstetricians in emergency situations including endometriosis and acute abdominal pain. There was acceptance of AI and its potential benefits. Ethical dilemmas of using AI include data governance, responsibility for errors, and security issues. Providing training on AI to healthcare professionals working in emergency departments is needed. Healthcare professionals should educate themselves about the anticipated role of AI in gynecologic and obstetric emergencies, its indications, limitations, and ethical considerations so that they can take steps towards its application in their future practice using defined guidelines. WHY IS THIS REVIEW IS IMPORTANT?: The use of AI in healthcare has created polarized thoughts among emergency medicine professionals. This review is an effort to compare the pros and cons of using AI in gynecologic and obstetric emergencies so that AI can be properly applied in these specialities. WHAT DOES THIS REVIEW SHOW?: This review shows that there are several research studies in gynecology and obstetrics emergencies with positive points in favor of using AI in emergencies like acute abdominal and pelvic pain, and endometriosis. There are some reservations from the practitioners to use it due to lack of understanding of its nature, advantages and limitations. By narrating the findings of AI-related publications in gynecology and obstetrics emergency, we propose their applications and their limitations. WHAT ARE THE KEY FINDINGS?: AI can help in critical decision-making in emergency gynecologic and obstetric situations under the conditions of correct input information and human supervision. So, AI can assist gynecologists in deciding which treatment approach to use in emergencies and it may also reduce the burden on human professionals and save time by prompt interventional decisions. HOW IS PATIENT CARE IMPACTED?: Using AI with the input of trained medical professionals and software engineers, decision-making in gynecologic and obstetric emergencies can be made more efficient. AI-assisted tools can predict the outcomes of patients rapidly, saving time and avoiding delays in directing further care.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/39924503/"
-  },
-  {
-    "pmid": "37888307",
-    "title": "When Not to Operate on Acute Cases-A Surgeon's Perspective on Rapid Assessment of Emergency Abdominopelvic Computed Tomography.",
-    "journal": "Journal of imaging",
-    "date": "2023",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "doi": "10.2214/AJR.10.4340",
-    "abstract": "Clinical problem solving evolves in parallel with advances in technology and discoveries in the medical field. However, it always reverts to basic cognitive processes involved in critical thinking, such as hypothetical-deductive reasoning, pattern recognition, and compilation models. When dealing with cases of acute abdominal pain, clinicians should employ all available tools that allow them to rapidly refine their analysis for a definitive diagnosis. Therefore, we propose a standardized method for the quick assessment of abdominopelvic computed tomography as a supplement to the traditional clinical reasoning process. This narrative review explores the cognitive basis of errors in reading imaging. It explains the practical use of attenuation values, contrast phases, and windowing for non-radiologists and details a multistep protocol for finding radiological cues during CT reading and interpretation. This systematic approach describes the salient features and technical tools needed to ascertain the causality between clinical patterns and abdominopelvic changes visible on CT scans from a surgeon's perspective. It comprises 16 sections that should be read successively and that cover the entire abdominopelvic region. Each section details specific radiological signs and provides clear explanations for targeted searches, as well as anatomical and technical hints. Reliance on imaging in clinical problem solving does not make a decision dichotomous nor does it guarantee success in diagnostic endeavors. However, it contributes exact information for supporting the clinical assessments even in the most subtle and intricate conditions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/37888307/"
-  },
-  {
-    "pmid": "37000097",
-    "title": "Accuracy of ultrasound for the diagnosis of acute appendicitis in the emergency department: A systematic review.",
-    "journal": "Medicine",
-    "date": "2023",
+    "pmid": "42309622",
+    "title": "The Diagnostic and Prognostic Role of Focused Cardiac Ultrasound Performed by Non-cardiologist Specialists in Acute Symptomatic Pulmonary Embolism: A Systematic Review.",
+    "journal": "Heart failure clinics",
+    "date": "2026",
     "publication_types": [
       "Systematic Review",
       "Journal Article"
     ],
-    "doi": "10.1097/MD.0000000000033397",
-    "abstract": "Point-of-Care Ultrasound (POCUS) is a quick, useful, noninvasive, and inexpensive diagnostic tool used for the diagnosis of trauma, abdominal pain, dyspnea, and chest pain in the emergency department (ED). However, the diagnostic accuracy of ultrasound in the ED may be different from those reported in previous studies owing to the setting and time constraints in ED. We conducted our study in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines. A literature search was conducted using databases on US National Library of Medicine's database of biomedical literature, Ovid MEDLINE, online database of biomedical articles, and the collection of databases of systematic reviews and other evidence. The inclusion criteria were the use of bedside ultrasound as a diagnostic tool for acute appendicitis in the ED and the available data on diagnostic parameters such as sensitivity, specificity, and positive and negative predictive values (NPV). We constructed forest plots and summary receiver operating characteristic curves to evaluate the diagnostic accuracy of bedside ultrasound for acute appendicitis in the ED. A total of 21 studies that met the inclusion criteria of this study were included for analysis. The overall pooled sensitivity was 0.81 (95% CI, 0.78-0.83), whereas the pooled specificity was 0.87 (95% CI, 0.85-0.88). However, the I2 test showed 91.7% and 90.9% heterogeneity in the sensitivity and specificity values, respectively. The summary receiver operating characteristic curves showed high levels of accuracy, as evidenced by an area under the curve of 0.9249 (standard error: 0.0180). The use of ultrasound for the diagnosis of acute appendicitis in the ED showed that ultrasound has high overall sensitivity and specificity for the diagnosis of acute appendicitis. however, high heterogeneity among the included studies was observed.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/37000097/"
+    "doi": "10.1016/j.hfc.2026.02.005",
+    "abstract": "Transthoracic echocardiography is key for assessing right ventricle (RV) dysfunction in acute symptomatic pulmonary embolism (PE), but limited availability hinders its use. Focused cardiac ultrasound (FoCUS) offers a rapid bedside alternative. We performed a systematic review through PubMed literature (2000-2025) on FoCUS performed by non-cardiologists in PE. Seven studies assessed its diagnostic utility and one its prognostic role. The most useful FoCUS parameters were RV/LV ratio greater than 1, RV hypokinesia, paradoxical septal motion, McConnell's sign, and reduced tricuspid annular plane systolic excursion. Despite growing interest, direct evidence supporting the diagnostic accuracy and prognostic value of FoCUS remains limited.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42309622/"
+  },
+  {
+    "pmid": "42209070",
+    "title": "The Role of Mechanical Circulatory Support Devices in Pulmonary Embolism: A Comprehensive Review.",
+    "journal": "Interventional cardiology clinics",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1016/j.iccl.2026.03.006",
+    "abstract": "Pulmonary embolism (PE) remains a leading cause of cardiovascular mortality, particularly in its high-risk and intermediate-high risk presentations where acute right ventricular (RV) failure is the primary driver of hemodynamic collapse. This review comprehensively examines the pathophysiology of RV failure in PE, their indications based on current evidence and guidelines, practical considerations for implementation, management strategies, complications, and integration with other therapeutic modalities. We also highlight the crucial role of a multidisciplinary team and discuss future directions in this rapidly evolving field. Emphasis is placed on practical application for the interventional cardiologist.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42209070/"
+  },
+  {
+    "pmid": "42169048",
+    "title": "Point-of-care ultrasound in hemodynamically unstable pulmonary embolism.",
+    "journal": "Critical care (London, England)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "Letter"
+    ],
+    "doi": "10.1007/s11239-025-03236-6",
+    "abstract": "The recent guideline from the American Heart Association on acute pulmonary embolism provides an updated framework for diagnosis, risk stratification, and management. Computed tomography pulmonary angiography remains the reference standard for confirming pulmonary embolism. However, in critically ill patients with hemodynamic or respiratory instability, transport for definitive imaging may be unsafe or impractical. In this context, bedside evaluation becomes central to early decision-making. Point-of-care ultrasound (POCUS), particularly when performed as a multi-organ assessment integrating cardiac, pulmonary, and venous ultrasound, can rapidly identify signs of right ventricular dysfunction, detect thrombus in transit, and exclude alternative life-threatening causes of shock. Emerging evidence suggests that multi-organ POCUS has high diagnostic performance in critically ill patients with suspected pulmonary embolism. In unstable patients, bedside ultrasound may therefore provide clinically actionable information to support timely therapeutic decisions when definitive imaging is not immediately feasible.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42169048/"
   }
 ]
