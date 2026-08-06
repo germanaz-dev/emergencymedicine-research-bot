@@ -31,6 +31,9 @@ jobs:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python script.py
+        
+      - name: Build website
+        run: python site_builder.py
 
       - name: Commit and push results
         run: |
@@ -40,5 +43,4 @@ jobs:
           git commit -m "auto: daily report" || echo "No changes"
           git push
           
-      - name: Build website
-        run: python site_builder.py
+      
