@@ -39,3 +39,6 @@ jobs:
           git add .
           git commit -m "auto: daily report" || echo "No changes"
           git push
+          
+      - name: Build website
+        run: python site_builder.py
