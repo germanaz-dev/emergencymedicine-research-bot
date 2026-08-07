@@ -1,0 +1,108 @@
+[
+  {
+    "pmid": "42558811",
+    "title": "Clinical equipoise and ethical challenges in expanding endovascular stroke thrombectomy practice.",
+    "journal": "Frontiers in surgery",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1161/STROKEAHA.106.476648",
+    "abstract": "Endovascular thrombectomy transformed acute ischemic stroke care while exposing ethical tensions in emergency research. As landmark trials rapidly shifted standards, investigators faced complex questions regarding equipoise, early stopping, and respecting autonomy when patients lack capacity and time is critical. We conducted a focused literature analysis from 2003 to 2024 spanning practice-changing thrombectomy trials and contemporary ethics literature. We synthesized three domains: (1) equipoise dynamics during evidence accumulation; (2) balancing non-maleficence against the social value of continuing trials; and (3) consent models for incapacitated patients in time-sensitive settings. Initial uncertainty regarding endovascular efficacy justified early randomized controls. However, post-2015 data precipitated a rapid loss of equipoise, necessitating the early termination of trials to uphold the duty of care for control arm participants. While early stopping rules successfully minimized harm, they raised tensions regarding the precision of treatment effect estimates. Furthermore, the requirement for standard informed or surrogate consent was found to introduce selection bias against severe stroke patients lacking capacity. The literature supports shifting toward deferred or presumed consent models in these emergencies, arguing that rigid adherence to autonomy can paradoxically violate the principles of justice and beneficence by systematically excluding the most vulnerable patient populations from life-altering interventions. Ethical conduct of emergency stroke trials requires continuous reassessment of equipoise, pre-specified stopping rules that prioritize participant welfare, and consent pathways tailored to incapacity and time sensitivity. We explore principles integrating beneficence, non-maleficence, autonomy, and justice to maximize lives saved and prevent disability while preserving rights. These principles generalize to future trials as indications, technologies, and timelines evolve.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42558811/"
+  },
+  {
+    "pmid": "42535264",
+    "title": "Response to Request for Modification of the 2026 AHA/ASA Acute Ischemic Stroke Guidelines: Endovascular Thrombectomy Imaging Selection in the 6- to 24-Hour Window.",
+    "journal": "Stroke",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1161/STROKEAHA.126.056726",
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535264/"
+  },
+  {
+    "pmid": "42529818",
+    "title": "Optimizing Acute Ischemic Stroke Systems of Care: Current State and Future Directions.",
+    "journal": "Stroke",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1161/STROKEAHA.126.052584",
+    "abstract": "Despite significant progress in hospital quality initiatives and the organization of regional stroke systems of care, a significant gap persists between the number of patients eligible for acute ischemic stroke reperfusion therapies and those who receive them in a timely manner. This gap reflects persistent delays and variability across the prehospital and interhospital phases of care, from prehospital dispatch and field assessment to destination selection and interhospital transfer workflows. This expert narrative review synthesizes current evidence on acute stroke systems of care, with a particular focus on prehospital identification of stroke, destination decision-making for suspected large-vessel occlusion, and interhospital transfer for patients requiring endovascular thrombectomy. Key processes, including prehospital response and scene times, destination decision-making, and door-in-door-out metrics, are examined to illustrate how system-level bottlenecks affect access to and outcomes of reperfusion therapies. Emerging and novel technologies are also described, including mobile stroke units, blood-based biomarkers for prehospital stroke diagnosis, portable neuroimaging modalities, physiological and device-based detection systems, and cross-cutting tools such as telestroke, all aimed at shifting accurate diagnosis and treatment decisions earlier in the stroke care pathway.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42529818/"
+  },
+  {
+    "pmid": "42502486",
+    "title": "Stimuli-Responsive Biomimetic Nanomedicines for Targeted Therapy in Ischemic Stroke: Design Principles, Preclinical Evidence and Translational Challenges.",
+    "journal": "International journal of nanomedicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1021/acsnano.9b08587",
+    "abstract": "Ischemic stroke (IS) is a complex cerebrovascular disease with multifactorial etiology and pathological mechanisms, characterized by high morbidity, disability, and mortality rates. Although mechanical thrombectomy, intravenous thrombolysis, and neuroprotective interventions have improved acute management, effective brain-targeted delivery remains limited by the blood-brain barrier, short therapeutic windows, heterogeneous ischemic lesions, and secondary injury after reperfusion. Biomimetic nanomedicines have emerged as promising platforms for IS therapy because they can inherit biological functions from cell membranes, extracellular vesicles, or endogenous ligands, thereby improving biocompatibility, immune evasion, circulation stability, and lesion targeting. However, their clinical translation is still constrained by biosafety and immunogenicity concerns, uncertain pharmacokinetics and reproducible large-scale manufacturing, quality control, and regulatory requirements. Moreover, the balance between drug-loading capacity and target release efficiency remains a key challenge. Excessive cargo loading may compromise nanocarrier stability, whereas insufficient loading may fail to achieve therapeutic efficacy. Therefore, rational nanocarrier design for IS should coordinate brain accumulation, stable systemic circulation, lesion-selective activation, efficient loading, and controllable release. In this review, we discuss how stimuli-responsive biomimetic nanomedicines exploit pathological cues such as reactive oxygen species, acidosis, enzymes, inflammatory mediators, or external stimuli for spatiotemporally controlled therapy and combined therapy. This review critically summarizes IS pathophysiology, major biomimetic nanocarrier types, and the design principles and response mechanisms of stimuli-responsive biomimetic systems. Finally, current limitations and future directions are discussed, with emphasis on biosafety evaluation, standardized characterization, scalable manufacturing, clinically relevant models, and rational integration of precision-responsive designs to accelerate translation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42502486/"
+  },
+  {
+    "pmid": "42497287",
+    "title": "Impact of prior intravenous thrombolysis on first-line thrombectomy strategy. A secondary analysis of the VECTOR trial.",
+    "journal": "European stroke journal",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial"
+    ],
+    "doi": "10.1161/STROKEAHA.122.041061",
+    "abstract": "Whether prior intravenous thrombolysis (IVT) modifies the relative efficacy of first-line thrombectomy strategies remains uncertain, and no randomised trial has specifically addressed this question. Leveraging the randomised design of the VECTOR trial, a multicentre trial comparing first-line contact aspiration (CA) vs CA plus stent retriever (SR + CA) in patients with anterior LVOs and a positive susceptibility vessel sign, we assessed whether IVT status modified the association between thrombectomy strategy and reperfusion outcomes. We performed a secondary analysis of the VECTOR trial, in which patients were stratified according to prior IVT use. The primary outcome was near-complete or complete reperfusion (expanded thrombolysis in cerebral infarction [eTICI] 2c-3) after ≤ 3 passes with the assigned first-line technique and before rescue therapy. Secondary outcomes included first-pass reperfusion, complete reperfusion after ≤ 3 passes, final reperfusion at the end of the procedure and functional outcomes at 90 days. Between 26 November 2019 and 14 February 2022, 521 patients were included in VECTOR. Of these, 288 (55%) received IVT before thrombectomy. The effect of first-line strategy on the primary outcome did not differ according to IVT status (P for heterogeneity = .28). Among IVT-treated patients, eTICI 2c-3 after ≤ 3 passes occurred in 88/144 patients (61.1%) assigned to SR + CA vs 74/144 (51.3%) assigned to CA (aOR, 1.50 [95% CI, 0.91-2.45]). Among patients without IVT, corresponding rates were 64/119 (53.9%) vs 61/114 (53.6%) (aOR, 1.00 [95% CI, 0.58-1.72]). Interaction tests were non-significant for all other angiographic, clinical and safety outcomes except final complete reperfusion, which favoured CA in patients without IVT (P for heterogeneity = .019). Prior IVT did not significantly modify the effect of first-line strategy on early reperfusion, and both CA and SR + CA remained valid approaches irrespective of IVT status. The isolated interaction for final complete reperfusion, favouring CA in patients without IVT, was exploratory and may reflect chance. A hypothesis-generating mechanism is plausible in this SVS-positive, red blood cell-rich phenotype: CA applied to an intact clot may favour en-bloc retrieval, an advantage attenuated once alteplase softens the thrombus. These results, obtained almost exclusively under alteplase and in an MRI-selected population with mandatory balloon guide catheter use, may not extend to tenecteplase or CT-selected patients. In this secondary analysis of the VECTOR trial, prior IVT did not significantly modify the association between first-line thrombectomy strategy and successful reperfusion. The observed angiographic differences remain exploratory and warrant further investigation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42497287/"
+  },
+  {
+    "pmid": "42480380",
+    "title": "Intra-arterial thrombolytics after endovascular thrombectomy for acute ischemic stroke: A network meta-analysis of RCTs.",
+    "journal": "Journal of the neurological sciences",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1016/j.jns.2026.126099",
+    "abstract": "Endovascular thrombectomy (EVT) is the gold standard treatment for acute ischemic stroke (AIS) caused by large vessel occlusion (LVO) in patients meeting certain eligibility criteria. A critical challenge in this regard is the phenomenon of futile recanalization, which can be partially explained by embolism of the distal microcirculation. Thus, a few clinical trials investigated the efficacy and safety profile of intra-arterial thrombolysis (IAT) post successful EVT aiming to improve EVT's clinical outcomes without increasing the risk of hemorrhagic complications. We aim to evaluate the efficacy and safety of adjunctive IAT after successful EVT for AIS-LVO. A systematic review and network meta-analysis (NMA) of randomized controlled trials comparing IAT (Alteplase (ALT), Tenecteplase (TNK), or Urokinase (UK)) versus EVT alone were conducted. Primary outcomes were 90-day modified Rankin Scale (mRS) 0-1, mRS 0-2, and mortality; safety outcomes included any and symptomatic intracranial hemorrhage (any ICH and sICH). Eight trials (2564 patients) were included. EVT + TNK 0.125 mg/kg (RR 1.54, 95% CI 1.07-2.20) and EVT + ALT 0.225 mg/kg (RR 1.51, 95% CI 1.22-1.89) improved excellent outcomes (mRS 0-1) versus EVT alone. No regimen improved mRS 0-2 or mortality. EVT + TNK 0.0625 mg/kg increased the risk of any ICH (RR 1.34, 95% CI 1.08-1.66), but not the risk of sICH. IAT, particularly with ALT 0.225 mg/kg or TNK 0.125 mg/kg, may enhance post-EVT recovery without increasing sICH risk. Larger trials are needed to confirm optimal dosing and patient selection.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42480380/"
+  },
+  {
+    "pmid": "42479681",
+    "title": "Endovascular Thrombectomy for Acute Ischemic Stroke Due to Distal Medium Vessel Occlusion: A Systematic Review and Meta-Analysis.",
+    "journal": "Cerebrovascular diseases (Basel, Switzerland)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "doi": "10.1159/000550964",
+    "abstract": "While endovascular thrombectomy (EVT) is the standard treatment for large vessel occlusion, its role in distal medium vessel occlusion (DMVO) remains uncertain. This systematic review and meta-analysis aim to evaluate the efficacy and safety of EVT in patients with acute ischemic stroke (AIS) due to DMVO. We systematically searched PubMed, Medline, Embase, Web of Science, and Cochrane Central Register of Controlled Trials, and ClinicalTrials.gov from inception up to February, 2025 reporting the efficacy and safety of EVT for DMVO, compared with best medical management (BMM). Study risk of bias was assessed using the Newcastle Ottawa Scale (NOS) for observational studies and the Cochrane Risk of Bias tool 2 (RoB 2) for randomized controlled studies. Random-effects meta-analyses were performed to pool data. Outcomes of interest included the proportion of excellent functional outcomes (mRS 0-1 at 90 days), the proportion of favorable functional outcome (mRS 0-2 at 90 days), 90-day mortality, and symptomatic intracranial hemorrhage (sICH). We used the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach to evaluate the certainty of the evidence. The study protocol was registered on PROSPERO (CRD420250656493). A total of thirty-seven studies with 12742 patients were included in our meta-analysis. Overall, no significant differences were observed between the EVT and BMM group regarding excellent functional outcome (OR: 1.02, 95% CI: 0.86-1.21) and favorable functional outcome (OR: 1.02, 95% CI: 0.87-1.19). However, the EVT group demonstrated significantly higher odds of mortality (OR: 1.28, 95% CI: 1.07-1.54) and sICH (OR: 1.44, 95% CI: 1.04-1.98) compared with the BMM group. Subgroup analyses indicated EVT was associated with a higher proportion of favorable functional outcome (OR: 1.52, 95% CI: 1.07-2.16) in patients with M2 occlusion (GRADE = Very low). In addition, EVT was associated with lower proportion of favorable functional outcome (OR: 0.61, 95% CI: 0.37-0.98) in patients with ACA occlusion (GRADE = Low). EVT achieved higher proportion of excellent functional outcome (OR: 1.20, 95% CI: 1.02-1.40) (GRADE = Low), but higher risk of mortality (OR: 1.65, 95% CI: 1.17-2.31) and sICH (OR: 2.53, 95% CI: 1.48-4.33) in patients with PCA occlusion (GRADE = Low, GRADE = Moderate, respectively). Our meta-analysis revealed that, for the broad population of DMVO-AIS, EVT is not associated with improved 90-day functional outcomes and may increase mortality and sICH risks. However, subgroup analyses suggest that effects are not uniform and may be favorable for selected patients, particularly those with M2 occlusions. Notably, these aggregate findings are limited by observational studies with inherent selection bias, so the generalizability may be affected.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42479681/"
+  },
+  {
+    "pmid": "42475651",
+    "title": "Exploring Between-Study Heterogeneity in Extended-Window IV Thrombolysis for Acute Ischemic Stroke: A Meta-Analysis of 18 Randomized Controlled Trials.",
+    "journal": "Neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "doi": "10.1212/WNL.0000000000218331",
+    "abstract": "IV thrombolysis (IVT) is the standard-of-care evidence-based treatment of eligible patients with acute ischemic stroke (AIS) within 4.5 hours of symptom onset. Emerging evidence supports its use beyond this time window, leading to expanded recommendations for selected patients presenting between 4.5 and 24 hours. We performed a systematic review and meta-analysis to evaluate IVT in the 4.5- to 24-hour window and to explore sources of between-study heterogeneity. We searched MEDLINE, Cochrane Library, and ClinicalTrials.gov from inception through February 2026. Eligible studies were randomized controlled trials (RCTs) or individual patient-data meta-analyses of RCTs comparing IVT with control in patients with AIS presenting beyond 4.5 hours from last known well. The primary outcome was excellent functional recovery, defined as a modified Rankin Scale (mRS) of 0-1 at 90 days. Secondary outcomes included functional independence (mRS of 0-2 at 90 days); change in mRS disability, quantified as the common odds ratio (OR) for a 1-point improvement across the full ordinal mRS distribution (ordinal analysis); and safety measures such as 90-day mortality and symptomatic intracranial hemorrhage (sICH). Risk ratios (RRs) with 95% CIs were pooled. Multivariable meta-regression simultaneously modeled thrombolytic agent, endovascular thrombectomy context, and territory to disentangle confounded predictors. Fifteen studies representing 18 RCTs and encompassing 5,168 patients were included in the primary analysis. Of the 18 included RCTs, 11 required advanced perfusion imaging (CTP or MRP mismatch) or diffusion-weighted imaging/fluid-attenuated inversion recovery mismatch to confirm salvageable tissue; the remaining 7 permitted noncontrast CT/CT angiography-based selection. IVT significantly improved excellent functional outcome at 90 days (mRS 0-1; 40.3% vs 33.2%, RR 1.21; 95% CI 1.13-1.30; p < 0.001; number needed to treat [NNT] = 14) and good functional outcome (mRS 0-2; 54.5% vs 50.1%, RR 1.09; 95% CI 1.04-1.15; p < 0.001; NNT = 23). IVT was associated with significantly greater odds of reduced disability across the full mRS spectrum (common OR 1.18; 95% CI 1.07-1.32; p = 0.004). IVT increased the risk of sICH (3.2% vs 1.4%; RR 1.90; 95% CI 1.28-2.84; p = 0.002; number needed to harm = 57) but did not increase 90-day mortality (13.7% vs 13.0% RR 1.04; 95% CI 0.92-1.18; p = 0.53). Meta-regression showed that thrombectomy (β = -0.275, p = 0.012 for mRS shift; β = -0.186, p = 0.032 for mRS 0-2) is the primary driver of between-study heterogeneity, explaining 66%-100% of intertrial variance. Extended-window IVT improves functional outcomes across a wider spectrum of stroke subgroups than previously recognized. The benefit seems greatest for patients with more severe strokes in settings where thrombectomy is unavailable, providing the evidence base for offering a critical reperfusion strategy for the substantial proportion of patients worldwide who lack timely access to thrombectomy. This study provides American Academy of Neurology Class I evidence that IVT administered 4.5-24 hours after moderate-to-severe AIS onset in patients with salvageable tissue, where thrombectomy is not readily available, improves functional outcome at 90 days without increasing mortality.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475651/"
+  }
+]

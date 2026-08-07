@@ -8,5 +8,10 @@
     "last_seen": "2026-08-06",
     "times_reviewed": 1,
     "axis": "cardiovascular"
+  },
+  "stroke_thrombectomy_selection": {
+    "last_seen": "2026-08-07",
+    "times_reviewed": 1,
+    "axis": "neurology"
   }
 }
