@@ -23,5 +23,10 @@
     "last_seen": "2026-08-08",
     "times_reviewed": 1,
     "axis": "critical_care"
+  },
+  "acute_coronary_syndrome_troponin": {
+    "last_seen": "2026-08-08",
+    "times_reviewed": 1,
+    "axis": "cardiovascular"
   }
 }
