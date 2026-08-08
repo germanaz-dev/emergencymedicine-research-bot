@@ -28,5 +28,10 @@
     "last_seen": "2026-08-08",
     "times_reviewed": 1,
     "axis": "cardiovascular"
+  },
+  "sepsis_early_recognition": {
+    "last_seen": "2026-08-08",
+    "times_reviewed": 1,
+    "axis": "infectious"
   }
 }

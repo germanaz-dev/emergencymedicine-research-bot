@@ -1,731 +1,106 @@
 Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
 
-Tema de actualización: high sensitivity troponin in acute coronary syndrome
+Tema de actualización: sepsis early recognition in the emergency department
 
 PAPERS RECUPERADOS DE PUBMED:
 --- PAPER PUBMED ---
-Título: The Evolution of Accelerated Diagnostic Protocols for Suspected Myocardial Infarction.
-Revista: Journal of clinical medicine
+Título: Identification and Management of Differentiation Syndrome in Emergency Settings: A Narrative Review.
+Revista: Cancers
 Fecha: 2026
 Tipo: Journal Article, Review
-PMID: 42452585
-DOI: 10.1016/S0735-1097(19)30875-7
-URL: https://pubmed.ncbi.nlm.nih.gov/42452585/
+PMID: 42279388
+DOI: 10.1038/s41419-025-08109-7
+URL: https://pubmed.ncbi.nlm.nih.gov/42279388/
 
 Abstract:
-There have been considerable developments in the analytic precision of cardiac troponins in the last three decades. Whilst there has been near-universal uptake of this technology, there is considerable variability in how to assess acute chest pain patients using high-sensitivity cardiac troponins. This review describes the historical narrative for cardiac troponins and details the evidence base behind decision rules, such as single sample rule-out, single sample rule-in, and accelerated diagnostic protocols (ADPs). There is particular focus on the European Society of Cardiology (ESC) 0/1 and 0/3 h and the high-STEACS ADPs. The ESC 0/3 h ADP appears to have reduced rule-out safety compared to both the ESC 0/1 h and high-STEACS ADP. However, whilst high-STEACS performed well in its validation population, external validation in the US has been less impressive and warrants further investigation. The ESC 0/1 h pathway has demonstrated strong rule-out performance, helped by its observational zone. However, real world implementation studies comparing these ADPs are required to understand their impact on Emergency Department efficiency and the safety of clinician decision-making.
+Background: Differentiation therapy is a cornerstone in treating hematologic malignancies, particularly acute myeloid leukemia (AML). Differentiation agents target molecular defects blocking myeloid differentiation. However, rapid differentiation can precipitate a life-threatening complication, differentiation syndrome (DS). DS manifests with fever, pulmonary infiltrates, pleural or pericardial effusions, hypotension, and organ dysfunction, often mimicking sepsis or infection. Early recognition in the emergency department (ED) is critical to mitigate morbidity and mortality. This review aims to provide emergency clinicians with practical strategies for the timely identification and management of DS in patients undergoing differentiation therapy. Discussion: Suspicion for DS should be heightened in patients with acute promyelocytic leukemia (M3 AML) who recently started induction chemotherapy, including all-trans retinoic acid or arsenic trioxide, and in those with non-M3 AML receiving differentiation agents (i.e., isocitrate dehydrogenase inhibitors, menin inhibitors, FMS-like tyrosine kinase 3 inhibitors). Imaging can identify pulmonary infiltrates, effusions, and other cardiopulmonary manifestations. Laboratory workups should include complete blood counts with differentials, serum chemistries, cardiac biomarkers, and sepsis panels to exclude infection. Electrocardiography is advised for patients on QT-prolonging agents. Management emphasizes prompt initiation of high-dose corticosteroids and supportive measures such as blood pressure support, intravascular volume optimization, and oxygen therapy or ventilatory support. Multidisciplinary coordination with oncology, hematology, and critical care teams is important to tailor plans and monitor complications. Conclusions: DS represents a diagnostic challenge in the ED due to its nonspecific presentation and mimicry of infection. A high index of suspicion, combined with targeted imaging, laboratory evaluation, and early corticosteroid therapy, can improve outcomes.
 
 --- PAPER PUBMED ---
-Título: From Electrocardiography to the Catheterization Laboratory: A Multimodal Artificial Intelligence Framework for Acute Coronary Syndrome Detection and Risk Stratification.
-Revista: Diagnostics (Basel, Switzerland)
+Título: Clinical Outcomes for Emergency Department Presentations of Sepsis Managed on a Clinical Pathway: A Systematic Review and Meta-Analysis.
+Revista: Healthcare (Basel, Switzerland)
 Fecha: 2026
 Tipo: Journal Article, Review
-PMID: 42449831
-DOI: 10.1038/s41569-025-01191-6
-URL: https://pubmed.ncbi.nlm.nih.gov/42449831/
+PMID: 42278762
+DOI: 10.1056/NEJMoa1703058
+URL: https://pubmed.ncbi.nlm.nih.gov/42278762/
 
 Abstract:
-Current acute coronary syndrome (ACS) care relies on sequential, single-modality diagnostics, in which the electrocardiogram, the troponin trajectory, and the coronary angiogram are interpreted independently rather than as a joint signal. This narrative review maps rather than pools the evidence. We selectively searched PubMed, EMBASE, Cochrane CENTRAL, and Web of Science (January 2015-February 2026); study selection was performed by a single reviewer, without duplicate screening, a PRISMA flow diagram, or a formal risk-of-bias assessment. The three key findings are as follows: A machine learning-enabled electrocardiogram (ECG) for diagnosing occlusion due to myocardial infarction achieved an AUC of 0.938 (95% CI = 0.924-0.951) on data not seen during training and correctly diagnosed 42% of patients that expert interpreters missed. A machine learning-enabled high-sensitivity troponin interpretation method, CoDE-ACS, reported an AUC of 0.953 and increased the number of patients ruled out at initial evaluation from 27% to 61%. Angiographically derived physiological methods produced conflicting results-quantitative flow ratios reduced major adverse cardiovascular events (MACE) in the FAVOR III China trial (HR 0.65), but in FAVOR III Europe the angiography-derived approach did not prove non-inferior to FFR; if anything, QFR guidance led to more events (6.7% vs. 4.2%, an event rate about 60% higher in the QFR arm; HR 1.63; 95% CI 1.11-2.41). There was no difference between FFR-angio and FFR in the ALL-RISE trial. These are diagnostic-accuracy and prognostic-association findings; no trial has yet shown that AI-guided ACS care reduces death, reinfarction, or ischemia-driven revascularization.
+Background: Sepsis is a time-critical condition requiring early recognition and intervention. Many emergency departments (EDs) have adopted clinical pathways to standardise sepsis care; however, the impact of these pathways on patient outcomes remains unclear. Methods: A systematic review and meta-analysis was conducted in November 2024 searching PubMed, Embase, and Scopus. Studies were included if they assessed the impact of a clinical pathway on adult or paediatric patients with sepsis presenting to the ED. Results: Thirty-three studies were included, of which the majority were retrospective cohort designs and were rated serious overall risk of bias. Pathway implementation was associated with faster time to antibiotics across all subgroups (135 min before vs. 93 min after; MD -43 min, p < 0.001). In-hospital mortality appeared reduced in the primary analysis (RD -2.4%, p = 0.032); however, this finding was fragile under sensitivity analysis and was not observed in prospective or randomised designs. The apparent reduction in hospital length of stay was driven by paediatric and low- and middle-income country studies and was non-significant when restricted to adult studies. ICU admission rate, ED length of stay, and time to IV fluid resuscitation were not significantly reduced. Conclusions: ED sepsis pathway implementation is associated with improved time to antibiotics across clinical settings and populations. Current evidence is insufficient to demonstrate a reduction in mortality; the apparent signal in retrospective studies is attributable to secular improvements in sepsis care and asymmetric patient identification rather than a true pathway effect. Future research should prioritise prospective controlled studies with standardised screening methods, time zero definitions and control of confounding variables.
 
 --- PAPER PUBMED ---
-Título: Advances in the Diagnosis and Management of Acute Coronary Syndrome: A Clinical Review.
+Título: Deep neck space Infections in children: Peritonsillar, retropharyngeal, parapharyngeal, and Ludwig's angina emergencies in the pediatric emergency department.
+Revista: American journal of otolaryngology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42275833
+DOI: 10.1016/j.amjoto.2026.104864
+URL: https://pubmed.ncbi.nlm.nih.gov/42275833/
+
+Abstract:
+Pediatric deep neck space infections (DNSIs)-peritonsillar, retropharyngeal, and parapharyngeal abscesses and Ludwig's angina-are uncommon but potentially life-threatening due to rapid progression to airway obstruction, sepsis, and mediastinal extension. This narrative review summarizes evidence for emergency clinicians. A literature search of PubMed/Scopus (2000-2025) identified studies on pediatric DNSI epidemiology, imaging, microbiology, and management. DNSIs peak at ages 2-5 years because of prominent retropharyngeal lymph nodes. Nonspecific symptoms (fever, irritability, neck stiffness) often delay diagnosis in young children, while older children present with trismus, dysphagia, and "hot potato" voice. Airway compromise is the highest priority and must be assessed before imaging. Contrast-enhanced CT remains the gold standard for stable patients, but point-of-care ultrasound has high accuracy for peritonsillar abscesses. Microbiology is polymicrobial; methicillin-resistant Staphylococcus aureus is increasingly reported. Empiric broad-spectrum intravenous antibiotics (e.g., ampicillin-sulbactam) should be initiated early, with vancomycin added if MRSA risk factors are present. Surgical drainage is indicated for abscesses >2-2.5 cm, airway compromise, or failure of medical therapy. Multidisciplinary collaboration reduces complications. Early recognition, an airway-first approach, selective imaging, and timely antibiotics improve outcomes. Standardized emergency department (ED) protocols and risk stratification tools are needed to prevent life-threatening complications in this vulnerable group.
+
+--- PAPER PUBMED ---
+Título: Impact of Sepsis Management Guideline Implementation in Emergency Departments: A Systematic Review of Process Measures and Clinical Outcomes.
 Revista: Cureus
 Fecha: 2026
 Tipo: Journal Article, Review
-PMID: 42440890
-DOI: 10.7759/cureus.110344
-URL: https://pubmed.ncbi.nlm.nih.gov/42440890/
+PMID: 42255822
+DOI: 10.7759/cureus.108271
+URL: https://pubmed.ncbi.nlm.nih.gov/42255822/
 
 Abstract:
-Acute coronary syndrome (ACS) encompasses a spectrum of ischemic cardiac conditions associated with significant global morbidity and mortality, commonly driven by atherosclerotic plaque disruption and thrombosis, and remains a major clinical challenge despite advances in cardiovascular care. Persistent variability in early diagnosis, risk stratification, and the integration of emerging therapies into routine practice highlights existing gaps in translating evolving evidence into consistently improved clinical outcomes. This narrative clinical review aims to synthesise recent advances in diagnostic approaches and therapeutic strategies, focusing on biomarkers, imaging modalities, pharmacological interventions, and precision-based management. A structured narrative literature search was conducted using PubMed and Google Scholar for English-language human studies published between 2015 and 2025. Search terms included "acute coronary syndrome," "high-sensitivity troponin," "biomarkers," "coronary computed tomography angiography," "intravascular ultrasound," "optical coherence tomography," "antiplatelet therapy," "anticoagulation," "lipid-lowering therapy," and "precision medicine." Guidelines, randomised trials, systematic reviews, meta-analyses, and high-impact reviews were included, while duplicate, non-English, non-coronary, and clinically irrelevant studies were excluded. Study relevance and quality were narratively assessed using the Scale for the Assessment of Narrative Review Articles (SANRA) principles, with emphasis on justification of the manuscript's importance, clarity of review aims, appropriateness of the literature search, balanced evidence presentation, scientific reasoning, and clinical relevance of the synthesis. Findings indicate that high-sensitivity troponins, advanced imaging techniques, and contemporary antithrombotic and lipid-lowering therapies have enhanced diagnostic accuracy and improved clinical outcomes. Emerging anti-inflammatory therapies and digital health innovations further contribute to more individualised patient management. These developments support the integration of novel tools with established clinical pathways to optimise care delivery. Continued research and improved implementation strategies remain necessary to address disparities and refine management approaches. A multidimensional, patient-centred framework is essential for advancing outcomes and guiding future clinical practice in ACS.
+Sepsis is a life-threatening condition associated with significant morbidity and mortality worldwide. The emergency department (ED) plays a crucial role in the early recognition and management of sepsis, as delays in treatment are strongly associated with worse outcomes. Although sepsis management guidelines and care bundles have been widely implemented to standardize and accelerate care, their impact on patient outcomes remains variably reported. This systematic review evaluated the effect of implementing sepsis management guidelines in EDs on both process indicators and clinical outcomes. A systematic search was conducted across PubMed, Scopus, Web of Science, and the Cochrane Library using a combination of controlled vocabulary and free-text terms related to sepsis, emergency care, and guideline implementation, yielding 4,309 records; after removal of duplicates and screening, eight studies met the inclusion criteria. Data extraction was performed using a standardized form capturing study characteristics, interventions, and outcomes, and risk of bias was assessed using the Risk Of Bias In Non-randomized Studies of Interventions (ROBINS-I) tool. The included studies comprised diverse designs, including before-and-after studies, retrospective cohort studies, observational studies, and one quasi-experimental trial. Overall, implementation of sepsis guidelines consistently improved process measures, including reduced time to antibiotic administration, increased lactate testing, improved blood culture collection, and higher compliance with sepsis bundles. However, effects on clinical outcomes were heterogeneous: some studies reported reductions in mortality, intensive care unit (ICU) admissions, and resource utilization, while others showed no significant mortality benefit despite improved process indicators. Additionally, some studies reported unintended consequences such as increased antimicrobial use and potential overtreatment. Most studies were judged to have a moderate to serious risk of bias, largely due to confounding and non-randomized designs. In conclusion, implementation of sepsis management guidelines in EDs is associated with consistent improvements in care processes and timeliness of treatment, but evidence for improved clinical outcomes, particularly mortality, remains inconsistent and is limited by study design and risk of bias; further high-quality studies are needed to establish causality, optimize implementation strategies, and balance timely treatment with antimicrobial stewardship.
 
 --- PAPER PUBMED ---
-Título: AI-enhanced ECG for acute coronary syndrome triage: A state-of-the-art review.
-Revista: Cardiovascular revascularization medicine : including molecular interventions
+Título: Alerts and Alarms-Can Electronic Medical Records Help Children and Adolescents Survive Sepsis?
+Revista: Journal of paediatrics and child health
 Fecha: 2026
 Tipo: Journal Article, Review
-PMID: 42364947
-DOI: 10.1016/j.carrev.2026.06.015
-URL: https://pubmed.ncbi.nlm.nih.gov/42364947/
+PMID: 42068108
+DOI: 10.1111/jpc.70412
+URL: https://pubmed.ncbi.nlm.nih.gov/42068108/
 
 Abstract:
-Acute coronary syndrome (ACS) remains a leading cause of emergency department presentations, yet triage based on the ST-elevation myocardial infarction (STEMI)/non-ST-elevation myocardial infarction (NSTEMI) paradigm misses approximately 25-34% of acute coronary occlusion myocardial infarction (OMI). Early artificial intelligence-electrocardiography (AI-ECG) models showed retrospective promise for detecting ischemic ECG patterns but lacked prospective validation. This review synthesizes emerging multicenter registry, prospective cohort, and pathway trial evidence for AI-ECG in ACS triage, including the Queen of Hearts registry, ROMIAE, and DIFOCCULT-3 studies. It is essential to distinguish two separate clinical tasks: (1) detecting OMI for emergent catheterization laboratory activation, and (2) ruling out acute myocardial infarction (MI), which requires serial high-sensitivity troponin and cannot be achieved by ECG alone. Contemporary findings suggest AI-ECG significantly improves OMI detection sensitivity (92% vs. 71% for standard care) and reduces false-positive catheterization laboratory activations by up to 91% among biomarker-negative patients. For acute MI rule-out, AI-ECG shows promise as an adjunct to troponin-based strategies, with a negative predictive value of approximately 99% when combined with high-sensitivity troponin and clinical risk scores. We propose a 'Second Opinion' framework in which AI augments physician judgment as a clinical decision support tool. Key implementation challenges include algorithmic bias, alert fatigue, documentation, and the risk of widening the digital divide. AI-ECG represents a shift toward a physiologically driven OMI vs. non-occlusive myocardial infarction (NOMI) diagnostic framework.
+Early recognition and treatment of paediatric sepsis has been shown to improve survival. Automated sepsis alerts embedded in electronic medical records (EMRs) offer real-time identification of high-risk patients and may improve timeliness of sepsis care, with possible limitations including overdiagnosis, overtreatment and alert fatigue. It is currently unclear whether automated alerts improve clinical outcomes in paediatric sepsis. We conducted a systematic review and narrative synthesis of studies evaluating clinical outcomes (mortality, PICU admission rate, length of stay), process measures (time to fluids/antibiotics, bundle adherence), and balancing measures (hospitalisation rate, antibiotic use) after implementation of EMR-based automated sepsis alerts in patients under 18 years of age. Twelve studies met inclusion criteria. Automated alerts were associated with improvements in process measures, notably reduced time to antibiotics (4/6 studies) and fluids (2/5 studies). Mortality was reduced in one study of PICU patients (29.9% vs. 17.4%, p = 0.011), and a trend towards reduced PICU admissions was observed. No significant impact on hospital or PICU length of stay was noted. Alerts did not increase hospital admission rates or antibiotic usage. Automated sepsis alerts may improve time to fluids and antibiotics in paediatric sepsis. While inconsistently reported, alerts were not found to increase hospital admission rates or antibiotic use. The impact on clinical outcomes, particularly mortality, remains uncertain. High quality randomised studies are needed to define their role in improving paediatric sepsis outcomes.
 
 --- PAPER PUBMED ---
-Título: Beyond troponin: emerging biomarker strategies to differentiate type 1 from type 2 myocardial infarction.
-Revista: Current problems in cardiology
+Título: [Management of the Patient with Suspected Sepsis or Septic Shock: Clinical Recommendations for the Portuguese Prehospital Setting].
+Revista: Acta medica portuguesa
 Fecha: 2026
-Tipo: Journal Article, Review
-PMID: 42362128
-DOI: 10.1016/j.cpcardiol.2026.103395
-URL: https://pubmed.ncbi.nlm.nih.gov/42362128/
+Tipo: Journal Article, Practice Guideline, Review, English Abstract
+PMID: 42044523
+DOI: 10.20344/amp.24178
+URL: https://pubmed.ncbi.nlm.nih.gov/42044523/
 
 Abstract:
-The widespread adoption of high-sensitivity cardiac troponin (hs-cTn) assays has markedly improved the detection of myocardial injury, but at the cost of reduced specificity for atherothrombotic type 1 myocardial infarction (T1MI). Therefore, troponin-positive presentations increasingly reflect heterogeneous conditions, including supply-demand mismatch-related type 2 myocardial infarction (T2MI) and acute or chronic non-ischemic myocardial injury, creating major diagnostic and therapeutic challenges in time-sensitive clinical pathways. Because the current distinction between T1MI and T2MI largely relies on clinical context and expert adjudication, there is growing interest in circulating biomarkers that could refine etiologic classification, support early triage decisions, and improve risk stratification. In this narrative review, we synthesize contemporary evidence on established and emerging biomarker strategies aimed at discriminating T1MI from T2MI, including troponin kinetics and ratios, cardiac myosin-binding protein C, biomarkers of hemodynamic and neurohormonal stress (e.g., copeptin, natriuretic peptides, MR-proANP), markers of endothelial and microvascular dysfunction (e.g., MR-proADM, CT-proET1, GDF-15), biomarkers of plaque activation, thrombosis, and proteomic/metabolomic signatures. Overall, single biomarkers provide only modest separation between T1MI and T2MI, whereas performance improves when biomarkers are integrated into multivariable clinical models or pragmatic multimarker combinations that capture the biological contrast between focal coronary injury and systemic stress. We conclude by proposing a practical framework for clinico-biomolecular phenotyping and highlighting the key requirements for clinical translation linked to actionable management pathways. Future studies should prioritize head-to-head comparisons in rigorously adjudicated cohorts and evaluate whether biomarker-guided pathways can safely reduce unnecessary invasive coronary angiography while preserving timely reperfusion in patients with atherothrombotic T1MI.
+Sepsis is a time-dependent medical emergency associated with high morbidity and mortality. Early recognition and appropriate prehospital management are critical for prognosis. Despite the existence of the Sepsis Fast Track standardized by the Directorate-General of Health (Direção-Geral da Saúde), there has been underreporting of suspected sepsis cases, highlighting the urgent need to review the alert criteria. In addition, Portugal lacked specific guidelines for its activation and management in the pre-hospital setting. Considering these facts, this article aims to produce evidence-based recommendations for the standardization of the recognition and treatment of sepsis and septic shock in the Portuguese pre-hospital context, in line with the latest international guidelines and the operational capabilities of the Integrated Medical Emergency System. This guideline is the result of a comprehensive review of the literature, integrating international consensus and adapting it to the Portuguese context. For that matter, inclusion and exclusion criteria are defined for sepsis alert in the pre-hospital context, prioritizing early identification through suspected infection or changes in temperature and organ dysfunction or clinical indicators of severity, such as NEWS/NEWS2 ≥ 5, Shock Index ≥ 0.7, Mottling ≥ 2, capillary refill time > 2 seconds. Treatment depends on the type of intervention, including oxygen therapy, positioning, and temperature control for basic life support teams; balanced crystalloids, parenteral antipyretics, and early initiation of vasopressor support for differentiated teams, subject to certain assumptions for immediate life support teams. Empirical antibiotic therapy is also recommended in cases of septic shock handled by teams with a physician, namely Emergency Medical and Resuscitation Vehicles and Emergency Helicopter Service. The article also standardizes both clinical records and alert activation via the iTeams® platform and manual registries. This first national guideline for sepsis in the pre-hospital setting establishes uniform, evidence-based procedures for early recognition and treatment in this context, contributing to improved clinical outcomes, optimization of resources, and strengthened inter-hospital coordination within the sepsis fast track. A sépsis é uma emergência médica tempo-dependente, associada a elevada morbilidade e mortalidade. O reconhecimento precoce e a abordagem adequada no pré-hospitalar são determinantes para o prognóstico. Apesar da existência da via verde de sépsis normatizada pela Direção-Geral da Saúde, verificou-se a subnotificação dos casos de suspeita de sépsis, urgindo a necessidade de revisão dos critérios de alerta. Além disso, faltavam em Portugal orientações específicas para a sua ativação e gestão no contexto pré-hospitalar. Por esse motivo, este artigo visa estabelecer recomendações baseadas na evidência para a uniformização do reconhecimento e tratamento da sépsis e do choque séptico no pré-hospitalar português, alinhadas com as orientações internacionais mais recentes e com as capacidades operacionais do Sistema Integrado de Emergência Médica. A presente orientação técnica resultou de uma revisão exaustiva da literatura, integrando consensos internacionais e adaptando-os à realidade nacional. Deste modo, são definidos critérios de inclusão e exclusão para o alerta de sépsis em contexto pré-hospitalar, priorizando a identificação precoce através da suspeita de infeção ou alterações da temperatura e disfunção orgânica ou indicadores clínicos de gravidade, como National Early Warning Score (NEWS)/NEWS2 ≥ 5, Índice de Choque ≥ 0,7, Mottling ≥ 2, tempo de preenchimento capilar > 2 segundos. O tratamento depende do tipo de meio interveniente, incluindo oxigenoterapia, posicionamento e controlo de temperatura para meios de suporte básico de vida; cristaloides balanceados, antipiréticos parentéricos e início precoce de suporte vasopressor para meios diferenciados, mediante algumas premissas para os meios de suporte imediato de vida. Recomenda-se ainda a antibioterapia empírica nos casos de choque séptico abordados por meios com médico, nomeadamente Viaturas Médicas de Emergência e Reanimação e Serviço de Helicópteros de Emergência Médica. O documento uniformiza também os registos clínicos e a ativação de alertas através do iTeams® e do Verbete Nacional de Socorro. Esta primeira orientação técnica nacional para a sépsis no pré-hospitalar estabelece procedimentos uniformes e baseados na evidência para o reconhecimento e tratamento precoces neste contexto, contribuindo para a melhoria dos resultados clínicos, otimização de recursos e reforço da articulação inter-hospitalar no âmbito da via verde de sépsis.
 
 --- PAPER PUBMED ---
-Título: Clinical Gray Zones of Cardiac Troponin Interpretation in the Emergency Department: When Increased Concentrations Do Not Equal Acute Coronary Syndrome.
-Revista: Journal of clinical medicine
+Título: Artificial intelligence in acute and critical care: current challenges and strategic solutions.
+Revista: Frontiers in public health
 Fecha: 2026
 Tipo: Journal Article, Review
-PMID: 42355612
-DOI: 10.1016/S2589-7500(24)00088-8
-URL: https://pubmed.ncbi.nlm.nih.gov/42355612/
+PMID: 42040067
+DOI: 10.1007/s12028-025-02222-3
+URL: https://pubmed.ncbi.nlm.nih.gov/42040067/
 
 Abstract:
-The introduction of rapid, high-sensitivity cardiac troponin (hs-cTn)-based algorithms has markedly changed the work-up of patients admitted to the emergency department (ED) with suspected acute coronary syndrome (ACS). However, when applied to real-world ED populations, these algorithms perform worse than in clinical studies of derivation and validation. The main reasons for this discrepancy are that patients tested for hs-cTn in real-world settings tend to be older and less clinically preselected. Nevertheless, ACS must often be ruled out in patients with atypical presentations. Routine patients also more frequently have impaired renal function and pre-existing cardiac diseases, such as atrial fibrillation, heart failure, or coronary artery disease. These conditions do not necessarily cause the actual acute ED presentation. Using the standard decision limits of the 0 h, 0/1 h, or 0/2 h algorithms does not hinder the exclusion of ACS in the ED. However, using them in real-world conditions substantially decreases the positive predictive value for acute myocardial infarction (AMI) and classifies a higher percentage of patients into the "observe (gray) zone" than reported in clinical studies. Patients classified with a working diagnosis of "rule-in AMI" often require hospital admission for other reasons, though their discharge diagnosis may differ from AMI. A major challenge in real-world EDs is the high proportion of gray zone hs-cTn concentrations in approximately 50% of tested patients. Therefore, additional hs-cTn sampling at 3 h after admission is often necessary to rule out acute myocardial injury. This review summarizes and critically discusses the evidence for adjusting hs-cTn ED algorithm decision limits according to age, sex, and renal function. It also discusses the critical differential diagnosis of acute and chronic myocardial injury in the ED.
+The Emergency Department (ED) and Intensive Care Unit (ICU) are high-acuity environments where rapid decision-making and clinical precision are fundamental to patient survival. Artificial Intelligence (AI) offers transformative potential by providing real-time data synthesis, advanced pattern recognition, and personalized decision support-capabilities essential for optimizing clinical efficiency and patient outcomes. This narrative review synthesized the applications, clinical benefits, and implementation challenges of AI within acute and critical care. A comprehensive literature search was conducted across international and Chinese databases, including PubMed, Web of Science, China National Knowledge Infrastructure (CNKI), and Wanfang Data, yielding 281 English and 136 Chinese studies. Furthermore, official policy documents from provincial Health Commissions were analyzed to evaluate the regulatory landscape for AI deployment. AI showed potential across multiple acute and critical care scenarios, including early warning of sepsis, chest pain assessment, stroke imaging, electrocardiogram interpretation for acute coronary syndrome, ARDS subphenotyping, cardiogenic shock risk stratification, treatment support, and workflow coordination. However, translation into real-world practice remained limited by major challenges, including poor data quality, heterogeneity and fragmentation of clinical data, limited model explainability, insufficient prospective validation, workflow integration barriers, clinician training gaps, and unresolved ethical and regulatory issues. Medical AI held substantial promise for improving decision-making efficiency, workflow optimization, and patient outcomes in acute and critical care. However, its safe and effective implementation required more than predictive performance alone. Future progress depended on trustworthy, explainable, workflow-integrated, and prospectively validated systems supported by stronger data infrastructure, interdisciplinary collaboration, and clearer ethical and regulatory oversight. This review proposed a translational framework and a general workflow for data-driven AI development in acute and critical care.
 
 --- PAPER PUBMED ---
-Título: Brain-Derived Neurotrophic Factor in Acute Coronary Syndromes: Beyond Diagnosis Toward Biological Phenotyping and Risk Stratification.
-Revista: International journal of molecular sciences
+Título: Challenges in early detection and prognostication of sepsis: new approaches from the emergency department and intensive care unit.
+Revista: EClinicalMedicine
 Fecha: 2026
 Tipo: Journal Article, Review
-PMID: 42123409
-DOI: 10.1371/journal.pone.0298223
-URL: https://pubmed.ncbi.nlm.nih.gov/42123409/
+PMID: 42005923
+DOI: 10.1016/j.eclinm.2026.103864
+URL: https://pubmed.ncbi.nlm.nih.gov/42005923/
 
 Abstract:
-Acute coronary syndromes (ACS) remain time-critical clinical emergencies in which early diagnosis and accurate risk stratification determine management and outcomes. Although symptoms, electrocardiography, and high-sensitivity cardiac troponin (hs-cTn) provide a reliable framework for detecting myocardial injury, they offer limited insight into plaque instability, thromboinflammatory activity, vascular repair, and post-infarction remodeling. In this narrative review, we examine the biological rationale and current clinical evidence supporting brain-derived neurotrophic factor (BDNF) as a candidate biomarker in ACS, with particular attention to pre-analytical, analytical, and phenotypic sources of heterogeneity. Available studies show that circulating BDNF concentrations vary substantially according to biological matrix, timing of sampling, ACS subtype, and assay methodology, which likely contributes to inconsistent findings across cohorts. Overall, current evidence does not support BDNF as a diagnostic alternative to hs-cTn in rule-in or rule-out pathways. However, BDNF may have value in biological phenotyping and risk stratification by reflecting platelet activation, endothelial dysfunction, inflammatory signaling, and remodeling processes after ACS. Further progress will require standardized pre-analytical procedures, separate assessment of mature BDNF and proBDNF, serial sampling, and validation in large multicenter studies.
-
---- PAPER PUBMED ---
-Título: Advances in Diagnosis and Therapeutic Guidance for Acute Coronary Syndrome: A Narrative of A Precision Medicine Approach.
-Revista: Reviews in cardiovascular medicine
-Fecha: 2026
-Tipo: Journal Article, Review
-PMID: 42110175
-DOI: 10.1056/NEJMoa1500857
-URL: https://pubmed.ncbi.nlm.nih.gov/42110175/
-
-Abstract:
-Acute coronary syndrome (ACS) remains one of the leading causes of cardiovascular morbidity and mortality. Recent advances in high-sensitivity cardiac troponin assays, multimodal imaging, and antithrombotic therapies have introduced more individualized risk assessment and management. This review highlights a precision-oriented diagnostic pathway, which integrates the 0/1-hour algorithm with imaging modalities for the comprehensive evaluation of culprit and non-culprit lesions. Revascularization strategies are advancing, with imaging-guided percutaneous coronary intervention (PCI) and coronary artery bypass grafting (CABG), enabling more tailored approaches for complex diseases. Meanwhile, mechanical circulatory support offers potential benefits for cardiogenic shock; nevertheless, there are uncertainties regarding optimal timing and patient selection. Long-term antithrombotic therapy is becoming increasingly optimized. Recent strategies have focused on reducing the duration of dual antiplatelet therapy (DAPT) and exploring de-escalation approaches such as P2Y12 inhibitor monotherapy. Secondary prevention extends beyond lipid-lowering therapies and includes metabolic and anti-inflammatory interventions. Collectively, these advancements indicate a shift toward truly personalized care for ACS, aiming to improve outcomes by transitioning away from a one-size-fits-all approach.
+In this narrative review, we aimed to provide a comprehensive overview of emerging diagnostic strategies and precision medicine approaches in sepsis, while explicitly acknowledging the heterogeneity of clinical contexts. In the Emergency Department (ED), timely recognition of infection and sepsis represents one of the most frequent and challenging tasks, which may delay management directly increasing morbidity and mortality. Even if very popular and widely used, traditional scores and routine biomarkers remain of limited interest to confirm diagnosis and predict deterioration. Nevertheless, emerging point-of-care tools hold promise such as "real-time microbiology", bedside immune profiling, and echocardiography for on-time hemodynamic phenotyping. More advanced strategies, such as omics technologies and transcriptomic signatures, offer deeper biological precision, while machine learning and artificial intelligence can integrate high-dimensional ED data to anticipate deterioration and capture the dynamic evolution of sepsis subphenotypes. Many of these tools are already feasible at the bedside and only await integration into routine ED workflows. Embedding them within dedicated sepsis pathways and multidisciplinary teams could optimize global patient care and accelerate the transition toward precision medicine in acute sepsis. Sustainable improvements in sepsis outcomes will most likely not come from isolated devices but from their integration into coordinated and sepsis-specific pathways.
 
 CONTEXTO WEB COMPLEMENTARIO:
---- FUENTE WEB ---
-Título: Cardiac biomarkers of acute coronary syndrome: from history to high-sensitivity cardiac troponin
-URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5329082
-Score: 0.8025714
-
-Texto:
-[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC5329082#main-content)
-
-![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
-
-An official website of the United States government
-
-Here's how you know
-
-Here's how you know
-
-![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
-
-**Official websites use .gov**
-
- A **.gov** website belongs to an official government organization in the United States.
-
-![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
-
-**Secure .gov websites use HTTPS**
-
- A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
-[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
-
-![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
-
-![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
-*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
-*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
-*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
-*    Log out 
-
- Search…   Search NCBI 
-
-Primary site navigation
-
-![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
-
-Logged in as:
-
-*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
-*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
-*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
-
- Log in 
-
-[](https://pmc.ncbi.nlm.nih.gov/ "Home")
-
-![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
-
-Search PMC Full-Text Archive 
-
-Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
-
-*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
-*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
-
- As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
-
- Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
-
-![Image 14: Internal and Emergency Medicine logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-springeropen.png)
-
-Intern Emerg Med
-
-. 2017 Feb 11;12(2):147. doi: [10.1007/s11739-017-1612-1](https://doi.org/10.1007/s11739-017-1612-1)
-
-*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Intern%20Emerg%20Med%22[jour])
-*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Intern%20Emerg%20Med%22[jour])
-*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Intern%20Emerg%20Med%22[Title%20Abbreviation])
-*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC5329082?term=%22Intern%20Emerg%20Med%22[jour])
-
-# Cardiac biomarkers of acute coronary syndrome: from history to high-sensitivity cardiac troponin
-
-[Pankaj Garg](https://pubmed.ncbi.nlm.nih.gov/?term=%22Garg%20P%22[Author])
-
-### Pankaj Garg
-
-1 0000 0004 1936 8403grid.9909.9Leeds Institute of Cardiovascular and Metabolic Medicine (LICAMM), University of Leeds, Leeds, UK 
-
- Find articles by [Pankaj Garg](https://pubmed.ncbi.nlm.nih.gov/?term=%22Garg%20P%22[Author])
-
-1, [Paul Morris](https://pubmed.ncbi.nlm.nih.gov/?term=%22Morris%20P%22[Author])
-
-### Paul Morris
-
-2 0000 0000 9422 8284grid.31410.37Cardiology and Cardiothoracic Surgery, Sheffield Teaching Hospitals NHS Foundation Trust, Herries Road, Sheffield, S5 7AU UK 
-
-3 0000 0004 1936 9262grid.11835.3eDepartment of Cardiovascular Science, University of Sheffield, Medical School, Beech Hill Road, Sheffield, S10 2RX UK 
-
- Find articles by [Paul Morris](https://pubmed.ncbi.nlm.nih.gov/?term=%22Morris%20P%22[Author])
-
-2 3, [Asma Lina Fazlanie](https://pubmed.ncbi.nlm.nih.gov/?term=%22Fazlanie%20A%22[Author])
-
-### Asma Lina Fazlanie
-
-2 0000 0000 9422 8284grid.31410.37Cardiology and Cardiothoracic Surgery, Sheffield Teaching Hospitals NHS Foundation Trust, Herries Road, Sheffield, S5 7AU UK 
-
- Find articles by [Asma Lina Fazlanie](https://pubmed.ncbi.nlm.nih.gov/?term=%22Fazlanie%20A%22[Author])
-
-2, [Sethumadhavan Vijayan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Vijayan%20S%22[Author])
-
-### Sethumadhavan Vijayan
-
-2 0000 0000 9422 8284grid.31410.37Cardiology and Cardiothoracic Surgery, Sheffield Teaching Hospitals NHS Foundation Trust, Herries Road, Sheffield, S5 7AU UK 
-
- Find articles by [Sethumadhavan Vijayan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Vijayan%20S%22[Author])
-
-2, [Balazs Dancso](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dancso%20B%22[Author])
-
-### Balazs Dancso
-
-2 0000 0000 9422 8284grid.31410.37Cardiology and Cardiothoracic Surgery, Sheffield Teaching Hospitals NHS Foundation Trust, Herries Road, Sheffield, S5 7AU UK 
-
- Find articles by [Balazs 
-
---- FUENTE WEB ---
-Título: Clinical Use of High-Sensitivity Cardiac Troponin in Patients With Suspected Myocardial Infarction
-URL: https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718
-Score: 0.7286136
-
-Texto:
-[Skip to main content](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#afterNav-xud)
-
-[![Image 1: JACC Journals](https://www.jacc.org/pb-assets/images/site-home/header-logo-redesign-1751041131223.svg)](https://www.jacc.org/)
-
-[Skip main navigation](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#afterNav-xhc)
-
-*   [Journals](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718)
-    *   [JACC](https://www.jacc.org/journal/jacc)
-    *   [JACC: Advances](https://www.jacc.org/journal/jacc-advances)
-    *   [JACC: Asia](https://www.jacc.org/journal/jacc-asia)
-    *   [JACC: Basic to Translational Science](https://www.jacc.org/journal/basic-translational)
-    *   [JACC: CardioOncology](https://www.jacc.org/journal/cardio-oncology)
-    *   [JACC: Cardiovascular Imaging](https://www.jacc.org/journal/imaging)
-    *   [JACC: Cardiovascular Interventions](https://www.jacc.org/journal/interventions)
-    *   [JACC: Case Reports](https://www.jacc.org/journal/case-reports)
-    *   [JACC: Clinical Electrophysiology](https://www.jacc.org/journal/electrophysiology)
-    *   [JACC: Heart Failure](https://www.jacc.org/journal/heart-failure)
-
-*   [Topics](https://www.jacc.org/topics)
-    *   [Topics by Journal](https://www.jacc.org/topics?tabActivePane=topics-by-journal)
-    *   [Collections](https://www.jacc.org/topics?tabActivePane=collections)
-    *   [All Topics](https://www.jacc.org/topics?tabActivePane=all-topics)
-
-*   [Guidelines](https://www.jacc.org/guidelines)
-*   [Events](https://www.jacc.org/events)
-*   [Author Center](https://www.jacc.org/author-center)
-*   [Multimedia](https://www.jacc.org/multimedia)
-*    
-
-[Search](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#)
-
-Search
-
-Quick Search anywhere
-
-Enter Search Terms Search
-
-*   [Shopping cart with 0 item](https://www.jacc.org/action/showCart?FlowID=1 "Cart") 
-*       *   [Sign In](https://www.jacc.org/action/ssostart?idp=AccIdentityProvider&redirectUri=/doi/10.1016/j.jacc.2017.07.718&uri=%2Fdoi%2F10.1016%2Fj.jacc.2017.07.718 "Sign in or Create Account")[](https://www.jacc.org/action/ssostart?idp=AccIdentityProvider&redirectUri=/doi/10.1016/j.jacc.2017.07.718&uri=%2Fdoi%2F10.1016%2Fj.jacc.2017.07.718) 
-
-*   [JACC](https://www.jacc.org/journal/jacc)
-*   [Current Issue](https://www.jacc.org/toc/jacc/current)
-*   [Just Accepted](https://www.jacc.org/toc/jacc/0/0)
-*   [Archives](https://www.jacc.org/loi/jacc)
-*   [Submit](https://www.jaccsubmit.org/cgi-bin/main.plex)
-
-*   [Guidelines](https://www.jacc.org/guidelines)
-*   [Author Center](https://www.jacc.org/author-center)
-*   [Topics](https://www.jacc.org/topics)
-    *   [Topics by Journal](https://www.jacc.org/topics?tabActivePane=topics-by-journal)
-    *   [Collections](https://www.jacc.org/topics?tabActivePane=collections)
-    *   [All Topics](https://www.jacc.org/topics?tabActivePane=all-topics)
-
-*   ### JACC Family of Journals
-
-    *   [JACC](https://www.jacc.org/journal/jacc)
-    *   [JACC: Advances](https://www.jacc.org/journal/jacc-advances)
-    *   [JACC: Asia](https://www.jacc.org/journal/jacc-asia)
-    *   [JACC Basic Transational Science](https://www.jacc.org/journal/basic-translational)
-    *   [JACC: CardioOncology](https://www.jacc.org/journal/cardio-oncology)
-    *   [JACC Cardiovascular Imaging](https://www.jacc.org/journal/imaging)
-    *   [JACC Cardiovascular Interventions](https://www.jacc.org/journal/interventions)
-    *   [JACC: Case Reports](https://www.jacc.org/journal/case-reports)
-    *   [JACC: Clinical Electrophysiology](https://www.jacc.org/journal/electrophysiology)
-    *   [JACC: Heart Failure](https://www.jacc.org/journal/heart-failure)
-
-*   [Conferences](https://www.jacc.org/events)
-*   [Simultaneous Publications](https://www.jacc.org/events/conferences/simultaneous-publications)
-*   [CME/MOC](https://www.jacc.org/cme-moc)
-*   [Multimedia](https://www.jacc.org/multimedia)
-*   [About](https://www.jacc.org/about)
-    *   [Journal Subscribe](https://www.jacc.org/subscribe)
-    *   [Newsletter/Email](https://www.jacc.org/alerts)
-    *   [FAQs](https://www.jacc.org/help)
-    *   [Contact Us](https://www.jacc.org/contact-us)
-
-*   [ACC.org](https://www.acc.org/)
-*    
-
-[JACC Journals](https://www.jacc.org/) › [JACC](https://www.jacc.org/journal/jacc) › [Archives](https://www.jacc.org/loi/jacc) › [Vol. 70 No. 8](https://www.jacc.org/toc/jacc/70/8)
-
-Free access
-
-State-of-the-Art Review
-
-14 August 2017
-
-Share on
-*   [](https://www.jacc.org/#facebook "facebook")
-*   [](https://www.jacc.org/#x "x")
-*   [](https://www.jacc.org/#linkedin "linkedin")
-*   [](https://www.jacc.org/#email "email")
-*   [](https://www.jacc.org/#wechat "wechat")
-*   [](https://www.jacc.org/#bluesky "bluesky")
-
-# Clinical Use of High-Sensitivity Cardiac Troponin in Patients With Suspected Myocardial Infarction
-
-Authors: [Raphael Twerenbold, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au1), [Jasper Boeddinghaus, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au2), [Thomas Nestelberger, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au3), [Karin Wildi, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au4), [Maria Rubini Gimenez, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au5), [Patrick Badertscher, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au6), and [Christian Mueller, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au7)[christian.mueller@usb.ch](mailto:christian.mueller@usb.ch)[Authors Info & Affiliations](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#tab-contributors)
-
-Publication: JACC
-
-Volume 70, Number 8
-
-[14,809 221](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718# "Metrics")
-
-### Metrics
-
-#### Total Downloads 14,809
-
-#### Total Citations 221
-
-[](https://www.jacc.org/doi/10.1016/podcast-jacc-70-8-7 "Listen to Podcast")
-
-[](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#tab-citations "View Citations")
-
-[PDF](https://www.jacc.org/doi/epdf/10.1016/j.jacc.2017.07.718 "View PDF")
-
-Contents
-*   [Abstract](https:/
-
---- FUENTE WEB ---
-Título: Role of High-sensitivity Cardiac Troponin in Acute Coronary Syndrome | USC Journal
-URL: https://www.uscjournal.com/articles/role-high-sensitivity-cardiac-troponin-acute-coronary-syndrome?language_content_entity=en
-Score: 0.7230167
-
-Texto:
-![Radcliffe Cardiology logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/RadcliffeCardiology%20Horizontal%20%28Dark%29.svg?VersionId=FsjmKVvrwNg5MovL9Lue_nrxJD5Nm9tc)
-![RC logo dark mode](https://assets.radcliffecardiology.com/s3fs-public/2026-01/RC%20Logo%20Horizontal%20Reversed%202.svg?VersionId=HtLw50OZb1Cl9Mldg2tVoEPCIVkkxP0U)
-
-[USC is the official journal of the CardioNerds](https://www.cardionerds.com/)  [![logo](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/cardionerds.webp)](https://www.cardionerds.com/)
-
-![logo](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/cardionerds.webp)
-![Radcliffe USC logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/USC_white.svg?VersionId=sdfj3wSBcEIVJsek2QJ0nMZYtoOTuguz)
-![Radcliffe USC banner](https://assets.radcliffecardiology.com/s3fs-public/styles/mobile_banner/public/2025-06/USC%20Banner%20%28mobile%29.png?VersionId=fgBsttqYxAIp1owRQ7GKNKK73aQ..N6Q&itok=aIAuQcjM)
-![Radcliffe USC banner](https://assets.radcliffecardiology.com/s3fs-public/styles/desktop_banner/public/2025-06/USC%20Banner.png?VersionId=5PlFRHD6W6HPjuhX.PKmIfX6f3WVOjiI&itok=RJb35Izw)
-
-[Home](/)
-
-About
-
-Content type
-
-Articles
-
-[Special Collections](/get-special-collections)
-
-[Submit Article](https://www.editorialmanager.com/usc/default.aspx)
-
-![Radcliffe USC logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/USC.svg?VersionId=rGhMCxMK3bxK1ecVCl3XuroYgUFTUZ09)
-
-View all platforms
-
-## Breadcrumb
-
-Authors
-
-Article Info
-
-Cite
-
-Metrics
-
-Article Text
-
-Figures & Tables
-
-References
-
-Article
-
-![Open access](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/svg/openAccess.svg)
-
-# Role of High-sensitivity Cardiac Troponin in Acute Coronary Syndrome
-
-[Mahesh Anantha Narayanan](https://www.radcliffecardiology.com/authors/mahesh-anantha-narayanan?language_content_entity=en)
-
-[Santiago Garcia](https://www.radcliffecardiology.com/authors/santiago-garcia?language_content_entity=en)
-
-![Information image](https://assets.radcliffecardiology.com/s3fs-public/2020-05/cc_by_nc.png)
-
-Views: 1903
-
-Likes: 0
-
-Downloads: 74
-
-Citations: 8
-
-Abstract
-
-Chest pain is one of the most common reasons for an emergency room (ER) visit in the US, with almost 6 million ER visits annually. High-sensitivity cardiac troponin (hscTn) assays have the ability to rapidly rule in or rule out acute coronary syndrome with improved sensitivity, and they are increasingly being used. Though hscTn assays have been approved for use in European, Australian, and Canadian guidelines since 2010, the FDA only approved their use in 2017. There is no consensus on how to compare the results from various hscTn assays. A literature review was performed to analyze the advantages and limitations of using hscTn as a standard biomarker to evaluate patients with suspected ACS in the emergency setting.
-
-Keywords
-
-[Acute coronary syndrome](/search?search_api_fulltext=Acute%20coronary%20syndrome),
-[myocardial infarction](/search?search_api_fulltext=myocardial%20infarction),
-[troponin](/search?search_api_fulltext=troponin),
-[cardiac biomarkers](/search?search_api_fulltext=cardiac%20biomarkers),
-
-Received: 04 November 2018
-
-Accepted: 04 February 2019
-
-Published online: 12 March 2019
-
-Citation:[US Cardiology Review 2019;13(1):5–10](/editions/usc-volume-13-issue-1-spring-2019?language_content_entity=en)
-
-Select format
-
-DOI: <https://doi.org/10.15420/usc.2018.16.1>
-
-Disclosure: The authors have no conflicts of interests to declare.
-
-Correspondence: Santiago Garcia, Minneapolis Heart Institute, 920 East 28th Street, Suite 300-MR 33300, Minneapolis, MN 55417. E: garci205@umn.edu
-
-© The Author(s). This work is open access and is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Users may copy, redistribute and make derivative works for non-commercial purposes, provided the original work is cited correctly.
-
-Chest pain is one of the most common reasons for an emergency room (ER) visit in the US with almost 6 million ER visits annually.1
-
-According to the fourth universal definition of MI, acute MI (AMI) requires a rise and/or fall in cardiac troponin (cTn) with at least one value above the 99th percentile upper reference limit.2,3 Cardiac troponin I (cTnI) and cardiac troponin T (cTnT) are the preferred biomarkers in acute coronary syndrome (ACS).2–5
-
-Although contemporary cTn assays are used routinely in the US for risk stratification and the diagnosis of patients presenting with suspected ACS, they have important limitations compared to high-sensitivity cardiac troponin (hscTn) assays:
-
-These limitations have led to prolonged serial sampling protocols being used to achieve optimal diagnostic accuracy, which mean increases in hospitalizations, length of stay, and costs.4,6–10
-
-In conventional troponin assays, troponin elevation is considered to be an all or nothing phenomenon. The presence of troponin elevation above the 99th percentile reference range suggests myocardial injury but no troponin elevation above the 99th percentile is considered normal, even though this does not necessarily mean the absence of an ACS, as conventional assays are unable to detect small ischemic events. Particularly where there is atypical chest pain and no troponin elevation, patients who are experiencing an ACS are at risk of being discharged early because the decision-making process is subjective.9
-
-To overcome this difficulty, hscTn assays were introduced and have slowly gained importance. These can be used to classify patients more appropriately as ‘true’ or ‘no’ ACS, and do not require repeat assays at 6 and 12 hours, unlike conventional cTn assays. HscTn assays are able to detect troponins at a concentration about 1/10 of the lower reference range of conventional troponin assays.2
-
-While hscTn assays have been in clinical use since 2015 in Europe, t
-
---- FUENTE WEB ---
-Título: [PDF] Diagnostic Accuracy of a New High-Sensitivity Troponin I Assay and ...
-URL: https://www.acep.org/siteassets/sites/acep/media/moc/moc-documents/acutecoronarysyndrome.pdf
-Score: 0.7213709
-
-Texto:
-Diagnostic Accuracy of a New High-Sensitivity Troponin I Assay and Five Accelerated Diagnostic Pathways for Ruling Out Acute Myocardial Infarction and Acute Coronary Syndrome Jaimi H. Greenslade, PhD*; Edward W. Carlton, PhD; Christopher Van Hise, BA; Elizabeth Cho, MS; Tracey Hawkins, BN; William A. Parsonage, MD; Jillian Tate, MSc, BSc(Hons); Jacobus Ungerer, MBChB; Louise Cullen, PhD *Corresponding Author. E-mail: j.greenslade@uq.edu.au, Twitter: @JaimiGreenslade.
-Study objective: This diagnostic accuracy study describes the performance of 5 accelerated chest pain pathways, calculated with the new Beckman’s Access high-sensitivity troponin I assay.
-Methods: High-sensitivity troponin I was measured with presentation and 2-hour blood samples in 1,811 patients who presented to an emergency department (ED) in Australia. Patients were classiﬁed as being at low risk according to 5 rules: modiﬁed accelerated diagnostic protocol to assess patients with chest pain symptoms using troponin as the only biomarker (m-ADAPT), the Emergency Department Assessment of Chest Pain Score (EDACS) pathway, the History, ECG, Age, Risk Factors, and Troponin (HEART) pathway, the No Objective Testing Rule, and the new Vancouver Chest Pain Rule. Endpoints were 30-day acute myocardial infarction and acute coronary syndrome. Measures of diagnostic accuracy for each rule were calculated.
-Results: Data included 96 patients (5.3%) with acute myocardial infarction and 139 (7.7%) with acute coronary syndrome. The new Vancouver Chest Pain Rule and No Objective Testing Rule had high sensitivity for acute myocardial infarction (100%; 95% conﬁdence interval [CI] 96.2% to 100% for both) and acute coronary syndrome (98.6% [95% CI 94.9% to 99.8%] and 99.3% [95% CI 96.1% to 100%]). The m-ADAPT, EDACS, and HEART pathways also yielded high sensitivity for acute myocardial infarction (96.9% [95% CI 91.1% to 99.4%] for m-ADAPT and 97.9% [95% CI 92.7% to 99.7%] for EDACS and HEART), but lower sensitivity for acute coronary syndrome (95.0% for all). The m-ADAPT, EDACS, and HEART rules classiﬁed more patients as being at low risk (64.3%, 62.5%, and 49.8%, respectively) than the new Vancouver Chest Pain Rule and No Objective Testing Rule (28.2% and 34.5%, respectively).
-Conclusion: In this cohort with a low prevalence of acute myocardial infarction and acute coronary syndrome, using the Beckman’s Access high-sensitivity troponin I assay with the new Vancouver Chest Pain Rule or No Objective Testing Rule enabled approximately one third of patients to be safely discharged after 2-hour risk stratiﬁcation with no further testing.
-The EDACS, m-ADAPT, or HEART pathway enabled half of ED patients to be rapidly referred for objective testing. [Ann Emerg Med. 2018;71:439-451.] Please see page 440 for the Editor’s Capsule Summary of this article.
-Readers: click on the link to go directly to a survey in which you can provide feedback to Annals on this particular article.
-A podcast for this article is available at www.annemergmed.com.
-Continuing Medical Education exam for this article is available at http://www.acep.org/ACEPeCME/.
-0196-0644/$-see front matter Copyright © 2017 by the American College of Emergency Physicians.
-https://doi.org/10.1016/j.annemergmed.2017.10.030 INTRODUCTION Background More than 5.5 million people present to emergency departments (EDs) each year with chest pain and only 13% receive a diagnosis of acute coronary syndrome.1 The assessment of such patients uses clinical history, ECGs, and serial cardiac troponin levels to rule out acute myocardial infarction.2,3 Further objective testing is then used to rule out unstable angina pectoris. This process involves considerable time and represents signiﬁcant economic burden to the health care system.4 Research on efﬁcient and safe approaches to rule out acute coronary syndrome is required.
-Importance Two major approaches have been proposed for accelerating the assessment of chest pain patients. The ﬁrst is to use algorithms incorporating high-sensitivity cardiac troponin results on presentation or up to 2 hours after Volume 71, no. 4 : April 2018 Annals of Emergency Medicine 439 CARDIOLOGY/ORIGINAL RESEARCH Editor’s Capsule Summary What is already known on this topic Accelerated diagnostic pathways are intended to expedite the emergency department disposition for patients evaluated for suspected acute coronary syndrome.
-What question this study addressed The study uses existing data sets to answer which accelerated diagnostic pathway performs best when used in conjunction with a new high-sensitivity troponin assay.
-What this study adds to our knowledge In a cohort of 1,811 patients with a low prevalence of acute myocardial infarction and acute coronary syndrome, this study reports that the accelerated diagnostic pathways had similar sensitivity for their intended classiﬁcations. The new Vancouver Chest Pain Rule and No Objective Testing Rule had the fewest false-negative results but were also substantially less speciﬁc.
-How this is relevant to clinical practice Although these results require independent conﬁrmation, adding high-sensitivity troponins to existing diagnostic pathways may improve resource use in chest pain evaluations.
-presentation.5-8 High-sensitivity cardiac troponin assays provide improved ability to detect and quantify cardiac troponin compared with older troponin assays, leading to improved sensitivity for earlier acute myocardial infarction diagnosis.9 However, there is wide variability in assay characteristics between manufacturers,10 and each assay requires separate assessment of clinical performance.3 Newly released assays, such as the Beckman Coulter Access high-sensitivity troponin I (Access hs-TnI) assay, require clinical validation before being included in existing chest pain assessment strategies. Furthermore, despite improvements in troponin assays, early troponin testing alone does not identify all patients at short-term risk for major adverse cardi
-
---- FUENTE WEB ---
-Título: High-Sensitivity Cardiac Troponin and the 2021 Guidelines for Acute Chest Pain - American College of Cardiology
-URL: https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2022/07/14/18/12/high-sensitivity-ctn-and-2021-chest-pain
-Score: 0.7060491
-
-Texto:
-# 
-
-# High-Sensitivity Cardiac Troponin and the 2021 Guidelines for Acute Chest Pain
-
-This primer discusses the use of high-sensitivity cardiac troponin (hs-cTn) testing in context of the 2021 multisociety guidelines for the evaluation and diagnosis of acute chest pain, with a notable focus on analytical aspects of the hs-cTn assays and their implications. The tables are the most informative aspect of this article and are worth reviewing. The following are 10 key points to remember:
-
-**Clinical Topics:**
-[Acute Coronary Syndromes,](/Clinical-Topics/Acute-Coronary-Syndromes) [Noninvasive Imaging,](/Clinical-Topics/Noninvasive-Imaging) [ACS and Cardiac Biomarkers](/Clinical-Topics/Acute-Coronary-Syndromes/ACS-and-Cardiac-Biomarkers)
-
-**Keywords:**
-*Acute Coronary Syndrome,* *Angina, Unstable,* *Biomarkers,* *Chest Pain,* *Diagnostic Imaging,* *Electrocardiography,* *Limit of Detection,* *Patient Discharge,* *Troponin*
-
-# You must be [logged in](/login?returnUrl=http://www.acc.org/latest-in-cardiology/ten-points-to-remember/2022/07/14/18/12/high-sensitivity-ctn-and-2021-chest-pain) to save to your library.
-
-## Similar Articles from ACC.org
-
-## [Guidelines](https://www.acc.org/Guidelines "Guidelines")
-
-## [JACC Journals on ACC.org](https://www.acc.org/JACC-Journals)
-
-## [Membership](https://www.acc.org/Membership "Membership ")
-
-## [About ACC](https://www.acc.org/About-ACC "About ACC")
-
-## [Clinical Topics](https://www.acc.org/Clinical-Topics)
-
-## [Latest in Cardiology](https://www.acc.org/Latest-in-Cardiology)
-
-## [Education and Meetings](https://www.acc.org/Education-and-Meetings)
-
-## [Tools and Practice Support](https://www.acc.org/Tools-and-Practice-Support)
-
-![YouTube](/-/media/Images/Icons/YouTube4.png?la=en&h=30&w=30&hash=A5DC2AB15676AA91FA6CCD3B69108943)
-![LinkedIn](/-/media/Images/Icons/LinkedIn.png?la=en&h=30&w=30&hash=BDFC1173F28BB8E76076A52468B4C50E)
-![Facebook](/-/media/Images/Icons/Facebook.png?la=en&h=30&w=30&hash=0B37699BB8780FA7704B68791CCCF2E5)
-![](/-/media/Images/Icons/twitter-x.png?la=en&h=30&w=30&hash=51EF81022787EE2101613E7CC2B5CED3)
-![](/-/media/Images/Icons/Instagram.png?la=en&h=30&w=30&hash=4A4099BE587E166AFB111A583057E5C1)
-
-#### Heart House
-
-[![](/-/media/Images/Logos/2022-Update/v2-ACC_SIG_BLUE_OUTLINE_Inverted.svg)](https://www.acc.org)
-
-![](/-/media/Images/Logos/2022-Update/v2-ACC_SIG_BLUE_OUTLINE_Inverted.svg)
-
-© 2026 American College of Cardiology Foundation. All rights reserved.
-
---- FUENTE WEB ---
-Título: High Sensitivity Cardiac Troponin in the Emergency Department - Emergency Medicine
-URL: https://emergencymedicine.wustl.edu/items/high-sensitivity-cardiac-troponin-in-the-emergency-department
-Score: 0.6786044
-
-Texto:
-[Skip to content](#content) [Skip to search](#header-search-field) [Skip to footer](#colophon)
-
-[Emergency Medicine](https://emergencymedicine.wustl.edu/)
-
-# High Sensitivity Cardiac Troponin in the Emergency Department
-
-#### Washington University Emergency Medicine Journal Club- J**uly 2020**
-
-#### *High Sensitivity Cardiac Troponin in the Emergency Department*
-
-#### Vignette
-
-It’s early July and you’re the teaching resident in TCC when you get a triage patient in 2-right. Your brand-spanking-new intern goes to see the patient and comes back an hour later to tell you the story. Ms. X is a 48-year-old woman with a history of hypertension and diet-controlled diabetes who presents with chest pain that began earlier in the afternoon while watching TV (about four hours prior). The pain was dull and achy, located across the whole chest without radiation, and did not get better when she tried taking Tums. The pain was not noted to be worse when she got up and walked around, but she has otherwise not exerted herself. She denies associated shortness of breath, lightheadedness, diaphoresis, or syncope, but did have some mild associated nausea. The pain resolved after about one hour, but the patient was concerned as her father had a heart attack in his sixties.
-
-The patient has stable vital signs (BP 140/90, HR 86, RR 12, SpO2 99% on room air, temp 37°C). Her physical exam is unremarkable and her ECG has [LVH with some nonspecific ST and T-wave changes](https://litfl.com/left-ventricular-hypertrophy-lvh-ecg-library/), with no prior tracing for comparison.
-
-You teach the intern about the [HEART score](https://www.mdcalc.com/heart-score-major-cardiac-events) and the two of you calculate a score of 3 for this patient. As you begin to discuss the plan with the intern, which involves ordering a troponin to evaluate for a myocardial infarction, you remember that your institution has recently adopted a new “high sensitivity” troponin I assay. You wonder how this change will effect your management of patients with chest pain. Will a single negative troponin be enough to discharge low-risk patients? Should you expect a high rate of “false positives” given that this assay is less specific? How should you handle these “false positives?” Will there be an increase in unnecessary cardiac catheterizations as a result? And can you still use this new assay with previously developed clinical decision rules like the HEART score?
-
-As you mull over these questions, you decide to use your detective skills to go online and do a little digging into the medical literature, hoping to \igure out how you will incorporate this assay into your current practice…
-
----
-
-**PI****C****O Question**
-
-**Population**: Adult ED patients with chest pain concerning for possible ACS **Intervention**: Using high sensitivity troponin to identifying low risk ACS patient who can safely be sent home from ED without extended stay or stress testing **Comparison**: Admission to Observation unit for serial (6 hour) cardiac enzymes and/or next day stress testing **Outcome**: Death, MI, need for revascularization, ED length of stay, need for hospital admission
-
----
-
-#### Search Strategy
-
-PubMed was searched using the terms “high sensitivity” AND troponin AND emergency, resulting in 811 results (https://tinyurl.com/y4p5c6q2). This was limited further to 409 results by filtering to human studies published in the last 5 years. The four most relevant articles were chosen from among these.
-
----
-
-**Article 1:** Neumann JT, Sörensen NA, Schwemer T, et al. [Diagnosis of Myocardial Infarction Using a High-Sensitivity Troponin I 1-Hour Algorithm.](https://pubmed.ncbi.nlm.nih.gov/27438315/) JAMA Cardiol. 2016;1(4):397-404. [Answer Key.](https://emergencymedicine.wustl.edu/app/uploads/2020/09/PGY-1-Answer-Key-July-2020.doc)
-
-**Article 2:**  Andruchow JE, Boyne T, Innes G, et al. [Low High-Sensitivity Troponin Thresholds Identify Low-Risk Patients With Chest Pain Unlikely to Benefit From Further Risk Stratification](https://pubmed.ncbi.nlm.nih.gov/32159123/). CJC Open. 2019;1(6):289-296. [Answer Key.](https://emergencymedicine.wustl.edu/app/uploads/2020/09/PGY-2-Answer-Key-July-2020.doc)
-
-**Article 3:** Greenslade JH, Carlton EW, Van Hise C, et al. [Diagnostic Accuracy of a New High-Sensitivity Troponin I Assay and Five Accelerated Diagnostic Pathways for Ruling Out Acute Myocardial Infarction and Acute Coronary Syndrome.](https://pubmed.ncbi.nlm.nih.gov/29248334/) Ann Emerg Med. 2018;71(4):439-451.e3 [Answer Key.](https://emergencymedicine.wustl.edu/app/uploads/2020/09/PGY-3-Answer-Key-July-2020.doc)
-
-**Article 4:** Twerenbold R, Jaeger C, Rubini Gimenez M, et al. [Impact of high- sensitivity cardiac troponin on use of coronary angiography, cardiac stress testing, and time to discharge in suspected acute myocardial infarction](https://pubmed.ncbi.nlm.nih.gov/27357358/). Eur Heart J. 2016;37(44):3324-3332. [Answer Key.](https://emergencymedicine.wustl.edu/app/uploads/2020/09/PGY-4-Answer-Key-July-2020.doc)
-
----
-
-### Bottom Line
-
-Evaluation of chest pain in the emergency department has traditionally involved measurement of cardiac troponin I or T in order to evaluate for possible acute myocardial infarction (MI). Over time, the sensitivity of these assays has increased, allowing for detection of lower and lower concentrations of circulating troponin. In the last several years, so-called “high sensitivity” assays have become available, potentially allowing earlier detection of acute MI with a decrease in the necessary “rule out” period. There has been skepticism, however, with concerns that in additional to being more sensitive, these assays would also be less specific, potentially leading to increased false positive results and an [increase in unnecessary downstream testing.](https://www.acc.org/latest-in-cardiology/articles/2016/06/20/07/30/will-the-use-of-high-sensitivity-troponin-increase-the-frequency-of-diagnosis-of-mi)
-
-Studies looking at the diagnostic accu
-
---- FUENTE WEB ---
-Título: Clinical Use of High-Sensitivity Cardiac Troponin in Patients With Suspected Myocardial Infarction
-URL: https://www.sciencedirect.com/science/article/pii/S0735109717387776
-Score: 0.64128816
-
-Texto:
-[Skip to main content](https://www.sciencedirect.com/science/article/pii/S0735109717387776#screen-reader-main-content)[Skip to article](https://www.sciencedirect.com/science/article/pii/S0735109717387776#screen-reader-main-title)
-
-[![Image 2: Elsevier logo](https://www.sciencedirect.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://www.sciencedirect.com/)
-
-*   [Journals & Books](https://www.sciencedirect.com/browse/journals-and-books)
-
-*   Help   
-*   [Search](https://www.sciencedirect.com/search) 
-
-[My account](https://www.sciencedirect.com/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0735109717387776&from=globalheader)
-
-[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0735109717387776)
-
-*   [View**PDF**](https://www.sciencedirect.com/science/article/pii/S0735109717387776/pdfft?md5=e08969d25500822466326d7c120ef729&pid=1-s2.0-S0735109717387776-main.pdf)
-*   Download full issue
-
-Search ScienceDirect 
-
-## Outline
-
-1.   [Abstract](https://www.sciencedirect.com/science/article/pii/S0735109717387776#abs0010 "Abstract")
-2.   [Central Illustration](https://www.sciencedirect.com/science/article/pii/S0735109717387776#abs0015 "Central Illustration")
-3.   [Key Words](https://www.sciencedirect.com/science/article/pii/S0735109717387776#kwrds0010 "Key Words")
-4.   [Abbreviations and Acronyms](https://www.sciencedirect.com/science/article/pii/S0735109717387776#kwrds0015 "Abbreviations and Acronyms")
-5.   [High-Sensitivity Cardiac Troponin](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec1 "High-Sensitivity Cardiac Troponin")
-6.   [True and False False-Positive hs-cTn Measurements](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec2 "True and False False-Positive hs-cTn Measurements")
-7.   [Troponin-Based Strategies for Rapid Rule-Out or Rule-In of MI](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec3 "Troponin-Based Strategies for Rapid Rule-Out or Rule-In of MI")
-8.   [Pros and Cons of the Different Early Algorithms](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec4 "Pros and Cons of the Different Early Algorithms")
-9.   [What to Do in the Observe Zone?](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec5 "What to Do in the Observe Zone?")
-10.   [Over-Ruling the Triage Recommendations](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec6 "Over-Ruling the Triage Recommendations")
-11.   [Rule-Out for MI Does Not Always Equal Outpatient Management](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec7 "Rule-Out for MI Does Not Always Equal Outpatient Management")
-12.   [What to Do in Patients With Mild hs-cTn Elevations?](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec8 "What to Do in Patients With Mild hs-cTn Elevations?")
-13.   [Uniform Versus Sex-Specific Cutoff Levels](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec9 "Uniform Versus Sex-Specific Cutoff Levels")
-14.   [hs-cTn in Patients With Renal Dysfunction](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec10 "hs-cTn in Patients With Renal Dysfunction")
-15.   [hs-cTn in Patients With Left Bundle Branch Block](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec11 "hs-cTn in Patients With Left Bundle Branch Block")
-16.   [Should We Measure hs-cTn in Patients With Low Pre-Test Probability?](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec12 "Should We Measure hs-cTn in Patients With Low Pre-Test Probability?")
-17.   [Application of Rapid, Troponin-Based Triage Algorithms in the United States](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec13 "Application of Rapid, Troponin-Based Triage Algorithms in the United States")
-18.   [Conclusions](https://www.sciencedirect.com/science/article/pii/S0735109717387776#sec14 "Conclusions")
-19.   [Appendix](https://www.sciencedirect.com/science/article/pii/S0735109717387776#appsec1 "Appendix")
-20.   [References](https://www.sciencedirect.com/science/article/pii/S0735109717387776#cebib0010 "References")
-
-Show full outline
-
-## [Cited by (230)](https://www.sciencedirect.com/science/article/pii/S0735109717387776#section-cited-by)
-
-## Figures (7)
-
-1.   [![Image 3: Unlabelled figure](https://ars.els-cdn.com/content/image/1-s2.0-S0735109717387776-fx1.sml)](https://www.sciencedirect.com/science/article/pii/S0735109717387776#undfig1)
-2.   [![Image 4: Central Illustration. Patient Assessment With Suspected ACS](https://ars.els-cdn.com/content/image/1-s2.0-S0735109717387776-gr6.sml)](https://www.sciencedirect.com/science/article/pii/S0735109717387776#undfig2)
-3.   [![Image 5: Figure1. ESC Rapid Triage Algorithms](https://ars.els-cdn.com/content/image/1-s2.0-S0735109717387776-gr1.sml)](https://www.sciencedirect.com/science/article/pii/S0735109717387776#fig1)
-4.   [![Image 6: Figure2. Timing of Serial hs-cTn Measurements According to Underlying Algorithm](https://ars.els-cdn.com/content/image/1-s2.0-S0735109717387776-gr2.sml)](https://www.sciencedirect.com/science/article/pii/S0735109717387776#fig2)
-5.   [![Image 7: Figure3. Diagnostic Performance of Troponin-Based Algorithms and Their Timing of Blood…](https://ars.els-cdn.com/content/image/1-s2.0-S0735109717387776-gr3.sml)](https://www.sciencedirect.com/science/article/pii/S0735109717387776#fig3)
-6.   [![Image 8: Figure4. 3 Key Questions to Facilitate Work-Up of Patients Presenting With Mild…](https://ars.els-cdn.com/content/image/1-s2.0-S0735109717387776-gr4.sml)](https://www.sciencedirect.com/science/article/pii/S0735109717387776#fig4)
-
-Show 1 more figure
-
-## Tables (2)
-
-1.   [Table 1](https://www.sciencedirect.com/science/article/pii/S0735109717387776#tbl1 "Conditions Other Than MI Associated With Cardiac Troponin Elevations")
-2.   [Table 2](https://www.sciencedirect.com/science/article/pii/S0735109717387776#tbl2 "
-
---- FUENTE WEB ---
-Título: Low Risk Chest Pain and High Sensitivity Troponin - EM Cases
-URL: https://emergencymedicinecases.com/low-risk-chest-pain-high-sensitivity-troponin
-Score: 0.6369636
-
-Texto:
-![Emergency Medicine Cases Logo](https://emergencymedicinecases.com/wp-content/uploads/2021/01/EMCases_MainBanner_450.png)
-![Emergency Medicine Cases Logo](https://emergencymedicinecases.com/wp-content/uploads/2021/01/EMCases_MainBanner_225.png)
-![Emergency Medicine Cases Logo](https://emergencymedicinecases.com/wp-content/uploads/2021/01/EMCases_MainBanner_450.png)
-
-# Ep 128 Low Risk Chest Pain and High Sensitivity Troponin – A Paradigm Shift
-
-![](https://emergencymedicinecases.com/wp-content/uploads/2019/07/Low-Risk-Chest-Pain-card.001.jpeg)
-
-**This is EM Cases Episode 128 Low Risk Chest Pain and High Sensitivity Troponin – A Paradigm Shift**
-
-Talk to any emergency doctor worth their salt, and they’ll tell you that it isn’t the wildly sick patients who keep them up at night – it’s the ones they sent home. Every disease has high risk and low risk populations, and every patient has diseases they are individually more or less likely to have. It’s a battle of odds, and the stakes couldn’t be higher. So fittingly, chest pain is a high risk topic, but has low risk patients that we need to identify accurately in the ED. In this podcast with [**Dr. Eddy Lang**](https://emergencymedicinecases.com/about/experts-bios/#gl) and world expert on troponin researcher [**Dr. Andrew McRa****e**,](https://emergencymedicinecases.com/about/experts-bios/#gl) we answer the not-so-simple questions: In the age of high sensitivity troponins and the HEART pathway, which low risk chest pain patients are safe to discharge home from the ED? What are the most useful historical factors to increase and decrease your pretest probability for ACS? Which cardiac risk factors have predictive value for ACS? Why should the words “troponitis” and “troponemia” be banned? How should high sensitivity troponin be interpreted differently than conventional troponin? Which is better for delta troponin interpretation – an absolute change in troponin or a percentage change? Which delta troponin is best – 1hr, 2hr or 3hr? What are the limitations of the HEART pathway for low risk chest pain? and many more….
-
-Podcast: [Play in new window](https://media.blubrry.com/emc/content.blubrry.com/emc/EMC-128-Jul2019-Low-Risk-Chest-Pain.mp3 "Play in new window") | [Download](https://media.blubrry.com/emc/content.blubrry.com/emc/EMC-128-Jul2019-Low-Risk-Chest-Pain.mp3 "Download") (Duration: 1:34:36 — 86.7MB)
-
-Subscribe: [Apple Podcasts](https://itunes.apple.com/ca/podcast/emergency-medicine-cases/id411665520?mt=2&ls=1#episodeGuid=https%3A%2F%2Femergencymedicinecases.com%2F%3Fp%3D18504 "Subscribe on Apple Podcasts")
-
-***Podcast production, sound design & editing by Anton Helman***
-
-***Written Summary and blog post by Anton Helman July, 2019***
-
-***Cite this podcast as:** Helman, A. McRae, A. Lang, E. Low Risk Chest Pain and High Sensitivity Troponin – A Paradigm Shift. Emergency Medicine Cases. July, 2019. https://emergencymedicinecases.com/low-risk-chest-pain-high-sensitivity-troponin*. *Accessed [date].*
-
-***Correction July 30th, 2019:** For hs-troponin T, the 2h delta to rule-out is <4ng/L and the delta to rule-in is >= 10ng/L.*
-
-## **Defining low risk chest pain**
-
-Patients at low risk for ACS (“low risk chest pain patients”) are those who are hemodynamically stable, are without concerning features on history or examination, and do not have immediate objective evidence of myocardial ischemia on initial ECGs and biomarker testing. Consensus guidelines further define the low risk chest pain patient as having a < 1% risk of a Major Adverse Cardiac Event (MACE) or death at ≥ 30-days follow up [1], a threshold below which harm caused by further testing may outweigh any clinical benefit [2].
-
-## Predictive value of clinical features for ACS
-
-There is no combination of historical features that can accurately rule in or rule out ACS [3].
-
-**The rule for ACS presentations is:** ***Atypical is typical [4]*.**
-
-**Based on the TRAPID-AMI [7] and JAMA clinical exam series [8] the most predictive features of ACS include:**
-
-**Chest pain that significantly *decreases* the likelihood of ACS include:**
-
-Note that pleuritic chest pain and pain that is reproducible with palpation have been found to be present in up to 7% of patients with ACS.
-
-Response to nitroglycerin has no predictive value for ACS [9].
-
-Severity of pain is not related to the likelihood of ACS at presentation or 30-day MACE [10].
-
-**Take Home:** *Missed ACS is more often a result of a failure to consider the diagnosis in patients with atypical symptoms rather than a failure to interpret troponin or use a clinical decision tool properly.*
-
-### 
-
-## **Predictive value of risk factors for ACS**
-
-In the ED, traditional cardiac risk factors are poor predictors of ACS in patients >40 year of age. The only traditional risk factors that have predictive value enough to alter pretest probability for ACS in the ED patient with chest pain are diabetes and family history of premature MI in male patients (*not* obesity, smoking, hypertension, hyperlipidemia) [11,12,].
-
-Patients < 40 years of age without any of the traditional risk factors makes the pre-test probability of ACS very low (negative LR of 0.17) and the presence of >4 risk factors, does help predict ACS (positive LR of 7.39)[13].
-
-Important non-traditional risk factors, especially in young patients include: Pregnancy, chronic renal disease, HIV (especially if taking protease inhibitors), cocaine/amphetamine use, chronic steroid use and lupus.
-
-**Take Home:** C*lassic cardiac risk factors may be more useful in shifting pretest probability for ACS in younger patients; ask about non-traditional risk factors in young patients.*
-
-## Some key ACS ECG patterns and their significance: Not so low risk chest pain!
-
-**Nonspecific T-wave changes should not be ignored**
-
-In a recent retrospective study of over 2300 patients, nonspecific T-wave changes such as isolated T-wave inversion in lead III or V1 confer an increased likelihood of MACE at 30 days [14]. Non
+No se recuperaron fuentes web complementarias.
 
 INSTRUCCIONES IMPORTANTES:
 - PubMed es el eje principal.
