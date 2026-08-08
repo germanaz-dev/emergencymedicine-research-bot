@@ -1,115 +1,343 @@
 Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
 
-Tema de actualización: syncope risk stratification in emergency medicine
+Tema de actualización: undifferentiated shock in emergency medicine
 
 PAPERS RECUPERADOS DE PUBMED:
 No se recuperaron resultados relevantes de PubMed.
 
 CONTEXTO WEB COMPLEMENTARIO:
 --- FUENTE WEB ---
-Título: Risk stratification of syncope: Current syncope guidelines and beyond
-URL: https://www.sciencedirect.com/science/article/pii/S1566070221001594
-Score: 0.7869018
+Título: The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion | International Journal of Emergency Medicine | Springer Nature Link
+URL: https://link.springer.com/article/10.1186/s12245-024-00660-y
+Score: 0.6334335
 
 Texto:
-[Skip to main content](https://www.sciencedirect.com/science/article/pii/S1566070221001594#screen-reader-main-content)[Skip to article](https://www.sciencedirect.com/science/article/pii/S1566070221001594#screen-reader-main-title)
+Advertisement
 
-[![Image 2: Elsevier logo](https://www.sciencedirect.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://www.sciencedirect.com/)
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/12245/article&sz=728x90&pos=top&articleid=s12245-024-00660-y)
+![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
 
-*   [Journals & Books](https://www.sciencedirect.com/browse/journals-and-books)
+# The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion
 
-*   Help   
-*   [Search](https://www.sciencedirect.com/search) 
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
 
-[My account](https://www.sciencedirect.com/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1566070221001594&from=globalheader)
+![](https://media.springernature.com/w72/springer-static/cover-hires/journal/12245?as=webp)
 
-[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1566070221001594)
+43k Accesses
 
-*   [View**PDF**](https://www.sciencedirect.com/science/article/pii/S1566070221001594/pdfft?md5=1db138cd1211100208765d841d47b0f2&pid=1-s2.0-S1566070221001594-main.pdf)
-*   Download full issue
+11 Citations
 
-Search ScienceDirect 
+234 
+Altmetric
 
-## Outline
-
-1.   [Highlights](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ab0010 "Highlights")
-2.   [Abstract](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ab0005 "Abstract")
-3.   [Keywords](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ks0005 "Keywords")
-4.   [1. Introduction](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0005 "1. Introduction")
-5.   [2. Why and how to identify high-risk syncope?](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0010 "2. Why and how to identify high-risk syncope?")
-6.   [3. Syncope prediction tools](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0015 "3. Syncope prediction tools")
-7.   [4. The role of syncope clinics](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0020 "4. The role of syncope clinics")
-8.   [5. Risk stratification for tailored treatment of syncope](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0025 "5. Risk stratification for tailored treatment of syncope")
-9.   [6. Future of syncope evaluation and risk stratification](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0030 "6. Future of syncope evaluation and risk stratification")
-10.   [7. Conclusions](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0050 "7. Conclusions")
-11.   [References](https://www.sciencedirect.com/science/article/pii/S1566070221001594#bi0005 "References")
-
-Show full outline
-
-## [Cited by (21)](https://www.sciencedirect.com/science/article/pii/S1566070221001594#section-cited-by)
-
-## Figures (1)
-
-1.   [![Image 3: Fig. 1. Risk stratification and clinical management of patients with suspected syncope…](https://ars.els-cdn.com/content/image/1-s2.0-S1566070221001594-gr1.sml)](https://www.sciencedirect.com/science/article/pii/S1566070221001594#f0005)
-
-## Tables (6)
-
-1.   [Table 1](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0005 "Clinical characteristics associated with increased probability of cardiac and noncardiac causes of syncope")
-2.   [Table 2](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0010 "High-risk and low-risk features for risk stratification of patients with suspected syncope in the emergency department according to 2018 ESC syncope guidelines.")
-3.   [Table 3](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0015 "Risk markers of short-term and long-term prognosis in patients presenting with syncope according to 2017 ACC/AHA/HRS guidelines.")
-4.   [Table 4](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0020 "Medical conditions requiring hospital admission for further evaluation and therapy.")
-5.   [Table 5](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0025 "Syncope prediction tools.")
-6.   [Table 6](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0030 "Canadian Syncope Risk Score.")
-
-[![Image 4: Elsevier](https://www.sciencedirect.com/us-east-1/prod/0dc949d96f6f0bd7c818378c12086f05c16a7225/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/autonomic-neuroscience "Go to Autonomic Neuroscience on ScienceDirect")
-
-## [Autonomic Neuroscience](https://www.sciencedirect.com/journal/autonomic-neuroscience "Go to Autonomic Neuroscience on ScienceDirect")
-
-[Volume 238](https://www.sciencedirect.com/journal/autonomic-neuroscience/vol/238/suppl/C "Go to table of contents for this volume/issue"), March 2022, 102929
-
-[![Image 5: Autonomic Neuroscience](https://ars.els-cdn.com/content/image/1-s2.0-S1566070221X00082-cov150h.gif)](https://www.sciencedirect.com/journal/autonomic-neuroscience/vol/238/suppl/C)
-
-# Review
-
-Risk stratification of syncope: Current syncope guidelines and beyond
-
-Author links open overlay panel[Richard Sutton a](https://www.sciencedirect.com/author/57203194854/richard-sutton), [Fabrizio Ricci b c](https://www.sciencedirect.com/author/51665764100/fabrizio-ricci), [Artur Fedorowski d](https://www.sciencedirect.com/author/6602745793/artur-fedorowski)
-
-Show more
-
-Outline
-
-Add to Mendeley
-
-Share
-
-Cite
-
-[https://doi.org/10.1016/j.autneu.2021.102929](https://doi.org/10.1016/j.autneu.2021.102929 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S1566070221001594&orderBeanReset=true)
-
-Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
-
-Open access
-
-## Highlights
-
-*   •Clinical judgment is still the cornerstone of syncope management. 
-*   •Risk stratification determines how and by whom syncope patients are managed. 
-*   •High-risk patients require immediate hospitalization and appropriate investigations. 
-*   •Intermediate risk patients require systematic evaluation by syncope experts. 
-*   •Low-risk patients need reassurance and education. 
+[Explore all metrics](/article/10.1186/s12245-024-00660-y/metrics)
 
 ## Abstract
 
-Syncope is an alarming event carr
+Acute circulatory shock is a life-threatening emergency requiring an efficient and timely management plan, which varies according to shock etiology and pathophysiology. Specific guidelines have been developed for each type of shock; however, there is a need for a clear timeline to promptly implement initial life-saving interventions during the early phase of shock recognition and management. A simple, easily memorable bundle of interventions could facilitate standardized management with clear targets and specified timeline. The authors propose the “MINUTES” acronym which summarizes essential interventions which should be performed within the first 30 min following shock recognition. All the interventions in the MINUTES bundle are suitable for any patient with undifferentiated shock. In addition to the acronym, we suggest a timeline for each step, balancing the feasibility and urgency of each intervention. The MINUTES acronym includes seven sequential steps which should be performed in the first 30 min following shock recognition: **M**aintain “ABCs”, **IN**fuse vasopressors and/or fluids (to support hemodynamic/perfusion) and **IN**vestigate with simple blood tests, **U**ltrasound to detect the type of shock, **T**reat the underlying **E**tiology, and **S**tabilize organ perfusion.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-981-95-0179-3?as=webp)
+
+### [Approach to Shock in the ICU](https://link.springer.com/10.1007/978-981-95-0179-3_61?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-319-98497-1?as=webp)
+
+### [Management of Shock](https://link.springer.com/10.1007/978-3-319-98497-1_175?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-030-11830-3?as=webp)
+
+### [Circulatory Failure and Support in the ACS Patient: What Are the Optimal Methods of Providing Circulatory Monitoring and Support?](https://link.springer.com/10.1007/978-3-030-11830-3_5?fromPaywallRec=false)
+
+### Explore related subjects
+
+## Background
+
+Acute circulatory shock is a life-threatening and highly time-sensitive emergency [[1](/article/10.1186/s12245-024-00660-y#ref-CR1 "Brunauer A, Koköfer A, Bataar O, Gradwohl-Matis I, Dankl D, Dünser MW. The arterial blood pressure associated with terminal cardiovascular collapse in critically ill patients: a retrospective cohort study. Crit Care. 2014;18:719. 
+                  https://doi.org/10.1186/s13054-014-0719-2
+                  
+                ")]. For its acute nature, circulatory shock is usually managed by frontline physicians, who are, sometimes, of limited knowledge and experience. Moreover, they may work in limited resource settings. Hence, having a clear, timely, easily memorizable approach may facilitate their performance and finally improve patient’s management.
+
+According to the type of shock, clinical guidelines have been developed and are regularly updated to optimize patient’s management. Once the specific diagnosis of shock has been made, evidence-based management for each type (e.g., septic, hemorrhagic, cardiogenic shock) is well established by international guidelines [[2](#ref-CR2 "Evans L, Rhodes A, Alhazzani W, Antonelli M, Coopersmith CM, French C, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive Care Med. 2021;47:1181–247. 
+                  https://doi.org/10.1007/s00134-021-06506-y
+                  
+                "),[3](#ref-CR3 "ACC/AHA Joint Committee. Management of Heart Failure Guideline Hub. 2022 AHA ACC HFSA Guideline for the management of heart failure. J Am Coll Cardiol. 2022;79:1–167. 
+                  https://doi.org/10.1016/j.jacc.2021.12.012
+                  
+                . 
+                  https://www.jacc.org/doi/pdf/
+                  
+                "),[4](#ref-CR4 "Kietaibl S, Ahmed A, Afshari A, Albaladejo P, Aldecoa C, Barauskas G et al. Management of severe peri-operative bleeding: Guidelines from the European Society of Anaesthesiology and Intensive Care: Second update 2022. 2023."),[5](#ref-CR5 "Konstantinides SV, Meyer G, Becattini C, Bueno H, Geersing G-J, Harjola V-P, et al. 2019 ESC guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): the Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of. Eur Respir J. 2019;54. 
+                  https://doi.org/10.1183/13993003.01647-2019
+                  
+                "),[6](/article/10.1186/s12245-024-00660-y#ref-CR6 "Rossaint R, Afshari A, Bouillon B, Cerny V, Cimpoesu D, Curry N, et al. The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition. Crit Care. 2023;27:1–45. 
+                  https://doi.org/10.1186/s13054-023-04327-7
+                  
+                ")]. However, it is critical to minimize the time between shock recognition and initiation of shock- or disease-specific therapies. Currently, specific recommendations for the management of shock due to any etiology in the initial
 
 --- FUENTE WEB ---
-Título: Risk‐stratification tools for emergency department patients with syncope: A systematic review and meta‐analysis of direct evidence for SAEM GRACE
-URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151
-Score: 0.77096564
+Título: Undifferentiated Shock – Diagnosis and Treatment - Emergency Care BC
+URL: https://emergencycarebc.ca/clinical_resource/clinical-summary/undifferentiated-shock-diagnosis-and-treatment
+Score: 0.61668247
 
 Texto:
-[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151#main-content)
+[![Logo](https://emergencycarebc.ca/wp-content/themes/emn/images/logo_ecbc.svg)](https://emergencycarebc.ca)
+
+MenuBack
+
+# POINT-OF-CARE EMERGENCY CLINICAL SUMMARY
+
+## Member Login
+
+![close-x-white](https://emergencycarebc.ca/wp-content/themes/emn/images/icons/icon-exit.svg)
+
+You must be a logged in member to see the content you clicked on.
+
+[![](https://emergencycarebc.ca/wp-content/themes/emn/images/global-symbols/reply-icon.svg)
+
+Go back](javascript:history.back();)
+
+## INDEX
+
+[![Logo](https://emergencycarebc.ca/wp-content/themes/emn/images/logo.svg)](https://emergencycarebc.ca)
+
+## Undifferentiated Shock – Diagnosis and Treatment
+
+Cardinal Presentations / Presenting Problems, Critical Care / Resuscitation
+
+Last Reviewed on Feb 17, 2022
+
+Read Disclaimer
+
+By  [Samantha Jang-Stewart](#),Kevin Choi
+
+## Context
+
+* Shock is a state of acute cardiocirculatory failure resulting in end-organ hypoxia and dysfunction.
+* Promptly recognizing and treating shock is important as it is associated with high mortality
+* Shock has many etiologies and is the final common pathway of death.
+* Approach to undifferentiated shock requires simultaneous resuscitation and investigation.
+
+![](https://www.bcemergencynetwork.ca/wp-content/uploads/2022/12/table-shock.jpg)
+
+Table 1 Categories of shock
+
+## Diagnostic Process
+
+Approach to undifferentiated shock
+
+1. Recognize shock.
+
+* No single clinical finding or investigation can rule in or rule out shock. Diagnosis is based on a combination of clinical findings.
+* Shock is commonly associated with hypotension, but it can also occur with normal blood pressure.
+* Shock red flags
+  + Ill appearance.
+  + Altered mental status.
+  + HR > 100, MAP < 65, SBP < 90, shock index (SI) > 0.8.
+  + RR > 20.
+  + Urine output < 0.5 ml/kg/h.
+  + Skin – cool peripheries, mottling, urticaria.
+  + Lactate > 4 mM/L or arterial base deficit < -4mEq/L.
+
+1. Primary survey (ABCDE)
+
+* **Airway**: assess airway patency.
+* **Breathing**: assess oxygenation and ventilation.
+  + Consider the need for intubation and mechanical ventilation. Minimize induction agents to avoid hemodynamic collapse.
+* **Circulation**: assess pulse, BP, telemetry, signs of obvious bleeding.
+  + Obtain large bore peripheral IV access. Obtain intraosseous access if peripheral IV access is difficult. Do not delay resuscitation for central line access.
+* **Disability**: assess for level of consciousness and signs of spinal cord injury.
+* **Exposure:** assess skin for urticaria, angioedema (signs of anaphylaxis).
+* **Rule out conditions requiring immediate intervention**: tension pneumothorax, massive hemothorax, cardiac tamponade, MI, significant arrhythmias, massive PE, anaphylaxis, hypovolemia.
+
+1. Initiate empiric resuscitation unless the cause of shock is clear and is rapidly reversed.
+
+* Fluid resuscitation.
+  + Fluid challenge with 300-500 ml of a crystalloid solution over 20-30 min. Repeat according to fluid responsiveness based on changes in BP, HR, urine output.
+  + Be cautious with excessive fluid administration, especially if suspecting cardiogenic shock or massive PE.
+  + Colloids like albumin are theoretically better intravascular volume expanders but there is no evidence of mortality benefit over crystalloids.
+
+* Consider vasoactive agents if hypotension persists (MAP <65) despite fluid resuscitation.
+  + Typical first line agent is norepinephrine with initial dose of 0.2 mcg/kg/min. Norepinephrine can initially be given through peripheral IV until central line access is available.
+  + Vasopressin and epinephrine infusions can be used as second-line agents for severe cases of shock.
+* Consider the use of inotropes if suspecting cardiogenic shock. Dobutamine is commonly used as a first line agent.
+* Start broad-spectrum antibiotics if suspecting sepsis. Early antibiotic therapy improves outcomes in sepsis.
+* Consider empiric corticosteroids for chronic steroid users or shock refractory to vasopressors and fluid resuscitation. Options include dexamethasone 6 mg IV or hydrocortisone 100 mg IV.
+* Sodium bicarbonate therapy for severe metabolic acidosis is commonly used but there is no evidence of mortality benefit.
+
+1. Secondary survey focused on determining the cause of shock.
+
+* History: trauma, infection, immunosuppression, corticosteroid use, exposure to allergen, chest pain, toxic ingestions.
+* Head to toe examination.
+* Point of care ultrasound (FAST, RUSH).
+  + Recent systematic review suggests ultrasound measurement of IVC is not a reliable indicator of volume status.
+* Suggested initial investigations.
+  + Blood tests: ABG, lactate, CBC, serum chemistry, LFT, troponin, BNP, coagulation studies.
+  + ECG – ACS.
+  + CXR – heart failure or pneumonia.
+  + CT scan depending on working differential.
+* Consider placing arterial line and/or central line.
+
+1. Reassess indicators of adequate hemodynamic support.
+
+* MAP > 65 with clinical signs of adequate tissue perfusion (mental status, skin appearance, urine output).
+* Decreasing serial lactate measurements.
+
+6. Transition to ICU.
+
+## Quality Of Evidence*?*
+
+![](https://emergencycarebc.ca/wp-content/themes/emn/images/global-symbols/close-x-white.svg)
+
+### High
+
+We are highly confident that the true effect lies close to that of the estimate of the effect. There is a wide range of studies included in the analyses with no major limitations, there is little variation between studies, and the summary estimate has a narrow confidence interval.
+
+### Moderate
+
+We consider that the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different. There are only a few studies and some have limitations but not major flaws, there are some variations between studies, or the confidence interval of the summary estimate is wide.
+
+### Low
+
+When the true effect may be substantially different from the estimate of the effect. The studies have major flaws, there is important variations between studies, of the confidence in
+
+--- FUENTE WEB ---
+Título: Emergency Evidence Updates – June 2024 – The Bottom Line
+URL: https://www.thebottomline.org.uk/blog/emergency-evidence-updates-june-2024
+Score: 0.6016175
+
+Texto:
+[The Bottom Line](https://www.thebottomline.org.uk/)
+
+A compendium of critical appraisals in Intensive Care Medicine research and related specialties
+
+![The Bottom Line](https://www.thebottomline.org.uk/wp-content/uploads/2016/02/tbl2-logo-on-line-in-the-rain.jpg)
+
+## You are here:
+
+# Emergency Evidence Updates – June 2024
+
+![](http://www.thebottomline.org.uk/wp-content/uploads/2021/07/7-1.png)
+
+![](http://www.thebottomline.org.uk/wp-content/uploads/2021/07/7-1.png)
+
+### Randomised Controlled Trials
+
+[Effect of the 1-h bundle on mortality in patients with suspected sepsis in the emergency department: a stepped wedge cluster randomized clinical trial](https://link.springer.com/article/10.1007/s00134-024-07509-1)  Intensive Care Medicine
+
+[Head Injury Treatment With Healthy and Advanced Dietary Supplements: A Pilot Randomized Controlled Trial of the Tolerability, Safety, and Efficacy of Branched Chain Amino Acids in the Treatment of Concussion in Adolescents and Young Adults](https://www.liebertpub.com/doi/10.1089/neu.2023.0433)  Journal of Neurotrauma
+
+[Landiolol for refractory ventricular fibrillation in out-of-hospital cardiac arrest: A randomized, double-blind, placebo-controlled, pilot trial](https://www.resuscitationjournal.com/article/S0300-9572(24)00166-7/fulltext)  Resuscitation
+
+[Noninvasive Ventilation for Preoxygenation during Emergency Intubation](https://www.nejm.org/doi/full/10.1056/NEJMoa2313680)  NEJM
+
+[Online training to improve BLS performance with dispatcher assistance? Results of a cluster-randomised controlled simulation trial](https://sjtrem.biomedcentral.com/articles/10.1186/s13049-024-01226-w)  Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine
+
+[Out-of-Hospital Intranasal Ketamine as an Adjunct to Fentanyl for the Treatment of Acute Traumatic Pain: A Randomized Clinical Trial](https://www.annemergmed.com/article/S0196-0644(24)00229-4/fulltext)  Annals of Emergency Medicine
+
+[Reteplase versus Alteplase for Acute Ischemic Stroke](https://www.nejm.org/doi/10.1056/NEJMoa2400314)  NEJM
+
+[Tenecteplase for Ischemic Stroke at 4.5 to 24 Hours without Thrombectomy](https://www.nejm.org/doi/full/10.1056/NEJMoa2402980)  NEJM
+
+### Other Guidance/Reports
+
+[A Joint Trauma System Clinical Practice Guideline: Traumatic Brain Injury Management and Basic Neurosurgery in the Deployed Environment](https://academic.oup.com/milmed/advance-article/doi/10.1093/milmed/usae298/7693828?login=false)  Military Medicine
+
+[Antibiotic prophylaxis in injury: an American Association for the Surgery of Trauma Critical Care Committee clinical consensus document](https://tsaco.bmj.com/content/9/1/e001304)  Trauma Surgery & Acute Care Open
+
+[Frameworks Explainer for Children and Young People with Mental Health Concerns](https://www.piernetwork.org/frameworks-explainer.html)  PIER
+
+[Guidance for clinical practice using emergency and point-of-care ultrasonography](https://onlinelibrary.wiley.com/doi/10.1002/ams2.974)  Acute Medicine & Surgery
+
+[Improving Outcomes After Post–Cardiac Arrest Brain Injury: A Scientific Statement From the International Liaison Committee on Resuscitation](https://www.resuscitationjournal.com/article/S0300-9572(24)00089-3/fulltext)  Resuscitation
+
+[Spanish Society of Anesthesiology, Reanimation and Pain Therapy (SEDAR), Spanish Society of Emergency and Emergency Medicine (SEMES) and Spanish Society of Otolaryngology, Head and Neck Surgery (SEORL-CCC) Guideline for difficult airway management. Part I](https://www.sciencedirect.com/science/article/pii/S2341192924000210?via%3Dihub)  Revista Española de Anestesiología y Reanimación (English Edition)
+
+[Spanish Society of Anesthesiology, Reanimation and Pain Therapy (SEDAR), Spanish Society of Emergency and Emergency Medicine (SEMES) and Spanish Society of Otolaryngology, Head and Neck Surgery (SEORL-CCC) Guideline for difficult airway management. Part II](https://www.sciencedirect.com/science/article/pii/S2341192924000222?via%3Dihub)  Revista Española de Anestesiología y Reanimación (English Edition)
+
+[Rapid Acute Coronary Syndrome Evaluation Over One Hour With High-Sensitivity Cardiac Troponin I: A United States-Based Stepped-Wedge, Randomized Trial](https://www.annemergmed.com/article/S0196-0644(24)00235-X/fulltext)  Annals of Emergency Medicine
+
+### Primary Research
+
+**Prehospital**
+
+[Analysis during chest compressions in out-of-hospital cardiac arrest patients, a cross/sectional study: The DEFI 2022 study](https://www.resuscitationjournal.com/article/S0300-9572(24)00186-2/abstract) Resuscitation
+
+[Association Between Emergency Medical Services Intervention Volume and Out-Of-Hospital Cardiac Arrest Survival: A Propensity Score Matching Analysis](https://www.sciencedirect.com/science/article/pii/S0736467924001951) The Journal of Emergency Medicine
+
+[Evaluating the effectiveness of the maximum permitted dose of midazolam in seizure termination: Insights from New South Wales, Australia](https://onlinelibrary.wiley.com/doi/10.1111/1742-6723.14432) Emergency Medicine Australasia
+
+[Increased survival for resuscitated Utstein-comparator group patients conveyed directly to cardiac arrest centres in a large rural and suburban population in England](https://www.resuscitationjournal.com/article/S0300-9572(24)00174-6/fulltext)  Resuscitation
+
+[Outcomes of adult patients discharged at scene by emergency medical services](https://emj.bmj.com/content/early/2024/06/17/emermed-2023-213777)  Emergency Medicine Journal
+
+[Performance of 21 Early Warning System scores in predicting in-hospital deterioration among undifferentiated admitted patients managed by ambulance services](https://emj.bmj.com/content/early/2024/06/06/emermed-2023-213708)  Emergency Medicine Journal
+
+[Successful prehospital ECMO in drowning resuscitation after prolonged submersion](https://www.sciencedirect.com/science/article/pii/S266652042400136X)  Resuscitation Plus
+
+[The association of early naloxone use with outcomes in non-shockable out-of-hospital cardiac
+
+--- FUENTE WEB ---
+Título: Validation of the echoSHOCK protocol for diagnosing the cause of shock in patients arriving at the emergency department | 2025, Volume 25, Issue 2 |  Turkish Journal of Emergency Medicine
+URL: https://turkjemergmed.com/full-text/918
+Score: 0.5683445
+
+Texto:
+![](/img/logo-journal.png)
+
+[![](/img/icon-facebook.png)](https://www.facebook.com/TurkJEmergMed) [![](/img/icon-twitter.png)](https://twitter.com/TurkJEmergMed)
+
+![](/img/icon-facebook.png)
+![](/img/icon-twitter.png)
+
+[![](/img/icon-instagram.png)](https://www.instagram.com/TurkJEmergMed) [![](/img/icon-email.png)](mailto:editor@turkjemergmed.com)
+
+![](/img/icon-instagram.png)
+![](/img/icon-email.png)
+![](/img/logo-emat.png)
+
+# Validation of the echoSHOCK protocol for diagnosing the cause of shock in patients arriving at the emergency department
+
+Takshak Shankar1[![](/img/orcid_16x16.png)](https://orcid.org/0000-0002-1356-7351), Nidhi Kaeley1[![](/img/orcid_16x16.png)](https://orcid.org/0000-0003-4358-2832), Parvathy Sasidharan1[![](/img/orcid_16x16.png)](https://orcid.org/0009-0008-8065-1175), Archana Bairwa1[![](/img/orcid_16x16.png)](https://orcid.org/0009-0001-7199-1396), M. S. Salva Ameena2[![](/img/orcid_16x16.png)](https://orcid.org/0000-0002-3181-1792), Sreejith Jayachandran1[![](/img/orcid_16x16.png)](https://orcid.org/0009-0005-6894-8281), Jewel Rani Jose1[![](/img/orcid_16x16.png)](https://orcid.org/0009-0009-6532-9433), Jitendra Kumar Yadav1[![](/img/orcid_16x16.png)](https://orcid.org/0009-0001-0006-9302)
+
+![](/img/orcid_16x16.png)
+![](/img/orcid_16x16.png)
+![](/img/orcid_16x16.png)
+![](/img/orcid_16x16.png)
+![](/img/orcid_16x16.png)
+![](/img/orcid_16x16.png)
+![](/img/orcid_16x16.png)
+![](/img/orcid_16x16.png)
+
+1Department of Emergency Medicine, All India Institute of Medical Sciences, Rishikesh, Uttarakhand, India  
+2Department of Emergency Medicine, All India Institute of Medical Sciences, New Delhi, India
+
+**Keywords:** Emergency, shock, ultrasound
+
+## Abstract
+
+**OBJECTIVES:** Nontraumatic undifferentiated shock is difficult to manage in the emergency department due to unclear causes, lack of history, and rapid patient deterioration. Timely and appropriate resuscitation is crucial, but both inadequate and excessive resuscitation increase mortality risks. Focused cardiac ultrasound (FoCUS) offers a timely and noninvasive cardiac assessment. The echoSHOCK protocol is derived from FoCUS and improves the ability to identify the etiology of shock in patients at the emergency department. This study’s primary objective was to validate the echoSHOCK protocol for diagnosing the cause of shock in patients arriving at the emergency department. This study’s secondary objective was to determine the prevalence of different etiologies of shock in patients arriving at the emergency department.
+
+**METHODS:** Adult patients presenting to the emergency department in shock were included in the study after informed consent was obtained. The shock was defined as a systolic blood pressure of <90 mmHg or a mean arterial pressure of <65 mmHg with signs of poor tissue perfusion. Each patient underwent a detailed history, physical examination, and standard investigations. Clinicians reported a presumed etiology and management plan with a confidence level (0–10). The echoSHOCK protocol was then executed and its results were recorded with the respective confidence levels. The protocol used a phased array probe in B mode solely and assessed left ventricle function, compressive pericardial effusion, right ventricular dilatation, interventricular septum flattening, and indicators of hypovolemia. The time taken to perform the protocol and the difficulty level were noted. An expert panel followed the patient till hospital discharge and provided the final diagnosis and intervention.
+
+**RESULTS:** The study enrolled 223 patients with a mean age of 49.12 years. The echoSHOCK protocol showed a 94.2% agreement with expert panel diagnoses on the cause of shock and proposed interventions, with a statistically significant near perfect agreement (Cohen’s Kappa −0.896, *P* < 0.001 and 0.897, *P* < 0.001, respectively). In contrast, the agreement between the clinical assessment, routine workup, and expert panel diagnoses was 46.2% on the cause of shock and 45.7% on the proposed interventions, respectively. The echoSHOCK protocol’s median feasibility score was 7 (interquartile range [IQR]: 6–8), and its median performance time was 7 min (IQR: 6–10). Confidence in diagnoses was significantly higher with echoSHOCK (mean: 7.14) than with clinical examination (mean: 4.47) (Wilcoxon Test: *P* <0.001).
+
+**CONCLUSION:** The echoSHOCK protocol rapidly identifies shock etiology in patients at the emergency department. This aids in rapid resuscitation.
+
+## Introduction
+
+Shock is defined as a clinical syndrome of hypoxia at the cellular and tissue level that can occur through inadequate delivery of oxygen, an elevation in the demand for oxygen, or an amalgamation of these processes. The presentation of the patient in shock is diverse. It can vary from concealed hypoperfusion with preserved blood pressure to circulatory collapse, which is its most severe form.[[1](#r1),[2](#r2)] The mechanisms of shock can be broadly classified into four categories – hypovolemia, obstructive, cardiogenic, and distributive. There have been considerable improvements in the management of shock over time. However, the short term mortality still remains high ranging from 20% to 50%.[[3](#r3),[4](#r4)] Nontraumatic undifferentiated shock is a challenging condition to manage for the emergency physician owing to etiological ambiguity, lack of appropriate history, and the fast deteriorating patient.[[5](#r5),[6](#r6)] While timely diagnosis and appropriate resuscitation is the key to reducing mortality in shock, both inadequate and over resuscitation are linked with a risk of higher mortality. The concept of optimal resuscitation holds, especially true for fluid resuscitation.[[6](#r6),[7](#r7)]
+
+Focused cardiac ultrasound (FoCUS) is a time sensitive and noninvasive cardiac evaluation of the symptomatic patient, executed and construed by the emergency physician within the clinical context.[[8](#r8),[9](#r9)] A framework of FoCUS for various clinical sc
+
+--- FUENTE WEB ---
+Título: Circulatory shock in adults in emergency department
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10389095
+Score: 0.5221784
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC10389095#main-content)
 
 ![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
 
@@ -170,623 +398,203 @@ Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cl
 
  Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
 
-![Image 14: Academic Emergency Medicine logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-blackwellopen.png)
+![Image 14: Turkish Journal of Emergency Medicine logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-tjem.png)
 
-Acad Emerg Med
+Turk J Emerg Med
 
-. 2024 Nov 04;32(1):72. doi: [10.1111/acem.15041](https://doi.org/10.1111/acem.15041)
+. 2023 Jan 09;23(3):139. doi: [10.4103/2452-2473.367400](https://doi.org/10.4103/2452-2473.367400)
 
-*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Acad%20Emerg%20Med%22[jour])
-*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Acad%20Emerg%20Med%22[jour])
-*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Acad%20Emerg%20Med%22[Title%20Abbreviation])
-*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151?term=%22Acad%20Emerg%20Med%22[jour])
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Turk%20J%20Emerg%20Med%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Turk%20J%20Emerg%20Med%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Turk%20J%20Emerg%20Med%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC10389095?term=%22Turk%20J%20Emerg%20Med%22[jour])
 
-# Risk‐stratification tools for emergency department patients with syncope: A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+# Circulatory shock in adults in emergency department
 
-[Abel Wakai](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wakai%20A%22[Author])
+[Ashok Kumar Pannu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Pannu%20A%22[Author])
 
-### Abel Wakai
+### Ashok Kumar Pannu
 
- 1 Department of Emergency Medicine Beaumont Hospital Dublin Ireland 
+_Department of Internal Medicine, Postgraduate Institute of Medical Education and Research, Chandigarh, India_
 
- 2 Emergency Care Research Unit (ECRU) Royal College of Surgeons in Ireland (RCSI) Dublin Ireland 
+ Find articles by [Ashok Kumar Pannu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Pannu%20A%22[Author])
 
- Find articles by [Abel Wakai](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wakai%20A%22[Author])
+*
 
- 1  2 , [Richard Sinert](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sinert%20R%22[Author])
+*   Author information
+*   Article notes
+*   Copyright and License information
 
-### Richard Sinert
+_Department of Internal Medicine, Postgraduate Institute of Medical Education and Research, Chandigarh, India_
 
- 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+_Corresponding author_
 
- 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+**Author contributions**
 
- Find articles by [Richard Sinert](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sinert%20R%22[Author])
+AKP: Conceptualization; Literature search; Writing-original draft, review and editing. The corresponding author is responsible for ensuring that the descriptions are accurate and agreed upon by all authors.
 
- 3  4 , [Shahriar Zehtabchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zehtabchi%20S%22[Author])
+✉
+**Address for correspondence:** Dr. Ashok Kumar Pannu, 4 th Floor, F Block, Nehru Hospital, Postgraduate Institute of Medical Education and Research, Chandigarh - 160 012, India. E-mail: gawaribacchi@gmail.com
 
-### Shahriar Zehtabchi
+Received 2022 Sep 19; Revised 2022 Nov 12; Accepted 2022 Nov 13; Collection date 2023.
 
- 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+Copyright: © 2023 Turkish Journal of Emergency Medicine
 
- 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as appropriate credit is given and the new creations are licensed under the identical terms.
 
- Find articles by [Shahriar Zehtabchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zehtabchi%20S%22[Author])
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
 
- 3  4 , [Ian S. de Souza](https://pubmed.ncbi.nlm.nih.gov/?term=%22de%20Souza%20I%22[Author])
+PMCID: PMC10389095 PMID: [37529784](https://pubmed.ncbi.nlm.nih.gov/37529784/)
 
-### Ian S. de Souza
+## [](https://pmc.ncbi.nlm.nih.gov/articles/PMC10389095)Abstract
 
- 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
-
- 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
-
- Find articles by [Ian S. de Souza](https://pubmed.ncbi.nlm.nih.gov/?term=%22de%20Souza%20I%22[Author])
-
- 3  4 , [Roshanak Benabbas](https://pubmed.ncbi.nlm.nih.gov/?term=%22Benabbas%20R%22[Author])
-
-### Roshanak Benabbas
-
- 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
-
- 4 Downstate Health Sciences University State University of New York (SUNY) Broo
+Circulatory shock is a common condition that carries high morbidity and mortality. This review aims to update the critical steps in managing common types of shock in adult patients admitted to medical emergency and intensive care units. A literature rev
 
 --- FUENTE WEB ---
-Título: [PDF] Syncope: Risk Stratification And Clinical Decision Making
-URL: https://scghed.com/wp-content/uploads/2014/10/Syncope-risk-stratification-EBM.pdf
-Score: 0.76173395
+Título: Guideline Diagnosis and Management of Shock in Neonates
+URL: https://files.magicapp.org/guideline/d83e59e9-cf30-4353-b7df-e3b121f5e068/published_guideline_7818-1_1.pdf
+Score: 0.5084226
 
 Texto:
-April 2014 V olum e 16, Num ber 4 Authors Suzanne Y. G. Peeters, MD Emergency Medicine Residency Director, Haga Teaching Hospital, The Hague, The Netherlands Amber E. Hoek, MD Attending Emergency Physician, Erasmus Medical Centre, Department of Emergency Medicine, Rotterdam, The Netherlands Susan M. Mollink, MD Emergency Medicine Resident, Haga Teaching Hospital, The Hague, The Netherlands J. Stephen Huff, MD Professor of Emergency Medicine and Neurology, University of Virginia, Charlottesville, VA Peer Reviewers Andy Jagoda, MD, FACEP Professor and Chair, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, Medical Director, Mount Sinai Hospital, New York, NY Scott Silvers, MD, FACEP Chair, Department of Emergency Medicine, Mayo Clinic, Jacksonville, FL Prior to beginning this activity, see “Physician CME Information” on the back page.
-Syncope: Risk Stratiﬁcation And Clinical Decision Making Abstract Syncope is a common occurrence in the emergency department, accounting for approximately 1% to 3% of presentations. Syn-FRSHLVEHVWGHÀQHGDVDEULHIORVVRIFRQVFLRXVQHVVDQGSRVWXUDO tone followed by spontaneous and complete recovery. The spec-trum of etiologies ranges from benign to life threatening, and a structured approach to evaluating these patients is key to provid-ing care that is thorough, yet cost-effective. This issue reviews the most relevant evidence for managing and risk stratifying the syncope patient, beginning with a focused history, physical examination, electrocardiogram, and tailored diagnostic testing. 6HYHUDOULVNVWUDWLÀFDWLRQGHFLVLRQUXOHVDUHFRPSDUHGIRUSHUIRU-mance in various scenarios, including how age and associated comorbidities may predict short-term and long-term adverse events. An algorithm for structured, evidence-based care of the syncope patient is included to ensure that patients requiring hos-pitalization are managed appropriately and those with benign causes are discharged safely.
-Editor-In-Chief Andy Jagoda, MD, FACEP Professor and Chair, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, Medical Director, Mount Sinai Hospital, New York, NY Associate Editor-In-Chief Kaushal Shah, MD, FACEP Associate Professor, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Editorial Board William J. Brady, MD Professor of Emergency Medicine and Medicine, Chair, Medical Emergency Response Committee, Medical Director, Emergency Management, University of Virginia Medical Center, Charlottesville, VA Mark Clark, MD Assistant Professor of Emergency Medicine, Program Director, Emergency Medicine Residency, Mount Sinai Saint Luke's, Mount Sinai Roosevelt, New York, NY; Assistant Professor of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Peter DeBlieux, MD Professor of Clinical Medicine, Interim Public Hospital Director of Emergency Medicine Services, Louisiana State University Health Science Center, New Orleans, LA Nicholas Genes, MD, PhD Assistant Professor, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Michael A. Gibbs, MD, FACEP Professor and Chair, Department of Emergency Medicine, Carolinas Medical Center, University of North Carolina School of Medicine, Chapel Hill, NC Steven A. Godwin, MD, FACEP Professor and Chair, Department of Emergency Medicine, Assistant Dean, Simulation Education, University of Florida COM-Jacksonville, Jacksonville, FL Gregory L. Henry, MD, FACEP Clinical Professor, Department of Emergency Medicine, University of Michigan Medical School; CEO, Medical Practice Risk Assessment, Inc., Ann Arbor, MI John M. Howell, MD, FACEP Clinical Professor of Emergency Medicine, George Washington University, Washington, DC; Director of Academic Affairs, Best Practices, Inc, Inova Fairfax Hospital, Falls Church, VA Shkelzen Hoxhaj, MD, MPH, MBA Chief of Emergency Medicine, Baylor College of Medicine, Houston, TX Eric Legome, MD Chief of Emergency Medicine, King’s County Hospital; Professor of Clinical Emergency Medicine, SUNY Downstate College of Medicine, Brooklyn, NY Keith A. Marill, MD Research Faculty, Depatment of Emergency Medicine, University of Pittsburgh Medical Center, Pittsburgh, PA Charles V. Pollack, Jr., MA, MD, FACEP Professor and Chair, Department of Emergency Medicine, Pennsylvania Hospital, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA Michael S. Radeos, MD, MPH Assistant Professor of Emergency Medicine, Weill Medical College of Cornell University, New York; Research Director, Department of Emergency Medicine, New York Hospital Queens, Flushing, NY Ali S. Raja, MD, MBA, MPH Director of Network Operations and Business Development, Department of Emergency Medicine, Brigham and Women’s Hospital; Assistant Professor, Harvard Medical School, Boston, MA Robert L. Rogers, MD, FACEP, FAAEM, FACP Assistant Professor of Emergency Medicine, The University of Maryland School of Medicine, Baltimore, MD Alfred Sacchetti, MD, FACEP Assistant Clinical Professor, Department of Emergency Medicine, Thomas Jefferson University, Philadelphia, PA Robert Schiller, MD Chair, Department of Family Medicine, Beth Israel Medical Center; Senior Faculty, Family Medicine and Community Health, Icahn School of Medicine at Mount Sinai, New York, NY Scott Silvers, MD, FACEP Chair, Department of Emergency Medicine, Mayo Clinic, Jacksonville, FL Corey M. Slovis, MD, FACP, FACEP Professor and Chair, Department of Emergency Medicine, Vanderbilt University Medical Center; Medical Director, Nashville Fire Department and International Airport, Nashville, TN Stephen H. Thomas, MD, MPH George Kaiser Family Foundation Professor & Chair, Department of Emergency Medicine, University of Oklahoma School of Community Medicine, Tulsa, OK Ron M. Walls, MD Professor and Chair, Department of Emergency Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA Scott D. Weingart, MD, FCCM Associa
+Diagnosis and Management of Shock in Neonates NNF/2023/CPG/2023.3.0 ©National Neonatology Forum of India 2023 Some rights reserved. This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ This license requires that you must give credit to the creator. It allows you to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If you modify or adapt the material, you must license the modified material under identical terms. Suggested citation: Diagnosis and Management of Shock in Neonates. 25 November 2023. New Delhi: National Neonatology Forum of India; 2023 (NNF/2023/CPG/ 2023.3.0). License: CC BY-NC-SA 4.0 Disclaimers: Due care has been taken to verify the accuracy of all the information in these Clinical Practice Guidelines. However, the contributors, editors, or National Neonatology Forum are not responsible for errors or omissions or any consequences from the application of information provided in this book and give no guarantee concerning the completeness or accuracy of the contents. Application of the information in a situation different from that described in guidelines remains the professional responsibility of the concerned physicians. The guidelines do not endorse any particular brand of equipment or drug. The contributors, editors, and NNF have no affiliation with any of the companies. The contributors and editors have made great efforts to ensure that all information is according to currently accepted recommendations. However, given the rapidity with which such information changes, the reader is urged to check the latest updates. Updates as and when they occur, shall be posted on the website of NNF and published in the issues of the official journal of NNF, the Journal of Neonatology. Diagnosis and Management of Shock in Neonates - National Neonatology Forum of India 2 of 111 National Neonatology Forum of India About us: National Neonatology Forum (NNF), established in 1980, is the professional association of neonatologists of India. It currently has more than 9000 members (https://www.nnfi.org/about-us). NNF has been instrumental in bringing up neonatology and neonatal care services in India to the forefront. It is actively involved in advocacy, policy-making, capacity-building, and improving quality of care. One of its important mandates is to draw out evidence-based recommendations for neonatal care at different levels. The members of NNF have developed expertise and experience in using GRADE methodology and have released several clinical practice guidelines over the years which are available online (https://www.nnfi.org/cpg) as well as in Google and Apple Playstores (NNF CPG) as app. E-mail: secnnf@nnfi.org Office-bearers 2022: President: Dr. Siddharth Ramji President-Elect: Dr. Praveen Kumar Secretary: Dr. Dinesh Tomar Past President: Dr. Ranjan Kumar Pejaver Vice President: Dr. Vikram Dutta Treasurer: Dr. Surender Bisht Jt. Secretary: Dr. Dinesh Chirla Office-bearers 2023: President: Dr. Praveen Kumar President-Elect: Dr. Sushma Nangia Secretary: Dr. Surender Bisht Past President: Dr. Siddharth Ramji Vice President: Dr. Alok Bhandari Treasurer: Dr. Amit Upadhyay Jt. Secretary: Dr. Srinivas Murki Immediate Past Secretary General: Dr. Dinesh Tomar Contact Dr Deepak Chawla Professor, Department of Neonatology, Government Medical College Hospital, Chandigarh, India drdeepak@gmch.gov.in https://www.nnfi.org Diagnosis and Management of Shock in Neonates - National Neonatology Forum of India 3 of 111 Sections Summary of recommendations ................................................................................................................................................................................................................ 5 1. Contributors ................................................................................................................................................................................................................................................. 9 2. Introduction .............................................................................................................................................................................................................................................. 10 3. Scope of the guidelines ........................................................................................................................................................................................................................ 11 4. Methodology ............................................................................................................................................................................................................................................ 12 5. Among neonates at risk of developing shock or being treated for shock, is invasive blood pressure monitoring superior to non-invasive blood pressure monitoring? .................................................................................................................................................................................................. 17 6. Among neonates at risk of developing shock, what clinical and biochemical parameters should be used to initiate treatment? ........... 23 7. Among neonates diagnosed with shock, is fluid resuscitation with high volume bolus (>20 ml/kg) superior to fluid resuscitation with low volume bolus (10-20 ml/kg)? ......................................................................................................................................................................................................... 32 8. Among preterm neonates, is the active treatment of isolated hypotension without any clinical or biochemical signs of poor perfusion superior to no treatment of isolated hypotension (permissive hypotension)? ...
 
 --- FUENTE WEB ---
-Título: Risk-stratification tools for emergency department patients with syncope: A systematic review and meta-analysis of direct evidence for SAEM GRACE - PubMed
-URL: https://pubmed.ncbi.nlm.nih.gov/39496561
-Score: 0.75421005
+Título: Shock - StatPearls - NCBI Bookshelf - NIH
+URL: https://www.ncbi.nlm.nih.gov/books/NBK531492
+Score: 0.498902
 
 Texto:
-Clipboard, Search History, and several other advanced features are temporarily unavailable. 
+**Warning:**
+The NCBI web site requires JavaScript to function.
+[more...](/guide/browsers/#enablejs "Learn how to enable JavaScript")
 
-[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/39496561#article-details)
+![U.S. flag](https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png)
 
-![Image 1: U.S. flag](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png)
 An official website of the United States government
 
-Here's how you know
+![Dot gov](https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
 
-![Image 2: Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+**The .gov means it's official.**
+  
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you're on a federal
+government site.
 
-**The .gov means it’s official.**
-
- Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
-
-![Image 3: Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+![Https](https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
 
 **The site is secure.**
+  
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
 
- The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+![NIH NLM Logo](https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg)
 
-[![Image 4: NIH NLM Logo](https://cdn.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg)](https://www.ncbi.nlm.nih.gov/)
-
-[Log in](https://account.ncbi.nlm.nih.gov/)Show account info
-
-Close
 #### Account
 
- Logged in as:
+# [Bookshelf](/books/ "Bookshelf home")
 
-**username**
+## 
 
-*   [Dashboard](https://pubmed.ncbi.nlm.nih.gov/myncbi/)
-*   [Publications](https://pubmed.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
-*   [Account settings](https://pubmed.ncbi.nlm.nih.gov/account/settings/)
-*   [Log out](https://pubmed.ncbi.nlm.nih.gov/account/signout/)
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
 
-[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys)[NCBI Homepage](https://www.ncbi.nlm.nih.gov/)[MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/)[Main Content](https://pubmed.ncbi.nlm.nih.gov/39496561#maincontent)[Main Navigation](https://pubmed.ncbi.nlm.nih.gov/39496561#)
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 Jan-.
 
-[](https://pubmed.ncbi.nlm.nih.gov/39496561)
+![Cover of StatPearls](/corehtml/pmc/pmcgifs/bookshelf/thumbs/th-statpearls-lrg.png)
 
-[![Image 5: pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/af7de7da-df5d-41c6-8de4-8c266af8ccfb/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[](https://pubmed.ncbi.nlm.nih.gov/39496561# "Show search bar")
+## StatPearls [Internet].
 
- Search:  [](https://pubmed.ncbi.nlm.nih.gov/39496561# "Clear search input")Search
+# Shock
 
-[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/)[Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+Hayas Haseer Koya; Manju Paul.
 
-[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+#### Authors
 
- Save  Email 
+Hayas Haseer Koya1; Manju Paul2.
 
-Send to
+#### Authors
 
-*   [Clipboard](https://pubmed.ncbi.nlm.nih.gov/39496561#)
-*   [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F39496561%2F%23open-bibliography-panel)
-*   [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F39496561%2F%23open-collections-panel)
-*   [Citation manager](https://pubmed.ncbi.nlm.nih.gov/39496561#)
+#### Affiliations
 
-Display options
+Last Update: July 24, 2023.
 
- Display options 
+## Continuing Education Activity
 
- Format 
+Shock is a life-threatening manifestation of circulatory failure. Circulatory shock leads to cellular and tissue hypoxia resulting in cellular death and dysfunction of vital organs. Effects of shock are reversible in the early stages and a delay in diagnosis and/or timely initiation of treatment can lead to irreversible changes including multiorgan failure (MOF) and death. This activity reviews the evaluation and management of shock, and explains the role of the interprofessional team in evaluating and treating patients with this condition.
 
-## Save citation to file
+**Objectives:**
 
- Format:  
-
- Create file  Cancel 
-
-## Email citation
-
- Email address has not been verified. Go to [My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/) to confirm your email and then refresh this page. 
-
- To: 
-
- Subject:  
-
- Body:  
-
- Format:  
-
-- [x]  MeSH and other data  
-
- Send email  Cancel 
-
-### Add to Collections
-
-*   Create a new collection 
-*   Add to an existing collection 
-
- Name your collection:  
-
- Name must be less than 100 characters 
-
- Choose a collection:  
-
- Unable to load your collection due to an error
-
-[Please try again](https://pubmed.ncbi.nlm.nih.gov/39496561#)
-
- Add  Cancel 
-
-### Add to My Bibliography
-
-*   My Bibliography 
-
- Unable to load your delegates due to an error
-
-[Please try again](https://pubmed.ncbi.nlm.nih.gov/39496561#)
-
- Add  Cancel 
-
-## Your saved search
-
- Name of saved search:  
-
- Search terms:  
-
-[Test search terms](https://pubmed.ncbi.nlm.nih.gov/39496561#)
-
- Would you like email updates of new search results? Saved Search Alert Radio Buttons
-*   Yes 
-*   No 
-
- Email:   ([change](https://www.ncbi.nlm.nih.gov/account/settings/))
-
- Frequency:  
-
- Which day?  
-
- Which day?  
-
- Report format:  
-
- Send at most:  
-
-- [x]  Send even when there aren't any new results  
-
- Optional text in email:  
-
- Save  Cancel 
-
-## Create a file for external citation management software
-
- Create file  Cancel 
-
-## Your RSS Feed
-
- Name of RSS Feed:  
-
- Number of items displayed:  
-
- Create RSS  Cancel 
-
-RSS Link  Copy 
-
-### Full text links
-
-[![Image 6: Wiley full text link](https://cdn.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--media.wiley.com-assets-7388-69-wiley-full-text.png) Wiley](https://doi.org/10.1111/acem.15041 "See full text options at Wiley")[Free PMC article](https://pmc.ncbi.nlm.nih.gov/articles/pmid/39496561/ "Free full text at PubMed Central")
-
-[Full text links](https://pubmed.ncbi.nlm.nih.gov/39496561#)
-
-### Actions
-
-Cite
-
-Collections
-
-Add to Collections
-
-*   Create a new collection 
-*   Add to an existing collection 
-
- Name your collection:  
-
- Name must be less than 100 characters 
-
- Choose a collection:  
-
- Unable to load your collection due to an error
-
-[Please try again](https://pubmed.ncbi.nlm.nih.gov/39496561#)
-
- Add  Cancel 
-
-Permalink
-
-Permalink
-
-Copy
-
-Display options
-
- Display options 
-
- Format 
-
-### Page navigation
-
-*   [Title & authors](https://pubmed.ncbi.nlm.nih.gov/39496561#heading)
-*   [Abstract](https://pubmed.ncbi.nlm.nih.gov/39496561#abstract)
-*   [Conflict of interest statement](https://pubmed.ncbi.nlm.nih.gov/39496561#conflict-of-interest)
-*   [Figures](https://pubmed.ncbi.nlm.nih.gov/39496561#figures)
-*   [References](https://pubmed.ncbi.nlm.nih.gov/39496561#references)
-*   [Publication types](https://pubmed.ncbi.nlm.nih.gov/39496561#publication-types)
-*   [MeSH terms](https://pubmed.ncbi.nlm.nih.gov/39496561#mesh-terms)
-*   [Grants and funding](https://pubmed.ncbi.nlm.nih.gov/39496561#grants)
-*   [LinkOut - more resources](https://pubmed.ncbi.nlm.nih.gov/39496561#linkout)
-
-Meta-Analysis
-
- Acad Emerg Med 
-
-Actions
-
-*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Acad+Emerg+Med%22%5Bjour%5D&sort=date&sort_order=desc)
-*   [Search in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Acad+Emerg+Med%22%5BTitle+Ab
-
---- FUENTE WEB ---
-Título: Standardized reporting guidelines for emergency department syncope risk-stratification research | EQUATOR Network
-URL: https://www.equator-network.org/reporting-guidelines/standardized-reporting-guidelines-for-emergency-department-syncope-risk-stratification-research
-Score: 0.71305263
-
-Texto:
-![Equator network](https://www.equator-network.org/wp-content/themes/equator/images/equator_logo.png)
-
-Enhancing the QUAlity and Transparency Of health Research
-
-# Search for reporting guidelines
-
-Use your browser's Back button to return to your search results
-
-#### Standardized reporting guidelines for emergency department syncope risk-stratification research
-
-|  |  |
-| --- | --- |
-| Reporting guideline provided for? (i.e. exactly what the authors state in the paper) | Reporting emergency department syncope risk-stratification research |
-| Full bibliographic reference | Sun BC, Thiruganasambandamoorthy V, Cruz JD; Consortium to Standardize ED Syncope Risk Stratification Reporting. Standardized reporting guidelines for emergency department syncope risk-stratification research. Acad Emerg Med. 2012;19(6):694-702. |
-| Language | English |
-| PubMed ID | [22687184](http://www.ncbi.nlm.nih.gov/pubmed/22687184) |
-| Study design | Observational studies |
-| Clinical area | Emergency medicine |
-| Applies to the whole report or to individual sections of the report? | Data, Outcomes (variables), Study characteristics (participants etc.), Terminology/definitions |
-| Record last updated on | May 29, 2015 |
-
-### Reporting guidelines for main study types
-
-|  |
-| --- |
-| [Randomised trials](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=experimental-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [CONSORT](https://www.equator-network.org/reporting-guidelines/consort/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+CONSORT+extension&btn_submit=Search+Reporting+Guidelines) |
-| [Observational studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=observational-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+&eq_guidelines_study_design_sub_cat=0)  [STROBE](https://www.equator-network.org/reporting-guidelines/strobe/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+STROBE+extension&btn_submit=Search+Reporting+Guidelines) |
-| [Systematic reviews](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=systematic-reviews-and-meta-analyses&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [PRISMA](https://www.equator-network.org/reporting-guidelines/prisma/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=PRISMA+extension&btn_submit=Search+Reporting+Guidelines) |
-| [Study protocols](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=study-protocols&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [SPIRIT](https://www.equator-network.org/reporting-guidelines/spirit-2013-statement-defining-standard-protocol-items-for-clinical-trials/)  [PRISMA-P](https://www.equator-network.org/reporting-guidelines/prisma-protocols/) |
-| [Diagnostic/prognostic studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=diagnostic-prognostic-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [STARD](https://www.equator-network.org/reporting-guidelines/stard/)  [TRIPOD](https://www.equator-network.org/reporting-guidelines/tripod-statement/) |
-| [Case reports](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=case+report&btn_submit=Search+Reporting+Guidelines)  [CARE](https://www.equator-network.org/reporting-guidelines/care/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=CARE+case+extension&btn_submit=Search+Reporting+Guidelines) |
-| [Clinical practice guidelines](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=clinical-practice-guidelines&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [AGREE](https://www.equator-network.org/reporting-guidelines/the-agree-reporting-checklist-a-tool-to-improve-reporting-of-clinical-practice-guidelines/)  [RIGHT](https://www.equator-network.org/reporting-guidelines/right-statement/) |
-| [Qualitative research](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=qualitative-research&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [SRQR](https://www.equator-network.org/reporting-guidelines/srqr/)  [COREQ](https://www.equator-network.org/reporting-guidelines/coreq/) |
-| [Animal pre-clinical studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=animal-pre-clinical-research&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [ARRIVE](https://www.equator-network.org/reporting-guidelines/improving-bioscience-research-reporting-the-arrive-guidelines-for-reporting-animal-research/) |
-| [Quality improvement studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=quality-improvement-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [SQUIRE](https://www.equator-network.org/reporting-guidelines/squire/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=SQUIRE+extension&btn_submit=Search+Reporting+Guidelines) |
-| [Economic evaluations](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=economic-evaluations&eq_guidelines_clinical_specialty=0&eq_guidelines_re
-
---- FUENTE WEB ---
-Título: A Narrative Review of Syncope Decision Rules: A Case for Point-of-Care Cardiac Ultrasound for Cardiac Syncope
-URL: https://www.mdpi.com/2077-0383/15/10/3780
-Score: 0.71137124
-
-Texto:
-Previous Article in Journal / Special Issue  
-
-[Clinical Application of Electrical Impedance Tomography in Emergency and Critical Care Medicine](/2077-0383/15/10/3779)
-
-All articles published by MDPI are made immediately available worldwide under an open access license. No special
-permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
-articles published under an open access Creative Common CC BY license, any part of the article may be reused without
-permission provided that the original article is clearly cited. For more information, please refer to
-<https://www.mdpi.com/openaccess>.
-
-Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
-Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
-future research directions and describes possible research applications.
-
-Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
-positive feedback from the reviewers.
-
-Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
-Editors select a small number of articles recently published in the journal that they believe will be particularly
-interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
-most exciting work published in the various research areas of the journal.
-
-Original Submission Date Received: .
-
-[Journals](/about/journals)
-
-[JCM](/journal/jcm)
-
-[Volume 15](/2077-0383/15)
-
-[Issue 10](/2077-0383/15/10)
-
-[10.3390/jcm15103780](#)
-
-[![jcm-logo](https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12 "Journal of Clinical Medicine")](/journal/jcm)
-
-[Submit to this Journal](https://susy.mdpi.com/user/manuscripts/upload?form%5Bjournal_id%5D%3D93)
-[Review for this Journal](https://susy.mdpi.com/volunteer/journals/review)
-[Propose a Special Issue](/journalproposal/sendproposalspecialissue/jcm)
-
-[►
-▼
-Article Menu](#)
-
-## Article Menu
-
-* [Academic Editors](#academic_editors)
-
-  [![](/profiles/841072/thumb/Epaminondas_Zakynthinos.jpg)Epaminondas G. Zakynthinos](https://sciprofiles.com/profile/841072?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)
-
-  [![](/bundles/mdpisciprofileslink/img/unknown-user.png)Ramdas G. Pai](https://sciprofiles.com/profile/2787478?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)
-* [Recommended Articles](#)
-* [Author Biographies](/article/1942829/author-biographies)
-* [Related Info Links](#related)
-
-  + [PubMed/Medline](http://www.ncbi.nlm.nih.gov/sites/entrez/42194740)
-  + [Google Scholar](http://scholar.google.com/scholar?q=A%20Narrative%20Review%20of%20Syncope%20Decision%20Rules%3A%20A%20Case%20for%20Point-of-Care%20Cardiac%20Ultrasound%20for%20Cardiac%20Syncope)
-* [More by Authors Links](#authors)
-
-  + on DOAJ
-
-  - [Situ-LaCasse, E.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Elaine%20Situ-LaCasse%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
-  - [Wallace, N.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Neil%20Wallace%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
-  - [Wasiak, D.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22David%20Wasiak%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
-  - [Patel, P.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Pratham%20Patel%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
-  - [Adhikari, S.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Srikar%20Adhikari%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
-
-  + on Google Scholar
-
-  - [Situ-LaCasse, E.](http://scholar.google.com/scholar?q=Elaine%20Situ-LaCasse)
-  - [Wallace, N.](http://scholar.google.com/scholar?q=Neil%20Wallace)
-  - [Wasiak, D.](http://scholar.google.com/scholar?q=David%20Wasiak)
-  - [Patel, P.](http://scholar.google.com/scholar?q=Pratham%20Patel)
-  - [Adhikari, S.](http://scholar.google.com/scholar?q=Srikar%20Adhikari)
-
-  + on PubMed
-
-  - [Situ-LaCasse, E.](http://www.pubmed.gov/?cmd=Search&term=Elaine%20Situ-LaCasse)
-  - [Wallace, N.](http://www.pubmed.gov/?cmd=Search&term=Neil%20Wallace)
-  - [Wasiak, D.](http://www.pubmed.gov/?cmd=Search&term=David%20Wasiak)
-  - [Patel, P.](http://www.pubmed.gov/?cmd=Search&term=Pratham%20Patel)
-  - [Adhikari, S.](http://www.pubmed.gov/?cmd=Search&term=Srikar%20Adhikari)
-
-[Article Views
-486](#metrics)
-
-* [Table of Contents](#table_of_contents)
-
-  + [Abstract](#html-abstract)
-  + [Background](#sec1-jcm-15-03780)
-  + [Literature Review Approach](#sec2-jcm-15-03780)
-  + [Current Risk Stratification Tools](#sec3-jcm-15-03780)
-  + [Point-of-Care Cardiac Ultrasound](#sec4-jcm-15-03780)
-  + [Future of POCCUS in Syncope Risk Stratification](#sec5-jcm-15-03780)
-  + [Conclusions](#sec6-jcm-15-03780)
-  + [Author Contributions](#)
-  + [Funding](#)
-  + [Institutional Review Board Statement](#)
-  + [Data Availability Statement](#)
-  + [Acknowledgments](#html-ack)
-  + [Conflicts of Interest](#)
-  + [Abbreviations](#html-glossary)
-  + [References](#html-references_list)
-
-Altmetric
-[*share*
-Share](# "Share")
-[*announcement*
-Help](# "Help")
-[*format\_quote*
-Cite](javascript:void(0);)
-[*question\_answer*
-Discuss in SciProfiles](https://sciprofiles.com/discussion-groups/public/10.3390/jcm15103780?utm_source=mpdi.com&utm_medium=publication&utm_campaign=discuss_in_
-
---- FUENTE WEB ---
-Título: Syncope in the ED: Distinguishing the Life-Threatening From the Benign
-URL: https://www.ebmedicine.net/topics/cardiovascular/syncope
-Score: 0.6862234
-
-Texto:
-![](https://www.facebook.com/tr?id=245213793436832&ev=PageView&noscript=1)
-![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png)
-![EB Medicine logo](/template_images/EBM_logo_2.png)
-![Click to search](/template_images/_ebm_icon_search.png)
-![Click to check your cart](/template_images/_ebm_cart_icon.png)
-![navigation bar background](/template_images/_icon_bars_trans.png)
-![Click to search](/template_images/_ebm_icon_search.png)
-![EB Medicine logo](/template_images/EBM_logo_2.png)
-![](/template_images/_icon_grid_trans.png)
-![Click to search](/template_images/_ebm_icon_search.png)
-![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png)
-![Click to check your cart](/template_images/_ebm_cart_icon.png)
-![](/publicationImages/EMP-Heading.png "Emergency Medicine Practice")
-
-# Emergency Department Management of Syncope
-
-![](/productImages/EMP-21-06_800x200.jpg)
-
-|  |  |
-| --- | --- |
-|  | Get a FREE Issue of Emergency Medicine Practice See why tens of thousands of emergency clinicians choose *Emergency Medicine Practice* to stay sharp, save time, and improve patient care.  Email Address  Website |
-
-### Get a FREE Issue of Emergency Medicine Practice
-
-![](/template_images/New-TOC-desktop-icon.png)
-![](/template_images/New-TOC-mobile-icon.png)
-![](/template_images/icon-close.png)
-
-### About This Issue
-
-## Transient loss of consciousness from syncope is a very common presentation in the ED, and it often has a benign etiology. Although one-third of these patients are admitted to the hospital, the majority of them will be discharged with a symptomatic diagnosis of “syncope and collapse.” A structured approach to the history, ECG assessment, risk assessment, and appropriate testing will help identify patients with life-threatening processes that do require admission. This issue will review:
-
-## The physiologic basis for the 3 classifications: neurally mediated (reflex) syncope, orthostatic hypotension-caused syncope, and cardiac syncope
-
-## The most common life-threatening conditions that can present with syncope
-
-## The most helpful features to look for when differentiating seizure from syncope
-
-## Syncope mimics: neurologic, psychiatric, metabolic, and toxicologic
-
-## Identifying the highest risk historical features to guide disposition
-
-## Seven of the most commonly used clinical decision tools: how do they compare, how do they differ, and are any of them useful?
-
-## The particular concerns with elderly patients who present with syncope: falls, comorbid conditions, and underlying and undiagnosed conditions.
-
-## The tests that all patients need to have and the tests that should be ordered only when there are specific concerns.
-
-### Abstract
-
-Syncope is the transient loss of consciousness and postural tone, with spontaneous recovery. It accounts for approximately 1% of all emergency department visits and $5.6 billion in healthcare costs annually. In a very small subset of patients, syncope may be a warning sign for serious outcomes or death, but identifying these patients is challenging, as the emergency clinician must distinguish between life-threatening causes and the more common, benign etiologies. Low-yield and expensive testing is often performed, even for benign presentations. Much research on syncope is observational, and clinical decision rules frequently perform poorly in validation studies. This issue reviews the clinical and diagnostic findings that are useful for safely and efficiently identifying patients presenting to the emergency department with syncope.
-
-### Case Presentations
-
-![](/media_library/images/icons/Case-3.png)
-![](/media_library/images/icons/Case-3.png)
-![](/media_library/images/icons/Case-3.png)
-
-### Clinical Pathway for Emergency Department Evaluation of Patients Presenting With Transient Loss of Consciousness
-
-![Clinical Pathway for Emergency Department Evaluation of Patients Presenting With Transient Loss of Consciousness](/media_library/images/2021-EMP-Publication-Article/06-June/Clinical-Pathway-for-Emergency-Department-Evaluation-of-Patients-Presenting-With-Transient-Loss-of-Consciousness.png)
-
-***[Subscribe](/subscribe) to access the complete flowchart to guide your clinical decision making.***
-
-### Tables and Figures
-
-![Table 4. Historical Features Suggesting Etiology of Syncope](/media_library/images/2021-EMP-Publication-Article/06-June/Table-4-Historical-Features-Suggesting-Etiology-of-Syncope.png)![Table 1. Classifications of Syncope, by Cause](/media_library/images/2021-EMP-Publication-Article/06-June/Table-1-Classifications-of-Syncope-by-Cause-Thumbnail.png)
-![Table 2. Clinical Characteristics of Immediately Life-Threatening Conditions That May Present With Syncope](/media_library/images/2021-EMP-Publication-Article/06-June/Table-2-Clinical-Characteristics-of-Immediately-Life-Threatening-Conditions-That-May-Present-With-Syncope-Thumbnail.png)
-![Table 3. Syncope Mimics](/media_library/images/2021-EMP-Publication-Article/06-June/Table-3-Syncope-Mimics-Thumbnail.png)
-![Table 5. Contraindications to Performing Carotid Sinus Massage](/media_library/images/2021-EMP-Publication-Article/06-June/Table-5-Contraindications-to-Performing-Carotid-Sinus-Massage-Thumbnail.png)
-
-***[Subscribe](/subscribe) for full access to all Tables and Figures.***
-
-### Key References
-
-Following are the most informative references cited in this paper, as determined by the authors.
-
-5. \* Brignole M, Moya A, de Lange FJ, et al. 2018 ESC guidelines for the diagnosis and management of syncope. *Eur Heart J*. 2018;39(21):1883-1948. **(Guidelines) [DOI:10.1093/eurheartj/ehy037](https://doi.org/10.1093/eurheartj/ehy037)**
-
-22. \* D’Ascenzo F, Biondi-Zoccai G, Reed MJ, et al. Incidence, etiology and predictors of adverse outcomes in 43,315 patients presenting to the emergency department with syncope: an international meta-analysis. *Int J Cardiol*. 2013;167(1):57-62. **(Meta-analysis; 43,315 patient
-
---- FUENTE WEB ---
-Título: Pediatric syncope in the emergency department: a risk-stratified diagnostic and disposition pathway | International Journal of Emergency Medicine | Springer Nature Link
-URL: https://link.springer.com/article/10.1186/s12245-026-01215-z
-Score: 0.683948
-
-Texto:
-Advertisement
-
-![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/12245/article&sz=728x90&pos=top&articleid=s12245-026-01215-z)
-![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
-
-# Pediatric syncope in the emergency department: a risk-stratified diagnostic and disposition pathway
-
-You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
-
-![](https://media.springernature.com/w72/springer-static/cover-hires/journal/12245?as=webp)
-
-1797 Accesses
-
-1 
-Altmetric
-
-[Explore all metrics](/article/10.1186/s12245-026-01215-z/metrics)
-
-## Abstract
-
-### Background
-
-Pediatric syncope accounts for 1–3% of emergency department (ED) visits. Although most cases are benign, 4% are caused by cardiac disease and 3% by seizures, which carry a risk of sudden death or neurologic injury if missed. Vasovagal syncope accounts for 52–74% of cases and postural orthostatic tachycardia syndrome (POTS) for approximately 13%.
-
-### Objective
-
-To provide an emergency-department risk-stratified diagnostic and disposition framework for pediatric syncope.
-
-### Key findings
-
-A universal 12-lead electrocardiogram (ECG) identifies nearly all life-threatening cardiac causes of syncope. When combined with structured red-flag screening and clinical risk stratification, patients can be reliably divided into low-, intermediate-, and high-risk groups, allowing safe discharge of benign cases and rapid admission of dangerous ones.
-
-### Conclusion
-
-A standardized ED syncope pathway based on risk tiers and ECG-first evaluation improves patient safety while reducing unnecessary admissions and testing.
-
-### Clinical trial number
-
-Not applicable.
-
-### Similar content being viewed by others
-
-![](https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png)
-
-### [Frequency of syncope as a presenting symptom in channelopathies diagnosed in childhood. Can the multivariable EGSYS score unmask these children?](https://link.springer.com/10.1007/s00431-020-03913-z?fromPaywallRec=false)
-
-![](https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png)
-
-### [Clinico-Etiological Profile of Pediatric Syncope: A Single Center Experience](https://link.springer.com/10.1007/s13312-021-2128-3?fromPaywallRec=false)
-
-![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1186%2Fs13049-023-01102-z/MediaObjects/13049_2023_1102_Fig1_HTML.png)
-
-### [Risk stratification tools for patients with syncope in emergency medical services and emergency departments: a scoping review](https://link.springer.com/10.1186/s13049-023-01102-z?fromPaywallRec=false)
-
-### Explore related subjects
+[Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28970&utm_source=pubmed&utm_campaign=reviews&utm_content=28970)
 
 ## Introduction
 
-Missed cardiac syncope is one of the most dangerous diagnostic failures in pediatric emergency medicine. Children presenting with transient loss of consciousness may appear well, yet a small subset harbor lethal arrhythmias or structural heart disease that can lead to sudden death if not recognized. The central challenge for the emergency physician is to rapidly identify these high-risk patients while safely discharging the majority with benign etiologies [[1](/article/10.1186/s12245-026-01215-z#ref-CR1 "Epping H, Müller-Schilling M, Dirrigl G, Rockmann F, Brünnler T. Syncope diagnostics in the emergency department – significance of the ESC guidelines. Med Klin Intensivmed Notfmed. 2025;15:1–7.")].
+Shock is a life-threatening manifestation of circulatory failure.  Circulatory shock leads to cellular and tissue hypoxia resulting in cellular death and dysfunction of vital organs. Effects of shock are reversible in the early stages, and a delay in diagnosis and/or timely initiation of treatment can lead to irreversible changes, including multiorgan failure (MOF) and death.
 
-Pediatric syncope represents 1–3% of ED visits and up to 6% of adolescent hospitalizations [[2](/article/10.1186/s12245-026-01215-z#ref-CR2 "Ritter S, Tani LY, Etheridge SP, Williams RV, Craig JE, Minich LL. What is the yield of screening echocardiography in pediatric syncope? Pediatrics. 2000;105(5):E58."), [3](/article/10.1186/s12245-026-01215-z#ref-CR3 "Linzer M, Pontinen M, Gold DT, Divine GW, Felder A. Impairment of physical and psychosocial function in recurrent syncope. J Clin Epidemiol. 1991;44(10):1037–43.")]. Although most cases are reflex-mediated or orthostatic, approximately 4% are cardiac and 3% neurologic [[4](/article/10.1186/s12245-026-01215-z#ref-CR4 "Manouzi A, Sanatani S, Doan Q. Electrocardiogram in pediatric syncope: practice variation among pediatric emergency physicians. Pediatr Emerg Care. 2022;38(2):e886–90.")]. Because clinical appearance alone is unreliable, emergency department evaluation must be structured, protocol-driven, and anchored by early ECG screening and risk stratification [[5](/article/10.1186/s12245-026-01215-z#ref-CR5 "Scheier E. Cardiac POCUS in pediatric emergency medicine: a narrative review. J Clin Med. 2023;12(17):5666."), [6](/article/10.1186/s12245-026-01215-z#ref-CR6 "Thiruganasambandamoorthy V, Sivilotti ML, Le Sage N, Yan JW, Huang P, Hegdekar M, et al. Multicenter emergency department validation of the Canadian syncope risk score. JAMA Intern Med. 2020;180(5):737–44.")].
+## Etiology
 
-## Mechanisms and evidence-based framework for pediatric syncope in the ED
+Shock is characterized by decreased oxygen delivery and/or increased oxygen consumption or inadequate oxygen utilization leading to cellular and tissue hypoxia. It is a life-threatening condition of circulatory failure and most commonly manifested as hypotension (systolic blood pressure less than 90 mm Hg or MAP less than 65 mmHg). Shock is the final manifestation of a complex list of etiologies and could be fatal without timely management. There are mainly four broad categories of shock: distributive, hypovolemic, cardiogenic, and obstructive.[[1]](#article-28970.r1) The wide range of etiologies can contribute to each of these categories and are manifested by the final outcome of shock. Undifferentiated shock means that the diagnosis of shock has been made; however, the underlying etiology has not been uncovered.
 
-Pediatric syncope is a common clinical presentation in ED, with incidence peaking during adolescence and recurrence occurring in up to one-third of patients. Despite this high prevalence, fewer than 5% of cases are caused by life-threatening disease [[2](/article/10.1186/s12245-026-01215-z#ref-CR2 "Ritter S, Tani LY, Etheridge SP, Williams RV, Craig JE, Minich LL. What is the yield of screening echocardiography in pediatric syncope? Pediatrics. 2000;105(5):E58."), [3](/article/10.1186/s12245-026-01215-z#ref-CR3 "Linzer M, Pontinen M, Gold DT, Divine GW, Felder A. Impairment of physical and psychosocial function in recurrent syncope. J Clin Epidemiol. 1991;44(10):1037–43.")]. The lifetime cumulative incidence in children and adolescents is estimated to be between 15% and 25% [[7](/article/10.1186/s12245-026-01215-z#ref-CR7 "Colman N, Nahm K, Ganzeb
+**1. Distributive Shock**
+
+Characterized by peripheral vasodilatation.
+
+Types of distributive shock include:
+
+**Septic Shock**
+
+Sepsis is defined as life-threatening organ dysfunction resulting from dysregulated host response to infection.[[2]](#article-28970.r2) Septic shock is a subset of sepsis with severe circulatory, cellular, and metabolic abnormalities resulting in tissue hypoperfusion manifested as hypotension which requires vasopressor therapy and elevated lactate levels (more than 2 mmol/L)
+
+The most common pathogens associated with sepsis and septic shock in the United States are gram-positive bacteria, including streptococcal pneumonia and Enterococcus.
+
+**Systemic Inflammatory Response Syndrome**
+
+Systemic inflammatory response syndrome (SIRS) is a clinical syndrome of the vigorous inflammatory response caused by either infectious or noninfectious causes. Infectious causes include pathogens such as gram-positive (most common) and gram-negative bacteria, fungi, viral infections (e.g., respiratory viruses), parasitic (e.g., malaria), rickettsial infections. Noninfectious causes of SIRS include but are not limited to pancreatitis, burns, fat embolism, air embolism, and amniotic fluid embolism
+
+**Anaphylactic Shock**
+
+Anaphylactic shock is a clinical syndrome of severe hypersensitivity reaction mediated by immunoglobulin E (Ig-E), resulting in cardiovascular collapse and respiratory distress due to bronchospasm. The immediate hypersensitivity reactions can occur within seconds to minutes after the presentation of the inciting antigen. Common allergens include drugs (e.g., antibiotics, NSAIDs), food, insect stings, and latex.
+
+**Neurogenic Shock**
+
+Neurogenic shock can occur in the setting of trauma to the spinal cord or the brain. The underlying mechanism is the disruption of the autonomic pathway resulting in decreased vascular resistance and changes in vagal tone.
+
+**Endocrine Shock**
+
+Due to underlying endocrine etiologies such as adrenal failure (Addisonian crisis) and myxedema.
+
+**2. Hypovolemic Shock**
+
+Hypovolemic shock is characterized by decreased intravascular volume and increased systemic venous assistance (compensatory the mechanism to maintain perfusion in the early stages of shock). In the later stages of shock due to progressive volume depletion, cardiac output also decreases and manifest as hypotension. Hypovolemic shock divides into two broad subtypes: hemorrhagic and non-hemorrhagic.
+
+Common causes of hemorrhagic hypovolemic shock include
+
+Common causes of non-hemorrhagic hypovolemic shock include:
+
+**3. Cardiogenic Shock**
+
+Due to intracard
+
+--- FUENTE WEB ---
+Título: [PDF] Does Point-of-Care Ultrasonography Improve Clinical Outcomes in ...
+URL: https://www.drhem.com/education/wp-content/uploads/2020/06/annals-of-emergency-medicine-2018-shoc-ed-trial-1.pdf
+Score: 0.47343868
+
+Texto:
+Does Point-of-Care Ultrasonography Improve Clinical Outcomes in Emergency Department Patients With Undifferentiated Hypotension? An International Randomized Controlled Trial From the SHoC-ED Investigators Paul R. Atkinson, MBBChBAO, MA*; James Milne, MD; Laura Diegelmann, MD; Hein Lamprecht, MBChB, PhD; Melanie Stander, MBBCh, MMed; David Lussier, MD; Chau Pham, MD, MBA; Ryan Henneberry, MD; Jacqueline M. Fraser, RNBN; Michael K. Howlett, MD, MHSA; Jayanand Mekwan, MBBS; Brian Ramrattan, MBBS; Joanna Middleton, MD; Daniel J. van Hoving, MBChB, MMed; Mandy Peach, MD; Luke Taylor, MD; Tara Dahn, MD; Sean Hurley, MD; Kayla MacSween; Luke R. Richardson, MD, MPH; George Stoica, PhD; Samuel Hunter; Paul A. Olszynski, MD, MEd; David A. Lewis, MBBS *Corresponding Author. E-mail: paul.atkinson@dal.ca, Twitter: @eccucourse.
+Study objective: Point-of-care ultrasonography protocols are commonly used in the initial management of patients with undifferentiated hypotension in the emergency department (ED). There is little published evidence for any mortality beneﬁt. We compare the effect of a point-of-care ultrasonography protocol versus standard care without point-of-care ultrasonography for survival and clinical outcomes.
+Methods: This international, multicenter, randomized controlled trial recruited from 6 centers in North America and South Africa and included selected hypotensive patients (systolic blood pressure <100 mm Hg or shock index >1) randomized to early point-of-care ultrasonography plus standard care versus standard care without point-of-care ultrasonography.
+Diagnoses were recorded at 0 and 60 minutes. The primary outcome measure was survival to 30 days or hospital discharge. Secondary outcome measures included initial treatment and investigations, admissions, and length of stay.
+Results: Follow-up was completed for 270 of 273 patients. The most common diagnosis in more than half the patients was occult sepsis. We found no important differences between groups for the primary outcome of survival (point-of-care ultrasonography group 104 of 136 patients versus standard care 102 of 134 patients; difference 0.35%; 95% binomial conﬁdence interval [CI] –10.2% to 11.0%), survival in North America (point-of-care ultrasonography group 76 of 89 patients versus standard care 72 of 88 patients; difference 3.6%; CI –8.1% to 15.3%), and survival in South Africa (point-of-care ultrasonography group 28 of 47 patients versus standard care 30 of 46 patients; difference 5.6%; CI –15.2% to 26.0%). There were no important differences in rates of computed tomography (CT) scanning, inotrope or intravenous ﬂuid use, and ICU or total length of stay.
+Conclusion: To our knowledge, this is the ﬁrst randomized controlled trial to compare point-of-care ultrasonography to standard care without point-of-care ultrasonography in undifferentiated hypotensive ED patients. We did not ﬁnd any beneﬁts for survival, length of stay, rates of CTscanning, inotrope use, or ﬂuid administration. The addition of a point-of-care ultrasonography protocol to standard care may not translate into a survival beneﬁt in this group. [Ann Emerg Med. 2018;72:478-489.] Please see page 479 for the Editor’s Capsule Summary of this article.
+Readers: click on the link to go directly to a survey in which you can provide feedback to Annals on this particular article.
+A podcast for this article is available at www.annemergmed.com.
+0196-0644/$-see front matter Copyright © 2018 by the American College of Emergency Physicians.
+https://doi.org/10.1016/j.annemergmed.2018.04.002 SEE EDITORIAL, P. 490.
+INTRODUCTION Background Patients who present to the emergency department (ED) with nontraumatic hypotension or shock have high mortality rates and pose both diagnostic and therapeutic challenges for theemergencyphysician.1,2 Early recognitionand appropriate initial empiric treatment aimed at avoiding prolonged hypotension and tissue hypoxia has been shown to decrease morbidity and mortality in patients with undifferentiated and septic shock.3-7 Point-of-care ultrasonography can 478 Annals of Emergency Medicine Volume 72, no. 4 : October 2018 IMAGING/ORIGINAL RESEARCH Editor’s Capsule Summary What is already known on this topic Using point-of-care ultrasonography in the assessments of patients with undifferentiated hypotension can improve diagnostic accuracy and inﬂuence initial management, but has yet to be shown to improve outcomes.
+What question this study addressed Using a multicenter randomized controlled trial, the authors examined outcomes among 270 hypotensive patients who were evaluated with point-of-care ultrasonography compared with those not evaluated with it.
+What this study adds to our knowledge The use of point-of-care ultrasonography had no effect on important outcomes for patients with undifferentiated hypotension, including overall survival (difference 0.35%), length of stay (difference 0.12 days), inotrope use (difference 3.6%), or ﬂuid administration (difference 74 mL).
+How this is relevant to clinical practice Study ﬁndings suggest that although point-of-care ultrasonography may improve diagnostic accuracy among patients with undifferentiated hypotension, it has little effect on ﬁnal outcomes.
+support clinicians in the initial diagnosis and management of patients with undifferentiated hypotension in the ED.2,8 Diagnostic accuracy for patients with undifferentiated shock improved from 60.6% to 85.0% with the use of a structured point-of-care ultrasonography protocol,2 affecting initial management in 24% to 50% of patients.2,8 Point-of-care ultrasonography has also been shown to rapidly diagnose common conditions that may cause shock, such as cardiac dysfunction9,10 and ruptured aortic aneurysm11 and to evaluate the ﬂuid status of the patient with shock.12 Despite reported diagnostic beneﬁts and improved timing of critical interventions in patients with both traumatic and nontraumatic hypotension,2,8,13-19 to our knowledge there are no prospect
 
 INSTRUCCIONES IMPORTANTES:
 - PubMed es el eje principal.
