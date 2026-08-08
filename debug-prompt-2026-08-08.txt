@@ -1,0 +1,810 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: syncope risk stratification in emergency medicine
+
+PAPERS RECUPERADOS DE PUBMED:
+No se recuperaron resultados relevantes de PubMed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Risk stratification of syncope: Current syncope guidelines and beyond
+URL: https://www.sciencedirect.com/science/article/pii/S1566070221001594
+Score: 0.7869018
+
+Texto:
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S1566070221001594#screen-reader-main-content)[Skip to article](https://www.sciencedirect.com/science/article/pii/S1566070221001594#screen-reader-main-title)
+
+[![Image 2: Elsevier logo](https://www.sciencedirect.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://www.sciencedirect.com/)
+
+*   [Journals & Books](https://www.sciencedirect.com/browse/journals-and-books)
+
+*   Help   
+*   [Search](https://www.sciencedirect.com/search) 
+
+[My account](https://www.sciencedirect.com/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1566070221001594&from=globalheader)
+
+[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1566070221001594)
+
+*   [View**PDF**](https://www.sciencedirect.com/science/article/pii/S1566070221001594/pdfft?md5=1db138cd1211100208765d841d47b0f2&pid=1-s2.0-S1566070221001594-main.pdf)
+*   Download full issue
+
+Search ScienceDirect 
+
+## Outline
+
+1.   [Highlights](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ab0010 "Highlights")
+2.   [Abstract](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ab0005 "Abstract")
+3.   [Keywords](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ks0005 "Keywords")
+4.   [1. Introduction](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0005 "1. Introduction")
+5.   [2. Why and how to identify high-risk syncope?](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0010 "2. Why and how to identify high-risk syncope?")
+6.   [3. Syncope prediction tools](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0015 "3. Syncope prediction tools")
+7.   [4. The role of syncope clinics](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0020 "4. The role of syncope clinics")
+8.   [5. Risk stratification for tailored treatment of syncope](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0025 "5. Risk stratification for tailored treatment of syncope")
+9.   [6. Future of syncope evaluation and risk stratification](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0030 "6. Future of syncope evaluation and risk stratification")
+10.   [7. Conclusions](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0050 "7. Conclusions")
+11.   [References](https://www.sciencedirect.com/science/article/pii/S1566070221001594#bi0005 "References")
+
+Show full outline
+
+## [Cited by (21)](https://www.sciencedirect.com/science/article/pii/S1566070221001594#section-cited-by)
+
+## Figures (1)
+
+1.   [![Image 3: Fig. 1. Risk stratification and clinical management of patients with suspected syncope…](https://ars.els-cdn.com/content/image/1-s2.0-S1566070221001594-gr1.sml)](https://www.sciencedirect.com/science/article/pii/S1566070221001594#f0005)
+
+## Tables (6)
+
+1.   [Table 1](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0005 "Clinical characteristics associated with increased probability of cardiac and noncardiac causes of syncope")
+2.   [Table 2](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0010 "High-risk and low-risk features for risk stratification of patients with suspected syncope in the emergency department according to 2018 ESC syncope guidelines.")
+3.   [Table 3](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0015 "Risk markers of short-term and long-term prognosis in patients presenting with syncope according to 2017 ACC/AHA/HRS guidelines.")
+4.   [Table 4](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0020 "Medical conditions requiring hospital admission for further evaluation and therapy.")
+5.   [Table 5](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0025 "Syncope prediction tools.")
+6.   [Table 6](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0030 "Canadian Syncope Risk Score.")
+
+[![Image 4: Elsevier](https://www.sciencedirect.com/us-east-1/prod/0dc949d96f6f0bd7c818378c12086f05c16a7225/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/autonomic-neuroscience "Go to Autonomic Neuroscience on ScienceDirect")
+
+## [Autonomic Neuroscience](https://www.sciencedirect.com/journal/autonomic-neuroscience "Go to Autonomic Neuroscience on ScienceDirect")
+
+[Volume 238](https://www.sciencedirect.com/journal/autonomic-neuroscience/vol/238/suppl/C "Go to table of contents for this volume/issue"), March 2022, 102929
+
+[![Image 5: Autonomic Neuroscience](https://ars.els-cdn.com/content/image/1-s2.0-S1566070221X00082-cov150h.gif)](https://www.sciencedirect.com/journal/autonomic-neuroscience/vol/238/suppl/C)
+
+# Review
+
+Risk stratification of syncope: Current syncope guidelines and beyond
+
+Author links open overlay panel[Richard Sutton a](https://www.sciencedirect.com/author/57203194854/richard-sutton), [Fabrizio Ricci b c](https://www.sciencedirect.com/author/51665764100/fabrizio-ricci), [Artur Fedorowski d](https://www.sciencedirect.com/author/6602745793/artur-fedorowski)
+
+Show more
+
+Outline
+
+Add to Mendeley
+
+Share
+
+Cite
+
+[https://doi.org/10.1016/j.autneu.2021.102929](https://doi.org/10.1016/j.autneu.2021.102929 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S1566070221001594&orderBeanReset=true)
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+
+Open access
+
+## Highlights
+
+*   •Clinical judgment is still the cornerstone of syncope management. 
+*   •Risk stratification determines how and by whom syncope patients are managed. 
+*   •High-risk patients require immediate hospitalization and appropriate investigations. 
+*   •Intermediate risk patients require systematic evaluation by syncope experts. 
+*   •Low-risk patients need reassurance and education. 
+
+## Abstract
+
+Syncope is an alarming event carr
+
+--- FUENTE WEB ---
+Título: Risk‐stratification tools for emergency department patients with syncope: A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151
+Score: 0.77096564
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: Academic Emergency Medicine logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-blackwellopen.png)
+
+Acad Emerg Med
+
+. 2024 Nov 04;32(1):72. doi: [10.1111/acem.15041](https://doi.org/10.1111/acem.15041)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Acad%20Emerg%20Med%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Acad%20Emerg%20Med%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Acad%20Emerg%20Med%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151?term=%22Acad%20Emerg%20Med%22[jour])
+
+# Risk‐stratification tools for emergency department patients with syncope: A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+
+[Abel Wakai](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wakai%20A%22[Author])
+
+### Abel Wakai
+
+ 1 Department of Emergency Medicine Beaumont Hospital Dublin Ireland 
+
+ 2 Emergency Care Research Unit (ECRU) Royal College of Surgeons in Ireland (RCSI) Dublin Ireland 
+
+ Find articles by [Abel Wakai](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wakai%20A%22[Author])
+
+ 1  2 , [Richard Sinert](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sinert%20R%22[Author])
+
+### Richard Sinert
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+
+ Find articles by [Richard Sinert](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sinert%20R%22[Author])
+
+ 3  4 , [Shahriar Zehtabchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zehtabchi%20S%22[Author])
+
+### Shahriar Zehtabchi
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+
+ Find articles by [Shahriar Zehtabchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zehtabchi%20S%22[Author])
+
+ 3  4 , [Ian S. de Souza](https://pubmed.ncbi.nlm.nih.gov/?term=%22de%20Souza%20I%22[Author])
+
+### Ian S. de Souza
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+
+ Find articles by [Ian S. de Souza](https://pubmed.ncbi.nlm.nih.gov/?term=%22de%20Souza%20I%22[Author])
+
+ 3  4 , [Roshanak Benabbas](https://pubmed.ncbi.nlm.nih.gov/?term=%22Benabbas%20R%22[Author])
+
+### Roshanak Benabbas
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Broo
+
+--- FUENTE WEB ---
+Título: [PDF] Syncope: Risk Stratification And Clinical Decision Making
+URL: https://scghed.com/wp-content/uploads/2014/10/Syncope-risk-stratification-EBM.pdf
+Score: 0.76173395
+
+Texto:
+April 2014 V olum e 16, Num ber 4 Authors Suzanne Y. G. Peeters, MD Emergency Medicine Residency Director, Haga Teaching Hospital, The Hague, The Netherlands Amber E. Hoek, MD Attending Emergency Physician, Erasmus Medical Centre, Department of Emergency Medicine, Rotterdam, The Netherlands Susan M. Mollink, MD Emergency Medicine Resident, Haga Teaching Hospital, The Hague, The Netherlands J. Stephen Huff, MD Professor of Emergency Medicine and Neurology, University of Virginia, Charlottesville, VA Peer Reviewers Andy Jagoda, MD, FACEP Professor and Chair, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, Medical Director, Mount Sinai Hospital, New York, NY Scott Silvers, MD, FACEP Chair, Department of Emergency Medicine, Mayo Clinic, Jacksonville, FL Prior to beginning this activity, see “Physician CME Information” on the back page.
+Syncope: Risk Stratiﬁcation And Clinical Decision Making Abstract Syncope is a common occurrence in the emergency department, accounting for approximately 1% to 3% of presentations. Syn-FRSHLVEHVWGHÀQHGDVDEULHIORVVRIFRQVFLRXVQHVVDQGSRVWXUDO tone followed by spontaneous and complete recovery. The spec-trum of etiologies ranges from benign to life threatening, and a structured approach to evaluating these patients is key to provid-ing care that is thorough, yet cost-effective. This issue reviews the most relevant evidence for managing and risk stratifying the syncope patient, beginning with a focused history, physical examination, electrocardiogram, and tailored diagnostic testing. 6HYHUDOULVNVWUDWLÀFDWLRQGHFLVLRQUXOHVDUHFRPSDUHGIRUSHUIRU-mance in various scenarios, including how age and associated comorbidities may predict short-term and long-term adverse events. An algorithm for structured, evidence-based care of the syncope patient is included to ensure that patients requiring hos-pitalization are managed appropriately and those with benign causes are discharged safely.
+Editor-In-Chief Andy Jagoda, MD, FACEP Professor and Chair, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, Medical Director, Mount Sinai Hospital, New York, NY Associate Editor-In-Chief Kaushal Shah, MD, FACEP Associate Professor, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Editorial Board William J. Brady, MD Professor of Emergency Medicine and Medicine, Chair, Medical Emergency Response Committee, Medical Director, Emergency Management, University of Virginia Medical Center, Charlottesville, VA Mark Clark, MD Assistant Professor of Emergency Medicine, Program Director, Emergency Medicine Residency, Mount Sinai Saint Luke's, Mount Sinai Roosevelt, New York, NY; Assistant Professor of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Peter DeBlieux, MD Professor of Clinical Medicine, Interim Public Hospital Director of Emergency Medicine Services, Louisiana State University Health Science Center, New Orleans, LA Nicholas Genes, MD, PhD Assistant Professor, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Michael A. Gibbs, MD, FACEP Professor and Chair, Department of Emergency Medicine, Carolinas Medical Center, University of North Carolina School of Medicine, Chapel Hill, NC Steven A. Godwin, MD, FACEP Professor and Chair, Department of Emergency Medicine, Assistant Dean, Simulation Education, University of Florida COM-Jacksonville, Jacksonville, FL Gregory L. Henry, MD, FACEP Clinical Professor, Department of Emergency Medicine, University of Michigan Medical School; CEO, Medical Practice Risk Assessment, Inc., Ann Arbor, MI John M. Howell, MD, FACEP Clinical Professor of Emergency Medicine, George Washington University, Washington, DC; Director of Academic Affairs, Best Practices, Inc, Inova Fairfax Hospital, Falls Church, VA Shkelzen Hoxhaj, MD, MPH, MBA Chief of Emergency Medicine, Baylor College of Medicine, Houston, TX Eric Legome, MD Chief of Emergency Medicine, King’s County Hospital; Professor of Clinical Emergency Medicine, SUNY Downstate College of Medicine, Brooklyn, NY Keith A. Marill, MD Research Faculty, Depatment of Emergency Medicine, University of Pittsburgh Medical Center, Pittsburgh, PA Charles V. Pollack, Jr., MA, MD, FACEP Professor and Chair, Department of Emergency Medicine, Pennsylvania Hospital, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA Michael S. Radeos, MD, MPH Assistant Professor of Emergency Medicine, Weill Medical College of Cornell University, New York; Research Director, Department of Emergency Medicine, New York Hospital Queens, Flushing, NY Ali S. Raja, MD, MBA, MPH Director of Network Operations and Business Development, Department of Emergency Medicine, Brigham and Women’s Hospital; Assistant Professor, Harvard Medical School, Boston, MA Robert L. Rogers, MD, FACEP, FAAEM, FACP Assistant Professor of Emergency Medicine, The University of Maryland School of Medicine, Baltimore, MD Alfred Sacchetti, MD, FACEP Assistant Clinical Professor, Department of Emergency Medicine, Thomas Jefferson University, Philadelphia, PA Robert Schiller, MD Chair, Department of Family Medicine, Beth Israel Medical Center; Senior Faculty, Family Medicine and Community Health, Icahn School of Medicine at Mount Sinai, New York, NY Scott Silvers, MD, FACEP Chair, Department of Emergency Medicine, Mayo Clinic, Jacksonville, FL Corey M. Slovis, MD, FACP, FACEP Professor and Chair, Department of Emergency Medicine, Vanderbilt University Medical Center; Medical Director, Nashville Fire Department and International Airport, Nashville, TN Stephen H. Thomas, MD, MPH George Kaiser Family Foundation Professor & Chair, Department of Emergency Medicine, University of Oklahoma School of Community Medicine, Tulsa, OK Ron M. Walls, MD Professor and Chair, Department of Emergency Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA Scott D. Weingart, MD, FCCM Associa
+
+--- FUENTE WEB ---
+Título: Risk-stratification tools for emergency department patients with syncope: A systematic review and meta-analysis of direct evidence for SAEM GRACE - PubMed
+URL: https://pubmed.ncbi.nlm.nih.gov/39496561
+Score: 0.75421005
+
+Texto:
+Clipboard, Search History, and several other advanced features are temporarily unavailable. 
+
+[Skip to main page content](https://pubmed.ncbi.nlm.nih.gov/39496561#article-details)
+
+![Image 1: U.S. flag](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png)
+An official website of the United States government
+
+Here's how you know
+
+![Image 2: Dot gov](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it’s official.**
+
+ Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+
+![Image 3: Https](https://cdn.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+
+ The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+[![Image 4: NIH NLM Logo](https://cdn.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg)](https://www.ncbi.nlm.nih.gov/)
+
+[Log in](https://account.ncbi.nlm.nih.gov/)Show account info
+
+Close
+#### Account
+
+ Logged in as:
+
+**username**
+
+*   [Dashboard](https://pubmed.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://pubmed.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://pubmed.ncbi.nlm.nih.gov/account/settings/)
+*   [Log out](https://pubmed.ncbi.nlm.nih.gov/account/signout/)
+
+[Access keys](https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys)[NCBI Homepage](https://www.ncbi.nlm.nih.gov/)[MyNCBI Homepage](https://pubmed.ncbi.nlm.nih.gov/myncbi/)[Main Content](https://pubmed.ncbi.nlm.nih.gov/39496561#maincontent)[Main Navigation](https://pubmed.ncbi.nlm.nih.gov/39496561#)
+
+[](https://pubmed.ncbi.nlm.nih.gov/39496561)
+
+[![Image 5: pubmed logo](https://cdn.ncbi.nlm.nih.gov/pubmed/af7de7da-df5d-41c6-8de4-8c266af8ccfb/core/images/pubmed-logo-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/)[](https://pubmed.ncbi.nlm.nih.gov/39496561# "Show search bar")
+
+ Search:  [](https://pubmed.ncbi.nlm.nih.gov/39496561# "Clear search input")Search
+
+[Advanced](https://pubmed.ncbi.nlm.nih.gov/advanced/)[Clipboard](https://pubmed.ncbi.nlm.nih.gov/clipboard/)
+
+[User Guide](https://pubmed.ncbi.nlm.nih.gov/help/)
+
+ Save  Email 
+
+Send to
+
+*   [Clipboard](https://pubmed.ncbi.nlm.nih.gov/39496561#)
+*   [My Bibliography](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F39496561%2F%23open-bibliography-panel)
+*   [Collections](https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F39496561%2F%23open-collections-panel)
+*   [Citation manager](https://pubmed.ncbi.nlm.nih.gov/39496561#)
+
+Display options
+
+ Display options 
+
+ Format 
+
+## Save citation to file
+
+ Format:  
+
+ Create file  Cancel 
+
+## Email citation
+
+ Email address has not been verified. Go to [My NCBI account settings](https://account.ncbi.nlm.nih.gov/settings/) to confirm your email and then refresh this page. 
+
+ To: 
+
+ Subject:  
+
+ Body:  
+
+ Format:  
+
+- [x]  MeSH and other data  
+
+ Send email  Cancel 
+
+### Add to Collections
+
+*   Create a new collection 
+*   Add to an existing collection 
+
+ Name your collection:  
+
+ Name must be less than 100 characters 
+
+ Choose a collection:  
+
+ Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/39496561#)
+
+ Add  Cancel 
+
+### Add to My Bibliography
+
+*   My Bibliography 
+
+ Unable to load your delegates due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/39496561#)
+
+ Add  Cancel 
+
+## Your saved search
+
+ Name of saved search:  
+
+ Search terms:  
+
+[Test search terms](https://pubmed.ncbi.nlm.nih.gov/39496561#)
+
+ Would you like email updates of new search results? Saved Search Alert Radio Buttons
+*   Yes 
+*   No 
+
+ Email:   ([change](https://www.ncbi.nlm.nih.gov/account/settings/))
+
+ Frequency:  
+
+ Which day?  
+
+ Which day?  
+
+ Report format:  
+
+ Send at most:  
+
+- [x]  Send even when there aren't any new results  
+
+ Optional text in email:  
+
+ Save  Cancel 
+
+## Create a file for external citation management software
+
+ Create file  Cancel 
+
+## Your RSS Feed
+
+ Name of RSS Feed:  
+
+ Number of items displayed:  
+
+ Create RSS  Cancel 
+
+RSS Link  Copy 
+
+### Full text links
+
+[![Image 6: Wiley full text link](https://cdn.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--media.wiley.com-assets-7388-69-wiley-full-text.png) Wiley](https://doi.org/10.1111/acem.15041 "See full text options at Wiley")[Free PMC article](https://pmc.ncbi.nlm.nih.gov/articles/pmid/39496561/ "Free full text at PubMed Central")
+
+[Full text links](https://pubmed.ncbi.nlm.nih.gov/39496561#)
+
+### Actions
+
+Cite
+
+Collections
+
+Add to Collections
+
+*   Create a new collection 
+*   Add to an existing collection 
+
+ Name your collection:  
+
+ Name must be less than 100 characters 
+
+ Choose a collection:  
+
+ Unable to load your collection due to an error
+
+[Please try again](https://pubmed.ncbi.nlm.nih.gov/39496561#)
+
+ Add  Cancel 
+
+Permalink
+
+Permalink
+
+Copy
+
+Display options
+
+ Display options 
+
+ Format 
+
+### Page navigation
+
+*   [Title & authors](https://pubmed.ncbi.nlm.nih.gov/39496561#heading)
+*   [Abstract](https://pubmed.ncbi.nlm.nih.gov/39496561#abstract)
+*   [Conflict of interest statement](https://pubmed.ncbi.nlm.nih.gov/39496561#conflict-of-interest)
+*   [Figures](https://pubmed.ncbi.nlm.nih.gov/39496561#figures)
+*   [References](https://pubmed.ncbi.nlm.nih.gov/39496561#references)
+*   [Publication types](https://pubmed.ncbi.nlm.nih.gov/39496561#publication-types)
+*   [MeSH terms](https://pubmed.ncbi.nlm.nih.gov/39496561#mesh-terms)
+*   [Grants and funding](https://pubmed.ncbi.nlm.nih.gov/39496561#grants)
+*   [LinkOut - more resources](https://pubmed.ncbi.nlm.nih.gov/39496561#linkout)
+
+Meta-Analysis
+
+ Acad Emerg Med 
+
+Actions
+
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Acad+Emerg+Med%22%5Bjour%5D&sort=date&sort_order=desc)
+*   [Search in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Acad+Emerg+Med%22%5BTitle+Ab
+
+--- FUENTE WEB ---
+Título: Standardized reporting guidelines for emergency department syncope risk-stratification research | EQUATOR Network
+URL: https://www.equator-network.org/reporting-guidelines/standardized-reporting-guidelines-for-emergency-department-syncope-risk-stratification-research
+Score: 0.71305263
+
+Texto:
+![Equator network](https://www.equator-network.org/wp-content/themes/equator/images/equator_logo.png)
+
+Enhancing the QUAlity and Transparency Of health Research
+
+# Search for reporting guidelines
+
+Use your browser's Back button to return to your search results
+
+#### Standardized reporting guidelines for emergency department syncope risk-stratification research
+
+|  |  |
+| --- | --- |
+| Reporting guideline provided for? (i.e. exactly what the authors state in the paper) | Reporting emergency department syncope risk-stratification research |
+| Full bibliographic reference | Sun BC, Thiruganasambandamoorthy V, Cruz JD; Consortium to Standardize ED Syncope Risk Stratification Reporting. Standardized reporting guidelines for emergency department syncope risk-stratification research. Acad Emerg Med. 2012;19(6):694-702. |
+| Language | English |
+| PubMed ID | [22687184](http://www.ncbi.nlm.nih.gov/pubmed/22687184) |
+| Study design | Observational studies |
+| Clinical area | Emergency medicine |
+| Applies to the whole report or to individual sections of the report? | Data, Outcomes (variables), Study characteristics (participants etc.), Terminology/definitions |
+| Record last updated on | May 29, 2015 |
+
+### Reporting guidelines for main study types
+
+|  |
+| --- |
+| [Randomised trials](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=experimental-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [CONSORT](https://www.equator-network.org/reporting-guidelines/consort/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+CONSORT+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Observational studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=observational-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+&eq_guidelines_study_design_sub_cat=0)  [STROBE](https://www.equator-network.org/reporting-guidelines/strobe/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+STROBE+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Systematic reviews](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=systematic-reviews-and-meta-analyses&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [PRISMA](https://www.equator-network.org/reporting-guidelines/prisma/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=PRISMA+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Study protocols](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=study-protocols&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [SPIRIT](https://www.equator-network.org/reporting-guidelines/spirit-2013-statement-defining-standard-protocol-items-for-clinical-trials/)  [PRISMA-P](https://www.equator-network.org/reporting-guidelines/prisma-protocols/) |
+| [Diagnostic/prognostic studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=diagnostic-prognostic-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [STARD](https://www.equator-network.org/reporting-guidelines/stard/)  [TRIPOD](https://www.equator-network.org/reporting-guidelines/tripod-statement/) |
+| [Case reports](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=case+report&btn_submit=Search+Reporting+Guidelines)  [CARE](https://www.equator-network.org/reporting-guidelines/care/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=CARE+case+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Clinical practice guidelines](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=clinical-practice-guidelines&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [AGREE](https://www.equator-network.org/reporting-guidelines/the-agree-reporting-checklist-a-tool-to-improve-reporting-of-clinical-practice-guidelines/)  [RIGHT](https://www.equator-network.org/reporting-guidelines/right-statement/) |
+| [Qualitative research](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=qualitative-research&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [SRQR](https://www.equator-network.org/reporting-guidelines/srqr/)  [COREQ](https://www.equator-network.org/reporting-guidelines/coreq/) |
+| [Animal pre-clinical studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=animal-pre-clinical-research&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [ARRIVE](https://www.equator-network.org/reporting-guidelines/improving-bioscience-research-reporting-the-arrive-guidelines-for-reporting-animal-research/) |
+| [Quality improvement studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=quality-improvement-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [SQUIRE](https://www.equator-network.org/reporting-guidelines/squire/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=SQUIRE+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Economic evaluations](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=economic-evaluations&eq_guidelines_clinical_specialty=0&eq_guidelines_re
+
+--- FUENTE WEB ---
+Título: A Narrative Review of Syncope Decision Rules: A Case for Point-of-Care Cardiac Ultrasound for Cardiac Syncope
+URL: https://www.mdpi.com/2077-0383/15/10/3780
+Score: 0.71137124
+
+Texto:
+Previous Article in Journal / Special Issue  
+
+[Clinical Application of Electrical Impedance Tomography in Emergency and Critical Care Medicine](/2077-0383/15/10/3779)
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+<https://www.mdpi.com/openaccess>.
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+Original Submission Date Received: .
+
+[Journals](/about/journals)
+
+[JCM](/journal/jcm)
+
+[Volume 15](/2077-0383/15)
+
+[Issue 10](/2077-0383/15/10)
+
+[10.3390/jcm15103780](#)
+
+[![jcm-logo](https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12 "Journal of Clinical Medicine")](/journal/jcm)
+
+[Submit to this Journal](https://susy.mdpi.com/user/manuscripts/upload?form%5Bjournal_id%5D%3D93)
+[Review for this Journal](https://susy.mdpi.com/volunteer/journals/review)
+[Propose a Special Issue](/journalproposal/sendproposalspecialissue/jcm)
+
+[►
+▼
+Article Menu](#)
+
+## Article Menu
+
+* [Academic Editors](#academic_editors)
+
+  [![](/profiles/841072/thumb/Epaminondas_Zakynthinos.jpg)Epaminondas G. Zakynthinos](https://sciprofiles.com/profile/841072?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)
+
+  [![](/bundles/mdpisciprofileslink/img/unknown-user.png)Ramdas G. Pai](https://sciprofiles.com/profile/2787478?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)
+* [Recommended Articles](#)
+* [Author Biographies](/article/1942829/author-biographies)
+* [Related Info Links](#related)
+
+  + [PubMed/Medline](http://www.ncbi.nlm.nih.gov/sites/entrez/42194740)
+  + [Google Scholar](http://scholar.google.com/scholar?q=A%20Narrative%20Review%20of%20Syncope%20Decision%20Rules%3A%20A%20Case%20for%20Point-of-Care%20Cardiac%20Ultrasound%20for%20Cardiac%20Syncope)
+* [More by Authors Links](#authors)
+
+  + on DOAJ
+
+  - [Situ-LaCasse, E.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Elaine%20Situ-LaCasse%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+  - [Wallace, N.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Neil%20Wallace%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+  - [Wasiak, D.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22David%20Wasiak%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+  - [Patel, P.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Pratham%20Patel%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+  - [Adhikari, S.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Srikar%20Adhikari%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+
+  + on Google Scholar
+
+  - [Situ-LaCasse, E.](http://scholar.google.com/scholar?q=Elaine%20Situ-LaCasse)
+  - [Wallace, N.](http://scholar.google.com/scholar?q=Neil%20Wallace)
+  - [Wasiak, D.](http://scholar.google.com/scholar?q=David%20Wasiak)
+  - [Patel, P.](http://scholar.google.com/scholar?q=Pratham%20Patel)
+  - [Adhikari, S.](http://scholar.google.com/scholar?q=Srikar%20Adhikari)
+
+  + on PubMed
+
+  - [Situ-LaCasse, E.](http://www.pubmed.gov/?cmd=Search&term=Elaine%20Situ-LaCasse)
+  - [Wallace, N.](http://www.pubmed.gov/?cmd=Search&term=Neil%20Wallace)
+  - [Wasiak, D.](http://www.pubmed.gov/?cmd=Search&term=David%20Wasiak)
+  - [Patel, P.](http://www.pubmed.gov/?cmd=Search&term=Pratham%20Patel)
+  - [Adhikari, S.](http://www.pubmed.gov/?cmd=Search&term=Srikar%20Adhikari)
+
+[Article Views
+486](#metrics)
+
+* [Table of Contents](#table_of_contents)
+
+  + [Abstract](#html-abstract)
+  + [Background](#sec1-jcm-15-03780)
+  + [Literature Review Approach](#sec2-jcm-15-03780)
+  + [Current Risk Stratification Tools](#sec3-jcm-15-03780)
+  + [Point-of-Care Cardiac Ultrasound](#sec4-jcm-15-03780)
+  + [Future of POCCUS in Syncope Risk Stratification](#sec5-jcm-15-03780)
+  + [Conclusions](#sec6-jcm-15-03780)
+  + [Author Contributions](#)
+  + [Funding](#)
+  + [Institutional Review Board Statement](#)
+  + [Data Availability Statement](#)
+  + [Acknowledgments](#html-ack)
+  + [Conflicts of Interest](#)
+  + [Abbreviations](#html-glossary)
+  + [References](#html-references_list)
+
+Altmetric
+[*share*
+Share](# "Share")
+[*announcement*
+Help](# "Help")
+[*format\_quote*
+Cite](javascript:void(0);)
+[*question\_answer*
+Discuss in SciProfiles](https://sciprofiles.com/discussion-groups/public/10.3390/jcm15103780?utm_source=mpdi.com&utm_medium=publication&utm_campaign=discuss_in_
+
+--- FUENTE WEB ---
+Título: Syncope in the ED: Distinguishing the Life-Threatening From the Benign
+URL: https://www.ebmedicine.net/topics/cardiovascular/syncope
+Score: 0.6862234
+
+Texto:
+![](https://www.facebook.com/tr?id=245213793436832&ev=PageView&noscript=1)
+![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png)
+![EB Medicine logo](/template_images/EBM_logo_2.png)
+![Click to search](/template_images/_ebm_icon_search.png)
+![Click to check your cart](/template_images/_ebm_cart_icon.png)
+![navigation bar background](/template_images/_icon_bars_trans.png)
+![Click to search](/template_images/_ebm_icon_search.png)
+![EB Medicine logo](/template_images/EBM_logo_2.png)
+![](/template_images/_icon_grid_trans.png)
+![Click to search](/template_images/_ebm_icon_search.png)
+![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png)
+![Click to check your cart](/template_images/_ebm_cart_icon.png)
+![](/publicationImages/EMP-Heading.png "Emergency Medicine Practice")
+
+# Emergency Department Management of Syncope
+
+![](/productImages/EMP-21-06_800x200.jpg)
+
+|  |  |
+| --- | --- |
+|  | Get a FREE Issue of Emergency Medicine Practice See why tens of thousands of emergency clinicians choose *Emergency Medicine Practice* to stay sharp, save time, and improve patient care.  Email Address  Website |
+
+### Get a FREE Issue of Emergency Medicine Practice
+
+![](/template_images/New-TOC-desktop-icon.png)
+![](/template_images/New-TOC-mobile-icon.png)
+![](/template_images/icon-close.png)
+
+### About This Issue
+
+## Transient loss of consciousness from syncope is a very common presentation in the ED, and it often has a benign etiology. Although one-third of these patients are admitted to the hospital, the majority of them will be discharged with a symptomatic diagnosis of “syncope and collapse.” A structured approach to the history, ECG assessment, risk assessment, and appropriate testing will help identify patients with life-threatening processes that do require admission. This issue will review:
+
+## The physiologic basis for the 3 classifications: neurally mediated (reflex) syncope, orthostatic hypotension-caused syncope, and cardiac syncope
+
+## The most common life-threatening conditions that can present with syncope
+
+## The most helpful features to look for when differentiating seizure from syncope
+
+## Syncope mimics: neurologic, psychiatric, metabolic, and toxicologic
+
+## Identifying the highest risk historical features to guide disposition
+
+## Seven of the most commonly used clinical decision tools: how do they compare, how do they differ, and are any of them useful?
+
+## The particular concerns with elderly patients who present with syncope: falls, comorbid conditions, and underlying and undiagnosed conditions.
+
+## The tests that all patients need to have and the tests that should be ordered only when there are specific concerns.
+
+### Abstract
+
+Syncope is the transient loss of consciousness and postural tone, with spontaneous recovery. It accounts for approximately 1% of all emergency department visits and $5.6 billion in healthcare costs annually. In a very small subset of patients, syncope may be a warning sign for serious outcomes or death, but identifying these patients is challenging, as the emergency clinician must distinguish between life-threatening causes and the more common, benign etiologies. Low-yield and expensive testing is often performed, even for benign presentations. Much research on syncope is observational, and clinical decision rules frequently perform poorly in validation studies. This issue reviews the clinical and diagnostic findings that are useful for safely and efficiently identifying patients presenting to the emergency department with syncope.
+
+### Case Presentations
+
+![](/media_library/images/icons/Case-3.png)
+![](/media_library/images/icons/Case-3.png)
+![](/media_library/images/icons/Case-3.png)
+
+### Clinical Pathway for Emergency Department Evaluation of Patients Presenting With Transient Loss of Consciousness
+
+![Clinical Pathway for Emergency Department Evaluation of Patients Presenting With Transient Loss of Consciousness](/media_library/images/2021-EMP-Publication-Article/06-June/Clinical-Pathway-for-Emergency-Department-Evaluation-of-Patients-Presenting-With-Transient-Loss-of-Consciousness.png)
+
+***[Subscribe](/subscribe) to access the complete flowchart to guide your clinical decision making.***
+
+### Tables and Figures
+
+![Table 4. Historical Features Suggesting Etiology of Syncope](/media_library/images/2021-EMP-Publication-Article/06-June/Table-4-Historical-Features-Suggesting-Etiology-of-Syncope.png)![Table 1. Classifications of Syncope, by Cause](/media_library/images/2021-EMP-Publication-Article/06-June/Table-1-Classifications-of-Syncope-by-Cause-Thumbnail.png)
+![Table 2. Clinical Characteristics of Immediately Life-Threatening Conditions That May Present With Syncope](/media_library/images/2021-EMP-Publication-Article/06-June/Table-2-Clinical-Characteristics-of-Immediately-Life-Threatening-Conditions-That-May-Present-With-Syncope-Thumbnail.png)
+![Table 3. Syncope Mimics](/media_library/images/2021-EMP-Publication-Article/06-June/Table-3-Syncope-Mimics-Thumbnail.png)
+![Table 5. Contraindications to Performing Carotid Sinus Massage](/media_library/images/2021-EMP-Publication-Article/06-June/Table-5-Contraindications-to-Performing-Carotid-Sinus-Massage-Thumbnail.png)
+
+***[Subscribe](/subscribe) for full access to all Tables and Figures.***
+
+### Key References
+
+Following are the most informative references cited in this paper, as determined by the authors.
+
+5. \* Brignole M, Moya A, de Lange FJ, et al. 2018 ESC guidelines for the diagnosis and management of syncope. *Eur Heart J*. 2018;39(21):1883-1948. **(Guidelines) [DOI:10.1093/eurheartj/ehy037](https://doi.org/10.1093/eurheartj/ehy037)**
+
+22. \* D’Ascenzo F, Biondi-Zoccai G, Reed MJ, et al. Incidence, etiology and predictors of adverse outcomes in 43,315 patients presenting to the emergency department with syncope: an international meta-analysis. *Int J Cardiol*. 2013;167(1):57-62. **(Meta-analysis; 43,315 patient
+
+--- FUENTE WEB ---
+Título: Pediatric syncope in the emergency department: a risk-stratified diagnostic and disposition pathway | International Journal of Emergency Medicine | Springer Nature Link
+URL: https://link.springer.com/article/10.1186/s12245-026-01215-z
+Score: 0.683948
+
+Texto:
+Advertisement
+
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/12245/article&sz=728x90&pos=top&articleid=s12245-026-01215-z)
+![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
+
+# Pediatric syncope in the emergency department: a risk-stratified diagnostic and disposition pathway
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+![](https://media.springernature.com/w72/springer-static/cover-hires/journal/12245?as=webp)
+
+1797 Accesses
+
+1 
+Altmetric
+
+[Explore all metrics](/article/10.1186/s12245-026-01215-z/metrics)
+
+## Abstract
+
+### Background
+
+Pediatric syncope accounts for 1–3% of emergency department (ED) visits. Although most cases are benign, 4% are caused by cardiac disease and 3% by seizures, which carry a risk of sudden death or neurologic injury if missed. Vasovagal syncope accounts for 52–74% of cases and postural orthostatic tachycardia syndrome (POTS) for approximately 13%.
+
+### Objective
+
+To provide an emergency-department risk-stratified diagnostic and disposition framework for pediatric syncope.
+
+### Key findings
+
+A universal 12-lead electrocardiogram (ECG) identifies nearly all life-threatening cardiac causes of syncope. When combined with structured red-flag screening and clinical risk stratification, patients can be reliably divided into low-, intermediate-, and high-risk groups, allowing safe discharge of benign cases and rapid admission of dangerous ones.
+
+### Conclusion
+
+A standardized ED syncope pathway based on risk tiers and ECG-first evaluation improves patient safety while reducing unnecessary admissions and testing.
+
+### Clinical trial number
+
+Not applicable.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png)
+
+### [Frequency of syncope as a presenting symptom in channelopathies diagnosed in childhood. Can the multivariable EGSYS score unmask these children?](https://link.springer.com/10.1007/s00431-020-03913-z?fromPaywallRec=false)
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png)
+
+### [Clinico-Etiological Profile of Pediatric Syncope: A Single Center Experience](https://link.springer.com/10.1007/s13312-021-2128-3?fromPaywallRec=false)
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1186%2Fs13049-023-01102-z/MediaObjects/13049_2023_1102_Fig1_HTML.png)
+
+### [Risk stratification tools for patients with syncope in emergency medical services and emergency departments: a scoping review](https://link.springer.com/10.1186/s13049-023-01102-z?fromPaywallRec=false)
+
+### Explore related subjects
+
+## Introduction
+
+Missed cardiac syncope is one of the most dangerous diagnostic failures in pediatric emergency medicine. Children presenting with transient loss of consciousness may appear well, yet a small subset harbor lethal arrhythmias or structural heart disease that can lead to sudden death if not recognized. The central challenge for the emergency physician is to rapidly identify these high-risk patients while safely discharging the majority with benign etiologies [[1](/article/10.1186/s12245-026-01215-z#ref-CR1 "Epping H, Müller-Schilling M, Dirrigl G, Rockmann F, Brünnler T. Syncope diagnostics in the emergency department – significance of the ESC guidelines. Med Klin Intensivmed Notfmed. 2025;15:1–7.")].
+
+Pediatric syncope represents 1–3% of ED visits and up to 6% of adolescent hospitalizations [[2](/article/10.1186/s12245-026-01215-z#ref-CR2 "Ritter S, Tani LY, Etheridge SP, Williams RV, Craig JE, Minich LL. What is the yield of screening echocardiography in pediatric syncope? Pediatrics. 2000;105(5):E58."), [3](/article/10.1186/s12245-026-01215-z#ref-CR3 "Linzer M, Pontinen M, Gold DT, Divine GW, Felder A. Impairment of physical and psychosocial function in recurrent syncope. J Clin Epidemiol. 1991;44(10):1037–43.")]. Although most cases are reflex-mediated or orthostatic, approximately 4% are cardiac and 3% neurologic [[4](/article/10.1186/s12245-026-01215-z#ref-CR4 "Manouzi A, Sanatani S, Doan Q. Electrocardiogram in pediatric syncope: practice variation among pediatric emergency physicians. Pediatr Emerg Care. 2022;38(2):e886–90.")]. Because clinical appearance alone is unreliable, emergency department evaluation must be structured, protocol-driven, and anchored by early ECG screening and risk stratification [[5](/article/10.1186/s12245-026-01215-z#ref-CR5 "Scheier E. Cardiac POCUS in pediatric emergency medicine: a narrative review. J Clin Med. 2023;12(17):5666."), [6](/article/10.1186/s12245-026-01215-z#ref-CR6 "Thiruganasambandamoorthy V, Sivilotti ML, Le Sage N, Yan JW, Huang P, Hegdekar M, et al. Multicenter emergency department validation of the Canadian syncope risk score. JAMA Intern Med. 2020;180(5):737–44.")].
+
+## Mechanisms and evidence-based framework for pediatric syncope in the ED
+
+Pediatric syncope is a common clinical presentation in ED, with incidence peaking during adolescence and recurrence occurring in up to one-third of patients. Despite this high prevalence, fewer than 5% of cases are caused by life-threatening disease [[2](/article/10.1186/s12245-026-01215-z#ref-CR2 "Ritter S, Tani LY, Etheridge SP, Williams RV, Craig JE, Minich LL. What is the yield of screening echocardiography in pediatric syncope? Pediatrics. 2000;105(5):E58."), [3](/article/10.1186/s12245-026-01215-z#ref-CR3 "Linzer M, Pontinen M, Gold DT, Divine GW, Felder A. Impairment of physical and psychosocial function in recurrent syncope. J Clin Epidemiol. 1991;44(10):1037–43.")]. The lifetime cumulative incidence in children and adolescents is estimated to be between 15% and 25% [[7](/article/10.1186/s12245-026-01215-z#ref-CR7 "Colman N, Nahm K, Ganzeb
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada

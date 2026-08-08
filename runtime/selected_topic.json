@@ -1,34 +1,28 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "selected_topic": {
-    "id": "stroke_thrombectomy_selection",
-    "title": "acute ischemic stroke thrombectomy selection",
-    "axis": "neurology",
-    "priority": 10,
+    "id": "syncope_risk",
+    "title": "syncope risk stratification in emergency medicine",
+    "axis": "cardinal_symptoms",
+    "priority": 9,
     "review_interval_days": 180,
     "keywords": [
-      "ischemic stroke",
-      "thrombectomy",
-      "patient selection"
+      "syncope",
+      "risk stratification",
+      "emergency medicine"
     ]
   },
-  "score": 167.0,
+  "score": 159.0,
   "exploration": false,
   "reason": {
-    "priority_score": 100,
+    "priority_score": 90,
     "recency_score": 45.0,
-    "axis_score": 22.0,
+    "axis_score": 24.0,
     "alert_score": 0,
     "last_axis_penalty": false,
     "matched_alerts": []
   },
   "top_5": [
-    {
-      "id": "stroke_thrombectomy_selection",
-      "title": "acute ischemic stroke thrombectomy selection",
-      "axis": "neurology",
-      "score": 167.0
-    },
     {
       "id": "syncope_risk",
       "title": "syncope risk stratification in emergency medicine",
@@ -52,6 +46,12 @@
       "title": "sepsis early recognition in the emergency department",
       "axis": "infectious",
       "score": 153.0
+    },
+    {
+      "id": "copd_exacerbation",
+      "title": "COPD exacerbation emergency department management",
+      "axis": "respiratory",
+      "score": 147.0
     }
   ]
 }

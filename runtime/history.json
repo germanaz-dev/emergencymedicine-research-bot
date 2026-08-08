@@ -13,5 +13,10 @@
     "last_seen": "2026-08-07",
     "times_reviewed": 1,
     "axis": "neurology"
+  },
+  "syncope_risk": {
+    "last_seen": "2026-08-08",
+    "times_reviewed": 1,
+    "axis": "cardinal_symptoms"
   }
 }
