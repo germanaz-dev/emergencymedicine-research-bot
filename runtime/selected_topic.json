@@ -1,34 +1,28 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "selected_topic": {
-    "id": "sepsis_early_recognition",
-    "title": "sepsis early recognition in the emergency department",
-    "axis": "infectious",
-    "priority": 10,
-    "review_interval_days": 120,
+    "id": "copd_exacerbation",
+    "title": "COPD exacerbation emergency department management",
+    "axis": "respiratory",
+    "priority": 8,
+    "review_interval_days": 180,
     "keywords": [
-      "sepsis",
-      "early recognition",
-      "emergency department"
+      "COPD exacerbation",
+      "emergency department",
+      "non invasive ventilation"
     ]
   },
-  "score": 153.0,
+  "score": 147.0,
   "exploration": false,
   "reason": {
-    "priority_score": 100,
-    "recency_score": 30.0,
-    "axis_score": 23.0,
+    "priority_score": 80,
+    "recency_score": 45.0,
+    "axis_score": 22.0,
     "alert_score": 0,
     "last_axis_penalty": false,
     "matched_alerts": []
   },
   "top_5": [
-    {
-      "id": "sepsis_early_recognition",
-      "title": "sepsis early recognition in the emergency department",
-      "axis": "infectious",
-      "score": 153.0
-    },
     {
       "id": "copd_exacerbation",
       "title": "COPD exacerbation emergency department management",
@@ -52,6 +46,12 @@
       "title": "point of care ultrasound in undifferentiated shock",
       "axis": "pocus_procedures",
       "score": 143.0
+    },
+    {
+      "id": "shock_undifferentiated",
+      "title": "undifferentiated shock in emergency medicine",
+      "axis": "critical_care",
+      "score": 125.25
     }
   ]
 }

@@ -33,5 +33,10 @@
     "last_seen": "2026-08-08",
     "times_reviewed": 1,
     "axis": "infectious"
+  },
+  "copd_exacerbation": {
+    "last_seen": "2026-08-09",
+    "times_reviewed": 1,
+    "axis": "respiratory"
   }
 }
