@@ -1,0 +1,109 @@
+[
+  {
+    "pmid": "42566629",
+    "title": "Risk factors associated with delirium in older emergency department patients: A systematic review and meta-analysis.",
+    "journal": "Medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "doi": "10.1097/MD.0000000000050157",
+    "abstract": "Delirium is a frequent yet underrecognized neuropsychiatric syndrome among older patients presenting to the emergency department (ED) and is associated with adverse outcomes, including prolonged hospitalization, functional decline, and mortality. Evidence on ED delirium risk factors remains fragmented. We systematically searched PubMed, Embase, Web of Science, and the Cochrane Library from database inception to December 31, 2025. Comparative observational studies of ED patients aged 65 years or older were eligible if delirium was assessed using a validated tool or diagnostic criteria and if a delirium versus non-delirium comparison was available. Studies enrolling only patients with delirium or lacking a non-delirium comparator were excluded from the risk-factor meta-analysis. Adjusted odds ratios (ORs) were preferentially extracted; unadjusted ORs or raw data were used only when adjusted estimates were unavailable. Random-effects models were used for clinically comparable risk-factor domains. Sixteen comparative observational studies involving 31,543 older ED patients were included. The pooled delirium prevalence was approximately 10%. Factors significantly associated with delirium included advanced age (OR = 1.49, 95% confidence initerval [CI]: 1.13-1.97), baseline cognitive impairment or dementia (OR = 1.90, 95% CI: 1.31-2.76), and medication-related exposures (OR = 1.49, 95% CI: 1.20-1.85). Functional dependence and ED-related environmental or process factors were not statistically significant in pooled analyses, and comorbidity burden showed a borderline association. Most included studies were of moderate-to-high methodological quality. Heterogeneity was substantial in several domains, and no strong evidence of publication bias was detected for the cognitive impairment analysis. In older ED patients, delirium is associated with several demographic and clinical factors, particularly age, baseline cognitive impairment, and medication-related exposures. These associations should be interpreted as risk markers rather than causal effects. Early identification of high-risk patients may support risk stratification and guide future delirium prevention research in the ED.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566629/"
+  },
+  {
+    "pmid": "42508987",
+    "title": "Positive End-Expiratory Pressure, Tidal Volume, and Fraction of Inspired Oxygen During General Anaesthesia in High-Risk Patients-A Randomised Clinical Feasibility Trial.",
+    "journal": "Acta anaesthesiologica Scandinavica",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "doi": "10.1111/aas.70309",
+    "abstract": "Optimal ventilatory settings during general anaesthesia are unknown. The goal of this trial was to test different ventilatory settings and blood pressure targets during general anaesthesia. This manuscript focuses on the ventilatory interventions. This was a multicentre, randomised factorial trial conducted at eight hospitals in Denmark. Four hundred and eighty-three patients ASA 3-5, scheduled for major surgery under general anaesthesia, were included. Patients were randomised to positive end-expiratory pressure (PEEP) of 5, 8, or 10 cm H2O, tidal volume of 6, 8, or 10 mL/kg, and fraction of inspired oxygen (FiO2) of 30% or 80%. The primary outcome was feasibility of delivering the ventilatory interventions, while secondary outcomes included intra- and postoperative complications, hospital length of stay, quality of life and recovery, and mortality. Feasibility goals were not met, but clear separation within each intervention was achieved. There were no differences between groups in most postoperative outcomes. Cardiac arrhythmias appeared more frequently in the PEEP-8- and 10-cm-H2O groups (OR 9.32, 95% CI 1.59; 178 and OR 6.71, 95% CI 1.00; 134), compared to the PEEP-5-cm-H2O group. Outcomes did not differ between tidal volume interventions. Pneumonia (OR 4.04, 95% CI 1.40; 14.6) and emergence delirium (OR 5.56, 95% CI 1.94; 20.4) were more frequent in patients allocated to FiO2 of 80% than 30%. Adherence to interventions was acceptable, although below feasibility goals. Few postoperative complications were more frequent in patients receiving PEEP 8 and 10, and in patients receiving FiO2 of 80%. These findings should be interpreted with caution given the uncertainty of the estimates. Clinicaltrials.gov: NCT06047119.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42508987/"
+  },
+  {
+    "pmid": "42348981",
+    "title": "Is dexmedetomidine effective for delirium prevention in older adults? A scoping review.",
+    "journal": "Revista espanola de geriatria y gerontologia",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Scoping Review"
+    ],
+    "doi": "10.1016/j.regg.2026.101817",
+    "abstract": "Delirium is a common neuropsychiatric syndrome in older adults, associated with significant functional and cognitive decline as well as increased mortality. Although multicomponent non-pharmacological interventions are the first-line strategy for prevention, their implementation may be challenging in certain clinical settings. The role of pharmacological strategies remains controversial. This review aimed to analyze the efficacy of dexmedetomidine in preventing delirium in older adults, assessing its impact on incidence, duration, severity, and motor subtypes, as well as its safety profile. A systematic search was conducted in PubMed, Web of Science, and The Cochrane Library for randomized controlled trials published in English or Spanish up to January 2024, including studies involving participants aged ≥65 years. Twenty-two eligible studies were identified. Fifteen of them demonstrated a significant reduction in delirium incidence among patients treated with dexmedetomidine, particularly in the context of orthopedic surgery. Three studies reported a shorter duration of delirium; however, no consistent differences were observed in severity or motor subtypes. Dexmedetomidine was also associated with improved sleep quality and better pain control, without significant effects on length of hospital stay or mortality. The most common adverse events were bradycardia and hypotension, with no serious adverse events reported. Overall, the available evidence suggests that dexmedetomidine may be effective in preventing delirium in older adults, particularly in surgical settings; however, further research is needed to confirm its efficacy and safety in the broader geriatric population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42348981/"
+  },
+  {
+    "pmid": "42313348",
+    "title": "Trauma as a critical condition in the very old: assessment, care pathways and outcome differences.",
+    "journal": "European geriatric medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1097/TA.0000000000003626",
+    "abstract": "Trauma in very old adults represents a growing and distinct form of critical illness, reflecting demographic aging and increasing levels of frailty, multimorbidity, and dependency. Unlike younger populations, where trauma is typically driven by high-energy mechanisms, injury in older adults most commonly results from low-energy falls. Despite this, the consequences are often severe, with high rates of hemorrhage, traumatic brain injury and thoracic trauma, and subsequent multi-organ dysfunction requiring critical care. Age-related physiological changes, combined with multimorbidity and polypharmacy, alter responses to injury and may mask early signs of deterioration. As a result, commonly used triage systems frequently underestimate injury severity in older patients, contributing to under-triage and delays in access to specialist trauma care. Frailty is increasingly recognized as a key determinant of outcomes, influencing survival, length of stay, and functional recovery, and should be routinely assessed early in the patient pathway. Assessment of frailty and intrinsic capacity in the Emergency Department is often challenging, particularly when relatives or caregivers are unavailable to provide collateral history. Older adults should receive an in-depth assessment and documentation of pre-injury status and prior wishes; however, this is inconsistently performed in routine trauma practice. Management of older trauma patients is complex and often fragmented across specialties, with significant variability in care pathways. Decision-making is further complicated by prognostic uncertainty and the need to align interventions with patient values and baseline function. While ICU admission may improve outcomes in selected patients, survival is frequently accompanied by complications, such as delirium, sarcopenia, and long-term functional impairment. Optimizing outcomes requires a coordinated, multidisciplinary approach that integrates trauma and geriatric principles, emphasizing early recognition, tailored resuscitation, comprehensive assessment of frailty, and patient-centered care. Future priorities include improving triage accuracy and injury recognition, standardizing care pathways, and focusing on meaningful recovery in this vulnerable population.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42313348/"
+  },
+  {
+    "pmid": "42254343",
+    "title": "Rapid clinical identification of vulnerable older adults in acute and emergency care: narrative review of short geriatric screening tools.",
+    "journal": "Frontiers in medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1111/acem.14665",
+    "abstract": "Older adults presenting to emergency departments or acute wards are at increased risk of functional decline, delirium, falls, prolonged hospital stay, and early mortality. Early recognition of vulnerability is crucial for timely preventive interventions, yet specific geriatric assessment is often not performed at admission due to time limitations. To provide a clinically focused synthesis of short geriatric screening tools and present a practical two-step model linking early screening with targeted clinical action. This narrative review summarizes brief screening instruments that can be completed within minutes and are suitable for routine use. A targeted literature review identified tools used and evaluated available evidence on predictive accuracy, feasibility, and clinical integration. Rapid tools such as ISAR, TRST, PRISMA-7, and APOP allow early identification of patients at risk of functional decline, readmission, or short-term mortality. Multidomain instruments, including HARP, SHERPA, and ISAR-HP, provide broader prognostic information, supporting discharge planning and targeted follow-up. Predictive accuracy is generally moderate, with the area under the curve (AUC) typically between 0.60 and 0.70. Clinical impact depends on embedding screening into routine workflows and linking results to actionable interventions such as early mobilization, cognitive assessment, medication review, or referral to geriatric specialists. Clinical integration seems to require a tiered, two-step approach: rapid screening upon admission, followed by a comprehensive multidomain assessment on the ward. Short geriatric screening tools are essential in acute care. A two-step approach appears to be a practical and clinically reasonable strategy for optimizing early detection and linking screening to targeted interventions. However, further research is needed to validate its effectiveness and define the optimal implementation strategy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42254343/"
+  },
+  {
+    "pmid": "42214810",
+    "title": "Frailty prevalence and clinical outcomes according to assessment tools: A systematic review.",
+    "journal": "Revista espanola de geriatria y gerontologia",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "doi": "10.1016/j.regg.2026.101805",
+    "abstract": "Frailty is a clinically recognizable state of increased vulnerability in older adults, marked by diminished physiological reserves before the onset of disability. Although multiple assessment tools exist, their inconsistent use across clinical specialties often leads to confusion and inappropriate decision-making. The objective is to describe the prevalence of frailty and its association with clinical outcomes according to different frailty assessment tools, in adults aged 65 years and older, across key clinical scenarios: acute myocardial infarction (AMI), chronic coronary artery disease (CCAD), heart failure (HF), diabetes mellitus (DM), transcatheter aortic valve implantation (TAVI), emergency departments (ED), intensive care units (ICU), and hip fracture. A systematic review with narrative synthesis was conducted in accordance with PRISMA 2020 guidelines. Searches were performed in PubMed covering the last 10 years. Included studies involved adults ≥65 years, used validated frailty tools, and reported outcomes such as mortality, rehospitalization, complications, or functional decline. A total of 626 articles were reviewed, of which 158 met the inclusion criteria. Prevalence varied according to the assessment tool used (4.4-90%) across all clinical settings. In AMI, the CFS (13 studies), Fried phenotype (9) and FI (8) were the most frequently used; the CFS was associated with 6-12 month mortality (HR 3.32; HR 1.90), readmissions and bleeding. In CCAD, the Fried phenotype and the CFS were associated with post-PCI mortality (HR 2.78 vs. 5.99). In HF, the Fried scale was predominant; frailty was associated with increased mortality (adjusted RR 2.04), readmissions and functional decline. In DM, Fried was the most commonly used tool. In TAVI, the CFS and Fried were associated with mortality, acute kidney injury and bleeding. In ED settings, the CFS and PRISMA-7 were associated with mortality, prolonged length of stay and readmissions. In ICU settings, the CFS was the most frequently used and was associated with mortality and complications. In hip fracture, the CFS and FI were associated with mortality, delirium and functional impairment. As conclusion frailty is highly prevalent in older adults across diverse clinical contexts, but its outcomes and prognostic value depend on the tool and definition used. Different frailty assessment tools appear to be associated with distinct clinical outcomes depending on the context in which they are applied. Meta-analyses should avoid merging studies that apply conceptually different frailty instruments.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42214810/"
+  },
+  {
+    "pmid": "42201152",
+    "title": "Comorbidities in Age-Related Cataract: Epidemiological Burden and Public Health Implications.",
+    "journal": "Vision (Basel, Switzerland)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.3390/diseases12110273",
+    "abstract": "Cataracts represent the leading cause of blindness worldwide, particularly in older adults, and constitute a significant public health challenge. Although cataract surgery is generally associated with a high safety profile, both patients and healthcare providers often face significant challenges due to age-related physiological changes and the high prevalence of comorbidities, which are directly linked to cataractogenesis and other systemic diseases that can complicate both the surgical procedure and postoperative recovery. This narrative review aimed to assess the epidemiological characteristics of age-related physiological and pathological comorbidities in older adults with cataracts, evaluating their impact on preoperative assessment, surgical outcomes, and public health planning. Articles were identified through non-systematic searches of PubMed, EMBASE, and Scopus using a combination of medical subject headings (MeSH) terms and free-text keywords. Among the multiple non-ocular comorbidities, carotid artery disease (CAD) and hypertension (HTN) are among the cardiovascular diseases (CVDs) with the highest correlations with cataract. Diabetes, dyslipidemia, and metabolic syndrome are also highly prevalent and significantly influence surgical outcomes, as poor glycemic control increases intraoperative risks and postoperative complications. Additionally, neurological conditions such as stroke, Parkinson's disease, and epilepsy often complicate anesthesia administration, contribute to postoperative delirium, and affect adherence to treatment protocols. Given these complexities, a multidisciplinary approach and targeted preoperative screening may offer personalized care to improve safety and outcomes. Despite advances in clinical care, disparities in access to cataract surgery, especially in underserved populations, continue to exist. Thus, a coordinated public health strategy that promotes early detection, equitable access, and the integration of innovations such as teleophthalmology and artificial intelligence is essential to optimize care for older adults with cataracts worldwide.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42201152/"
+  },
+  {
+    "pmid": "42141740",
+    "title": "Medication Safety Strategies for Geriatric Patients in the Emergency Department: A Narrative Review.",
+    "journal": "Academic emergency medicine : official journal of the Society for Academic Emergency Medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ],
+    "doi": "10.1111/acem.70325",
+    "abstract": "Population aging is reshaping emergency care. Older adults already account for 15%-25% of U.S. emergency department (ED) visits and, compared with younger patients, present with greater numbers of comorbidities, higher resource utilization, longer stays, and markedly higher admission rates (35%-45%), return visits, and mortality. Medication exposure is a central driver of risk with an estimated ~10% of older-adult ED visits being medication-related. We conducted a narrative review of the literature surrounding medication safety for geriatric patients presenting to the ED and strategies that can be employed to optimize pharmacotherapy management. Medication-safety elements include medication reconciliation, the systematic reduction of potentially inappropriate medications using tools such as Beers, STOPP/START, or GEMS-Rx, and geriatric-tailored order sets for common presentations (e.g., pain, delirium, hip fracture). Additionally, system-based interventions such as utilization of Clinical Decision Support Systems (CDSS), Geriatric Emergency Department Accreditation (GEDA), and alignment with regulatory agencies are explored. The combination of robust emergency medicine pharmacist integration, clinical decision support, and disciplined measurement offers a pragmatic path to reduce potentially inappropriate prescribing and ADEs resulting in improved safety and outcomes for older adults in the ED.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141740/"
+  }
+]

@@ -1,0 +1,585 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: delirium in older adults in the emergency department
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Risk factors associated with delirium in older emergency department patients: A systematic review and meta-analysis.
+Revista: Medicine
+Fecha: 2026
+Tipo: Journal Article, Meta-Analysis, Systematic Review
+PMID: 42566629
+DOI: 10.1097/MD.0000000000050157
+URL: https://pubmed.ncbi.nlm.nih.gov/42566629/
+
+Abstract:
+Delirium is a frequent yet underrecognized neuropsychiatric syndrome among older patients presenting to the emergency department (ED) and is associated with adverse outcomes, including prolonged hospitalization, functional decline, and mortality. Evidence on ED delirium risk factors remains fragmented. We systematically searched PubMed, Embase, Web of Science, and the Cochrane Library from database inception to December 31, 2025. Comparative observational studies of ED patients aged 65 years or older were eligible if delirium was assessed using a validated tool or diagnostic criteria and if a delirium versus non-delirium comparison was available. Studies enrolling only patients with delirium or lacking a non-delirium comparator were excluded from the risk-factor meta-analysis. Adjusted odds ratios (ORs) were preferentially extracted; unadjusted ORs or raw data were used only when adjusted estimates were unavailable. Random-effects models were used for clinically comparable risk-factor domains. Sixteen comparative observational studies involving 31,543 older ED patients were included. The pooled delirium prevalence was approximately 10%. Factors significantly associated with delirium included advanced age (OR = 1.49, 95% confidence initerval [CI]: 1.13-1.97), baseline cognitive impairment or dementia (OR = 1.90, 95% CI: 1.31-2.76), and medication-related exposures (OR = 1.49, 95% CI: 1.20-1.85). Functional dependence and ED-related environmental or process factors were not statistically significant in pooled analyses, and comorbidity burden showed a borderline association. Most included studies were of moderate-to-high methodological quality. Heterogeneity was substantial in several domains, and no strong evidence of publication bias was detected for the cognitive impairment analysis. In older ED patients, delirium is associated with several demographic and clinical factors, particularly age, baseline cognitive impairment, and medication-related exposures. These associations should be interpreted as risk markers rather than causal effects. Early identification of high-risk patients may support risk stratification and guide future delirium prevention research in the ED.
+
+--- PAPER PUBMED ---
+Título: Positive End-Expiratory Pressure, Tidal Volume, and Fraction of Inspired Oxygen During General Anaesthesia in High-Risk Patients-A Randomised Clinical Feasibility Trial.
+Revista: Acta anaesthesiologica Scandinavica
+Fecha: 2026
+Tipo: Journal Article, Randomized Controlled Trial, Multicenter Study
+PMID: 42508987
+DOI: 10.1111/aas.70309
+URL: https://pubmed.ncbi.nlm.nih.gov/42508987/
+
+Abstract:
+Optimal ventilatory settings during general anaesthesia are unknown. The goal of this trial was to test different ventilatory settings and blood pressure targets during general anaesthesia. This manuscript focuses on the ventilatory interventions. This was a multicentre, randomised factorial trial conducted at eight hospitals in Denmark. Four hundred and eighty-three patients ASA 3-5, scheduled for major surgery under general anaesthesia, were included. Patients were randomised to positive end-expiratory pressure (PEEP) of 5, 8, or 10 cm H2O, tidal volume of 6, 8, or 10 mL/kg, and fraction of inspired oxygen (FiO2) of 30% or 80%. The primary outcome was feasibility of delivering the ventilatory interventions, while secondary outcomes included intra- and postoperative complications, hospital length of stay, quality of life and recovery, and mortality. Feasibility goals were not met, but clear separation within each intervention was achieved. There were no differences between groups in most postoperative outcomes. Cardiac arrhythmias appeared more frequently in the PEEP-8- and 10-cm-H2O groups (OR 9.32, 95% CI 1.59; 178 and OR 6.71, 95% CI 1.00; 134), compared to the PEEP-5-cm-H2O group. Outcomes did not differ between tidal volume interventions. Pneumonia (OR 4.04, 95% CI 1.40; 14.6) and emergence delirium (OR 5.56, 95% CI 1.94; 20.4) were more frequent in patients allocated to FiO2 of 80% than 30%. Adherence to interventions was acceptable, although below feasibility goals. Few postoperative complications were more frequent in patients receiving PEEP 8 and 10, and in patients receiving FiO2 of 80%. These findings should be interpreted with caution given the uncertainty of the estimates. Clinicaltrials.gov: NCT06047119.
+
+--- PAPER PUBMED ---
+Título: Is dexmedetomidine effective for delirium prevention in older adults? A scoping review.
+Revista: Revista espanola de geriatria y gerontologia
+Fecha: 2026
+Tipo: Journal Article, Scoping Review
+PMID: 42348981
+DOI: 10.1016/j.regg.2026.101817
+URL: https://pubmed.ncbi.nlm.nih.gov/42348981/
+
+Abstract:
+Delirium is a common neuropsychiatric syndrome in older adults, associated with significant functional and cognitive decline as well as increased mortality. Although multicomponent non-pharmacological interventions are the first-line strategy for prevention, their implementation may be challenging in certain clinical settings. The role of pharmacological strategies remains controversial. This review aimed to analyze the efficacy of dexmedetomidine in preventing delirium in older adults, assessing its impact on incidence, duration, severity, and motor subtypes, as well as its safety profile. A systematic search was conducted in PubMed, Web of Science, and The Cochrane Library for randomized controlled trials published in English or Spanish up to January 2024, including studies involving participants aged ≥65 years. Twenty-two eligible studies were identified. Fifteen of them demonstrated a significant reduction in delirium incidence among patients treated with dexmedetomidine, particularly in the context of orthopedic surgery. Three studies reported a shorter duration of delirium; however, no consistent differences were observed in severity or motor subtypes. Dexmedetomidine was also associated with improved sleep quality and better pain control, without significant effects on length of hospital stay or mortality. The most common adverse events were bradycardia and hypotension, with no serious adverse events reported. Overall, the available evidence suggests that dexmedetomidine may be effective in preventing delirium in older adults, particularly in surgical settings; however, further research is needed to confirm its efficacy and safety in the broader geriatric population.
+
+--- PAPER PUBMED ---
+Título: Trauma as a critical condition in the very old: assessment, care pathways and outcome differences.
+Revista: European geriatric medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42313348
+DOI: 10.1097/TA.0000000000003626
+URL: https://pubmed.ncbi.nlm.nih.gov/42313348/
+
+Abstract:
+Trauma in very old adults represents a growing and distinct form of critical illness, reflecting demographic aging and increasing levels of frailty, multimorbidity, and dependency. Unlike younger populations, where trauma is typically driven by high-energy mechanisms, injury in older adults most commonly results from low-energy falls. Despite this, the consequences are often severe, with high rates of hemorrhage, traumatic brain injury and thoracic trauma, and subsequent multi-organ dysfunction requiring critical care. Age-related physiological changes, combined with multimorbidity and polypharmacy, alter responses to injury and may mask early signs of deterioration. As a result, commonly used triage systems frequently underestimate injury severity in older patients, contributing to under-triage and delays in access to specialist trauma care. Frailty is increasingly recognized as a key determinant of outcomes, influencing survival, length of stay, and functional recovery, and should be routinely assessed early in the patient pathway. Assessment of frailty and intrinsic capacity in the Emergency Department is often challenging, particularly when relatives or caregivers are unavailable to provide collateral history. Older adults should receive an in-depth assessment and documentation of pre-injury status and prior wishes; however, this is inconsistently performed in routine trauma practice. Management of older trauma patients is complex and often fragmented across specialties, with significant variability in care pathways. Decision-making is further complicated by prognostic uncertainty and the need to align interventions with patient values and baseline function. While ICU admission may improve outcomes in selected patients, survival is frequently accompanied by complications, such as delirium, sarcopenia, and long-term functional impairment. Optimizing outcomes requires a coordinated, multidisciplinary approach that integrates trauma and geriatric principles, emphasizing early recognition, tailored resuscitation, comprehensive assessment of frailty, and patient-centered care. Future priorities include improving triage accuracy and injury recognition, standardizing care pathways, and focusing on meaningful recovery in this vulnerable population.
+
+--- PAPER PUBMED ---
+Título: Rapid clinical identification of vulnerable older adults in acute and emergency care: narrative review of short geriatric screening tools.
+Revista: Frontiers in medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42254343
+DOI: 10.1111/acem.14665
+URL: https://pubmed.ncbi.nlm.nih.gov/42254343/
+
+Abstract:
+Older adults presenting to emergency departments or acute wards are at increased risk of functional decline, delirium, falls, prolonged hospital stay, and early mortality. Early recognition of vulnerability is crucial for timely preventive interventions, yet specific geriatric assessment is often not performed at admission due to time limitations. To provide a clinically focused synthesis of short geriatric screening tools and present a practical two-step model linking early screening with targeted clinical action. This narrative review summarizes brief screening instruments that can be completed within minutes and are suitable for routine use. A targeted literature review identified tools used and evaluated available evidence on predictive accuracy, feasibility, and clinical integration. Rapid tools such as ISAR, TRST, PRISMA-7, and APOP allow early identification of patients at risk of functional decline, readmission, or short-term mortality. Multidomain instruments, including HARP, SHERPA, and ISAR-HP, provide broader prognostic information, supporting discharge planning and targeted follow-up. Predictive accuracy is generally moderate, with the area under the curve (AUC) typically between 0.60 and 0.70. Clinical impact depends on embedding screening into routine workflows and linking results to actionable interventions such as early mobilization, cognitive assessment, medication review, or referral to geriatric specialists. Clinical integration seems to require a tiered, two-step approach: rapid screening upon admission, followed by a comprehensive multidomain assessment on the ward. Short geriatric screening tools are essential in acute care. A two-step approach appears to be a practical and clinically reasonable strategy for optimizing early detection and linking screening to targeted interventions. However, further research is needed to validate its effectiveness and define the optimal implementation strategy.
+
+--- PAPER PUBMED ---
+Título: Frailty prevalence and clinical outcomes according to assessment tools: A systematic review.
+Revista: Revista espanola de geriatria y gerontologia
+Fecha: 2026
+Tipo: Journal Article, Systematic Review
+PMID: 42214810
+DOI: 10.1016/j.regg.2026.101805
+URL: https://pubmed.ncbi.nlm.nih.gov/42214810/
+
+Abstract:
+Frailty is a clinically recognizable state of increased vulnerability in older adults, marked by diminished physiological reserves before the onset of disability. Although multiple assessment tools exist, their inconsistent use across clinical specialties often leads to confusion and inappropriate decision-making. The objective is to describe the prevalence of frailty and its association with clinical outcomes according to different frailty assessment tools, in adults aged 65 years and older, across key clinical scenarios: acute myocardial infarction (AMI), chronic coronary artery disease (CCAD), heart failure (HF), diabetes mellitus (DM), transcatheter aortic valve implantation (TAVI), emergency departments (ED), intensive care units (ICU), and hip fracture. A systematic review with narrative synthesis was conducted in accordance with PRISMA 2020 guidelines. Searches were performed in PubMed covering the last 10 years. Included studies involved adults ≥65 years, used validated frailty tools, and reported outcomes such as mortality, rehospitalization, complications, or functional decline. A total of 626 articles were reviewed, of which 158 met the inclusion criteria. Prevalence varied according to the assessment tool used (4.4-90%) across all clinical settings. In AMI, the CFS (13 studies), Fried phenotype (9) and FI (8) were the most frequently used; the CFS was associated with 6-12 month mortality (HR 3.32; HR 1.90), readmissions and bleeding. In CCAD, the Fried phenotype and the CFS were associated with post-PCI mortality (HR 2.78 vs. 5.99). In HF, the Fried scale was predominant; frailty was associated with increased mortality (adjusted RR 2.04), readmissions and functional decline. In DM, Fried was the most commonly used tool. In TAVI, the CFS and Fried were associated with mortality, acute kidney injury and bleeding. In ED settings, the CFS and PRISMA-7 were associated with mortality, prolonged length of stay and readmissions. In ICU settings, the CFS was the most frequently used and was associated with mortality and complications. In hip fracture, the CFS and FI were associated with mortality, delirium and functional impairment. As conclusion frailty is highly prevalent in older adults across diverse clinical contexts, but its outcomes and prognostic value depend on the tool and definition used. Different frailty assessment tools appear to be associated with distinct clinical outcomes depending on the context in which they are applied. Meta-analyses should avoid merging studies that apply conceptually different frailty instruments.
+
+--- PAPER PUBMED ---
+Título: Comorbidities in Age-Related Cataract: Epidemiological Burden and Public Health Implications.
+Revista: Vision (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42201152
+DOI: 10.3390/diseases12110273
+URL: https://pubmed.ncbi.nlm.nih.gov/42201152/
+
+Abstract:
+Cataracts represent the leading cause of blindness worldwide, particularly in older adults, and constitute a significant public health challenge. Although cataract surgery is generally associated with a high safety profile, both patients and healthcare providers often face significant challenges due to age-related physiological changes and the high prevalence of comorbidities, which are directly linked to cataractogenesis and other systemic diseases that can complicate both the surgical procedure and postoperative recovery. This narrative review aimed to assess the epidemiological characteristics of age-related physiological and pathological comorbidities in older adults with cataracts, evaluating their impact on preoperative assessment, surgical outcomes, and public health planning. Articles were identified through non-systematic searches of PubMed, EMBASE, and Scopus using a combination of medical subject headings (MeSH) terms and free-text keywords. Among the multiple non-ocular comorbidities, carotid artery disease (CAD) and hypertension (HTN) are among the cardiovascular diseases (CVDs) with the highest correlations with cataract. Diabetes, dyslipidemia, and metabolic syndrome are also highly prevalent and significantly influence surgical outcomes, as poor glycemic control increases intraoperative risks and postoperative complications. Additionally, neurological conditions such as stroke, Parkinson's disease, and epilepsy often complicate anesthesia administration, contribute to postoperative delirium, and affect adherence to treatment protocols. Given these complexities, a multidisciplinary approach and targeted preoperative screening may offer personalized care to improve safety and outcomes. Despite advances in clinical care, disparities in access to cataract surgery, especially in underserved populations, continue to exist. Thus, a coordinated public health strategy that promotes early detection, equitable access, and the integration of innovations such as teleophthalmology and artificial intelligence is essential to optimize care for older adults with cataracts worldwide.
+
+--- PAPER PUBMED ---
+Título: Medication Safety Strategies for Geriatric Patients in the Emergency Department: A Narrative Review.
+Revista: Academic emergency medicine : official journal of the Society for Academic Emergency Medicine
+Fecha: 2026
+Tipo: Journal Article, Review, Research Support, U.S. Gov't, Non-P.H.S.
+PMID: 42141740
+DOI: 10.1111/acem.70325
+URL: https://pubmed.ncbi.nlm.nih.gov/42141740/
+
+Abstract:
+Population aging is reshaping emergency care. Older adults already account for 15%-25% of U.S. emergency department (ED) visits and, compared with younger patients, present with greater numbers of comorbidities, higher resource utilization, longer stays, and markedly higher admission rates (35%-45%), return visits, and mortality. Medication exposure is a central driver of risk with an estimated ~10% of older-adult ED visits being medication-related. We conducted a narrative review of the literature surrounding medication safety for geriatric patients presenting to the ED and strategies that can be employed to optimize pharmacotherapy management. Medication-safety elements include medication reconciliation, the systematic reduction of potentially inappropriate medications using tools such as Beers, STOPP/START, or GEMS-Rx, and geriatric-tailored order sets for common presentations (e.g., pain, delirium, hip fracture). Additionally, system-based interventions such as utilization of Clinical Decision Support Systems (CDSS), Geriatric Emergency Department Accreditation (GEDA), and alignment with regulatory agencies are explored. The combination of robust emergency medicine pharmacist integration, clinical decision support, and disciplined measurement offers a pragmatic path to reduce potentially inappropriate prescribing and ADEs resulting in improved safety and outcomes for older adults in the ED.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Study Details | NCT06326424 | Delirium Identification in Older Patients With Alzheimer's and Other Related Dementias In the Emergency Department | ClinicalTrials.gov
+URL: https://clinicaltrials.gov/study/NCT06326424
+Score: 0.9629638746799984
+
+Texto:
+Show glossary
+
+#### Search for terms
+
+Hide glossary
+Study record managers: refer to the [Data Element Definitions](https://clinicaltrials.gov/policy#data-element-definitions) if submitting registration or results information.
+
+* * *
+
+*   Accepts healthy volunteers A type of eligibility criteria that indicates whether people who do not have the condition/disease being studied can participate in that clinical study. 
+*   Active comparator arm An arm type in which a group of participants receives an intervention/treatment considered to be effective (or active) by health care providers. 
+*   Adverse event An unfavorable change in the health of a participant, including abnormal laboratory findings, that happens during a clinical study or within a certain amount of time after the study has ended. This change may or may not be caused by the intervention/treatment being studied. 
+*   Age or age group
+
+A type of eligibility criteria that indicates the age a person must be to participate in a clinical study. This may be indicated by a specific age or the following age groups:
+The age groups are:
+
+    *   Child (birth-17)
+    *   Adult (18-64)
+    *   Older Adult (65+)
+
+*   All-cause mortality A measure of all deaths, due to any cause, that occur during a clinical study. 
+*   Allocation A method used to assign participants to an arm of a clinical study. The types of allocation are randomized allocation and nonrandomized. 
+*   Arm A group or subgroup of participants in a clinical trial that receives a specific intervention/treatment, or no intervention, according to the trial's protocol. 
+*   Arm type A general description of the clinical trial arm. It identifies the role of the intervention that participants receive. Types of arms include experimental arm, active comparator arm, placebo comparator arm, sham comparator arm, and no intervention arm. 
+*   Baseline characteristics Data collected at the beginning of a clinical study for all participants and for each arm or comparison group. These data include demographics, such as age, sex/gender, race and ethnicity, and study-specific measures (for example, systolic blood pressure, prior antidepressant treatment). 
+*   Canceled submission Indicates that the study sponsor or investigator recalled a submission of study results before quality control (QC) review took place. If the submission was canceled on or after May 8, 2018, the date is shown. After submission of study results, a study record cannot be modified until QC review is completed, unless the submission is canceled. 
+*   Certain agreements Information required by the Food and Drug Administration Amendments Act of 2007, Section 801 (FDAAA 801). In general, this is a description of any agreement between the sponsor of a clinical study and the principal investigator (PI) that does not allow the PI to discuss the results of the study or publish the study results in a scientific or academic journal after the study is completed. 
+*   Certification A sponsor or investigator may submit a certification to delay submission of results information if they are applying for FDA approval of a new drug or device, or new use of an already approved drug or device. A sponsor or investigator who submits a certification can delay results submission up to 2 years after the certification/extension first submitted date, unless certain events occur sooner. See [Delay Results Type](https://clinicaltrials.gov/policy/results-definitions#DelayResultsType) in the Results Data Element definitions for more information about this certification. 
+*   Certification/extension first posted The date on which information about a certification to delay submission of results or an extension request was first available on ClinicalTrials.gov. ClinicalTrials.gov does not indicate whether the submission was a certification or extension request. There is typically a delay between the date the study sponsor or investigator submitted the certification or extension request and the first posted date. 
+*   Certification/extension first submitted The date on which the study sponsor or investigator first submitted a certification or an extension request to delay submission of results. A sponsor or investigator who submits a certification can delay results submission up to 2 years after this date, unless certain events occur sooner. There is typically a delay between the date the certification or extension request was submitted and the date the information is first available on ClinicalTrials.gov (certification/extension first posted). 
+*   Certification/extension first submitted that met QC criteria The date on which the study sponsor or investigator first submitted a certification or an extension request that is consistent with National Library of Medicine (NLM) quality control (QC) review criteria. The sponsor or investigator may need to revise and submit a certification or extension request one or more times before NLM's QC review criteria are met. It is the responsibility of the sponsor or investigator to ensure that the study record is consistent with the NLM QC review criteria. Meeting QC criteria for an extension request does not mean that the National Institutes of Health (NIH) has determined that the request demonstrates good cause. The process for review and granting of extension requests by the NIH is being developed. 
+*   Clinical study A research study involving human volunteers (also called participants) that is intended to add to medical knowledge. There are two types of clinical studies: interventional studies (also called clinical trials) and observational studies. 
+*   Clinical trial Another name for an interventional study. 
+*   ClinicalTrials.gov identifier (NCT number)The unique identification code given to each clinical study upon registration at ClinicalTrials.gov. The format is "NCT" followed by an 8-digit number (for example, NCT00000419). 
+*   Collaborator An organization other than the sponsor that provides support fo
+
+--- FUENTE WEB ---
+Título: Clinical Practice Guideline: Delirium – GEAR Network
+URL: https://gearnetwork.org/2026/02/19/clinical-practice-guideline-delirium
+Score: 0.9543718396377007
+
+Texto:
+ [Skip to content](#content)
+
+[![GEAR Network](https://gearnetwork.org/wp-content/uploads/2021/06/GEAR-LOGO-Simplified-Whole-Horz.PNG.png)](https://gearnetwork.org/)
+
+[GEAR Network](https://gearnetwork.org/)  
+
+Geriatric Emergency care Applied Research Standardization Study
+
+[Search](#)
+
+[![GEAR Network](https://gearnetwork.org/wp-content/uploads/2021/06/GEAR-LOGO-Simplified-Whole-Horz.PNG.png)](https://gearnetwork.org/)
+
+[GEAR Network](https://gearnetwork.org/)  
+
+Geriatric Emergency care Applied Research Standardization Study
+
+# Clinical Practice Guideline: Delirium
+
+/ [Clinical Practice Guidelines](https://gearnetwork.org/category/clinical-practice-guidelines/), [Delirium](https://gearnetwork.org/category/delirium/) / By   [Ellie Grogan](https://gearnetwork.org/author/egrogan/ "View all posts by Ellie Grogan")
+
+# Clinical Practice Guideline 2.0: Delirium
+
+## GRADE-Based Clinical Practice Guidelines for Emergency Department Delirium Risk Stratification, Screening, and Brain Imaging in Older Patients With Suspected Delirium
+
+## A practice guideline
+
+### Sangil Lee, Danya Khoujah, Debra Eagles, Maura Kennedy, Alexander X Lo, Christian H Nickel, Glenn Arendts, Luna Ragsdale, Justine Seidenfeld, Kerstin de Wit, Ines Luciani-Mcgillivray, Christopher R Carpenter, Shan W Liu, Geriatric Emergency Department Guidelines 2.0 Writing Team
+
+Academic Emergency Medicine | Volume 33, Issue 2 | October 2025  
+DOI 10.1111/acem.70167
+
+### Abstract
+
+**Objectives:**This portion of the Geriatric Emergency Department (GED) Guidelines 2.0 focuses on delirium in the emergency department (ED).
+
+**Methods:**A multidisciplinary group applied the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach to assess the certainty of evidence and develop recommendations related to older ED patients with possible delirium.
+
+**Results:**The GED Guidelines 2.0 Delirium Work Group derived six evidence-based recommendations for risk stratification, diagnosis, and brain imaging. To reduce universal screening, the Delirium Risk Score may be used to identify older adults at low risk for delirium, though the evidence certainty is very low. In adults over 65 admitted to ED observation units, Zucchelli’s risk assessment tool (threshold ≥ 4) may stratify delirium risk, also with very low certainty. For adults over 75, the REDEEM Score may be used to identify low- or high-risk individuals, again with very low certainty. For diagnosis, 4AT, bCAM, CAM-ICU, mCAM, AMT-4, or RASS may be used to rule delirium in or out, based on very low certainty. The Delirium Triage Screen (DTS) may be used to rule out, but not to rule in, delirium, also with very low certainty. For diagnostic imaging, there is very low certainty of evidence to recommend for or against obtaining a head CT as part of the evaluation for older ED patients with delirium. All recommendations are conditional, reflecting very low certainty of evidence due to the lack of high-quality ED-based studies and comparative effectiveness research.
+
+**Conclusion:**Rigorous ED-based research is needed to strengthen evidence and guide delirium care for older adults in geriatric emergency medicine.
+
+[Access the full guideline](https://onlinelibrary.wiley.com/doi/10.1111/acem.70167)
+
+ 
+
+--- FUENTE WEB ---
+Título: Delirium in older adults in the emergency department: a scoping review of current research and identified knowledge gaps
+URL: https://link.springer.com/article/10.1186/s12873-026-01582-z
+Score: 0.9534714349782227
+
+Texto:
+## Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See our [privacy policy](https://link.springer.com/privacystatement) for more information on the use of your personal data.
+
+Manage preferences for further information and to change your choices.
+
+Accept all cookies Reject optional cookies
+
+[Skip to main content](https://link.springer.com/article/10.1186/s12873-026-01582-z#main)
+
+Advertisement
+
+BMC journals have moved to Springer Nature Link. [Learn more about website changes.](https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link)
+
+[![Image 2: Springer Nature Link](https://link.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)](https://link.springer.com/)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1186/s12873-026-01582-z)
+
+[Menu](javascript:;)
+
+[Find a journal](https://link.springer.com/journals/)[Publish with us](https://www.springernature.com/gp/authors)[Track your research](https://link.springernature.com/home/)
+
+[Search](javascript:;)
+
+[Saved research](https://link.springer.com/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+## Search
+
+Search by keyword or author 
+
+Search
+
+## Navigation
+
+*   [Find a journal](https://link.springer.com/journals/)
+*   [Publish with us](https://www.springernature.com/gp/authors)
+*   [Track your research](https://link.springernature.com/home/)
+
+1.   [Home](https://link.springer.com/)
+2.   [BMC Emergency Medicine](https://link.springer.com/journal/12873)
+3.   Article
+
+# Delirium in older adults in the emergency department: a scoping review of current research and identified knowledge gaps
+
+*   Research
+*   [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+*    Published: 18 April 2026
+
+*   Volume 26, article number 201 (2026) 
+*   [Cite this article](https://link.springer.com/article/10.1186/s12873-026-01582-z#citeas)
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](https://link.springer.com/content/pdf/10.1186/s12873-026-01582-z.pdf)
+
+[Save article](https://link.springer.com/article/10.1186/s12873-026-01582-z/save-research?_csrf=L8VR_x35Z1pkhRhvF77r9vAfC90UGj0a)
+
+[View saved research](https://link.springer.com/saved-research)
+
+[![Image 3](https://media.springernature.com/w72/springer-static/cover-hires/journal/12873?as=webp)BMC Emergency Medicine](https://link.springer.com/journal/12873)[Aims and scope](https://link.springer.com/journal/12873/aims-and-scope)[Submit manuscript](https://submission.nature.com/new-submission/12873/3)
+
+ Delirium in older adults in the emergency department: a scoping review of current research and identified knowledge gaps 
+
+[Download PDF](https://link.springer.com/content/pdf/10.1186/s12873-026-01582-z.pdf)
+
+*   [Siri Lerstøl Olsen](https://link.springer.com/article/10.1186/s12873-026-01582-z#auth-Siri_Lerst_l-Olsen-Aff1-Aff2)[1](https://link.springer.com/article/10.1186/s12873-026-01582-z#Aff1),[2](https://link.springer.com/article/10.1186/s12873-026-01582-z#Aff2), 
+*   [Marte Johanne Tangeraas Hansen](https://link.springer.com/article/10.1186/s12873-026-01582-z#auth-Marte_Johanne_Tangeraas-Hansen-Aff1-Aff3)[1](https://link.springer.com/article/10.1186/s12873-026-01582-z#Aff1),[3](https://link.springer.com/article/10.1186/s12873-026-01582-z#Aff3), 
+*   [Elin Bø Lunde](https://link.springer.com/article/10.1186/s12873-026-01582-z#auth-Elin_B_-Lunde-Aff1-Aff3)[1](https://link.springer.com/article/10.1186/s12873-026-01582-z#Aff1),[3](https://link.springer.com/article/10.1186/s12873-026-01582-z#Aff3), 
+*   [Mathias Nikolai Petersen Hella](https://link.springer.com/article/10.1186/s12873-026-01582-z#auth-Mathias_Nikolai_Petersen-Hella-Aff4-Aff5)[4](https://link.springer.com/article/10.1186/s12873-026-01582-z#Aff4),[5](https://link.springer.com/article/10.1186/s12873-026-01582-z#Aff5)&
+*   …
+*   [Anne Katrine Bergland](https://link.springer.com/article/10.1186/s12873-026-01582-z#auth-Anne_Katrine-Bergland-Aff1-Aff6)[1](https://link.springer.com/article/10.1186/s12873-026-01582-z#Aff1),[6](https://link.springer.com/article/10.1186/s12873-026-01582-z#Aff6)
+
+Show authors
+
+*   390 Accesses
+
+*   1 Citation
+
+*   [Explore all metrics](https://link.springer.com/article/10.1186/s12873-026-01582-z/metrics)
+
+## Abstract
+
+### Background
+
+Delirium is a common neurocognitive syndrome among older adults, associated with increased morbidity, mortality, and healthcare costs. Emergency departments (EDs) represent a critical point for early detection and prevention, yet delirium often remains under-recognized in this setting. Contributing factors include overcrowding, sensory overload, and lack of orientation aids, combined with demographic shifts leading to more acutely admitted older adults with complex needs. This scoping review aimed to map existing research on delirium in elderly patients in EDs and identify knowledge gaps.
+
+### Methods
+
+The review followed Joanna Briggs Institute methodology and adhered to the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews. Structured searches were conducted in EMBASE, MEDLINE, CINAHL, Web of Science, Cochrane, and PsycINFO for studies published between 2015 and July 2024, updated in Se
+
+--- FUENTE WEB ---
+Título: CDC Clinical Practice Guideline for Prescribing Opioids for Pain
+URL: https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm
+Score: 0.9463777507632676
+
+Texto:
+![](/TemplatePackage/4.0/assets/imgs/uswds/us_flag_small.png)
+![](/TemplatePackage/4.0/assets/imgs/uswds/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A .gov website belongs to an official government organization in the United States.
+
+![](/TemplatePackage/4.0/assets/imgs/uswds/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+![CDC Logo](/TemplatePackage/4.0/assets/imgs/logo/logo-notext.svg)
+![CDC Logo](/TemplatePackage/4.0/assets/imgs/logo/logo-notext.svg)
+
+# CDC Clinical Practice Guideline for Prescribing Opioids for Pain — United States, 2022
+
+*Recommendations and Reports* / November 4, 2022 / 71(3);1–95
+
+Deborah Dowell, MD1; Kathleen R. Ragan, MSPH1; Christopher M. Jones, PharmD, DrPH2; Grant T. Baldwin, PhD1; Roger Chou, MD3 ([View author affiliations](#contribAff))
+
+##### Altmetric:
+
+[Box 1](#B1_down)
+
+[Box 2](#B2_down)
+
+[Box 3](#B3_down)
+
+[Box 4](#B4_down)
+
+[Box 5](#B5_down)
+
+## Summary
+
+*This guideline provides recommendations for clinicians providing pain care, including those prescribing opioids, for outpatients aged ≥18 years. It updates the* CDC Guideline for Prescribing Opioids for Chronic Pain — United States, 2016 (MMWR Recomm Rep 2016;65[No. RR-1]:1–49) *and includes recommendations for managing acute (duration of <1 month), subacute (duration of 1–3* *months), and chronic (duration of >3 months) pain. The recommendations do not apply to pain related to sickle cell disease or cancer or to patients receiving palliative or end-of-life care. The guideline addresses the following four areas: 1) determining whether or not to initiate opioids for pain, 2) selecting opioids and determining opioid dosages, 3) deciding duration of initial opioid prescription and conducting follow-up, and 4) assessing risk and addressing potential harms of opioid use. CDC developed the guideline using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework. Recommendations are based on systematic reviews of the scientific evidence and reflect considerations of benefits and harms, patient and clinician values and preferences, and resource allocation. CDC obtained input from the Board of Scientific Counselors of the National Center for Injury Prevention and Control (a federally chartered advisory committee), the public, and peer reviewers. CDC recommends that persons with pain receive appropriate pain treatment, with careful consideration of the benefits and risks of all treatment options in the context of the patient’s circumstances. Recommendations should not be applied as inflexible standards of care across patient populations. This clinical practice guideline is intended to improve communication between clinicians and patients about the benefits and risks of pain treatments, including opioid therapy; improve the effectiveness and safety of pain treatment; mitigate pain; improve function and quality of life for patients with pain; and reduce risks associated with opioid pain therapy, including opioid use disorder, overdose, and death.*
+
+[Top](#)
+
+## Introduction
+
+### Background
+
+Pain is one of the most common reasons adults seek medical care in the United States (*1*). Acute pain, a nearly universal experience, is a physiologic response to noxious stimuli that can become pathologic. Acute pain is usually sudden in onset and time limited (defined in this clinical practice guideline as having a duration of <1 month) and often is caused by injury, trauma, or medical treatments such as surgery (*2*,*3*). Unresolved acute pain or subacute pain (defined in this clinical practice guideline as pain that has been present for 1–3 months) can evolve into chronic pain (*4*). Chronic pain typically lasts >3 months (*4*) and can be the result of an underlying medical disease or condition, injury, medical treatment, inflammation, or unknown cause (*2*). Approximately one in five U.S. adults had chronic pain in 2019 and approximately one in 14 adults experienced “high-impact” chronic pain, defined as having pain on most days or every day during the past 3 months that limited life or work activities (*5*). Pain, especially chronic pain, can affect almost every aspect of a person’s life, leading to impaired physical functioning, poor mental health, and reduced quality of life, and contributes to substantial morbidity each year (*6*). In 2011, the economic costs of chronic pain were estimated to range from $560 to $635 billion in annual direct medical costs, lost productivity, and disability (*2*).
+
+Pain is a complex phenomenon influenced by multiple factors, including biologic, psychological, and social factors (*7*). This complexity means substantial heterogeneity exists in the effectiveness of various pain treatments, depending on the type of underlying pain or condition being treated (*7*–*11*). Patients might experience persistent pain that is not well controlled (*6*). Chronic pain often co-occurs with behavioral health conditions, including mental and substance use disorders (*12*,*13*). Patients with chronic pain also are at increased risk for suicidal ideation and behaviors (*14*,*15*). Data from death investigations in 18 states during 2003–2014 indicate that approximately 9% of suicide decedents had evidence of having chronic pain at the time of death; however, this is likely an underestimate because of the limitations of the underlying data sources used in the study (*16*). These factors and potentially harmful outcomes associated with chronic pain for some persons add to the clinical complexity and underscore the importance of adequately treating and providing care to persons with pain. Thus, prevention, assessment, and treatment of pain is a persistent challenge for clinicians. Pain might go unrecognized, and some persons (e.g., members of marginalized racial and ethnic groups; women; older persons; persons with cognitive im
+
+--- FUENTE WEB ---
+Título: Managing Delirium In The Emergency Department
+URL: https://brett-gerrard-yi04.squarespace.com/s/Managing-Delirium-In-The-Emergency-Department-Tools-For-Targeting-Underlying-Etiology.pdf
+Score: 0.941047445947882
+
+Texto:
+October 2015 V olum e 17, Num ber 10 Authors Nelson Wong, MD Assistant, Emergency Medicine Simulation Fellow, Learning Laboratory, Massachusetts General Hospital, Boston, MA Gallane Abraham, MD Assistant Professor, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Peer Reviewers Aryeh Dienstag, MD Fellow, Psychosomatic Medicine, Mount Sinai Medical Center, New York, NY Nicholas Schwartz, MD Attending Physician, Elmhurst Hospital Center, Queens, NY Leslie Zun, MD Professor and Chair, Department of Emergency Medicine, Chicago Medical School and Sinai Health System, Chicago, IL CME Objectives Upon completion of this article you should be able to: 1. Describe the morbidity and mortality associated with delirium.
+2. Identify major vulnerability and precipitant factors for delirium.
+3. Apply a delirium screening tool to patients with suspected delirium.
+4. Discuss the role of system- and team-based approaches to the prevention, diagnosis, and management of delirium.
+Prior to beginning this activity, see “Physician CME Information” on the back page Managing Delirium In The Em ergency Departm ent: T ools For T argeting Underlying Etiology Abstract Delirium represents the complex junction between vulnerable patients, medical conditions, and environmental factors. Given the varied presentations of this disorder and the emergency depart­ ment clinical environment, recognition and treatment may be challenging. Delirium can be diagnosed using validated standard­ ized screening tools such as the Confusion Assessment Method. Management of delirium is directed towards rapidly treating the underlying medical condition while preventing and managing the behavioral symptoms with nonpharmacological (first-line) and pharmacological (second-line) interventions. In the severely agi­ tated patient, pharmacological treatment tailored to the patient’s age and comorbidities may be required as the initial treatment to facilitate evaluation and management of the underlying medical condition. Effective risk stratification and triage tools can positively impact patient and staff safety, as well as patient outcomes. Editor-In-Chief Andy Jagoda, MD, FACEP Professor and Chair, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, Medical Director, Mount Sinai Hospital, New York, NY Associate Editor-In-Chief Kaushal Shah, MD, FACEP Associate Professor, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Editorial Board William J. Brady, MD Professor of Emergency Medicine and Medicine, Chair, Medical Emergency Response Committee, Medical Director, Emergency Management, University of Virginia Medical Center, Charlottesville, VA Calvin A. Brown III, MD Director of Physician Compliance, Credentialing and Urgent Care Services, Department of Emergency Medicine, Brigham and Women's Hospital, Boston, MA Mark Andrew Clark, MD Assistant Professor of Emergency Medicine, Program Director, Emergency Medicine Residency, Mount Sinai St. Luke's, Mount Sinai Roosevelt, New York, NY Peter DeBlieux, MD Professor of Clinical Medicine, Interim Public Hospital Director of Emergency Medicine Services, Louisiana State University Health Science Center, New Orleans, LA Nicholas Genes, MD, PhD Assistant Professor, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Michael A. Gibbs, MD, FACEP Professor and Chair, Department of Emergency Medicine, Carolinas Medical Center, University of North Carolina School of Medicine, Chapel Hill, NC Steven A. Godwin, MD, FACEP Professor and Chair, Department of Emergency Medicine, Assistant Dean, Simulation Education, University of Florida COM-Jacksonville, Jacksonville, FL Gregory L. Henry, MD, FACEP Clinical Professor, Department of Emergency Medicine, University of Michigan Medical School; CEO, Medical Practice Risk Assessment, Inc., Ann Arbor, MI John M. Howell, MD, FACEP Clinical Professor of Emergency Medicine, George Washington University, Washington, DC; Director of Academic Affairs, Best Practices, Inc, Inova Fairfax Hospital, Falls Church, VA Shkelzen Hoxhaj, MD, MPH, MBA Chief of Emergency Medicine, Baylor College of Medicine, Houston, TX Eric Legome, MD Chief of Emergency Medicine, King’s County Hospital; Professor of Clinical Emergency Medicine, SUNY Downstate College of Medicine, Brooklyn, NY Keith A. Marill, MD Research Faculty, Department of Emergency Medicine, University of Pittsburgh Medical Center, Pittsburgh, PA Charles V. Pollack Jr., MA, MD, FACEP Professor and Chair, Department of Emergency Medicine, Pennsylvania Hospital, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA Michael S. Radeos, MD, MPH Assistant Professor of Emergency Medicine, Weill Medical College of Cornell University, New York; Research Director, Department of Emergency Medicine, New York Hospital Queens, Flushing, NY Ali S. Raja, MD, MBA, MPH Vice-Chair, Emergency Medicine, Massachusetts General Hospital, Boston, MA Robert L. Rogers, MD, FACEP, FAAEM, FACP Assistant Professor of Emergency Medicine, The University of Maryland School of Medicine, Baltimore, MD Alfred Sacchetti, MD, FACEP Assistant Clinical Professor, Department of Emergency Medicine, Thomas Jefferson University, Philadelphia, PA Robert Schiller, MD Chair, Department of Family Medicine, Beth Israel Medical Center; Senior Faculty, Family Medicine and Community Health, Icahn School of Medicine at Mount Sinai, New York, NY Scott Silvers, MD, FACEP Chair, Department of Emergency Medicine, Mayo Clinic, Jacksonville, FL Corey M. Slovis, MD, FACP, FACEP Professor and Chair, Department of Emergency Medicine, Vanderbilt University Medical Center, Nashville, TN Stephen H. Thomas, MD, MPH George Kaiser Family Foundation Professor & Chair, Department of Emergency Medicine, University of Oklahoma School of Community Medicine, Tulsa, OK David M. Walker, MD, FACEP, FAAP Director, Pediatric Emergency Services, Division Chi
+
+--- FUENTE WEB ---
+Título: Delirium in Older Persons: Prevention, Evaluation, and Management | AFP
+URL: https://www.aafp.org/afp/2023/0900/delirium-older-persons
+Score: 0.9392827773590247
+
+Texto:
+![American Family Physician logo.](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1779209772/american_family_physician_navigation_desktop.svg)
+![AAFP logo](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1753724394/aafp_logo_tri029.png)
+
+## Login / Create account
+
+Sign in to the website to make the most of your experience. When you log in, you can:
+
+Having a free website account offers several benefits:
+
+AAFP informs and advocates for family physicians throughout their careers. Join for access to:
+
+# Delirium in Older Persons: Prevention, Evaluation, and Management
+
+American Family Physician. 2023;108(3):278-287.
+
+Author disclosure: No relevant financial relationships.
+
+Epidemiology
+
+Pathophysiology and Risk Factors
+
+Diagnosis
+
+Treatment of Delirium
+
+Other Situations
+
+Prognosis
+
+SORT: KEY RECOMMENDATIONS FOR PRACTICE
+
+BEST PRACTICES IN GERIATRICS
+
+Incidence of Delirium in Health Care Settings
+
+Risk Factors for Developing Delirium
+
+Differential Diagnosis for Causes of Delirium
+
+Confusion Assessment Method
+
+DSM-5-TR Criteria for the Diagnosis of Delirium
+
+Interventions to Prevent Delirium
+
+Pharmacologic Therapy for Delirium
+
+Delirium is an acute disturbance in attention, cognition, and awareness that fluctuates over time. Delirium is characterized by three subtypes: hyperactive, hypoactive, and mixed. It occurs in 11% to 25% of older adults in inpatient settings and is associated with a significant financial burden. Older age, multiple comorbidities, recent surgery, and polypharmacy are independent risk factors for delirium. The diagnosis is clinical but can be challenging due to overlapping symptoms with dementia and depression. The Confusion Assessment Method is a screening tool that is 94% to 100% sensitive and 90% to 95% specific for delirium. There is no evidence to support medication use for delirium prevention. Nonpharmacologic interventions, such as sufficient hydration and nutrition, early mobilization, infection control, and frequent orientation, can prevent and treat delirium. Physical restraints should be avoided, but if needed in patients at significant risk of injury to themselves or others, their use should be reassessed at least every 24 hours. No medications are approved by the U.S. Food and Drug Administration for the treatment of delirium. If pharmacologic therapy is indicated, second-generation antipsychotics such as olanzapine, risperidone, and quetiapine are preferred over haloperidol because of their faster onset of action and fewer adverse effects. Patients hospitalized with prolonged delirium have approximately three times the chance of dying in the following year compared with patients with a quick resolution of delirium or no symptoms; therefore, prevention and early detection should be emphasized.
+
+Delirium is a syndrome characterized by an acute disturbance in attention, cognition, and awareness that develops within hours to days and fluctuates in severity over time. There are three subtypes of psychomotor disturbances of delirium: hyperactive, hypoactive, and mixed.[1](#afp20230900p278-b1) Hyperactive delirium is marked by agitation and restlessness and can be misdiagnosed as primary psychosis or dementia. Hypoactive delirium is characterized by lethargy and psychomotor impairment and can be mistaken for depression. Mixed delirium has hyperactive and hypoactive features.[1](#afp20230900p278-b1) Historically, the terms delirium, acute encephalopathy, acute confusional state, acute brain dysfunction, acute brain failure, and altered mental status have been used interchangeably and imprecisely. Delirium and acute encephalopathy are the most accepted terms and refer to a deviation from the patient's baseline cognition.[2](#afp20230900p278-b2) An accurate diagnosis of delirium is essential to prevent inappropriate treatments, prolonged hospitalization, cognitive decline, and increased mortality and morbidity.[3](#afp20230900p278-b3),[4](#afp20230900p278-b4)
+
+### SORT: KEY RECOMMENDATIONS FOR PRACTICE
+
+![](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773012622/Journals/Automation/AFP/2023/0900/p278-ut1-gif.gif)
+
+| **Clinical recommendation** | **Evidence rating** | **Comments** |
+| --- | --- | --- |
+| [The Confusion Assessment Method is the most accurate tool for diagnosing delirium in adults.](#afp20230900p278-sort1)[24](#afp20230900p278-b24) | **C** | Systematic review |
+| [The Hospital Elder Life Program is a multidisciplinary strategy that addresses sleep hygiene, cognitive impairment, immobility, visual and hearing impairment, and dehydration and should be used to prevent delirium.](#afp20230900p278-sort2)[28](#afp20230900p278-b28) | **B** | Systematic review |
+| [Medications should not be used for the prevention of delirium in hospitalized patients.](#afp20230900p278-sort3)[4](#afp20230900p278-b4) | **A** | Systematic review |
+| [The combination of lorazepam with haloperidol is more effective than haloperidol alone for reducing agitated delirium in patients with advanced cancer.](#afp20230900p278-sort4)[46](#afp20230900p278-b46) | **B** | Double-blind, randomized controlled trial |
+
+**A** = consistent, good-quality patient-oriented evidence; **B** = inconsistent or limited-quality patient-oriented evidence; **C** = consensus, disease-oriented evidence, usual practice, expert opinion, or case series. For information about the SORT evidence rating system, go to <https://www.aafp.org/afpsort>.
+
+### BEST PRACTICES IN GERIATRICS
+
+![](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773012623/Journals/Automation/AFP/2023/0900/p278-ut2-gif.gif)
+
+| **Recommendation** | **Sponsoring organization** |
+| --- | --- |
+| Do not use benzodiazepines or other sedative-hypnotics in older adults as the first choice for treating insomnia, agitation, or delirium. | American Geriatrics Society |
+| Do not administer as-needed sedative, antipsychotic, or hypnotic medications to prevent or treat delirium without first assessing for, removing, and treating the underlyin
+
+--- FUENTE WEB ---
+Título: Treating Delirium & Agitation in the Emergency Room, 2015 | EB Medicine
+URL: https://www.ebmedicine.net/topics/psychiatric-behavioral/delirium-agitation
+Score: 0.9380661184565348
+
+Texto:
+![](https://www.facebook.com/tr?id=245213793436832&ev=PageView&noscript=1)
+![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png)
+![EB Medicine logo](/template_images/EBM_logo_2.png)
+![Click to search](/template_images/_ebm_icon_search.png)
+![Click to check your cart](/template_images/_ebm_cart_icon.png)
+![navigation bar background](/template_images/_icon_bars_trans.png)
+![Click to search](/template_images/_ebm_icon_search.png)
+![EB Medicine logo](/template_images/EBM_logo_2.png)
+![](/template_images/_icon_grid_trans.png)
+![Click to search](/template_images/_ebm_icon_search.png)
+![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png)
+![Click to check your cart](/template_images/_ebm_cart_icon.png)
+![](/publicationImages/EMP-Heading.png "Emergency Medicine Practice")
+
+# Managing Delirium In The Emergency Department: Tools For Targeting Underlying Etiology
+
+|  |  |
+| --- | --- |
+|  | Get a FREE Issue of Emergency Medicine Practice See why tens of thousands of emergency clinicians choose *Emergency Medicine Practice* to stay sharp, save time, and improve patient care.  Email Address  Website |
+
+### Get a FREE Issue of Emergency Medicine Practice
+
+![](/template_images/New-TOC-desktop-icon.png)
+![](/template_images/New-TOC-mobile-icon.png)
+![](/template_images/icon-close.png)
+
+### Abstract
+
+## Delirium represents the complex junction between vulnerable patients, medical conditions, and environmental factors. Given the varied presentations of this disorder and the emergency department clinical environment, recognition and treatment may be challenging. Delirium can be diagnosed using validated standardized screening tools such as the Confusion Assessment Method. Management of delirium is directed towards rapidly treating the underlying medical condition while preventing and managing the behavioral symptoms with nonpharmacological (first-line) and pharmacological (second-line) interventions. In the severely agitated patient, pharmacological treatment tailored to the patient’s age and comorbidities may be required as the initial treatment to facilitate evaluation and management of the underlying medical condition. Effective risk stratification and triage tools can positively impact patient and staff safety, as well as patient outcomes.
+
+### Case Presentations
+
+*It is the beginning of another Saturday night shift, and as you walk in, you see security and the outgoing attending wrestling a large 20-something-year-old man to the bed. He is yelling about a government conspiracy and his right to freedom of speech. A nurse injects medicine into his left deltoid. You are looking forward to the sign-out on this gentleman and wonder what he was injected with and whether there was another way to manage him.*
+
+*As your colleagues manage the young man, you scan the board and see that the next patient to be seen is a 79-year-old lady who presents for altered mental status. As you approach the bed, you do not see anyone with her. You begin to take her history, and observe that she seems a bit lethargic and is tangential in her thinking. She is able to tell you that she lives with her husband and has a history of high blood pressure and confusion. She then mentions that you look like a friend of hers from work and asks whether you are married. You see your colleagues finishing up with their patient, so you extricate yourself and return to the physician station wondering why this patient is so lethargic and why her attention is so decreased.*
+
+*Finally, just as rounds are about to begin, you see an intubated* *patient in the first resuscitation bay starting to buck at his vent. You notice his hands and feet are in 4-point restraints. After inquiring about the reason for his visit, you are informed that he is a chronic alcoholic who had been attempting to detoxify at home and has come in today in delirium tremens, requiring intubation and large doses of benzodiazepines. You are concerned about the 4-point restraints, which you know are not favored, and you wonder if there was a better (and safer) way to manage the patient’s agitation.*
+
+### Introduction
+
+Delirium is a complex neuropsychiatric disorder that often manifests secondary to a discrete medical condition. *The Diagnostic and Statistical Manual of Mental Disorders, Fifth edition* (DSM-5) describes delirium as an acute (usually developing over hours or a few days) and/or fluctuating disturbance in attention and cognition due to a medical condition, intoxicating substance, or multiple etiologies.
+
+In the younger population, delirium encompasses common chief complaints such as agitation and altered mental status.2,3 Among the elderly population, it is estimated that 7% to 24% of patients presenting to the emergency department (ED) will have delirium, and up to 80% of critically ill intensive care patients will have delirium.4 A diagnosis of delirium carries with it significant morbidity and mortality, in addition to increased utilization of resources.5–9
+
+Studies have shown that most emergency clinicians do not screen for or document their findings of delirium.10-12 Because of this lack of screening and the fluctuating course of the condition, the overall incidence of delirium in the ED is unknown. Some posit that emergency clinicians are aware of the impact of delirium on patient outcomes but are not knowledgeable about its diagnosis and management.13
+
+Emergency clinicians are trained to manage the overt signs of delirium while concurrently searching for its underlying etiology. However, gaps in screening, knowledge, and understanding contribute to a missed diagnosis rate in the range of 54% to 89%.4,14 Additional complicating factors include the varied presentations of these patients and the inherent time and environmental pressures of the ED clinical environment. Diagnostic accuracy has been poor, and much of the emergency medicine literature on delirium is 
+
+--- FUENTE WEB ---
+Título: Management of Agitation in Elderly Patients with Delirium - Emergency Medicine
+URL: https://emergencymedicine.wustl.edu/management-of-agitation-in-elderly-patients-with-delirium
+Score: 0.9302151211362785
+
+Texto:
+[Skip to content](#content) [Skip to search](#header-search-field) [Skip to footer](#colophon)
+
+[Emergency Medicine](https://emergencymedicine.wustl.edu/)
+
+[Journal Club](https://emergencymedicine.wustl.edu/category/journal-club/)
+
+# Management of Agitation in Elderly Patients with Delirium
+
+By [Sang](https://emergencymedicine.wustl.edu/author/nsang/) •
+
+Washington University Emergency Medicine Journal Club – April 16th, 2026
+
+**Dr. Brian Cohn**
+
+Hello all,
+
+This month’s journal club will be looking at the management of agitation in elderly patients with delirium. We will look at pharmacologic and non-pharmacologic treatment options. The PGY-1 paper will be appraised using the meta-analysis form. The PGY-2, 3, and 4 papers will be appraised using the Therapy form.
+
+---
+
+**Vignette**
+
+You’re working an evening shift in the emergency department when EMS brings in an 82-year-old male with a history of Alzheimer’s dementia and recurrent UTIs from a skilled nursing facility for “acute confusion and agitation.” According to staff, the patient was at his baseline—confused but conversational—earlier that morning. Over the past several hours, he became increasingly disoriented, began yelling at staff, and attempted to climb out of bed multiple times, prompting transfer to the ED.
+
+On arrival, the patient is visibly agitated. He is yelling incoherently, intermittently trying to get off the stretcher, and swatting at staff who attempt to examine him. His vital signs show a temperature of 38.3°C, heart rate of 108, blood pressure of 146/82, respiratory rate of 22, and oxygen saturation of 96% on room air.
+
+The nurse asks if you would like to order some versed to help “calm him down.” At the same time, your attending suggests starting with non-pharmacologic measures and identifying the underlying cause, while also mentioning that medications may still be necessary if the patient becomes a danger to himself or staff.
+
+As the patient continues to thrash and attempts to remove his IV, security is called to the bedside. The team looks to you for guidance—should you proceed with pharmacologic sedation, and if so, which agent is safest and most effective in this elderly patient? You pause for a moment, realizing that while treating agitation is urgent, the underlying issue may be delirium—and the best approach may not be as straightforward as simply giving an antipsychotic. You begin to wonder: what does the evidence say about managing agitation and delirium in elderly patients?
+
+---
+
+**PICO Question**  
+**Population**: Elderly patients (≥65 years) with acute delirium and/or agitation in the  
+hospital or ICU  
+**Intervention**: Pharmacologic treatment (e.g., antipsychotics, benzodiazepines,  
+dexmedetomidine  
+**Comparison**: Placebo, usual care, or non-pharmacologic management  
+**Outcome**: Duration of delirium, mortality, need for additional sedation/restraints,  
+adverse events (e.g., QT prolongation, oversedation)
+
+---
+
+**Article 1**: Casey MF, Elder NM, Fenn A, et al. Comparative safety of medications for  
+severe agitation: A Geriatric Emergency Department Guidelines 2.0 systematic  
+review. J Am Geriatr Soc. 2025;73(9):2893–2904. [[Answer Key](https://docs.google.com/document/d/1GxcN08xh1fLNCO91rTkzjtGfJoKxcTPD/edit)].  
+**Article 2**: Andersen-Ranberg NC, Poulsen LM, Perner A, et al. Haloperidol for the  
+treatment of delirium in ICU patients. N Engl J Med. 2022;387(26):2425–2435.  
+[[Answer Key](https://docs.google.com/document/d/1pYQVL1PNPT7bTDcMUVnaXPuIZpjh8FmO/edit)].  
+**Article 3**: Godet T, Louis C, Rieu B, et al. Dexmedetomidine for treatment of  
+hyperactive delirium in non-intubated ICU patients: the 4D randomized clinical trial.  
+Intensive Care Med. 2025;51(12):2305–2317. [[Answer Key](https://docs.google.com/document/d/1iBx5OfCBHkD9KmF0rMqwgrtRToglN7ph/edit)].  
+**Article 4**: Inouye SK, Bogardus ST Jr, Charpentier PA, et al. A multicomponent  
+intervention to prevent delirium in hospitalized older patients. N Engl J Med.  
+1999;340(9):669–676. [[Answer Key](https://docs.google.com/document/d/1-8NYXOBhvJBbCvsOT2nwq-rJEHsnQCX9/edit)].
+
+---
+
+**Bottom Line**
+
+Delirium is relatively common among hospitalized patients, with an increasing risk seen with advancing age ([Bugiani 2021](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC8143064%2F%23CR6&data=05%7C02%7Cnsang%40wustl.edu%7Cc0e59c32286d41a66aa008de9ef5b337%7C4ccca3b571cd4e6d974b4d9beb96c6d6%7C0%7C0%7C639122976141880485%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tSrS1mU1qQlYbZpdDyNcRg6pIW2o3lh2AObCTREinzA%3D&reserved=0)). Delirium is seen in around 10 to 15% of elderly patients in the ED alone, and its presence in the ED has been associated with higher 30-day mortality and increased need for readmission within 30 days ([Kennedy 2014](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC3959285%2F&data=05%7C02%7Cnsang%40wustl.edu%7Cc0e59c32286d41a66aa008de9ef5b337%7C4ccca3b571cd4e6d974b4d9beb96c6d6%7C0%7C0%7C639122976141897771%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QcZBuxjZPDbQyzGLunGzgfeMw0fBCwO0nnPDoOYxlqA%3D&reserved=0)). We sought to evaluate evidence related to the treatment and prevention of delirium among elderly patients in the ED, with a specific focus on the management of [hyperactive delirium and agitation](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F37977752%2F&data=05%7C02%7Cnsang%40wustl.edu%7Cc0e59c32286d41a66aa008de9ef5b337%7C4ccca3b571cd4e6d974b4d9beb96c6d6%7C0%7C0%7C639122976141907989%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1ec%2B2gl43QKvpiRboV%2Bnxq4XQ5mlLJ2AdRURmu%2BoQb0%3D&reserved=0
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada

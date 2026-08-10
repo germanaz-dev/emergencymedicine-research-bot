@@ -38,5 +38,10 @@
     "last_seen": "2026-08-09",
     "times_reviewed": 1,
     "axis": "respiratory"
+  },
+  "delirium_elderly": {
+    "last_seen": "2026-08-10",
+    "times_reviewed": 1,
+    "axis": "vulnerable_populations"
   }
 }
