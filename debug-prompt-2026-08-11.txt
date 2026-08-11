@@ -1,0 +1,798 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: acute dyspnea in the emergency department
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Liver Function Abnormalities in Acute Heart Failure: A State-of-the-art Review from an International Expert Group.
+Revista: Cardiac failure review
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42495596
+DOI: 10.1002/EJHF.3673
+URL: https://pubmed.ncbi.nlm.nih.gov/42495596/
+
+Abstract:
+Acute heart failure (AHF) is a systemic condition characterised by multiorgan involvement that varies from subclinical to overt organ failure. The liver is particularly vulnerable due to its dual blood supply and sensitivity to haemodynamic and inflammatory disturbances. Abnormal liver function tests are highly prevalent in patients with AHF, reflecting major mechanisms: passive hepatic venous congestion from elevated central venous pressure, hepatocellular ischaemia from low cardiac output, systemic inflammation and poor metabolic status associated with cachexia. In patients with AHF, liver function tests at admission, during hospitalisation and at discharge are independently associated with rehospitalisation, cardiovascular and all-cause mortality. Persistent abnormalities after hospitalisation often reflect incomplete decongestion or irreversible structural liver changes. Therapeutic strategies focus on decongestion, optimisation of cardiac output and medication adjustments to avoid hepatotoxicity. Despite significant advances in understanding cardio-hepatic interactions, major gaps remain, including the lack of standardised definitions, limited mechanistic studies and the underrepresentation of patients with heart failure with preserved ejection fraction in contemporary research. Future research should explore targeted therapies to improve cardiohepatic interactions and patient outcomes.
+
+--- PAPER PUBMED ---
+Título: The injured esophagus: imaging spectrum of esophageal emergencies.
+Revista: European journal of radiology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42468312
+DOI: 10.1016/j.ejrad.2026.113067
+URL: https://pubmed.ncbi.nlm.nih.gov/42468312/
+
+Abstract:
+Esophageal emergencies include a heterogeneous group of conditions that, if not promptly recognized and treated, may progress rapidly to life-threatening complications including mediastinitis, sepsis, and multiorgan failure. The clinical presentation is typically non-specific, including symptoms such as chest pain, dysphagia, odynophagia, and dyspnea, which frequently overlap with more common cardiopulmonary pathologies, making the clinical diagnosis challenging. Imaging therefore occupies a central position in the diagnostic pathway. While fluoroscopic contrast esophagography has historically been the cornerstone examination for evaluating esophageal pathology, multidetector computed tomography (CT) has progressively established itself as the primary modality of choice in the emergency setting, owing to its speed, widespread availability, and unique capacity to simultaneously assess the esophageal lumen, the layered wall structure, and the surrounding mediastinal anatomy. A broad spectrum of pathologic processes may acutely involve the esophagus, ranging from caustic ingestion and spontaneous full-thickness rupture to traumatic injury, foreign body impaction, intramural hematoma, severe infectious esophagitis, iatrogenic perforation, and rare but life-threatening fistulous communications. This pictorial review aims to illustrate the imaging spectrum of esophageal emergencies with particular emphasis on CT findings, highlighting key diagnostic features, potential pitfalls, and the radiologist's role in guiding timely clinical management.
+
+--- PAPER PUBMED ---
+Título: Comparative efficacy of continuous versus intermittent administration of furosemide in acute heart failure: an updated systematic review and meta-analysis of 22 RCTs.
+Revista: Frontiers in cardiovascular medicine
+Fecha: 2026
+Tipo: Journal Article, Systematic Review
+PMID: 42440860
+DOI: 10.1007/s10741-018-9727-7
+URL: https://pubmed.ncbi.nlm.nih.gov/42440860/
+
+Abstract:
+Acute heart failure is defined as the rapid or gradual onset of signs and/or symptoms of heart failure severe enough to warrant unplanned hospital or emergency department care. As of 2019, an estimated 56.2 million individuals across 204 countries and territories were living with heart failure; data gaps suggest the true burden is likely higher. The global number of HF cases doubled from 27.2 million in 1990 to 56.2 million in 2019, with a parallel doubling observed in both sexes. Intravenous loop diuretics-predominantly furosemide-constitute the cornerstone of decongestive therapy, yet the optimal dosing strategy is still debated. Previous studies have established the framework for this field but yielded conflicting conclusions. In addition, those studies had some limitations. Therefore, we conducted an updated systematic review and meta-analysis that identified and included all RCTs comparing continuous infusion with intermittent bolus furosemide in adult patients with acute heart failure or NYHA class III-IV symptoms. We conducted a systematic literature search in PubMed, Embase, the Cochrane Library, CNKI, Wan Fang, and VIP databases for relevant studies published up to 1 October 2025. RCTs comparing continuous infusion with intermittent bolus furosemide in adult patients with acute heart failure or NYHA class III-IV symptoms were included. Primary endpoints were all-cause mortality and freedom from congestion. Secondary endpoints were weight loss, 24-h urine volume, length of hospital stay, 72-h urine volume, post-treatment BNP, edema resolution time, time to dyspnea improvement, post-treatment LVEF, and post-treatment LVEDD. A total of 22 RCTs with 2,633 participants were included. The intermittent intravenous (iIV) arm showed a numerical trend toward all-cause mortality without reaching statistical significance (low evidence quality) compared with the continuous intravenous (cIV) arm (RR: 1.36, 95% CI: 0.96-1.94, p =  0.08). The cIV arm demonstrated significant improvements in freedom from congestion (moderate evidence quality) compared with the iIV arm (RR: 1.42, 95% CI: 1.06-1.91, p = 0.02). In addition, the cIV arm showed significant improvements in weight loss (moderate evidence quality), 24-h urine volume (low evidence quality), length of hospital stay (low evidence quality), edema resolution time (low evidence quality), time to dyspnea improvement (low evidence quality), post-treatment LVEF (low evidence quality), post-treatment LVEDD (low evidence quality), and post-treatment BNP level (moderate evidence quality). Compared with intravenous bolus furosemide, continuous infusion was associated with faster relief of congestion, greater weight loss, and greater reduction in post-treatment BNP levels (moderate evidence quality). However, no significant advantage was demonstrated for the remaining outcomes or long-term survival, as judged by the quality of evidence and effect estimates. https://www.crd.york.ac.uk/PROSPERO/view/CRD420260223267, identifier CRD420260223267.
+
+--- PAPER PUBMED ---
+Título: Cardiovascular sequelae of Long COVID: immune dysregulation inflammation as central drivers.
+Revista: Frontiers in immunology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42421948
+DOI: 10.3390/medicina59091583
+URL: https://pubmed.ncbi.nlm.nih.gov/42421948/
+
+Abstract:
+Long coronavirus disease 2019 (Long COVID-19), also referred to as post-acute sequelae of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, has emerged as a major global health challenge. Common manifestations include fatigue, dyspnea, cognitive dysfunction, and exercise intolerance. Beyond these systemic manifestations, the enduring cardiovascular manifestations are increasingly identified as core characteristics of Long COVID-19 syndromes secondary to SARS-CoV-2 infection, encompassing myocarditis, ischemic and non-ischemic heart disease, arrhythmias, heart failure, and thrombotic events. Accumulating evidence suggests that immune dysregulation and persistent inflammation are central drivers of cardiovascular injury in Long COVID. Persistent activation of innate and adaptive immune pathways fosters endothelial injury, thrombo-inflammation, and adverse myocardial remodeling. In this review, we focus on current clinical and experimental evidence to delineate the immune-mediated mechanisms underlying cardiovascular sequelae in Long COVID and explore potential therapeutic strategies targeting persistent inflammation and immune dysregulation.
+
+--- PAPER PUBMED ---
+Título: A descriptive analysis of published case reports of severe allergic reactions induced by rituximab.
+Revista: Medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42410799
+DOI: 10.1097/MD.0000000000049513
+URL: https://pubmed.ncbi.nlm.nih.gov/42410799/
+
+Abstract:
+This study aimed to characterize the clinical profile of severe allergic reactions associated with rituximab therapy. We conducted a descriptive, retrospective analysis of published case reports and case series. Relevant reports published between January 2000 and October 2025 were identified through searches of PubMed, Embase, China National Knowledge Infrastructure, Chinese Science and Technology Journal Database, and WanFang databases. Data on patient demographics, clinical presentation, management, and outcomes were extracted and analyzed descriptively. A total of 24 documented cases were included. Patients had a mean age of 46.4 years, with a range of 6 to 86 years. Females accounted for 54.2% of the cases. The most frequent underlying condition was hematological malignancy, reported in 58.3% of patients. The majority of allergic reactions occurred within 24 hours of infusion, and nearly half occurred during the initial administration. Notably, in the included cases, 75.0% of patients developed severe reactions despite the administration of standard premedication. Predominant symptoms were dyspnea (37.5%), chest tightness (29.2%), laryngeal edema (25.0%), chills (20.8%), and hypotension (16.7%). According to the World Allergy Organization criteria, 75.0% of the cases met the diagnostic criteria for anaphylaxis. Primary management strategies included discontinuation of rituximab (79.2%), corticosteroids (54.1%), epinephrine (37.5%), and antihistamines (37.5%). While most patients (83.3%) improved following intervention, 20.8% required care in an intensive care unit or emergency department. Causality assessment using the Naranjo scale rated the association as "probable" in 58.3% of cases and "certain" in 25.0%. Rituximab can induce severe and potentially life-threatening allergic reactions. These reactions may occur in patients of any age, during any treatment cycle, and even after prophylactic medication has been administered. Most reactions are acute in onset and primarily involve the respiratory and cardiovascular systems. These findings highlight the importance of close monitoring and prompt intervention during rituximab therapy. Further studies are needed to refine preventive and management strategies.
+
+--- PAPER PUBMED ---
+Título: Myocarditis as the first sign of SLE: a case report and review of the literature.
+Revista: Rheumatology international
+Fecha: 2026
+Tipo: Journal Article, Case Reports, Review
+PMID: 42400664
+DOI: 10.1177/2048872612455122
+URL: https://pubmed.ncbi.nlm.nih.gov/42400664/
+
+Abstract:
+Lupus myocarditis (LM) is a rare but potentially life threatening manifestation of systemic lupus erythematous (SLE). LM may be rarely the initial presentation of SLE or ma y be presented during the course of the disease. Herein, we report a case of an adult female patient who presented with a 3-day history of abdominal pain, fever and recent onset dyspnea on exertion. Twenty-four hours later the patient developed acute heart failure went into cardiac arrest during her transfer from the internal medicine department to the CT scanner. She was intubated, an intra-aortic balloon pump was inserted, and was transferred to the intensive care unit (ICU). Based on clinical signs, laboratory parameters and cardiac imaging and after the exclusion of other causes of acute heart failure LM was diagnosed. The patient received high doses of corticosteroids and cyclophosphamide and she was improved. The vasopressors were tapered off and the intra-aortic balloon pump was removed. The patient improved and she shifted out of the ICU. The initially increased troponin levels were decreased, while the ejection fraction increased to 60% five days later. The patient was followed as an outpatient after hospital discharge. At 6 months of follow-up the she was on treatment with low doses of oral steroids, hydroxychloroquine and azathioprine and her ejection fraction is 73% without signs of active disease. No recurrences of her LM have been observed during her 32 month follow-up. Prompt recognition and aggressive immunosuppressive treatment may lead to favourable prognosis.
+
+--- PAPER PUBMED ---
+Título: A Contemporary Perspective on Acute Decompensated Heart Failure Classification: A State-of-the-art Review from an International Expert Group.
+Revista: Cardiac failure review
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42339000
+DOI: 10.1001/jamacardio.2023.4553
+URL: https://pubmed.ncbi.nlm.nih.gov/42339000/
+
+Abstract:
+There is a large spectrum of acute decompensated heart failure presentations resulting from the interaction between an acute precipitant and the patient's underlying cardiac and non-cardiac conditions. A robust classification scheme at admission is crucial for appropriate triage and targeted treatment of high-risk populations. Such a scheme should incorporate timely actionable items to generate immediate management decisions, including characteristics that suggest life-threatening clinical presentations, the factors that could be favourably modified by in-hospital interventions, such as correctable aetiologies and congestion/hypoperfusion status, and in-hospital trajectories determined by patient responses to inpatient treatment. In-hospital trajectories determine the intensity of escalation therapies and timing for initiation/up-titration of guideline-directed medical treatment. In the long term, some patients experience a progressive downsloping course culminating in advanced heart failure, while others maintain a relatively stable remitting-relapsing trajectory. For future clinical trials, a comprehensive classification scheme integrating in-hospital and long-term trajectories could profoundly affect study design by ensuring interventions are tested in more homogeneous patient populations and facilitating nuanced patient stratification.
+
+--- PAPER PUBMED ---
+Título: 2025 Korean Guidelines for Cardiopulmonary Resuscitation: Part 11. First aid.
+Revista: Clinical and experimental emergency medicine
+Fecha: 2026
+Tipo: Guideline, Journal Article
+PMID: 42297414
+DOI: 10.1093/europace/euab041
+URL: https://pubmed.ncbi.nlm.nih.gov/42297414/
+
+Abstract:
+The 2025 Korean Guidelines for Cardiopulmonary Resuscitation include a first aid section developed through a systematic review and evidence appraisal. The revision aimed to strengthen prehospital first aid response capacity while reflecting the Korean healthcare system, field feasibility, and relevant legal and institutional contexts. The guidelines provide evidence-based recommendations for seven priority emergencies: adult chest pain suggestive of myocardial infarction, suspected acute ischemic stroke, asthma-related dyspnea, anaphylaxis, seizures, shock, and syncope. Core principles emphasize early recognition, prompt activation of emergency medical services, minimizing delays to definitive care, and safe condition-specific interventions. Key recommendations include assisting with patient-prescribed medications when appropriate (e.g., nitroglycerin, inhaled bronchodilators, and epinephrine autoinjectors), using structured stroke screening tools, preventing aspiration through proper positioning and withholding oral intake in patients at risk of dysphagia, administering oxygen only for hypoxemia, and initiating cardiopulmonary resuscitation in patients who are unconscious and not breathing normally. Seizure management focuses on safety and emergency medical services activation criteria, while care for shock and syncope emphasizes patient positioning and post-event assessment. These recommendations provide practical, evidence-based guidance for improving patient safety and outcomes in prehospital settings.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Acute dyspnea in the emergency department: a clinical review
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10235852
+Score: 0.80405265
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC10235852#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: Internal and Emergency Medicine logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-springeropen.png)
+
+Intern Emerg Med
+
+. 2023 Jun 2;18(5):1491. doi: [10.1007/s11739-023-03322-8](https://doi.org/10.1007/s11739-023-03322-8)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Intern%20Emerg%20Med%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Intern%20Emerg%20Med%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Intern%20Emerg%20Med%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC10235852?term=%22Intern%20Emerg%20Med%22[jour])
+
+# Acute dyspnea in the emergency department: a clinical review
+
+[Pierachille Santus](https://pubmed.ncbi.nlm.nih.gov/?term=%22Santus%20P%22[Author])
+
+### Pierachille Santus
+
+1 grid.144767.70000 0004 4682 2907Division of Respiratory Diseases, Ospedale Luigi Sacco, Polo Universitario, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157 Milan, Italy 
+
+2 grid.4708.b0000 0004 1757 2822Department of Biomedical and Clinical Sciences (DIBIC), Università Degli Studi Di Milano, Milan, Italy 
+
+ Find articles by [Pierachille Santus](https://pubmed.ncbi.nlm.nih.gov/?term=%22Santus%20P%22[Author])
+
+1 2, [Dejan Radovanovic](https://pubmed.ncbi.nlm.nih.gov/?term=%22Radovanovic%20D%22[Author])
+
+### Dejan Radovanovic
+
+1 grid.144767.70000 0004 4682 2907Division of Respiratory Diseases, Ospedale Luigi Sacco, Polo Universitario, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157 Milan, Italy 
+
+2 grid.4708.b0000 0004 1757 2822Department of Biomedical and Clinical Sciences (DIBIC), Università Degli Studi Di Milano, Milan, Italy 
+
+ Find articles by [Dejan Radovanovic](https://pubmed.ncbi.nlm.nih.gov/?term=%22Radovanovic%20D%22[Author])
+
+1 2, [Marina Saad](https://pubmed.ncbi.nlm.nih.gov/?term=%22Saad%20M%22[Author])
+
+### Marina Saad
+
+1 grid.144767.70000 0004 4682 2907Division of Respiratory Diseases, Ospedale Luigi Sacco, Polo Universitario, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157 Milan, Italy 
+
+ Find articles by [Marina Saad](https://pubmed.ncbi.nlm.nih.gov/?term=%22Saad%20M%22[Author])
+
+1, [Camilla Zilianti](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zilianti%20C%22[Author])
+
+### Camilla Zilianti
+
+3 grid.4708.b0000 0004 1757 2822Department of Pathophysiology and Transplantation, Università Degli Studi Di Milano, Milan, Italy 
+
+ Find articles by [Camilla Zilianti](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zilianti%20C%22[Author])
+
+3, [Silvia Coppola](https://pubmed.ncbi.nlm.nih.gov/?term=%22Coppola%20S%22[Author])
+
+### Silvia Coppola
+
+4 Department of Anesthesia
+
+--- FUENTE WEB ---
+Título: Point-of-care ultrasound improves clinical outcomes in patients with acute onset dyspnea: a systematic review and meta-analysis
+URL: https://link.springer.com/article/10.1007/s11739-022-03126-2
+Score: 0.76951396
+
+Texto:
+## Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See our [privacy policy](https://link.springer.com/privacystatement) for more information on the use of your personal data.
+
+Manage preferences for further information and to change your choices.
+
+Accept all cookies Reject optional cookies
+
+[Skip to main content](https://link.springer.com/article/10.1007/s11739-022-03126-2#main)
+
+Advertisement
+
+[![Image 2: Springer Nature Link](https://link.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)](https://link.springer.com/)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1007/s11739-022-03126-2)
+
+[Menu](javascript:;)
+
+[Find a journal](https://link.springer.com/journals/)[Publish with us](https://www.springernature.com/gp/authors)[Track your research](https://link.springernature.com/home/)
+
+[Search](javascript:;)
+
+[Saved research](https://link.springer.com/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+## Search
+
+Search by keyword or author 
+
+Search
+
+## Navigation
+
+*   [Find a journal](https://link.springer.com/journals/)
+*   [Publish with us](https://www.springernature.com/gp/authors)
+*   [Track your research](https://link.springernature.com/home/)
+
+1.   [Home](https://link.springer.com/)
+2.   [Internal and Emergency Medicine](https://link.springer.com/journal/11739)
+3.   Article
+
+# Point-of-care ultrasound improves clinical outcomes in patients with acute onset dyspnea: a systematic review and meta-analysis
+
+*   CE-Systematic reviews and meta-analysis
+*   [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+*    Published: 31 October 2022
+
+*   Volume 18,pages 639–653 (2023) 
+*   [Cite this article](https://link.springer.com/article/10.1007/s11739-022-03126-2#citeas)
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](https://link.springer.com/content/pdf/10.1007/s11739-022-03126-2.pdf)
+
+[Save article](https://link.springer.com/article/10.1007/s11739-022-03126-2/save-research?_csrf=ZpQuoAB2JeLt7mSPy530tJoWKkhXE_b8)
+
+[View saved research](https://link.springer.com/saved-research)
+
+[![Image 3](https://media.springernature.com/w72/springer-static/cover-hires/journal/11739?as=webp)Internal and Emergency Medicine](https://link.springer.com/journal/11739)[Aims and scope](https://link.springer.com/journal/11739/aims-and-scope)[Submit manuscript](https://www.editorialmanager.com/iaem)
+
+ Point-of-care ultrasound improves clinical outcomes in patients with acute onset dyspnea: a systematic review and meta-analysis 
+
+[Download PDF](https://link.springer.com/content/pdf/10.1007/s11739-022-03126-2.pdf)
+
+*   [Gergő Vilmos Szabó](https://link.springer.com/article/10.1007/s11739-022-03126-2#auth-Gerg__Vilmos-Szab_-Aff1-Aff2-Aff3-Aff4)[1](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff1),[2](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff2),[3](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff3),[4](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff4), 
+*   [Csenge Szigetváry](https://link.springer.com/article/10.1007/s11739-022-03126-2#auth-Csenge-Szigetv_ry-Aff1-Aff5)[1](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff1),[5](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff5), 
+*   [László Szabó](https://link.springer.com/article/10.1007/s11739-022-03126-2#auth-L_szl_-Szab_-Aff1-Aff6)[1](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff1),[6](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff6), 
+*   [Fanni Dembrovszky](https://link.springer.com/article/10.1007/s11739-022-03126-2#auth-Fanni-Dembrovszky-Aff1-Aff6)[1](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff1),[6](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff6), 
+*   [Máté Rottler](https://link.springer.com/article/10.1007/s11739-022-03126-2#auth-M_t_-Rottler-Aff6-Aff7)[6](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff6),[7](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff7), 
+*   [Klemetina Ocskay](https://link.springer.com/article/10.1007/s11739-022-03126-2#auth-Klemetina-Ocskay-Aff1-Aff6)[1](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff1),[6](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff6), 
+*   [Stefanie Madzsar](https://link.springer.com/article/10.1007/s11739-022-03126-2#auth-Stefanie-Madzsar-Aff1)[1](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff1), 
+*   [Péter Hegyi](https://link.springer.com/article/10.1007/s11739-022-03126-2#auth-P_ter-Hegyi-Aff1-Aff8)[1](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff1),[8](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff8)&
+*   …
+*   [Zsolt Molnár](https://link.springer.com/article/10.1007/s11739-022-03126-2#auth-Zsolt-Moln_r-Aff1-Aff5-Aff9)[1](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff1),[5](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff5),[9](https://link.springer.com/article/10.1007/s11739-022-03126-2#Aff9)
+
+Show authors
+
+*   12k Accesses
+
+*   67 Citations
+
+*   103  Altmetric
+
+*   1 Mention
+
+*   [Explore all metrics](https://link.springer.com/article/10.1007/s11739-022-03126-2/metrics)
+
+## Abstract
+
+The early,
+
+--- FUENTE WEB ---
+Título: Dyspnea Management in Patients Presenting to the Emergency Department at Cantonal Hospital Baselland—A Retrospective Observational Study and Medical Audit
+URL: https://www.mdpi.com/2077-0383/14/4/1378
+Score: 0.70580584
+
+Texto:
+Previous Article in Journal  
+
+[Unlocking the Mystery of Patella Dislocation—Diagnostic Methods in Pediatric Populations: A Comprehensive Narrative Review](/2077-0383/14/4/1376)
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+<https://www.mdpi.com/openaccess>.
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+Original Submission Date Received: .
+
+[Journals](/about/journals)
+
+[JCM](/journal/jcm)
+
+[Volume 14](/2077-0383/14)
+
+[Issue 4](/2077-0383/14/4)
+
+[10.3390/jcm14041378](#)
+
+[![jcm-logo](https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12 "Journal of Clinical Medicine")](/journal/jcm)
+
+[Submit to this Journal](https://susy.mdpi.com/user/manuscripts/upload?form%5Bjournal_id%5D%3D93)
+[Review for this Journal](https://susy.mdpi.com/volunteer/journals/review)
+[Propose a Special Issue](/journalproposal/sendproposalspecialissue/jcm)
+
+[►
+▼
+Article Menu](#)
+
+## Article Menu
+
+* [Academic Editor](#academic_editors)
+
+  [![](/profiles/303946/thumb/Marco_Zaffanello.jpg)Marco Zaffanello](https://sciprofiles.com/profile/303946?utm_source=mdpi.com&utm_medium=website&utm_campaign=avatar_name)
+* [Recommended Articles](#)
+* [Related Info Links](#related)
+
+  + [PubMed/Medline](http://www.ncbi.nlm.nih.gov/sites/entrez/40004907)
+  + [Google Scholar](http://scholar.google.com/scholar?q=Dyspnea%20Management%20in%20Patients%20Presenting%20to%20the%20Emergency%20Department%20at%20Cantonal%20Hospital%20Baselland%E2%80%94A%20Retrospective%20Observational%20Study%20and%20Medical%20Audit)
+* [More by Authors Links](#authors)
+
+  + on DOAJ
+
+  - [Debernardi, E.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Emanuele%20Debernardi%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+  - [Jaun, F.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Fabienne%20Jaun%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+  - [Boesing, M.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Maria%20Boesing%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+  - [Leuppi, J. Daniel](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Joerg%20Daniel%20Leuppi%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+  - [Lüthi-Corridori, G.](http://doaj.org/search/articles?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22%5C%22Giorgia%20L%C3%BCthi-Corridori%5C%22%22%2C%22default_operator%22%3A%22AND%22%2C%22default_field%22%3A%22bibjson.author.name%22%7D%7D%7D)
+
+  + on Google Scholar
+
+  - [Debernardi, E.](http://scholar.google.com/scholar?q=Emanuele%20Debernardi)
+  - [Jaun, F.](http://scholar.google.com/scholar?q=Fabienne%20Jaun)
+  - [Boesing, M.](http://scholar.google.com/scholar?q=Maria%20Boesing)
+  - [Leuppi, J. Daniel](http://scholar.google.com/scholar?q=Joerg%20Daniel%20Leuppi)
+  - [Lüthi-Corridori, G.](http://scholar.google.com/scholar?q=Giorgia%20L%C3%BCthi-Corridori)
+
+  + on PubMed
+
+  - [Debernardi, E.](http://www.pubmed.gov/?cmd=Search&term=Emanuele%20Debernardi)
+  - [Jaun, F.](http://www.pubmed.gov/?cmd=Search&term=Fabienne%20Jaun)
+  - [Boesing, M.](http://www.pubmed.gov/?cmd=Search&term=Maria%20Boesing)
+  - [Leuppi, J. Daniel](http://www.pubmed.gov/?cmd=Search&term=Joerg%20Daniel%20Leuppi)
+  - [Lüthi-Corridori, G.](http://www.pubmed.gov/?cmd=Search&term=Giorgia%20L%C3%BCthi-Corridori)
+
+[Article Views
+8150](#metrics)
+
+[Citations
+4](#metrics)
+
+* [Table of Contents](#table_of_contents)
+
+  + [Abstract](#html-abstract)
+  + [Introduction](#sec1-jcm-14-01378)
+  + [Materials and Methods](#sec2-jcm-14-01378)
+  + [Results](#sec3-jcm-14-01378)
+  + [Discussion](#sec4-jcm-14-01378)
+  + [Conclusions](#sec5-jcm-14-01378)
+  + [Author Contributions](#)
+  + [Funding](#)
+  + [Institutional Review Board Statement](#)
+  + [Informed Consent Statement](#)
+  + [Data Availability Statement](#)
+  + [Conflicts of Interest](#)
+  + [References](#html-references_list)
+
+Altmetric
+[*share*
+Share](# "Share")
+[*announcement*
+Help](# "Help")
+[*format\_quote*
+Cite](javascript:void(0);)
+[*question\_answer*
+Discuss in SciProfiles](https://sciprofiles.com/discussion-groups/public/10.3390/jcm14041378?utm_source=mpdi.com&utm_medium=publication&utm_campaign=discuss_in_sciprofiles "Discuss in Sciprofiles")
+
+## Need Help?
+
+### Support
+
+Find support for a specific problem in the support section of our website.
+
+[Get Support](/about/contactform)
+
+### Feedback
+
+Please let us know what you t
+
+--- FUENTE WEB ---
+Título: Dyspnea in the Urgent Care: Differentiating Benign From ' ...
+URL: https://www.jucm.com/dyspnea-in-the-urgent-care-differentiating-benign-from-cant-miss
+Score: 0.6796259
+
+Texto:
+[![Journal of Urgent Care Medicine](https://www.jucm.com/wp-content/uploads/2018/04/logo.png)](https://www.jucm.com/)
+
+### [Journal of Urgent Care Medicine](https://www.jucm.com/ "Journal of Urgent Care Medicine")
+
+Practice Management
+
+# Dyspnea in the Urgent Care: Differentiating Benign From ‘Can’t Miss’
+
+**Published on**
+
+**Urgent Message:** Patients commonly present with respiratory symptoms in the urgent care setting and not infrequently complain of some degree of shortness of breath—or dyspnea. It is critical for clinicians to have comfort with the clinical assessment and appropriate use of diagnostic resources for the dyspneic patient. Identifying patients requiring immediate emergency department referral is an important skill.
+
+Evan Price, DO; Eric Patten, MD; Shakil Hossain, DO; Michael Weinstock, MD
+
+**Citation:** Price E, Patten E, Hossain S, Weinstock M. Dyspnea in the Urgent Care: Differentiating Benign From ‘Can’t Miss.’ *J Urgent Care Med*. 2024; 18(9):13-21
+
+## Introduction
+
+Dyspnea has a broad differential of worrisome diagnoses ranging from flash pulmonary edema and pneumothorax to more benign conditions such as viral upper respiratory infection (URI) and asthma. This article will cover the “can’t miss” diagnoses that may present to the urgent care (UC) center and review recommendations for the diagnosis of chronic obstructive pulmonary disease (COPD), asthma, and pneumonia. Patient descriptions of dyspnea in conjunction with the history, physical exam, and testing will often lead clinicians to a diagnosis within 1 of 5 distinct categories:
+
+* Airway
+* Pulmonary
+* Cardiac
+* Systemic
+* Central
+
+## Descriptors of the Term ‘Dyspnea’
+
+The descriptions and timing of a patient’s dyspnea are crucial in determining the most likely etiology and ruling out the more critical diagnoses. However, there is a significant variation in the understanding of much of this terminology, which may vary between the patient and the clinician.1 Wheezing, coughing, and fine crackles may point clinicians to a primary parenchymal or bronchial cause of dyspnea, such as asthma or COPD, but can also be caused by heart failure or a foreign body in the airway. The axiom that “all that wheezes is not asthma” applies to this reality. If a patient denies “shortness of breath” while sitting on the exam table in the UC, they may still answer affirmatively when asked the follow-up question regarding dyspnea with exertion or orthopnea.
+
+## History
+
+Apart from general questions regarding onset and duration of symptoms, the history should probe for inciting triggers, alleviating factors, exposures, timing, onset, associated symptoms, descriptors of discomfort, and exposures (to smoking, chemicals, fumes, dust, etc.). Onset occurring within a few minutes to hours of presentation should raise considerations for acute coronary syndrome (ACS), anxiety, bronchospasm, pulmonary embolism (PE), pneumothorax (PTX), or foreign body aspiration. Dyspnea developing gradually over days to weeks can signify heart failure, anemia, or pneumonia. Malignancy causing anatomical obstruction of the respiratory tree may create progressive dyspnea which develops over months to years. Past diagnoses for causes of dyspnea (such as COPD or interstitial lung disease/pulmonary fibrosis), hospitalizations, response to treatments, and chart review of results of previous testing can also narrow the differential. Prematurely concluding, however, that a prior condition is responsible for the patient’s current presentation is an example of several common forms of cognitive biases, “premature closure” and “diagnosis momentum,” which can lead clinicians astray.2
+
+## Exam
+
+* **Breathing Patterns**In addition to a focused lung exam, observation of breathing patterns can suggest a variety of conditions.3 For example, clinicians may observe the ability of the patient to comfortably ambulate in the UC clinic and speak in full sentences. When anxiety is producing dyspnea, for instance, the patient may have normal or even-pressured speech and be restless or pacing in the exam room, whereas non-psychogenic causes often impair comfortable speech and movement. The use of the accessory muscles of respirations (indicated by retractions or nasal flaring) is ominous and may indicate impending respiratory failure. The Kussmaul respiratory pattern is characterized by fast, deep breaths that occur to compensate for severe metabolic acidosis as can be seen in diabetic ketoacidosis (DKA), sepsis, and renal failure.4 Cheyne-Stokes respirations, rare in UC, are characterized by cyclic episodes of rapid breathing followed by a period of apnea and can be seen in patients with coma, severe strokes, and end-stage heart failure.5,6 Prolonged expiratory phase suggests lower airway obstructive disease, like COPD or asthma.7,8
+* **Chest Wall And Neck**The chest wall should be examined for signs of trauma as well as the pattern of rise and fall. The neck should be examined for masses which may compress the airway or tracheal deviation. Patients with an upper airway obstruction, such as a foreign object or severe airway swelling due to croup, epiglottitis, or abscesses, may have stridor, drooling and may be sitting in a “tripod” position to maintain airway patency.9
+* **Lungs**Diffuse expiratory wheezing with decreased aeration suggests exacerbation of obstructive processes in patients with history of asthma, COPD, or chronic bronchitis, but can also be heard in heart failure.7,8 Unilateral decreased breath sounds may be present with a pneumothorax or pleural effusion.10
+* **Cardiovascular**The cardiovascular exam may reveal murmurs from valvular disease, gallop patterns of heart sounds suggestive of heart failure, or abnormal rate or rhythm, which may all cause a sense of dyspnea.11
+* **Abdominal**Abdominal exam may demonstrate liver enlargement or hepatojugular reflux which is suggestive of volume overload/heart failure. A distended abdomen from ascites, constipation, or bowel 
+
+--- FUENTE WEB ---
+Título: Appropriate Use of Point-of-Care Ultrasonography in Patients ...
+URL: https://emergencymed.org.il/wp-content/uploads/2024/03/Appropriate_Use_of_Point_of_Care_Ultraso.pdf
+Score: 0.66959417
+
+Texto:
+Appropriate Use of Point-of-Care Ultrasonography in Patients With Acute Dyspnea in Emergency Department or Inpatient Settings: A Clinical Guideline From the American College of Physicians Amir Qaseem, MD, PhD, MHA; Itziar Etxeandia-Ikobaltzeta, PharmD, PhD; Reem A. Mustafa, MD, MPH, PhD; Devan Kansagara, MD, MCR; Nick Fitterman, MD; and Timothy J. Wilt, MD, MPH; for the Clinical Guidelines Committee of the American College of Physicians* Description: The American College of Physicians (ACP) developed this guideline to provide clinical recommenda-tions on the appropriate use of point-of-care ultrasonogra-phy (POCUS) in patients with acute dyspnea in emergency department (ED) or inpatient settings to improve the diag-nostic, treatment, and health outcomes of those with sus-pected congestive heart failure, pneumonia, pulmonary embolism, pleural effusion, or pneumothorax.
+Methods: The ACP Clinical Guidelines Committee based this guideline on a systematic review on the beneﬁts, harms, and diagnostic test accuracy of POCUS; patient values and prefer-ences; and costs of POCUS. The systematic review evaluated health outcomes, diagnostic timeliness, treatment decisions, and test accuracy. The critical health, diagnostic, and treatment outcomes evaluated were in-hospital mortality, time to diagno-sis, and time to treatment. The important outcomes evaluated were intensive care unit admissions, correctness of diagnosis, disease-speciﬁc outcomes, hospital readmissions, length of hospital stay, and quality of life. The critical test accuracy out-comes included false-positive results for suspected pneumonia, pneumothorax, and pulmonary embolism and false-negative results for suspected congestive heart failure, pneumonia, pneumothorax, and pulmonary embolism. Important test accu-racy outcomes included false-positive results for suspected congestive heart failure and false-negative and false-positive results for suspected pleural effusion. This guideline was devel-oped using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) method.
+Target Audience and Patient Population: The target au-dience is all clinicians, and the target patient population is adult patients with acute dyspnea in ED or inpatient settings.
+Recommendation: ACP suggests that clinicians may use point-of-care ultrasonography in addition to the standard diagnostic pathway when there is diagnostic uncertainty in patients with acute dyspnea in emergency department or inpatient settings (conditional recommendation; low-certainty evidence).
+Ann Intern Med. doi:10.7326/M20-7844 Annals.org For author, article, and disclosure information, see end of text.
+This article was published at Annals.org on 27 April 2021.
+I n recent years, use of point-of-care ultrasonography (POCUS) as a potential diagnostic tool has increased due in part to its increased availability and perceived user-friendliness (1). Physicians trained to use POCUS can do it in real-time at the patient's bedside to possibly improve diagnostic performance compared with standard clinical examinations (2–4). Point-of-care ultrasonography may also facilitate timely and appropriate management of crit-ically ill patients or alleviate the need for ultrasonography or other diagnostic tests.
+Point-of-care ultrasonography can be used for various clinical indications. This guideline targets a symptom-based approach to evaluate the effectiveness, test accuracy, and harms of using POCUS in emergency department (ED) or other inpatient settings for patients with acute dyspnea suspected to be due to congestive heart failure, pleural effu-sion, pneumonia, pneumothorax, or pulmonary embolism but in whom there was diagnostic uncertainty. Dyspnea, deﬁned as a subjective and distressing experience of See also: Editorial comment Related article Web-Only Supplement * This paper, written by Amir Qaseem, MD, PhD, MHA; Itziar Etxeandia-Ikobaltzeta, PharmD, PhD; Reem A. Mustafa, MD, MPH, PhD; Devan Kansagara, MD, MCR; Nick Fitterman, MD; and Timothy J. Wilt, MD, MPH, was developed for the Clinical Guidelines Committee of the American College of Physicians.
+Individuals who served on the Clinical Guidelines Committee from initiation of the project until its approval were Timothy J. Wilt, MD, MPH (Chair)†; Devan Kansagara, MD, MCR (Vice Chair)†; Mary Ann Forciea, MD (Immediate Past Chair)‡; Pelin Batur, MD, NCMP, CCD†; Thomas G. Cooney, MD†; Carolyn J.
+Crandall, MD, MS†; Nick Fitterman, MD†; Lauri A. Hicks, DO†; Carrie Horwitch, MD, MPH‡; Jennifer S. Lin, MD, MCR†; Michael Maroto, JD, MBA†§; Robert M.
+McLean, MD‡; Reem A. Mustafa, MD, MPH, PhD†; Jeffrey Tice, MD†; Janice E. Tufte†§; Sandeep Vijan, MD, MS†; and John W. Williams, Jr., MD, MHS†.
+Approved by the ACP Board of Regents on 7 November 2020.
+† Author.
+‡ Nonauthor contributor.
+§ Nonphysician public representative.
+Annals.org Annals of Internal Medicine © 2021 American College of Physicians 1 CLINICAL GUIDELINE breathing discomfort, is a common symptom that contrib-utes to more than 1 million ED visits each year (5, 6). Many underlying diseases can cause dyspnea. The diagnostic approach to a patient with acute dyspnea is challenging because of the number of potential causes, several of which are serious and potentially life-threatening.
+The standard diagnostic approach to identify the underlying causes of acute dyspnea involves obtaining a patient history, doing a physical examination, and order-ing diagnostic testing, such as blood laboratory test, chest or cardiac imaging, and electrocardiography. In relation to the standard diagnostic pathway, POCUS can be used before, after, or in addition to the standard tests or as a replacement for 1 or more standard tests.
+GUIDELINE FOCUS AND TARGET POPULATION The purpose of this American College of Physicians (ACP) guideline is to provide recommendations on the appropriate use of POCUS in addition to or as a replace-ment for the standard diagnostic pathway in the approach to patients with 
+
+--- FUENTE WEB ---
+Título: Shortness of Breath | SAEM
+URL: https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m4-curriculum/group-m4-approach-to/shortness-of-breath
+Score: 0.6383174
+
+Texto:
+[![](/images/default-source/academy-images/academy-logos-rev/cdem-600x300.png?sfvrsn=9a3ab567_3 "CDEM 600x300")](/about-saem/academies-interest-groups-affiliates2/cdem)
+
+Visit us on [Twitter](https://twitter.com/saemonline) [LinkedIn](https://www.linkedin.com/company/society-for-academic-emergency-medicine) [Facebook](https://www.facebook.com/SAEMonline) [YouTube](https://www.youtube.com/channel/UCFyc9y4eYZ-e5gtO3xAS19w) [Instagram](https://www.instagram.com/saemonline)
+
+* [Join/Renew](/join)
+* [Careers](/careers)
+
+Profile
+
+* [Logout](/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m4-curriculum/group-m4-approach-to/shortness-of-breath/SignOut/)
+
+[Login](https://www.saem.org/list-pages/account/login?redirect_uri=%2fabout-saem%2facademies-interest-groups-affiliates2%2fcdem%2ffor-students%2fonline-education%2fm4-curriculum%2fgroup-m4-approach-to%2fshortness-of-breath)
+
+# Shortness of Breath
+
+[Home](/)   /  [About SAEM](/about-saem)   /  [Academies, Interest Groups, & Affiliates](/about-saem/academies-interest-groups-affiliates2)   /  [CDEM](/about-saem/academies-interest-groups-affiliates2/cdem)   /  [For Students](/about-saem/academies-interest-groups-affiliates2/cdem/for-students)   /  [CDEM Curriculum](/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education)   /  [M4 Curriculum](/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m4-curriculum)   /  Shortness of Breath
+
+### Author Credentials
+
+Authors: Nathan J. Lewis, MD, Clerkship Director, and Jordan Tozer, MD; Virginia Commonwealth University School of Medicine, Richmond, VA
+
+Editor: Sarkis Kouyoumjian, MD, FACEP Clerkship Director, Wayne State University, Detroit, MI
+
+Last Updated: 2019
+
+---
+
+### Case Study
+
+An ambulance arrives to your Emergency Department with a 60-year-old woman who reports she is having difficulty breathing.  Her vital signs en route were: BP 190/100, HR 118, RR 34, and SpO2 87% on RA.  As they move her off of the stretcher, you notice that she’s breathing fast, she isn’t talking, and her shoulders and abdomen move with each breath.
+
+**Objectives**
+
+1. Describe the initial approach to a patient in respiratory distress
+2. Discuss initial management options for a patient in respiratory distress
+3. List the immediate life-threatening causes of shortness of breath
+
+### --- Introduction
+
+Shortness of breath is a very common cause of Emergency Department visits.  In the United States, pneumonia, COPD exacerbation, heart failure exacerbation and dysrhythmias round out the top five reasons for hospital admission in patients 45 and older, after chest pain.  All of those conditions, and many others, can cause shortness of breath, which makes diagnosing the root cause difficult. It is a nonspecific symptom with many possible causes and degrees of severity, making the evaluation of these patients challenging.   In many cases, treatment/stabilization may actually precede establishing a final diagnosis.  It is important to consider the critical diagnoses in your evaluation and look for patterns in the history and physical exam.  Additional tests can be helpful in establishing a diagnosis or excluding alternative diagnoses.
+
+### --- Initial Actions and Primary Survey
+
+#### General Impression
+
+Patients with a chief complaint of shortness of breath can vary in their degree of distress at initial presentation.  Like many other complaints in the ED, the assessment begins with, “What do I see when I walk into the room?”  Gaining that initial general impression within the first few seconds/minutes is critical—you may find you need to intervene to stabilize your patient before you have enough information to make a final diagnosis.
+
+Our initial general impression of this patient is that she has abnormal vital signs, is breathing rapidly and is in severe distress.  We should prepare ourselves for immediate intervention.
+
+#### First Steps
+
+Having additional help from nurses, medics, or other ED staff is tremendously useful.  While you are assessing your patient’s ABCs, you should request the following to occur simultaneously:
+
+* Full set of vital signs including BP, HR, RR, SpO2 and temperature
+* Oxygen application via nasal cannula, non-rebreather mask, or bag-valve mask if patient requires assisted ventilations (not breathing adequately on their own)
+* Cardiac and pulse oximetry monitoring
+* IV access, including blood draw for ABG/VBG and other routine testing
+* In some cases, obtaining an EKG may be useful as well
+
+If your patient fails to respond to oxygen administration and is not breathing adequately, you may need to consider more aggressive treatment with non-invasive positive pressure ventilation (NIPPV) or intubation.
+
+The patient’s first set of vital signs in the ED is consistent with those reported by EMS.  She is placed on a non-rebreather mask at 15 LPM without significant improvement in her level of distress or her oxygen saturation.  IV access is obtained, and patient is placed on the monitor.  EKG shows sinus tachycardia.  Her mental status is normal, however, and she is able to protect her airway.  Respiratory therapy is paged to respond with a BiPAP machine.
+
+|  |
+| --- |
+| Indications for Non-invasive Ventilation |
+| Consider NIPPV in patients with | When NOT to use NIPPV |
+| Moderate to severe dyspnea Accessory muscle use Paradoxical abdominal movement Fatigue RR > 25 bpm pH < 7.35, pCO2 >45 | Respiratory arrest/absent respiratory drive Hemodynamic instability Aspiration Risk Airway obstruction Unable to tolerate mask Mask does not fit Altered mental status |
+
+### --- History and Physical Exam
+
+In developing a working diagnosis, the history can often provide clues to the etiology of your patient’s symptoms.  If the patient is unable to answer questions because of their respiratory distress, ask the paramedics or family members if they have any useful information.  They may have insight into the patient’s past medical h
+
+--- FUENTE WEB ---
+Título: What's new in emergency medicine
+URL: https://www.uptodate.com/contents/whats-new-in-emergency-medicine
+Score: 0.3955783
+
+Texto:
+[![Image 1: Wolters Kluwer](blob:http://localhost/05fd769993c8b11c48609c2b47f8de28)![Image 2: UpToDate](https://www.uptodate.com/app/assets/utd-logo-CA6-ErWD.svg)](https://www.uptodate.com/contents/search)
+
+[](https://www.uptodate.com/contents/search)
+
+*   [Subscribe](https://store.uptodate.com/)
+*   [Sign in](https://www.uptodate.com/login)
+*   
+[English](https://www.uptodate.com/contents/whats-new-in-emergency-medicine)
+
+    *   [Deutsch](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#)
+    *   [Español](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#)
+    *   [日本語](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#)
+    *   [Português](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#)
+
+*   [Why UpToDate?](https://www.wolterskluwer.com/en/solutions/uptodate/clinical-decision-support)
+*   [Product](https://www.wolterskluwer.com/en/solutions/uptodate)
+*   [Expert AI](https://www.wolterskluwer.com/en/solutions/uptodate/ai-clinical-decision-support)
+*   [Editorial](https://www.wolterskluwer.com/en/solutions/uptodate/about/editorial-process)
+*   [Subscription Options](https://www.wolterskluwer.com/en/solutions/uptodate/subscribe)
+
+How can UpToDate help you?**Select the option** that best describes you
+
+*   [Medical Professional](https://www.wolterskluwer.com/en/solutions/uptodate/professional-preview-individuals)
+*   [Resident, Fellow, or Student](https://www.wolterskluwer.com/en/solutions/uptodate/professional-preview-individuals)
+*   [Hospital or Institution](https://www.wolterskluwer.com/en/solutions/uptodate/who-we-help/hospitals-health-systems)
+*   [Group Practice](https://www.wolterskluwer.com/en/solutions/uptodate/who-we-help/individuals/groups)
+
+[Subscribe](https://store.uptodate.com/)
+
+What's new in emergency medicine
+
+*   [View Topic](https://www.uptodate.com/contents/whats-new-in-emergency-medicine)
+*   [](https://www.uptodate.com/contents/whats-new-in-emergency-medicine)
+*   [](https://www.uptodate.com/contents/whats-new-in-emergency-medicine)
+*    
+*   [](https://www.uptodate.com/contents/whats-new-in-emergency-medicine/print)
+*   [Share](https://www.uptodate.com/contents/whats-new-in-emergency-medicine) 
+*   [](https://www.uptodate.com/contents/whats-new-in-emergency-medicine)
+*   
+[](javascript:void(0))Font Size
+    *   [Small](javascript:void(0))
+    *   [Normal](javascript:void(0))
+    *   [Large](javascript:void(0))
+
+*   Bookmark 
+*   
+Rate 
+
+Selecting a rating will open a feedback form
+
+*    [Feedback](https://www.uptodate.com/contents/whats-new-in-emergency-medicine) 
+*   [Tools](https://www.uptodate.com/contents/whats-new-in-emergency-medicine)
+
+Formulary drug information for this topic
+
+No drug references linked in this topic.
+
+*   [Find in topic](https://www.uptodate.com/contents/whats-new-in-emergency-medicine)
+*   [Formulary](https://www.uptodate.com/contents/whats-new-in-emergency-medicine)
+*   [Print](https://www.uptodate.com/contents/whats-new-in-emergency-medicine/print)
+*   [Share](https://www.uptodate.com/contents/whats-new-in-emergency-medicine) 
+*    [Feedback](https://www.uptodate.com/contents/whats-new-in-emergency-medicine) 
+*   
+[](javascript:void(0))Font Size
+    *   [Small](javascript:void(0))
+    *   [Normal](javascript:void(0))
+    *   [Large](javascript:void(0))
+
+## Outline
+
+*   [ADULT RESUSCITATION](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H1_151070)
+    *   [Anticoagulation in extracorporeal membrane oxygenation (July 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H152056)
+    *   [Liberal versus restrictive oxygenation targets after cardiac arrest (June 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H151851)
+    *   [Catheter-directed thrombolysis versus anticoagulation in pulmonary embolism (March 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H151205)
+    *   [Updated international Surviving Sepsis Campaign guidelines (March 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H151159)
+    *   [Joint European and United States definition of refractory septic shock (March 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H151156)
+    *   [High-flow oxygen does not affect mortality in hypoxemic respiratory failure (March 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H151070)
+
+*   [ENVIRONMENTAL EMERGENCIES](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H2_150906)
+    *   [Iloprost for amputation prevention in frostbite (May 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H151729)
+    *   [Microorganisms in children with freshwater drowning-associated pneumonia (February 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H150909)
+    *   [Effectiveness of defibrillation in patients with hypothermia and nonperfusing shockable rhythm (February 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H150908)
+    *   [Acute hypersensitivity reactions from rattlesnake antivenom in alpha-gal endemic region (February 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H150906)
+
+*   [GENERAL ADULT EMERGENCY MEDICINE](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H3_151658)
+    *   [YEARS criteria for pulmonary embolism exclusion in patients with active cancer (July 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H152122)
+    *   [Cyclosporiasis outbreak in the United States (July 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H152083)
+    *   [Marine toxin disease outbreaks in the United States (July 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H152050)
+    *   [American Thoracic Society guidelines on noninvasive respiratory support (July 2026)](https://www.uptodate.com/contents/whats-new-in-emergency-medicine#H152
+
+--- FUENTE WEB ---
+Título: Advances in acute respiratory distress syndrome
+URL: https://www.nature.com/articles/s41392-025-02127-9
+Score: 0.37552378
+
+Texto:
+[Skip to main content](#content)
+
+[Download PDF](/articles/s41392-025-02127-9.pdf)
+
+* Review Article
+* [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+* Published:
+
+# Advances in acute respiratory distress syndrome: focusing on heterogeneity, pathophysiology, and therapeutic strategies
+
+* [Wen Ma](#auth-Wen-Ma-Aff1-Aff2)[1](#Aff1),[2](#Aff2)[na1](#na1),
+* [Songling Tang](#auth-Songling-Tang-Aff1)[1](#Aff1)[na1](#na1),
+* [Peng Yao](#auth-Peng-Yao-Aff1)[1](#Aff1)[na1](#na1),
+* [Tingyuan Zhou](#auth-Tingyuan-Zhou-Aff1-Aff2)[1](#Aff1),[2](#Aff2),
+* [Qingsheng Niu](#auth-Qingsheng-Niu-Aff1)[1](#Aff1),
+* [Peng Liu](#auth-Peng-Liu-Aff1)[1](#Aff1),
+* [Shiyuan Tang](#auth-Shiyuan-Tang-Aff1)[1](#Aff1),
+* [Yao Chen](#auth-Yao-Chen-Aff1)[1](#Aff1),
+* [Lu Gan](#auth-Lu-Gan-Aff1) 
+  [ORCID: orcid.org/0000-0001-8665-2760](https://orcid.org/0000-0001-8665-2760)[1](#Aff1) &
+* …
+* [Yu Cao](#auth-Yu-Cao-Aff1-Aff2)[1](#Aff1),[2](#Aff2)
+
+[*Signal Transduction and Targeted Therapy*](/sigtrans)
+**volume 10**, Article number: 75 (2025) [Cite this article](#citeas)
+
+[Save article](/articles/s41392-025-02127-9/save-research?_csrf=-Y0bG_8Omeq_1wtvd4A_t-rAysP_4nJF)
+
+* 58k Accesses
+* 111 Citations
+* 3 Altmetric
+* [Metrics details](/articles/s41392-025-02127-9/metrics)
+
+## Abstract
+
+In recent years, the incidence of acute respiratory distress syndrome (ARDS) has been gradually increasing. Despite advances in supportive care, ARDS remains a significant cause of morbidity and mortality in critically ill patients. ARDS is characterized by acute hypoxaemic respiratory failure with diffuse pulmonary inflammation and bilateral edema due to excessive alveolocapillary permeability in patients with non-cardiogenic pulmonary diseases. Over the past seven decades, our understanding of the pathology and clinical characteristics of ARDS has evolved significantly, yet it remains an area of active research and discovery. ARDS is highly heterogeneous, including diverse pathological causes, clinical presentations, and treatment responses, presenting a significant challenge for clinicians and researchers. In this review, we comprehensively discuss the latest advancements in ARDS research, focusing on its heterogeneity, pathophysiological mechanisms, and emerging therapeutic approaches, such as cellular therapy, immunotherapy, and targeted therapy. Moreover, we also examine the pathological characteristics of COVID-19-related ARDS and discuss the corresponding therapeutic approaches. In the face of challenges posed by ARDS heterogeneity, recent advancements offer hope for improved patient outcomes. Further research is essential to translate these findings into effective clinical interventions and personalized treatment approaches for ARDS, ultimately leading to better outcomes for patients suffering from ARDS.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41379-021-00915-6/MediaObjects/41379_2021_915_Fig1_HTML.jpg)
+
+### [Acute lung injury—from cannabis to COVID](https://www.nature.com/articles/s41379-021-00915-6?fromPaywallRec=false)
+
+Article
+09 September 2021
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-026-35606-2/MediaObjects/41598_2026_35606_Fig1_HTML.png)
+
+### [A proteomics and redox proteomics approach to understanding ARDS heterogeneity](https://www.nature.com/articles/s41598-026-35606-2?fromPaywallRec=false)
+
+Article
+Open access
+23 January 2026
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41598-023-28824-5/MediaObjects/41598_2023_28824_Fig1_HTML.png)
+
+### [Clinical relevance of timing of assessment of ICU mortality in patients with moderate-to-severe Acute Respiratory Distress Syndrome](https://www.nature.com/articles/s41598-023-28824-5?fromPaywallRec=false)
+
+Article
+Open access
+27 January 2023
+
+## Introduction
+
+Acute respiratory distress syndrome (ARDS) has emerged as a critical and complex medical issue in recent years. It is characterized by acute hypoxaemic respiratory failure, accompanied by diffuse pulmonary inflammation and bilateral edema, which stem from excessive alveolocapillary permeability in patients suffering from non-cardiogenic pulmonary diseases. The Berlin definition, currently regarded as the gold standard, dominates the diagnostic landscape for ARDS. However, no foolproof method can definitively confirm or rule out this diagnosis. Compounding this diagnostic conundrum is the remarkable heterogeneity that characterizes ARDS. The underlying pathological causes, the way they present clinically, and how patients respond to treatment can vary dramatically from one individual to another. This variability presents a significant challenge to both clinicians working on the front lines and researchers dedicated to finding solutions.
+
+Recent advances in research have yielded significant progress, particularly in the area of cell therapy. Mesenchymal stromal cells (MSCs), for example, have emerged as a promising therapeutic option due to their unique immunomodulatory and regenerative properties. These cells have shown potential in modulating the immune response and hastening tissue repair in the lungs. However, several challenges remain plentiful. One of the key obstacles is selecting the most suitable cell source. Options such as bone marrow-derived, adipose-derived, or umbilical cord-derived MSCs each have their pros and cons. Deciding on the optimal delivery method, whether it be intravenous injection for systemic effect, inhalation to target the lungs directly, or direct injection into the lung tissue for more precise targeting, is a topic of intense debate. Moreover, pinpointing the exact timing of intervention to achieve maximum therapeutic benefit is equally contentious. In the realm of targeted therapy, scientists have been painstakingly investigating specific molecular pat
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
