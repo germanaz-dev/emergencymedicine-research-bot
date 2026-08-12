@@ -1,0 +1,124 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: point of care ultrasound in undifferentiated shock
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: [Prehospital point-of-care ultrasound (pPOCUS): "See, decide, act" : Evidence, training concepts, and the role of pPOCUS in the acute assessment of traumatic and nontraumatic emergencies].
+Revista: Medizinische Klinik, Intensivmedizin und Notfallmedizin
+Fecha: 2026
+Tipo: English Abstract, Journal Article, Review
+PMID: 42458004
+DOI: 10.1186/s13049-021-00985-0
+URL: https://pubmed.ncbi.nlm.nih.gov/42458004/
+
+Abstract:
+Prehospital point-of-care ultrasound (pPOCUS) enables focused sonography for immediate management-relevant clinical questions. To summarize the role of pPOCUS in traumatic and nontraumatic emergencies with regard to evidence, indications, training, and limitations. pPOCUS may provide clinically relevant adjunctive information in trauma, acute dyspnea, chest pain, undifferentiated shock, resuscitation, and selected procedural settings. Current evidence supports its feasibility and frequent impact on management decisions, whereas robust data on patient-centered outcomes remain limited. The clinical benefit of pPOCUS depends on appropriate indications, integration into team workflows, structured training, documentation, and quality assurance. pPOCUS should be regarded as focused decision support rather than as an exclusionary diagnostic modality. HINTERGRUND: Die präklinische Point-of-Care-Sonographie (pPOCUS) ergänzt die Akutversorgung um eine fokussierte Sonographie zur Beantwortung unmittelbar handlungsrelevanter Fragestellungen. ZIEL: Darstellung des Stellenwerts von pPOCUS in der Versorgung traumatologischer und nichttraumatologischer Notfälle unter Berücksichtigung von Evidenz, Indikationen, Ausbildung und Limitationen. Die pPOCUS kann bei Trauma, akuter Dyspnoe, Thoraxschmerz, unklarem Schock, Reanimation und ausgewählten Interventionen entscheidungsrelevante Zusatzinformationen liefern. Die verfügbare Evidenz zeigt eine gute Machbarkeit und einen häufigen Einfluss auf den Einsatzverlauf; belastbare Daten zu patientenzentrierten Endpunkten bleiben jedoch begrenzt. Der klinische Nutzen von pPOCUS hängt von einer klaren Indikationsstellung, der Integration in den Teamworkflow, strukturierter Ausbildung, Dokumentation und Qualitätssicherung ab. Die pPOCUS ist Entscheidungs- und keine Ausschlussdiagnostik.
+
+--- PAPER PUBMED ---
+Título: Pre-hospital and emergency department point-of-care ultrasound in cardiovascular emergencies: a scoping review.
+Revista: Cardiovascular diagnosis and therapy
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42428657
+DOI: 10.1016/j.annemergmed.2025.04.002
+URL: https://pubmed.ncbi.nlm.nih.gov/42428657/
+
+Abstract:
+Point-of-care ultrasound (POCUS) is integral to emergency department (ED) and pre-hospital medicine, yet evidence comparing its diagnostic and operational performance across environments remains fragmented, especially in cardiovascular emergencies. This review aimed to evaluate and compare the diagnostic performance, workflow impact, and clinical influence of POCUS for six major cardiovascular emergencies across pre-hospital and ED settings, while examining the effects of operator training, device technology, and governance structures. A structured scoping review search was conducted using multiple electronic databases to identify adult studies evaluating pre-hospital or ED POCUS in cardiac arrest, cardiac tamponade, acute heart failure, shock, pneumothorax, and aortic dissection. Eligible designs included randomised, prospective, and observational studies reporting diagnostic accuracy, process efficiency, management impact, or outcomes. Data were synthesised comparatively rather than pooled. ED POCUS demonstrated high diagnostic accuracy (typically >85-90%) and shortened time to diagnosis or intervention by 30-70 minutes in acute heart failure, pneumothorax, tamponade, and dissection representing meaningful process improvements. However, as seen in conditions like undifferentiated shock, these process gains do not consistently translate into improved patient-centred outcomes such as survival or reduced hospital length of stay. Pre-hospital POCUS achieved adequate views in 70-90% of cases and frequently changed triage or destination decisions (10-50%), though mortality effects were neutral across studies with follow-up data. Cardiac-arrest POCUS provided strong prognostic value but required disciplined choreography to avoid interrupting compressions. Device miniaturisation and brief targeted training enabled field feasibility, while structured curricula, image archiving, and quality assurance (QA) underpinned safety and accuracy. POCUS consistently improves diagnostic efficiency and decision-making in both ED and pre-hospital settings. However, evidence that these gains translate into improved patient-centred outcomes remains limited. Future research should focus on protocolised POCUS pathways integrated with governance structures and system-level responses.
+
+--- PAPER PUBMED ---
+Título: Point-of-care Ultrasound after Cardiac Surgery: Understanding the Congestion Cascade.
+Revista: Cardiology clinics
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42399041
+DOI: 10.1016/j.ccl.2026.05.009
+URL: https://pubmed.ncbi.nlm.nih.gov/42399041/
+
+Abstract:
+Point-of-care ultrasound (POCUS) is an essential tool in perioperative and cardiac critical care, providing rapid, bedside evaluation of cardiac function, pulmonary pathology, and volume status. This article introduces a protocolized, whole-body POCUS approach centered on the sonographic congestion cascade, conceptualizing the cardiopulmonary venous system as a continuous physiologic unit. By integrating cardiac, lung, and multisite venous Doppler findings, clinicians can identify shock etiologies, characterize congestion phenotypes, and guide individualized, physiology-driven management in patients with undifferentiated shock and respiratory failure.
+
+--- PAPER PUBMED ---
+Título: Defining the scope of point-of-care ultrasound in internal medicine: a consensus statement by the point-of-care special interest group of the Internal Medicine Society of Australia and New Zealand.
+Revista: Internal medicine journal
+Fecha: 2025
+Tipo: Journal Article, Consensus Statement
+PMID: 40568951
+DOI: 10.1111/imj.70127
+URL: https://pubmed.ncbi.nlm.nih.gov/40568951/
+
+Abstract:
+Point-of-care ultrasound (POCUS) complements physical examination to advance diagnosis and treatment in a range of clinical scenarios. However, the scope for adult internal medicine physicians is not defined in Australia and New Zealand. To outline the clinical scope and core competencies of POCUS for internal medicine physicians in Australia and New Zealand using a consensus process. A steering committee and expert panel utilised the Delphi method, comprising rounds of questionnaires and anonymous feedback, to define scope by determining (i) clinical scenarios in which POCUS provides benefit and (ii) core competencies in scanning. An 80% agreement cut-off was used in each round for both inclusion and exclusion of items, and items could be added depending on feedback. Synthesis of qualitative feedback was included. The expert panel endorsed the use of POCUS in eight clinical scenarios: assessment of fluid status, undifferentiated shock or hypotension, dyspnoea/respiratory failure, acute kidney injury, suspected venous thromboembolism, synovitis/joint effusion and for guiding invasive procedures and diuretic therapy in heart failure. Core competencies based on identification of organ system pathology were endorsed, incorporating abnormalities of the heart, lung, inferior vena cava, abdomen, peripheral veins, soft tissue collection and joint effusion. The consensus intended not to mandate POCUS use nor limit the scope for physicians with advanced training, but offer a structured schema. We successfully established a consensus on the POCUS scope for internal medicine in our region. This provides a foundation to develop formal training and credentialing.
+
+--- PAPER PUBMED ---
+Título: Point-of-Care Ultrasound: A Vital Tool for Anesthesiologists in the Perioperative and Critical Care Settings.
+Revista: Cureus
+Fecha: 2024
+Tipo: Journal Article, Review
+PMID: 39280520
+DOI: 10.7759/cureus.66908
+URL: https://pubmed.ncbi.nlm.nih.gov/39280520/
+
+Abstract:
+Point-of-care ultrasound (POCUS) is an essential skill in various specialties like anesthesiology, critical care, and emergency medicine. Anesthesiologists utilize POCUS for quick diagnosis and procedural guidance in perioperative and critical care settings. Key applications include vascular ultrasound for challenging venous and arterial catheter placements, gastric ultrasound for aspiration risk assessment, airway ultrasound, diaphragm ultrasound, and lung ultrasound for respiratory assessment. Additional utilities of POCUS can include multi-organ POCUS evaluation for undifferentiated shock or cardiac arrest, ultrasound-guided central neuraxial and peripheral nerve blocks, focused cardiac ultrasound, and novel applications such as venous excess ultrasound. This review highlights these POCUS applications in perioperative and intensive care and summarizes the latest evidence of their accuracy and limitations.
+
+--- PAPER PUBMED ---
+Título: Advances in Point-of-Care Ultrasound in Pediatric Acute Care Medicine.
+Revista: Indian journal of pediatrics
+Fecha: 2025
+Tipo: Journal Article, Review
+PMID: 38842749
+DOI: 10.3390/diagnostics13030535
+URL: https://pubmed.ncbi.nlm.nih.gov/38842749/
+
+Abstract:
+Pediatric point-of-care ultrasonography (POCUS) has grown in utilization and is now an integral part of pediatric acute care. Applications within the pediatric critical care, neonatology and pediatric emergency were once limited to evaluation of undifferentiated shock states, abdominal free fluid assessments in trauma resuscitation and procedural guidance. The body of pediatric POCUS literature is ever expanding and recently published international consensus guidelines are available to guide implementation into clinical practice. The authors present a review of emerging applications and controversies within thoracic, hemodynamic, neurologic, and ocular POCUS in pediatric acute care medicine.
+
+--- PAPER PUBMED ---
+Título: Updates on the clinical integration of point-of-care ultrasound in pediatric emergency medicine.
+Revista: Current opinion in pediatrics
+Fecha: 2024
+Tipo: Journal Article, Review
+PMID: 38411588
+DOI: 10.1097/MOP.0000000000001340
+URL: https://pubmed.ncbi.nlm.nih.gov/38411588/
+
+Abstract:
+There is expanding evidence for point-of-care ultrasound (POCUS) use in pediatric emergency medicine - this review highlights the benefits and challenges in the clinical integration of high-yield POCUS applications. Specifically, it will delve into POCUS applications during resuscitations, controversies of Focused Assessment with Sonography for Trauma (FAST) in pediatric trauma, POCUS-guided procedures, and examples of clinical pathways where POCUS can expedite definitive care. POCUS can enhance diagnostic accuracy and aid in management of pediatric patients in shock and help identify reversible causes during cardiac arrest. The use of the FAST in pediatric blunt abdominal trauma remains nuanced - its proper use requires an integration with clinical findings and an appreciation of its limitations. POCUS has been shown to enhance safety and efficacy of procedures such as nerve blocks, incision & drainage, and intravenous access. Integrating POCUS into pathways for conditions such as intussusception and testicular torsion expedites downstream care. POCUS enhances diagnostic efficiency and management in pediatric patients arriving at the ED with undifferentiated shock, cardiac arrest, or trauma. Additionally, POCUS improves procedural success and safety, and is integral to clinical pathways for expediting definitive care for various pediatric emergencies. Future research should continue to focus on the impact of POCUS on patient outcomes, ensuring user competency, and the expansion of POCUS into diverse settings.
+
+--- PAPER PUBMED ---
+Título: Critical Care Echocardiography-A Driven Approach to Undifferentiated Shock.
+Revista: Texas Heart Institute journal
+Fecha: 2023
+Tipo: Review, Journal Article
+PMID: 37849342
+DOI: 10.1016/j.jcrc.2022.154070
+URL: https://pubmed.ncbi.nlm.nih.gov/37849342/
+
+Abstract:
+The clinical approach to undifferentiated shock in critically ill patients should be revised to use modern, point-of-care tools that are readily available. With the increasing availability of 2-dimensional ultrasonography and advanced Doppler capabilities, a quick, simplified, and integrated stepwise approach to shock using critical care echocardiography is proposed. Evidence supports the feasibility and usefulness of critical care echo-cardiography in enhancing diagnostic accuracy for shock, but there is a lack of systematic application of the technology in patients with undifferentiated shock. The proposed approach begins with the use of noninvasive ultrasonography with pulsed-wave Doppler capability to determine the flow state by measuring the velocity time integral of the left ventricular outflow tract. This narrative review explores the use left ventricular outflow tract velocity time integral, velocity time integral variation, limited visceral organ Doppler, and lung ultrasonography as a systematic approach for patients with undifferentiated shock.
+
+CONTEXTO WEB COMPLEMENTARIO:
+No se recuperaron fuentes web complementarias.
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
