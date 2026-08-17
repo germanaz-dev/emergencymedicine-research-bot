@@ -1,0 +1,890 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: high sensitivity troponin in acute coronary syndrome
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Cardiac Myosin-Binding Protein C in Suspected Acute Coronary Syndrome: From Sarcomeric Injury Biology to Decision-Grade Risk Stratification.
+Revista: International journal of molecular sciences
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42589588
+DOI: 10.1373/clinchem.2018.287342
+URL: https://pubmed.ncbi.nlm.nih.gov/42589588/
+
+Abstract:
+Cardiac myosin-binding protein C (cMyBP-C) is a cardiac-restricted sarcomeric protein; after cardiomyocyte injury, circulating intact cMyBP-C and/or cMyBP-C fragments, collectively referred to here as the cMyC biomarker signal, appear rapidly in blood. In suspected acute coronary syndrome (ACS), its most important potential role is not as another marker of injury but as a decision-enhancing biomarker beyond symptoms, electrocardiography, cardiac troponin T and I concentrations measured with high-sensitivity assays (hs-cTnT and hs-cTnI), time from pain onset, and pre-test probability. This narrative review separates three clinical tasks frequently conflated in the biomarker literature: diagnosis of acute myocardial infarction, emergency-department triage, and prediction of short-term or post-infarction risk. We integrate cMyBP-C sarcomeric architecture, N-terminal regulatory biology, phosphorylation, proteolysis, circulating fragments, assay epitopes, analytical stability, diagnostic algorithms, point-of-care testing, ST-segment elevation myocardial infarction reperfusion biology, and major confounders including renal dysfunction, heart failure, age, sex, and chronic ventricular remodeling. Current evidence supports further evaluation of cMyC as an adjunct in early presenters and accelerated diagnostic pathways. However, diagnostic safety and efficacy have not been consistently reproduced across platforms and populations, and external validation-particularly of rule-out performance-remains insufficient for routine clinical use. Recurrent injury assessment and post-infarction risk phenotyping remain promising but incompletely validated applications. Before guideline adoption, cMyC needs phenotype-specific, multicenter implementation trials demonstrating incremental net benefit, cost-effectiveness, and patient-level safety compared with contemporary hs-cTnT- and hs-cTnI-based clinical decision algorithms.
+
+--- PAPER PUBMED ---
+Título: Circulating exosomal miRNA in acute coronary syndrome: mechanisms, clinical relevance and future directions.
+Revista: Frontiers in molecular biosciences
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42582111
+DOI: 10.1038/nrc2543
+URL: https://pubmed.ncbi.nlm.nih.gov/42582111/
+
+Abstract:
+Despite significant advances in diagnosis and treatment, Acute Coronary Syndrome (ACS) remains one of the leading causes of morbidity and mortality globally. It comprises ST-elevation myocardial infarction, non-ST-elevation myocardial infarction, and unstable angina, caused by complex mechanisms such as plaque rupture, thrombosis, erosion, and microvascular dysfunction. The development of high-sensitivity cardiac troponins has greatly improved the early detection of ACS. However, concerns remain about specificity, timing, and prognostic accuracy. Exosomal miRNAs (ExomiRs) show promise as minimally invasive biomarkers, aiding precise cell communication and protecting encapsulated miRNAs from degradation. During ischemic injury, ExomiRs released from cardiomyocytes act early, often before troponin elevation, and are involved in processes such as inflammation, apoptosis, angiogenesis, fibrosis, and ventricular remodelling. Specific ExomiR signatures have different roles in prognosis, subtype discrimination, and early ACS diagnosis. Future therapeutic potential may include advancements in translational strategies, such as antagomir-based miRNA modulation. Furthermore, the clinical adoption of these biomarkers, despite challenges such as pre-analytical variability, differences across study cohorts, a lack of standardised isolation protocols, and the need for large-scale validation, will significantly improve the sensitivity, specificity, and accuracy of predicting ACS.
+
+--- PAPER PUBMED ---
+Título: The Evolution of Accelerated Diagnostic Protocols for Suspected Myocardial Infarction.
+Revista: Journal of clinical medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42452585
+DOI: 10.1016/S0735-1097(19)30875-7
+URL: https://pubmed.ncbi.nlm.nih.gov/42452585/
+
+Abstract:
+There have been considerable developments in the analytic precision of cardiac troponins in the last three decades. Whilst there has been near-universal uptake of this technology, there is considerable variability in how to assess acute chest pain patients using high-sensitivity cardiac troponins. This review describes the historical narrative for cardiac troponins and details the evidence base behind decision rules, such as single sample rule-out, single sample rule-in, and accelerated diagnostic protocols (ADPs). There is particular focus on the European Society of Cardiology (ESC) 0/1 and 0/3 h and the high-STEACS ADPs. The ESC 0/3 h ADP appears to have reduced rule-out safety compared to both the ESC 0/1 h and high-STEACS ADP. However, whilst high-STEACS performed well in its validation population, external validation in the US has been less impressive and warrants further investigation. The ESC 0/1 h pathway has demonstrated strong rule-out performance, helped by its observational zone. However, real world implementation studies comparing these ADPs are required to understand their impact on Emergency Department efficiency and the safety of clinician decision-making.
+
+--- PAPER PUBMED ---
+Título: From Electrocardiography to the Catheterization Laboratory: A Multimodal Artificial Intelligence Framework for Acute Coronary Syndrome Detection and Risk Stratification.
+Revista: Diagnostics (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42449831
+DOI: 10.1038/s41569-025-01191-6
+URL: https://pubmed.ncbi.nlm.nih.gov/42449831/
+
+Abstract:
+Current acute coronary syndrome (ACS) care relies on sequential, single-modality diagnostics, in which the electrocardiogram, the troponin trajectory, and the coronary angiogram are interpreted independently rather than as a joint signal. This narrative review maps rather than pools the evidence. We selectively searched PubMed, EMBASE, Cochrane CENTRAL, and Web of Science (January 2015-February 2026); study selection was performed by a single reviewer, without duplicate screening, a PRISMA flow diagram, or a formal risk-of-bias assessment. The three key findings are as follows: A machine learning-enabled electrocardiogram (ECG) for diagnosing occlusion due to myocardial infarction achieved an AUC of 0.938 (95% CI = 0.924-0.951) on data not seen during training and correctly diagnosed 42% of patients that expert interpreters missed. A machine learning-enabled high-sensitivity troponin interpretation method, CoDE-ACS, reported an AUC of 0.953 and increased the number of patients ruled out at initial evaluation from 27% to 61%. Angiographically derived physiological methods produced conflicting results-quantitative flow ratios reduced major adverse cardiovascular events (MACE) in the FAVOR III China trial (HR 0.65), but in FAVOR III Europe the angiography-derived approach did not prove non-inferior to FFR; if anything, QFR guidance led to more events (6.7% vs. 4.2%, an event rate about 60% higher in the QFR arm; HR 1.63; 95% CI 1.11-2.41). There was no difference between FFR-angio and FFR in the ALL-RISE trial. These are diagnostic-accuracy and prognostic-association findings; no trial has yet shown that AI-guided ACS care reduces death, reinfarction, or ischemia-driven revascularization.
+
+--- PAPER PUBMED ---
+Título: Advances in the Diagnosis and Management of Acute Coronary Syndrome: A Clinical Review.
+Revista: Cureus
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42440890
+DOI: 10.7759/cureus.110344
+URL: https://pubmed.ncbi.nlm.nih.gov/42440890/
+
+Abstract:
+Acute coronary syndrome (ACS) encompasses a spectrum of ischemic cardiac conditions associated with significant global morbidity and mortality, commonly driven by atherosclerotic plaque disruption and thrombosis, and remains a major clinical challenge despite advances in cardiovascular care. Persistent variability in early diagnosis, risk stratification, and the integration of emerging therapies into routine practice highlights existing gaps in translating evolving evidence into consistently improved clinical outcomes. This narrative clinical review aims to synthesise recent advances in diagnostic approaches and therapeutic strategies, focusing on biomarkers, imaging modalities, pharmacological interventions, and precision-based management. A structured narrative literature search was conducted using PubMed and Google Scholar for English-language human studies published between 2015 and 2025. Search terms included "acute coronary syndrome," "high-sensitivity troponin," "biomarkers," "coronary computed tomography angiography," "intravascular ultrasound," "optical coherence tomography," "antiplatelet therapy," "anticoagulation," "lipid-lowering therapy," and "precision medicine." Guidelines, randomised trials, systematic reviews, meta-analyses, and high-impact reviews were included, while duplicate, non-English, non-coronary, and clinically irrelevant studies were excluded. Study relevance and quality were narratively assessed using the Scale for the Assessment of Narrative Review Articles (SANRA) principles, with emphasis on justification of the manuscript's importance, clarity of review aims, appropriateness of the literature search, balanced evidence presentation, scientific reasoning, and clinical relevance of the synthesis. Findings indicate that high-sensitivity troponins, advanced imaging techniques, and contemporary antithrombotic and lipid-lowering therapies have enhanced diagnostic accuracy and improved clinical outcomes. Emerging anti-inflammatory therapies and digital health innovations further contribute to more individualised patient management. These developments support the integration of novel tools with established clinical pathways to optimise care delivery. Continued research and improved implementation strategies remain necessary to address disparities and refine management approaches. A multidimensional, patient-centred framework is essential for advancing outcomes and guiding future clinical practice in ACS.
+
+--- PAPER PUBMED ---
+Título: AI-enhanced ECG for acute coronary syndrome triage: A state-of-the-art review.
+Revista: Cardiovascular revascularization medicine : including molecular interventions
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42364947
+DOI: 10.1016/j.carrev.2026.06.015
+URL: https://pubmed.ncbi.nlm.nih.gov/42364947/
+
+Abstract:
+Acute coronary syndrome (ACS) remains a leading cause of emergency department presentations, yet triage based on the ST-elevation myocardial infarction (STEMI)/non-ST-elevation myocardial infarction (NSTEMI) paradigm misses approximately 25-34% of acute coronary occlusion myocardial infarction (OMI). Early artificial intelligence-electrocardiography (AI-ECG) models showed retrospective promise for detecting ischemic ECG patterns but lacked prospective validation. This review synthesizes emerging multicenter registry, prospective cohort, and pathway trial evidence for AI-ECG in ACS triage, including the Queen of Hearts registry, ROMIAE, and DIFOCCULT-3 studies. It is essential to distinguish two separate clinical tasks: (1) detecting OMI for emergent catheterization laboratory activation, and (2) ruling out acute myocardial infarction (MI), which requires serial high-sensitivity troponin and cannot be achieved by ECG alone. Contemporary findings suggest AI-ECG significantly improves OMI detection sensitivity (92% vs. 71% for standard care) and reduces false-positive catheterization laboratory activations by up to 91% among biomarker-negative patients. For acute MI rule-out, AI-ECG shows promise as an adjunct to troponin-based strategies, with a negative predictive value of approximately 99% when combined with high-sensitivity troponin and clinical risk scores. We propose a 'Second Opinion' framework in which AI augments physician judgment as a clinical decision support tool. Key implementation challenges include algorithmic bias, alert fatigue, documentation, and the risk of widening the digital divide. AI-ECG represents a shift toward a physiologically driven OMI vs. non-occlusive myocardial infarction (NOMI) diagnostic framework.
+
+--- PAPER PUBMED ---
+Título: Beyond troponin: emerging biomarker strategies to differentiate type 1 from type 2 myocardial infarction.
+Revista: Current problems in cardiology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42362128
+DOI: 10.1016/j.cpcardiol.2026.103395
+URL: https://pubmed.ncbi.nlm.nih.gov/42362128/
+
+Abstract:
+The widespread adoption of high-sensitivity cardiac troponin (hs-cTn) assays has markedly improved the detection of myocardial injury, but at the cost of reduced specificity for atherothrombotic type 1 myocardial infarction (T1MI). Therefore, troponin-positive presentations increasingly reflect heterogeneous conditions, including supply-demand mismatch-related type 2 myocardial infarction (T2MI) and acute or chronic non-ischemic myocardial injury, creating major diagnostic and therapeutic challenges in time-sensitive clinical pathways. Because the current distinction between T1MI and T2MI largely relies on clinical context and expert adjudication, there is growing interest in circulating biomarkers that could refine etiologic classification, support early triage decisions, and improve risk stratification. In this narrative review, we synthesize contemporary evidence on established and emerging biomarker strategies aimed at discriminating T1MI from T2MI, including troponin kinetics and ratios, cardiac myosin-binding protein C, biomarkers of hemodynamic and neurohormonal stress (e.g., copeptin, natriuretic peptides, MR-proANP), markers of endothelial and microvascular dysfunction (e.g., MR-proADM, CT-proET1, GDF-15), biomarkers of plaque activation, thrombosis, and proteomic/metabolomic signatures. Overall, single biomarkers provide only modest separation between T1MI and T2MI, whereas performance improves when biomarkers are integrated into multivariable clinical models or pragmatic multimarker combinations that capture the biological contrast between focal coronary injury and systemic stress. We conclude by proposing a practical framework for clinico-biomolecular phenotyping and highlighting the key requirements for clinical translation linked to actionable management pathways. Future studies should prioritize head-to-head comparisons in rigorously adjudicated cohorts and evaluate whether biomarker-guided pathways can safely reduce unnecessary invasive coronary angiography while preserving timely reperfusion in patients with atherothrombotic T1MI.
+
+--- PAPER PUBMED ---
+Título: Clinical Gray Zones of Cardiac Troponin Interpretation in the Emergency Department: When Increased Concentrations Do Not Equal Acute Coronary Syndrome.
+Revista: Journal of clinical medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42355612
+DOI: 10.1016/S2589-7500(24)00088-8
+URL: https://pubmed.ncbi.nlm.nih.gov/42355612/
+
+Abstract:
+The introduction of rapid, high-sensitivity cardiac troponin (hs-cTn)-based algorithms has markedly changed the work-up of patients admitted to the emergency department (ED) with suspected acute coronary syndrome (ACS). However, when applied to real-world ED populations, these algorithms perform worse than in clinical studies of derivation and validation. The main reasons for this discrepancy are that patients tested for hs-cTn in real-world settings tend to be older and less clinically preselected. Nevertheless, ACS must often be ruled out in patients with atypical presentations. Routine patients also more frequently have impaired renal function and pre-existing cardiac diseases, such as atrial fibrillation, heart failure, or coronary artery disease. These conditions do not necessarily cause the actual acute ED presentation. Using the standard decision limits of the 0 h, 0/1 h, or 0/2 h algorithms does not hinder the exclusion of ACS in the ED. However, using them in real-world conditions substantially decreases the positive predictive value for acute myocardial infarction (AMI) and classifies a higher percentage of patients into the "observe (gray) zone" than reported in clinical studies. Patients classified with a working diagnosis of "rule-in AMI" often require hospital admission for other reasons, though their discharge diagnosis may differ from AMI. A major challenge in real-world EDs is the high proportion of gray zone hs-cTn concentrations in approximately 50% of tested patients. Therefore, additional hs-cTn sampling at 3 h after admission is often necessary to rule out acute myocardial injury. This review summarizes and critically discusses the evidence for adjusting hs-cTn ED algorithm decision limits according to age, sex, and renal function. It also discusses the critical differential diagnosis of acute and chronic myocardial injury in the ED.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: High-sensitivity Cardiac Troponin in the Emergency Department | JAPSC Journal
+URL: https://www.japscjournal.com/articles/malaysian-expert-consensus-use-high-sensitivity-cardiac-troponin-emergency-department?language_content_entity=en
+Score: 0.86767644
+
+Texto:
+![Radcliffe Cardiology logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/RadcliffeCardiology%20Horizontal%20%28Dark%29.svg?VersionId=FsjmKVvrwNg5MovL9Lue_nrxJD5Nm9tc)
+![RC logo dark mode](https://assets.radcliffecardiology.com/s3fs-public/2026-01/RC%20Logo%20Horizontal%20Reversed%202.svg?VersionId=HtLw50OZb1Cl9Mldg2tVoEPCIVkkxP0U)
+
+[JAPSC is the official journal of the](https://www.japscjournal.com/guideline/about-japsc#listItem1.6)  ![APSC Logo](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/APSC_logo.png)
+
+![APSC Logo](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/APSC_logo.png)
+![Radcliffe JAPSC logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/JAPSC_white.svg?VersionId=PjqeVWmcBDXVMqlxmQZ7Wd5ENJHBivTf)
+![Radcliffe JAPSC banner](https://assets.radcliffecardiology.com/s3fs-public/styles/mobile_banner/public/2025-06/JAPSC%20Banner%20%28Mobile%29.png?VersionId=5va6AvnieEsa7nSsGe9u5uxL7vtvaTt7&itok=jZWOGSHa)
+![Radcliffe JAPSC banner](https://assets.radcliffecardiology.com/s3fs-public/styles/desktop_banner/public/2025-06/JAPSC%20Banner.png?VersionId=GY4hEcCQjToGQboxXIFpJeS8G.I_vn5s&itok=x_cPmYmU)
+
+[Home](/)
+
+About
+
+Content type
+
+Articles
+
+[Special Collections](/get-special-collections)
+
+[Submit Article](https://www.editorialmanager.com/japsc/default.aspx)
+
+![Radcliffe JAPSC logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/JAPSC%20%28Gold%29.svg?VersionId=i37MccUKIwehaD3SYDrnWYX3580a9YJv)
+
+View all platforms
+
+## Breadcrumb
+
+Authors
+
+Article Info
+
+Cite
+
+Metrics
+
+Article Text
+
+Figures & Tables
+
+References
+
+Review Article
+
+![Open access](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/svg/openAccess.svg)
+
+# A Malaysian Expert Consensus on the Use of High-sensitivity Cardiac Troponin in the Emergency Department
+
+[Raja Ezman Raja Shariff](https://www.radcliffecardiology.com/authors/raja-ezman-raja-shariff?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Sazzli Kasim](https://www.radcliffecardiology.com/authors/sazzli-kasim?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Subashini C Thambiah](https://www.radcliffecardiology.com/authors/subashini-c-thambiah?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Adi Osman](https://www.radcliffecardiology.com/authors/adi-osman?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Asri bin Said](https://www.radcliffecardiology.com/authors/asri-bin-said?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Farhi Ain Jamaluddin](https://www.radcliffecardiology.com/authors/farhi-ain-jamaluddin?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Farina Mohd Salleh](https://www.radcliffecardiology.com/authors/farina-mohd-salleh?language_content_entity=en)
+
+[Sarah Abd Karim](https://www.radcliffecardiology.com/authors/sarah-abd-karim?language_content_entity=en)
+
+![Information image](https://assets.radcliffecardiology.com/s3fs-public/2020-05/cc_by_nc.png)
+
+Views: 2249
+
+Likes: 0
+
+Downloads: 113
+
+Citations: 1
+
+Abstract
+
+Recent guidelines have recommended using high sensitivity cardiac troponin (hs-cTn) assays to triage patients with suspected acute coronary syndrome. Despite this, less sensitive point-of-care testing is often the preferred choice in majority of hospitals. The aim of this evidence-based, expert consensus is to provide guidance for healthcare professionals in understanding the role of hs-cTn, specifically its level of sensitivity and specificity as well as its practical application in the emergency department setting, particularly in resource-limited centres in Malaysia. An expert panel with clinical and research expertise in the diagnosis and treatment of acute coronary syndrome was convened. Recommendations were based on a comprehensive review of the existing literature using MEDLINE and Embase databases, alongside individual clinical experience within the regional and international context. This expert consensus provides a structured approach to using hs-cTn in the emergency department and remains the only one to date produced by a group of Malaysian experts to help guide Malaysian clinicians dealing with acute chest pain on a daily basis.
+
+Keywords
+
+[High-sensitivity troponin](/search?search_api_fulltext=High-sensitivity%20troponin),
+[troponin](/search?search_api_fulltext=troponin),
+[chest pain](/search?search_api_fulltext=chest%20pain),
+[emergency department](/search?search_api_fulltext=emergency%20department),
+[expert consensus](/search?search_api_fulltext=expert%20consensus),
+
+Received: 01 September 2021
+
+Accepted: 27 December 2021
+
+Published online: 31 May 2022
+
+Citation:[Journal of Asian Pacific Society of Cardiology 2022;1:e14.](/editions/japsc-volume-1-2022?language_content_entity=en)
+
+Select format
+
+DOI: <https://doi.org/10.15420/japsc.2021.19>
+
+Disclosure: SSK is on the editorial board of Journal of Asian Pacific Society of Cardiology; this did not influence peer review. All other authors have no conflicts of interest to declare.
+
+Acknowledgements: The authors thank Universiti Teknologi MARA (UITM) Sungai Buloh, Universiti Putra Malaysia, Hospital Raja Permaisuri Bainun, Pusat Jantung Negara Sarawak, Universiti Malaya Medical Centre, Institut Jantung Negara and Hospital Su
+
+--- FUENTE WEB ---
+Título: Cardiac biomarkers of acute coronary syndrome: from history to high-sensitivity cardiac troponin
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5329082
+Score: 0.8025714
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC5329082#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: Internal and Emergency Medicine logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-springeropen.png)
+
+Intern Emerg Med
+
+. 2017 Feb 11;12(2):147. doi: [10.1007/s11739-017-1612-1](https://doi.org/10.1007/s11739-017-1612-1)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Intern%20Emerg%20Med%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Intern%20Emerg%20Med%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Intern%20Emerg%20Med%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC5329082?term=%22Intern%20Emerg%20Med%22[jour])
+
+# Cardiac biomarkers of acute coronary syndrome: from history to high-sensitivity cardiac troponin
+
+[Pankaj Garg](https://pubmed.ncbi.nlm.nih.gov/?term=%22Garg%20P%22[Author])
+
+### Pankaj Garg
+
+1 0000 0004 1936 8403grid.9909.9Leeds Institute of Cardiovascular and Metabolic Medicine (LICAMM), University of Leeds, Leeds, UK 
+
+ Find articles by [Pankaj Garg](https://pubmed.ncbi.nlm.nih.gov/?term=%22Garg%20P%22[Author])
+
+1, [Paul Morris](https://pubmed.ncbi.nlm.nih.gov/?term=%22Morris%20P%22[Author])
+
+### Paul Morris
+
+2 0000 0000 9422 8284grid.31410.37Cardiology and Cardiothoracic Surgery, Sheffield Teaching Hospitals NHS Foundation Trust, Herries Road, Sheffield, S5 7AU UK 
+
+3 0000 0004 1936 9262grid.11835.3eDepartment of Cardiovascular Science, University of Sheffield, Medical School, Beech Hill Road, Sheffield, S10 2RX UK 
+
+ Find articles by [Paul Morris](https://pubmed.ncbi.nlm.nih.gov/?term=%22Morris%20P%22[Author])
+
+2 3, [Asma Lina Fazlanie](https://pubmed.ncbi.nlm.nih.gov/?term=%22Fazlanie%20A%22[Author])
+
+### Asma Lina Fazlanie
+
+2 0000 0000 9422 8284grid.31410.37Cardiology and Cardiothoracic Surgery, Sheffield Teaching Hospitals NHS Foundation Trust, Herries Road, Sheffield, S5 7AU UK 
+
+ Find articles by [Asma Lina Fazlanie](https://pubmed.ncbi.nlm.nih.gov/?term=%22Fazlanie%20A%22[Author])
+
+2, [Sethumadhavan Vijayan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Vijayan%20S%22[Author])
+
+### Sethumadhavan Vijayan
+
+2 0000 0000 9422 8284grid.31410.37Cardiology and Cardiothoracic Surgery, Sheffield Teaching Hospitals NHS Foundation Trust, Herries Road, Sheffield, S5 7AU UK 
+
+ Find articles by [Sethumadhavan Vijayan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Vijayan%20S%22[Author])
+
+2, [Balazs Dancso](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dancso%20B%22[Author])
+
+### Balazs Dancso
+
+2 0000 0000 9422 8284grid.31410.37Cardiology and Cardiothoracic Surgery, Sheffield Teaching Hospitals NHS Foundation Trust, Herries Road, Sheffield, S5 7AU UK 
+
+ Find articles by [Balazs 
+
+--- FUENTE WEB ---
+Título: High-Sensitivity Cardiac Troponin for the Rapid Diagnosis of Acute Coronary Syndrome in the Emergency Department: A Clinical and Cost-Effectiveness Evaluation - PMC
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3711526
+Score: 0.7715858
+
+Texto:
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+  
+A
+**.gov** website belongs to an official
+government organization in the United States.
+
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+  
+A **lock** (
+
+Lock
+
+Locked padlock icon
+
+) or **https://** means you've safely
+connected to the .gov website. Share sensitive
+information only on official, secure websites.
+
+![NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/search.svg)
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/person.svg)
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/expand_less.svg)
+![](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/expand_more.svg)
+
+Primary site navigation
+
+![Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/close.svg)
+![Search](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjUgMTRoLS43OWwtLjI4LS4yN0E2LjQ3MSA2LjQ3MSAwIDAgMCAxNiA5LjUgNi41IDYuNSAwIDEgMCA5LjUgMTZjMS42MSAwIDMuMDktLjU5IDQuMjMtMS41N2wuMjcuMjh2Ljc5bDUgNC45OUwyMC40OSAxOWwtNC45OS01em0tNiAwQzcuMDEgMTQgNSAxMS45OSA1IDkuNVM3LjAxIDUgOS41IDUgMTQgNy4wMSAxNCA5LjUgMTEuOTkgMTQgOS41IDE0eiIvPjwvc3ZnPg==)
+
+Logged in as:
+
+![PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/search.svg)
+![PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/close.svg)
+![Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons-bg/search--white.svg)
+![Open resources icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/more_vert.svg)
+![Download PDF icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/file_download.svg)
+![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/action-bookmark-full.svg)
+![Collections icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/action-bookmark-empty.svg)
+![Cite icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/format_quote.svg)
+![Show article permalink icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/share.svg)
+
+## PERMALINK
+
+![Copy icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/content_copy.svg)
+![Open article navigation icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/list.svg)
+![CADTH Technology Overviews logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-cadthto.gif)
+
+# High-Sensitivity Cardiac Troponin for the Rapid Diagnosis of Acute Coronary Syndrome in the Emergency Department: A Clinical and Cost-Effectiveness Evaluation
+
+Collection date 2013.
+
+## Introduction
+
+Acute coronary syndrome (ACS) represents a spectrum of clinical presentations of myocardial ischemia ranging from ST-segment elevation myocardial infarction (STEMI) to non-STEMI (NSTEMI) and unstable angina.[1](#b1-cadth-3-2-03)–[3](#b3-cadth-3-2-03) When patients with chest pain present at an emergency department, investigations are rapidly conducted to rule out ACS. STEMI is diagnosed by specific electrocardiogram (ECG) findings and is associated with a high risk of cardiac death. NSTEMI and unstable angina are typically caused by myocardial ischemia but of differing severity depending on the presence of myocardial infarction (MI), and they are often clinically indistinguishable because of the similarity in symptoms and transient or non-specific ECG findings of ischemia at presentation. In 2000, the European Society of Cardiology and the American College of Cardiology jointly redefined myocardial necrosis to incorporate cardiac troponin assays as a diagnostic determinant.[4](#b4-cadth-3-2-03) In 2007, the European Society of Cardiology, the American College of Cardiology, and the American Heart Association updated the definition of MI and advocated a “rise and/or fall” of cardiac troponin during a six- to nine-hour time period using the 99th percentile in a reference population as the cut-off for classifying an acute and evolving MI.[3](#b3-cadth-3-2-03) The time frame for the assessment of cardiac troponin levels, after the first measurement, has been reduced to three to six hours in the third universal definition of MI (2012).[5](#b5-cadth-3-2-03) Therefore, in patients with suspected MI but without ECG STEMI criteria, the troponin level is the discriminating criterion between NSTEMI and unstable angina.
+
+In Canada, there are two cardiac troponin tests available: cardiac troponin T and cardiac troponin I. In 2012, the manufacturer of the troponin T reagent started to remove the conventional reagent and replace it with a
+
+--- FUENTE WEB ---
+Título: Cardiac troponin at the point of care in acute and chronic coronary syndromes
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12400525
+Score: 0.7293082
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC12400525#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: Diabetes, Obesity & Metabolism logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-blackwellopen.png)
+
+Diabetes Obes Metab
+
+. 2025 Jun 16;27(Suppl 8):47. doi: [10.1111/dom.16503](https://doi.org/10.1111/dom.16503)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Diabetes%20Obes%20Metab%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Diabetes%20Obes%20Metab%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Diabetes%20Obes%20Metab%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC12400525?term=%22Diabetes%20Obes%20Metab%22[jour])
+
+# Cardiac troponin at the point of care in acute and chronic coronary syndromes
+
+[Michael McDermott](https://pubmed.ncbi.nlm.nih.gov/?term=%22McDermott%20M%22[Author])
+
+### Michael McDermott
+
+ 1 BHF Centre for Cardiovascular Science University of Edinburgh Edinburgh UK 
+
+ Find articles by [Michael McDermott](https://pubmed.ncbi.nlm.nih.gov/?term=%22McDermott%20M%22[Author])
+
+ 1 , [Yong Yong Tew](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tew%20Y%22[Author])
+
+### Yong Yong Tew
+
+ 1 BHF Centre for Cardiovascular Science University of Edinburgh Edinburgh UK 
+
+ Find articles by [Yong Yong Tew](https://pubmed.ncbi.nlm.nih.gov/?term=%22Tew%20Y%22[Author])
+
+ 1 , [Jamie G. Cooper](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cooper%20J%22[Author])
+
+### Jamie G. Cooper
+
+ 2  Aberdeen Royal Infirmary Aberdeen UK 
+
+ Find articles by [Jamie G. Cooper](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cooper%20J%22[Author])
+
+ 2 , [Deepak Harry](https://pubmed.ncbi.nlm.nih.gov/?term=%22Harry%20D%22[Author])
+
+### Deepak Harry
+
+ 3  Royal Infirmary of Edinburgh Edinburgh UK 
+
+ Find articles by [Deepak Harry](https://pubmed.ncbi.nlm.nih.gov/?term=%22Harry%20D%22[Author])
+
+ 3 , [Nicholas L. Mills](https://pubmed.ncbi.nlm.nih.gov/?term=%22Mills%20N%22[Author])
+
+### Nicholas L. Mills
+
+ 1 BHF Centre for Cardiovascular Science University of Edinburgh Edinburgh UK 
+
+ 4 Usher Institute University of Edinburgh Edinburgh UK 
+
+ Find articles by [Nicholas L. Mills](https://pubmed.ncbi.nlm.nih.gov/?term=%22Mills%20N%22[Author])
+
+ 1  4 
+
+*   Author information
+*   Article notes
+*   Copyright and License information
+
+ 1 BHF Centre for Cardiovascular Science University of Edinburgh Edinburgh UK 
+
+ 2  Aberdeen Royal Infirmary Aberdeen UK 
+
+ 3  Royal Infirmary of Edinburgh Edinburgh UK 
+
+ 4 Usher Institute University of Edinburgh Edinburgh UK 
+
+✉
+* **Correspondence**
+
+ Nicholas L. Mills, BHF/University Centre for Cardiovascular Science, The University of Edinburgh, Edinburgh EH16 4SA, UK.
+
+ Email: nick.mil
+
+--- FUENTE WEB ---
+Título: hs-troponins-report.pdf
+URL: https://www.hsrd.research.va.gov/publications/esp/hs-troponins-report.pdf
+Score: 0.72884524
+
+Texto:
+Evidence Synthesis Program Accelerated Diagnostic Protocols Using High-sensitivity Troponin Assays to “Rule In” or “Rule Out” Myocardial Infarction in the Emergency Department: A Systematic Review March 2023 Recommended citation: Jutkowitz E, Hsiao JJ, Celedon MA, et al. Accelerated Diagnostic Protocols Using High-sensitivity Troponin Assays to “Rule In” or “Rule Out” Myocardial Infarction in the Emergency Department: A Systematic Review. Washington, DC: Evidence Synthesis Program, Health Services Research and Development Service, Office of Research and Development, Department of Veterans Affairs. VA ESP Project #22-116; 2023. High-sensitivity Troponin to “Rule In” or “Rule Out” MI Evidence Synthesis Program i AUTHORS Author roles, affiliations, and contributions to the present report (using the CRediT taxonomy) are summarized in the table below. Author Role and Affiliation Report Contribution Eric Jutkowitz, PhD Director, Providence Evidence Synthesis Program (ESP) Center Associate Professor, Brown University School of Public Health Providence, RI Conceptualization, Methodology, Investigation, Data curation, Visualization, Writing – original draft, Writing – review & editing, Project administration Jonie Hsiao, MD Physician, VA Greater Los Angeles Healthcare System Los Angeles, CA Conceptualization, Methodology, Data curation, Investigation, Writing – review & editing Manuel Celedon, MD Physician, VA Greater Los Angeles Healthcare System Los Angeles, CA Conceptualization, Methodology, Data curation, Investigation, Writing – review & editing Sebhat Erqou, MD, PhD Co-investigator, Providence ESP Center Physician, Providence VAMC Assistant Professor, Brown University School of Public Health Providence, RI Conceptualization, Methodology, Investigation, Data curation, Writing – review & editing Kristin Konnyu, PhD, MsC Co-investigator, Providence ESP Center Assistant Professor, Brown University School of Public Health Providence, RI Conceptualization, Methodology, Investigation, Data curation, Writing – review & editing James Rudolph, MD Co-Director, Providence ESP Center Director, Long Term Services and Supports (LTSS) Center of Innovation (COIN) Professor of Medicine, Brown University School of Public Health Providence, RI Conceptualization, Methodology, Investigation, Data curation, Visualization, Writing – original draft, Writing – review & editing Muhammad Baig, MD Preventive Cardiology Fellow, Providence VAMC Providence, RI Conceptualization, Methodology, Investigation, Data curation Thomas Trikalinos, MD, PhD Co-investigator, Providence ESP Center Professor, Brown University School of Public Health Providence, RI Conceptualization, Methodology, Data curation Kyari Ngamdu, MD Health Professionals Trainee, Providence VAMC Providence, RI Investigation, Methodology, Data curation Ghid Kanaan, MD Research Associate, Providence ESP Center Providence, RI Investigation, Data curation, Writing – review & editing Thien Phuc Tran Research Assistant, Providence ESP Center Providence, RI Investigation, Data curation High-sensitivity Troponin to “Rule In” or “Rule Out” MI Evidence Synthesis Program ii Taylor Rickard, MS Program Manager, Providence ESP Center Providence, RI Project administration, Visualization, Investigation, Data curation Sunny Cui Research Assistant, Providence ESP Center Providence, RI Investigation, Data curation Ethan Balk, MD, MPH Co-investigator, Providence ESP Center Professor, Brown University School of Public Health Providence, RI Conceptualization, Methodology, Investigation, Writing – review & editing, Visualization, Writing – original draft, Writing – review & editing This report was prepared by the Evidence Synthesis Program Center located at the VA Providence Health Care System, directed by Eric Jutkowitz, PhD and James Rudolph, MD and funded by the Department of Veterans Affairs, Veterans Health Administration, Health Services Research and Development. The findings and conclusions in this document are those of the author(s) who are responsible for its contents and do not necessarily represent the views of the Department of Veterans Affairs or the United States government. Therefore, no statement in this article should be construed as an official position of the Department of Veterans Affairs. No investigators have any affiliations or financial involvement (eg, employment, consultancies, honoraria, stock ownership or options, expert testimony, grants or patents received or pending, or royalties) that conflict with material presented in the report. High-sensitivity Troponin to “Rule In” or “Rule Out” MI Evidence Synthesis Program iii PREFACE The VA Evidence Synthesis Program (ESP) was established in 2007 to provide timely and accurate syntheses of targeted health care topics of importance to clinicians, managers, and policymakers as they work to improve the health and health care of Veterans. These reports help: • Develop clinical policies informed by evidence; • Implement effective services to improve patient outcomes and to support VA clinical practice guidelines and performance measures; and • Set the direction for future research to address gaps in clinical knowledge. The program comprises four ESP Centers across the US and a Coordinating Center located in Portland, Oregon. Center Directors are VA clinicians and recognized leaders in the field of evidence synthesis with close ties to the AHRQ Evidence-based Practice Center Program. The Coordinating Center was created to manage program operations, ensure methodological consistency and quality of products, interface with stakeholders, and address urgent evidence needs. To ensure responsiveness to the needs of decision-makers, the program is governed by a Steering Committee composed of health system leadership and researchers. The program solicits nominations for review topics several times a year via the program website. The present report was developed in response to a request from the VA Office of Emergency Medici
+
+--- FUENTE WEB ---
+Título: Role of High-sensitivity Cardiac Troponin in Acute ...
+URL: https://www.uscjournal.com/articles/role-high-sensitivity-cardiac-troponin-acute-coronary-syndrome?language_content_entity=en
+Score: 0.7197191
+
+Texto:
+![Radcliffe Cardiology logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/RadcliffeCardiology%20Horizontal%20%28Dark%29.svg?VersionId=FsjmKVvrwNg5MovL9Lue_nrxJD5Nm9tc)
+![RC logo dark mode](https://assets.radcliffecardiology.com/s3fs-public/2026-01/RC%20Logo%20Horizontal%20Reversed%202.svg?VersionId=HtLw50OZb1Cl9Mldg2tVoEPCIVkkxP0U)
+
+[USC is the official journal of the CardioNerds](https://www.cardionerds.com/)  [![logo](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/cardionerds.webp)](https://www.cardionerds.com/)
+
+![logo](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/cardionerds.webp)
+![Radcliffe USC logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/USC_white.svg?VersionId=sdfj3wSBcEIVJsek2QJ0nMZYtoOTuguz)
+![Radcliffe USC banner](https://assets.radcliffecardiology.com/s3fs-public/styles/mobile_banner/public/2025-06/USC%20Banner%20%28mobile%29.png?VersionId=fgBsttqYxAIp1owRQ7GKNKK73aQ..N6Q&itok=aIAuQcjM)
+![Radcliffe USC banner](https://assets.radcliffecardiology.com/s3fs-public/styles/desktop_banner/public/2025-06/USC%20Banner.png?VersionId=5PlFRHD6W6HPjuhX.PKmIfX6f3WVOjiI&itok=RJb35Izw)
+
+[Home](/)
+
+About
+
+Content type
+
+Articles
+
+[Special Collections](/get-special-collections)
+
+[Submit Article](https://www.editorialmanager.com/usc/default.aspx)
+
+![Radcliffe USC logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/USC.svg?VersionId=rGhMCxMK3bxK1ecVCl3XuroYgUFTUZ09)
+
+View all platforms
+
+## Breadcrumb
+
+Authors
+
+Article Info
+
+Cite
+
+Metrics
+
+Article Text
+
+Figures & Tables
+
+References
+
+Article
+
+![Open access](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/svg/openAccess.svg)
+
+# Role of High-sensitivity Cardiac Troponin in Acute Coronary Syndrome
+
+[Mahesh Anantha Narayanan](https://www.radcliffecardiology.com/authors/mahesh-anantha-narayanan?language_content_entity=en)
+
+[Santiago Garcia](https://www.radcliffecardiology.com/authors/santiago-garcia?language_content_entity=en)
+
+![Information image](https://assets.radcliffecardiology.com/s3fs-public/2020-05/cc_by_nc.png)
+
+Views: 1916
+
+Likes: 0
+
+Downloads: 74
+
+Citations: 8
+
+Abstract
+
+Chest pain is one of the most common reasons for an emergency room (ER) visit in the US, with almost 6 million ER visits annually. High-sensitivity cardiac troponin (hscTn) assays have the ability to rapidly rule in or rule out acute coronary syndrome with improved sensitivity, and they are increasingly being used. Though hscTn assays have been approved for use in European, Australian, and Canadian guidelines since 2010, the FDA only approved their use in 2017. There is no consensus on how to compare the results from various hscTn assays. A literature review was performed to analyze the advantages and limitations of using hscTn as a standard biomarker to evaluate patients with suspected ACS in the emergency setting.
+
+Keywords
+
+[Acute coronary syndrome](/search?search_api_fulltext=Acute%20coronary%20syndrome),
+[myocardial infarction](/search?search_api_fulltext=myocardial%20infarction),
+[troponin](/search?search_api_fulltext=troponin),
+[cardiac biomarkers](/search?search_api_fulltext=cardiac%20biomarkers),
+
+Received: 04 November 2018
+
+Accepted: 04 February 2019
+
+Published online: 12 March 2019
+
+Citation:[US Cardiology Review 2019;13(1):5–10](/editions/usc-volume-13-issue-1-spring-2019?language_content_entity=en)
+
+Select format
+
+DOI: <https://doi.org/10.15420/usc.2018.16.1>
+
+Disclosure: The authors have no conflicts of interests to declare.
+
+Correspondence: Santiago Garcia, Minneapolis Heart Institute, 920 East 28th Street, Suite 300-MR 33300, Minneapolis, MN 55417. E: garci205@umn.edu
+
+© The Author(s). This work is open access and is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Users may copy, redistribute and make derivative works for non-commercial purposes, provided the original work is cited correctly.
+
+Chest pain is one of the most common reasons for an emergency room (ER) visit in the US with almost 6 million ER visits annually.1
+
+According to the fourth universal definition of MI, acute MI (AMI) requires a rise and/or fall in cardiac troponin (cTn) with at least one value above the 99th percentile upper reference limit.2,3 Cardiac troponin I (cTnI) and cardiac troponin T (cTnT) are the preferred biomarkers in acute coronary syndrome (ACS).2–5
+
+Although contemporary cTn assays are used routinely in the US for risk stratification and the diagnosis of patients presenting with suspected ACS, they have important limitations compared to high-sensitivity cardiac troponin (hscTn) assays:
+
+These limitations have led to prolonged serial sampling protocols being used to achieve optimal diagnostic accuracy, which mean increases in hospitalizations, length of stay, and costs.4,6–10
+
+In conventional troponin assays, troponin elevation is considered to be an all or nothing phenomenon. The presence of troponin elevation above the 99th percentile reference range suggests myocardial injury but no troponin elevation above the 99th percentile is considered normal, even though this does not necessarily mean the absence of an ACS, as conventional assays are unable to detect small ischemic events. Particularly where there is atypical chest pain and no troponin elevation, patients who are experiencing an ACS are at risk of being discharged early because the decision-making process is subjective.9
+
+To overcome this difficulty, hscTn assays were introduced and have slowly gained importance. These can be used to classify patients more appropriately as ‘true’ or ‘no’ ACS, and do not require repeat assays at 6 and 12 hours, unlike conventional cTn assays. HscTn assays are able to detect troponins at a concentration about 1/10 of the lower reference range of conventional troponin assays.2
+
+While hscTn assays have been in clinical use since 2015 in Europe, t
+
+--- FUENTE WEB ---
+Título: High-Sensitivity Cardiac Troponin for the Rapid Diagnosis of Acute Coronary Syndrome in the Emergency Department - CADTH Report / Project in Briefs - NCBI Bookshelf
+URL: https://www.ncbi.nlm.nih.gov/books/NBK361784
+Score: 0.7161595
+
+Texto:
+**Warning:**
+The NCBI web site requires JavaScript to function.
+[more...](/guide/browsers/#enablejs "Learn how to enable JavaScript")
+
+![U.S. flag](https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png)
+
+An official website of the United States government
+
+![Dot gov](https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it's official.**
+  
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you're on a federal
+government site.
+
+![Https](https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+  
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+![NIH NLM Logo](https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg)
+
+#### Account
+
+# [Bookshelf](/books/ "Bookshelf home")
+
+## 
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+CADTH Report / Project in Briefs [Internet]. Ottawa (ON): Canadian Agency for Drugs and Technologies in Health; 2011-2021.
+
+![Cover of CADTH Report / Project in Briefs](/corehtml/pmc/pmcgifs/bookshelf/thumbs/th-cadthbriefs-lrg.png)
+
+## CADTH Report / Project in Briefs [Internet].
+
+# High-Sensitivity Cardiac Troponin for the Rapid Diagnosis of Acute Coronary Syndrome in the Emergency Department
+
+Created: October 2013.
+
+### Key Messages
+
+For the diagnosis of ACS:
+
+*Note: The end of a capital equipment contract or life cycle is an example of when a change in assay may be necessary.*
+
+## Condition
+
+Acute coronary syndrome (ACS) occurs when there is a sudden decrease in blood flow to the heart — called myocardial ischemia. ACS may be due to heart attack (myocardial infarction [MI]) or unstable angina. Heart attacks can be further classified into two types — segment elevation myocardial infarction (STEMI) and non-STEMI, depending on the electrocardiogram (ECG) findings. Symptoms and signs of ACS include chest pain, nausea, sweating, and cardiac arrest.
+
+## Technology
+
+Troponin is a protein found in muscle cells, like those in the heart. During a heart attack the muscle cells in the heart are damaged from lack of oxgen and they release troponin into the bloodstream. How much troponin is released depends on the amount of damage to the heart. A blood test can be performed to measure the amount of troponin in the blood and the change in troponin levels over time can help to diagnose a heart attack. In Canada, there are two cardiac troponin tests available: cardiac troponin T and cardiac troponin I. High-sensitivity versions of these have recently become available. The traditional versions of the test are called conventional cardiac troponin tests. As of March 2013, conventional cardiac troponin T tests had been discontinued in Canada and replaced with high-sensitivity cardiac troponin T; conventional cardiac troponin I tests remained available, and high-sensitivity cardiac troponin I was not yet available.
+
+## Issues
+
+High-sensitivity cardiac troponin tests may help to diagnose heart attacks earlier and lower the risk of missing someone who is having a heart attack. But they may also lead to overdiagnosis — indicating that a patient is having a heart attack when they are not. These false-positive results are concerning to hospitals and patients because they could lead to unnecessary procedures, referrals, and hospitalizations. Clinical experience is greater with the conventional cardiac troponin tests and it is unclear how the newer high-senitivity tests should be interpreted clinically.
+
+## Methods
+
+A review of the evidence comparing how well the tests perform in diagnosing ACS in the emergency department, together with a clinical and cost-effectiveness evaluation, was undertaken to help inform decisions about their use. An expert committee made recommendations based on the systematic review and economic analysis, as well as a Canadian Agency for Drugs and Technologies in Health (CADTH) Rapid Response report on point-of-care cardiac troponin testing, a CADTH Rapid Response report appraising current clinical practice guidelines, and a CADTH Environmental Scan report on current cardiac troponin test use in Canada.
+
+## Results
+
+**Clinical:** High-sensitivity troponin I yielded the highest sensitivity for the diagnosis of acute MI, and conventional troponin T had the highest specificity. No information on the effects of the various troponin tests on quality of life, readmission rates, and time in the emergency department until the diagnosis of MI was identified.
+
+**Economic:** High-sensitivity troponin T is predicted to have the highest expected per patient costs ($2,186), followed by high-sensitivity troponin I ($2,082) and conventional troponin I ($2,018). The base-case economic analysis estimated the incremental cost-effectiveness ratio of high-sensitivity troponin T compared with conventional troponin I to be $119,377 per quality-adjusted life-year.
+
+**DISCLAIMER**: The information in this Project in Brief is intended to help health care decision‐makers, patients, health care professionals, health systems leaders, and policy‐makers make well‐informed decisions and thereby improve the quality of health care services. The information in this Project in Brief should not be used as a substitute for the application of clinical judgment in respect of the care of a particular patient or other professional judgment in any decision‐making process nor is it intended to replace professional medical advice. While CADTH has taken care in the preparation of the Project in Brief to ensure that its contents are accurate, complete, and up‐to‐date, CADTH does not make any guarantee to that effect. CADTH is not responsible for any errors or omissions or injury, loss, or damage arising from or as a result of the use (or misuse) of any information contained in or implied by the information in this Project in B
+
+--- FUENTE WEB ---
+Título: Clinical Use of High-Sensitivity Cardiac Troponin in Patients With Suspected Myocardial Infarction
+URL: https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718
+Score: 0.71496695
+
+Texto:
+[Skip to main content](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#afterNav-pl9)
+
+[![Image 1: JACC Journals](https://www.jacc.org/pb-assets/images/site-home/header-logo-redesign-1751041131223.svg)](https://www.jacc.org/)
+
+[Skip main navigation](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#afterNav-gu5)
+
+*   [Journals](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718)
+    *   [JACC](https://www.jacc.org/journal/jacc)
+    *   [JACC: Advances](https://www.jacc.org/journal/jacc-advances)
+    *   [JACC: Asia](https://www.jacc.org/journal/jacc-asia)
+    *   [JACC: Basic to Translational Science](https://www.jacc.org/journal/basic-translational)
+    *   [JACC: CardioOncology](https://www.jacc.org/journal/cardio-oncology)
+    *   [JACC: Cardiovascular Imaging](https://www.jacc.org/journal/imaging)
+    *   [JACC: Cardiovascular Interventions](https://www.jacc.org/journal/interventions)
+    *   [JACC: Case Reports](https://www.jacc.org/journal/case-reports)
+    *   [JACC: Clinical Electrophysiology](https://www.jacc.org/journal/electrophysiology)
+    *   [JACC: Heart Failure](https://www.jacc.org/journal/heart-failure)
+
+*   [Topics](https://www.jacc.org/topics)
+    *   [Topics by Journal](https://www.jacc.org/topics?tabActivePane=topics-by-journal)
+    *   [Collections](https://www.jacc.org/topics?tabActivePane=collections)
+    *   [All Topics](https://www.jacc.org/topics?tabActivePane=all-topics)
+
+*   [Guidelines](https://www.jacc.org/guidelines)
+*   [Events](https://www.jacc.org/events)
+*   [Author Center](https://www.jacc.org/author-center)
+*   [Multimedia](https://www.jacc.org/multimedia)
+*     
+
+[Search](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#)
+
+Search
+
+Quick Search anywhere
+
+Enter Search Terms Search
+
+*   [Shopping cart with 0 item](https://www.jacc.org/action/showCart?FlowID=1 "Cart") 
+*       *   [Sign In](https://www.jacc.org/action/ssostart?idp=AccIdentityProvider&redirectUri=/doi/10.1016/j.jacc.2017.07.718&uri=%2Fdoi%2F10.1016%2Fj.jacc.2017.07.718 "Sign in or Create Account")[](https://www.jacc.org/action/ssostart?idp=AccIdentityProvider&redirectUri=/doi/10.1016/j.jacc.2017.07.718&uri=%2Fdoi%2F10.1016%2Fj.jacc.2017.07.718) 
+
+*   [JACC](https://www.jacc.org/journal/jacc)
+*   [Current Issue](https://www.jacc.org/toc/jacc/current)
+*   [Just Accepted](https://www.jacc.org/toc/jacc/0/0)
+*   [Archives](https://www.jacc.org/loi/jacc)
+*   [Submit](https://www.jaccsubmit.org/cgi-bin/main.plex)
+
+*       *   [Sign In](https://www.jacc.org/action/ssostart?idp=AccIdentityProvider&redirectUri=/doi/10.1016/j.jacc.2017.07.718&uri=%2Fdoi%2F10.1016%2Fj.jacc.2017.07.718 "Sign in or Create Account")[](https://www.jacc.org/action/ssostart?idp=AccIdentityProvider&redirectUri=/doi/10.1016/j.jacc.2017.07.718&uri=%2Fdoi%2F10.1016%2Fj.jacc.2017.07.718) 
+
+Search
+
+Quick Search anywhere
+
+Enter Search Terms Search
+
+*   [Guidelines](https://www.jacc.org/guidelines)
+*   [Author Center](https://www.jacc.org/author-center)
+*   [Topics](https://www.jacc.org/topics)
+    *   [Topics by Journal](https://www.jacc.org/topics?tabActivePane=topics-by-journal)
+    *   [Collections](https://www.jacc.org/topics?tabActivePane=collections)
+    *   [All Topics](https://www.jacc.org/topics?tabActivePane=all-topics)
+
+*   ### JACC Family of Journals
+
+    *   [JACC](https://www.jacc.org/journal/jacc)
+    *   [JACC: Advances](https://www.jacc.org/journal/jacc-advances)
+    *   [JACC: Asia](https://www.jacc.org/journal/jacc-asia)
+    *   [JACC Basic Transational Science](https://www.jacc.org/journal/basic-translational)
+    *   [JACC: CardioOncology](https://www.jacc.org/journal/cardio-oncology)
+    *   [JACC Cardiovascular Imaging](https://www.jacc.org/journal/imaging)
+    *   [JACC Cardiovascular Interventions](https://www.jacc.org/journal/interventions)
+    *   [JACC: Case Reports](https://www.jacc.org/journal/case-reports)
+    *   [JACC: Clinical Electrophysiology](https://www.jacc.org/journal/electrophysiology)
+    *   [JACC: Heart Failure](https://www.jacc.org/journal/heart-failure)
+
+*   [Conferences](https://www.jacc.org/events)
+*   [Simultaneous Publications](https://www.jacc.org/events/conferences/simultaneous-publications)
+*   [CME/MOC](https://www.jacc.org/cme-moc)
+*   [Multimedia](https://www.jacc.org/multimedia)
+*   [About](https://www.jacc.org/about)
+    *   [Journal Subscribe](https://www.jacc.org/subscribe)
+    *   [Newsletter/Email](https://www.jacc.org/alerts)
+    *   [FAQs](https://www.jacc.org/help)
+    *   [Contact Us](https://www.jacc.org/contact-us)
+
+*   [ACC.org](https://www.acc.org/?__hstc=117268889.f4895fece97792c60b6552377f04ae5b.1786911508149.1786911508149.1786911508149.1&__hssc=117268889.1.1786911508149&__hsfp=87b5b49afe4608a59ecf3c1162da6400)
+*     
+
+[JACC Journals](https://www.jacc.org/) › [JACC](https://www.jacc.org/journal/jacc) › [Archives](https://www.jacc.org/loi/jacc) › [Vol. 70 No. 8](https://www.jacc.org/toc/jacc/70/8)
+
+Free access
+
+State-of-the-Art Review
+
+14 August 2017
+
+Share on
+*   [](https://www.jacc.org/#facebook)
+*   [](https://www.jacc.org/#x)
+*   [](https://www.jacc.org/#linkedin)
+*   [](https://www.jacc.org/#email)
+*   [](https://www.jacc.org/#wechat)
+*   [](https://www.jacc.org/#bluesky)
+
+# Clinical Use of High-Sensitivity Cardiac Troponin in Patients With Suspected Myocardial Infarction
+
+Authors: [Raphael Twerenbold, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au1), [Jasper Boeddinghaus, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au2), [Thomas Nestelberger, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au3), [Karin Wildi, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au4), [Maria Rubini Gimenez, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au5), [Patrick Badertscher, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au6), and [Christian Mueller, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au7)[christian.mueller@usb.ch](mailto:christian.mueller@usb.ch)[Authors Info & Affiliations](https:
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
