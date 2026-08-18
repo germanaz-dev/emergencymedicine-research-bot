@@ -1,0 +1,810 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: sepsis early recognition in the emergency department
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Evolution of Sepsis Management in the Emergency Department: From Early Goal-Directed Therapy to Personalized Resuscitation.
+Revista: Cureus
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42605402
+DOI: 10.7759/cureus.112866
+URL: https://pubmed.ncbi.nlm.nih.gov/42605402/
+
+Abstract:
+Sepsis remains a leading cause of morbidity and mortality worldwide and represents a major challenge in emergency medicine. Early recognition and timely intervention are critical determinants of patient outcomes. The introduction of early goal-directed therapy (EGDT) in 2001 transformed sepsis management by promoting protocolized hemodynamic resuscitation during the initial hours of care. However, subsequent evidence challenged the routine use of invasive EGDT targets and led to significant changes in contemporary sepsis management strategies. This narrative review examines the evolution of sepsis management in the emergency department, focusing on the development, implementation, and reassessment of EGDT. Literature published between 2001 and 2026 was reviewed using major medical databases and guideline repositories, with emphasis on landmark randomized controlled trials (RCTs), systematic reviews, meta-analyses, and international guideline statements. Key studies, including Protocolized Care for Early Septic Shock (ProCESS), Australasian Resuscitation in Sepsis Evaluation (ARISE), and Protocolised Management in Sepsis (ProMISe), demonstrated no mortality benefit of rigid protocolized EGDT compared with contemporary standard care, contributing to a shift toward individualized, physiology-guided resuscitation strategies. Current evidence supporting early antimicrobial administration, balanced crystalloid resuscitation, dynamic assessment of fluid responsiveness, early vasopressor initiation, and lactate-guided monitoring is reviewed, along with ongoing controversies involving antibiotic timing, fluid management, biomarker-guided therapy, and personalized sepsis care. Although protocolized EGDT is no longer routinely recommended, its emphasis on early recognition and prompt intervention continues to influence modern sepsis management. Contemporary practice favors individualized, patient-centered approaches focused on rapid diagnosis, timely antimicrobial therapy, targeted hemodynamic support, and continuous reassessment of tissue perfusion, while future advances are likely to involve biomarker-guided treatment, precision medicine, and artificial intelligence-assisted clinical decision support.
+
+--- PAPER PUBMED ---
+Título: Early recognition and bundle-based management of pediatric sepsis in the emergency department: a narrative review.
+Revista: Translational pediatrics
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42591672
+DOI: 10.5935/0103-507X.20210030
+URL: https://pubmed.ncbi.nlm.nih.gov/42591672/
+
+Abstract:
+Pediatric sepsis is a high-stakes, time-sensitive emergency, yet early recognition in the emergency department (ED) remains inconsistent because presenting features are heterogeneous, early signs are nonspecific, and implementation capacity varies across hospitals. At the same time, evidence for bundle-based care has expanded, but important clinical questions remain regarding which recognition approaches are most reliable in frontline ED settings, which bundle elements are best supported, and why pathway uptake remains uneven. This narrative review was undertaken to address these questions and to clarify current evidence gaps relevant to pediatric emergency practice. This structured narrative review searched PubMed on March 15, 2026 for studies published from January 1, 2010 through March 15, 2026 using terms related to pediatric sepsis, emergency care, screening, early recognition, sepsis bundles, biomarkers, quality improvement, and digital decision support. We focused on ED-relevant studies addressing recognition strategies, bundle implementation, nursing or workflow processes, and emerging technologies. Titles and abstracts were screened against predefined inclusion and exclusion criteria, and the final literature set was synthesized thematically into recognition, management, implementation, and future-direction domains. No language filter was planned at search design, but the review was limited to studies with accessible English full-text data for analysis. Current evidence supports a layered ED recognition model that combines clinical assessment with structured screening, targeted biomarkers, and workflow-integrated digital support rather than reliance on any single tool. Evidence is strongest for bundle pathways improving process outcomes such as time to antibiotics, pathway activation, and compliance with first-hour care targets. By contrast, evidence for direct mortality benefit, stand-alone biomarker superiority, and routine use of artificial intelligence (AI)-enabled systems remains promising but inconsistent because studies are heterogeneous in definitions, populations, and implementation context. The literature also shows that success in general ED practice depends heavily on pediatric readiness, nursing-led escalation, local workflow design, and multidisciplinary coordination. Pediatric sepsis care in the ED should be organized around rapid recognition plus measurable, context-adapted bundle delivery. The clearest evidence gaps involve external validation of recognition tools in general EDs, more explicit evaluation of individual bundle components, harmonized operational definitions and bundle metrics, and implementation studies that test how digital support and nursing workflows can improve frontline performance.
+
+--- PAPER PUBMED ---
+Título: Clinical Practice Recommendations for Non-Dermatologists on the Diagnostic Suspicion of GPP.
+Revista: Journal of clinical medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42590188
+DOI: 10.1080/00325481.2023.2285730
+URL: https://pubmed.ncbi.nlm.nih.gov/42590188/
+
+Abstract:
+Generalized pustular psoriasis (GPP) is a rare, potentially life-threatening, chronic cutaneous inflammatory disease characterized by unpredictable, recurrent acute flares of painful sterile pustules on a widespread erythematous background. In addition to cutaneous manifestations, patients may experience fever, pruritus, pain, chills, and general malaise, which may be further complicated by secondary infection, sepsis, and organ failure, thus requiring urgent medical treatment and, in some cases, hospitalization. Prompt therapeutic management of the acute phase is crucial for severe cases, and proactive treatment to prevent flares should always be considered. However, early recognition of acute flares can be challenging due to the low frequency of the disease, the rapid onset of flares, the lack of hematological biomarkers and the absence of standardized diagnostic criteria. Moreover, despite the approval of new targeted therapies, there are still several unmet needs, as these treatments are highly expensive, not always readily available, and may have limited efficacy in patients with advanced or complicated disease. For these reasons, multidisciplinary round-table discussions and shared diagnostic and therapeutic algorithms involving dermatologists, who are responsible for diagnosing and treating GPP, and other medical specialists are desirable to facilitate prompt referral to dermatologists for accurate diagnosis and appropriate treatment. We report the updated literature discussed during a multidisciplinary meeting with the aim of providing practice recommendations for clinicians involved in GPP management.
+
+--- PAPER PUBMED ---
+Título: Identification and Management of Differentiation Syndrome in Emergency Settings: A Narrative Review.
+Revista: Cancers
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42279388
+DOI: 10.1038/s41419-025-08109-7
+URL: https://pubmed.ncbi.nlm.nih.gov/42279388/
+
+Abstract:
+Background: Differentiation therapy is a cornerstone in treating hematologic malignancies, particularly acute myeloid leukemia (AML). Differentiation agents target molecular defects blocking myeloid differentiation. However, rapid differentiation can precipitate a life-threatening complication, differentiation syndrome (DS). DS manifests with fever, pulmonary infiltrates, pleural or pericardial effusions, hypotension, and organ dysfunction, often mimicking sepsis or infection. Early recognition in the emergency department (ED) is critical to mitigate morbidity and mortality. This review aims to provide emergency clinicians with practical strategies for the timely identification and management of DS in patients undergoing differentiation therapy. Discussion: Suspicion for DS should be heightened in patients with acute promyelocytic leukemia (M3 AML) who recently started induction chemotherapy, including all-trans retinoic acid or arsenic trioxide, and in those with non-M3 AML receiving differentiation agents (i.e., isocitrate dehydrogenase inhibitors, menin inhibitors, FMS-like tyrosine kinase 3 inhibitors). Imaging can identify pulmonary infiltrates, effusions, and other cardiopulmonary manifestations. Laboratory workups should include complete blood counts with differentials, serum chemistries, cardiac biomarkers, and sepsis panels to exclude infection. Electrocardiography is advised for patients on QT-prolonging agents. Management emphasizes prompt initiation of high-dose corticosteroids and supportive measures such as blood pressure support, intravascular volume optimization, and oxygen therapy or ventilatory support. Multidisciplinary coordination with oncology, hematology, and critical care teams is important to tailor plans and monitor complications. Conclusions: DS represents a diagnostic challenge in the ED due to its nonspecific presentation and mimicry of infection. A high index of suspicion, combined with targeted imaging, laboratory evaluation, and early corticosteroid therapy, can improve outcomes.
+
+--- PAPER PUBMED ---
+Título: Clinical Outcomes for Emergency Department Presentations of Sepsis Managed on a Clinical Pathway: A Systematic Review and Meta-Analysis.
+Revista: Healthcare (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42278762
+DOI: 10.1056/NEJMoa1703058
+URL: https://pubmed.ncbi.nlm.nih.gov/42278762/
+
+Abstract:
+Background: Sepsis is a time-critical condition requiring early recognition and intervention. Many emergency departments (EDs) have adopted clinical pathways to standardise sepsis care; however, the impact of these pathways on patient outcomes remains unclear. Methods: A systematic review and meta-analysis was conducted in November 2024 searching PubMed, Embase, and Scopus. Studies were included if they assessed the impact of a clinical pathway on adult or paediatric patients with sepsis presenting to the ED. Results: Thirty-three studies were included, of which the majority were retrospective cohort designs and were rated serious overall risk of bias. Pathway implementation was associated with faster time to antibiotics across all subgroups (135 min before vs. 93 min after; MD -43 min, p < 0.001). In-hospital mortality appeared reduced in the primary analysis (RD -2.4%, p = 0.032); however, this finding was fragile under sensitivity analysis and was not observed in prospective or randomised designs. The apparent reduction in hospital length of stay was driven by paediatric and low- and middle-income country studies and was non-significant when restricted to adult studies. ICU admission rate, ED length of stay, and time to IV fluid resuscitation were not significantly reduced. Conclusions: ED sepsis pathway implementation is associated with improved time to antibiotics across clinical settings and populations. Current evidence is insufficient to demonstrate a reduction in mortality; the apparent signal in retrospective studies is attributable to secular improvements in sepsis care and asymmetric patient identification rather than a true pathway effect. Future research should prioritise prospective controlled studies with standardised screening methods, time zero definitions and control of confounding variables.
+
+--- PAPER PUBMED ---
+Título: Deep neck space Infections in children: Peritonsillar, retropharyngeal, parapharyngeal, and Ludwig's angina emergencies in the pediatric emergency department.
+Revista: American journal of otolaryngology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42275833
+DOI: 10.1016/j.amjoto.2026.104864
+URL: https://pubmed.ncbi.nlm.nih.gov/42275833/
+
+Abstract:
+Pediatric deep neck space infections (DNSIs)-peritonsillar, retropharyngeal, and parapharyngeal abscesses and Ludwig's angina-are uncommon but potentially life-threatening due to rapid progression to airway obstruction, sepsis, and mediastinal extension. This narrative review summarizes evidence for emergency clinicians. A literature search of PubMed/Scopus (2000-2025) identified studies on pediatric DNSI epidemiology, imaging, microbiology, and management. DNSIs peak at ages 2-5 years because of prominent retropharyngeal lymph nodes. Nonspecific symptoms (fever, irritability, neck stiffness) often delay diagnosis in young children, while older children present with trismus, dysphagia, and "hot potato" voice. Airway compromise is the highest priority and must be assessed before imaging. Contrast-enhanced CT remains the gold standard for stable patients, but point-of-care ultrasound has high accuracy for peritonsillar abscesses. Microbiology is polymicrobial; methicillin-resistant Staphylococcus aureus is increasingly reported. Empiric broad-spectrum intravenous antibiotics (e.g., ampicillin-sulbactam) should be initiated early, with vancomycin added if MRSA risk factors are present. Surgical drainage is indicated for abscesses >2-2.5 cm, airway compromise, or failure of medical therapy. Multidisciplinary collaboration reduces complications. Early recognition, an airway-first approach, selective imaging, and timely antibiotics improve outcomes. Standardized emergency department (ED) protocols and risk stratification tools are needed to prevent life-threatening complications in this vulnerable group.
+
+--- PAPER PUBMED ---
+Título: Impact of Sepsis Management Guideline Implementation in Emergency Departments: A Systematic Review of Process Measures and Clinical Outcomes.
+Revista: Cureus
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42255822
+DOI: 10.7759/cureus.108271
+URL: https://pubmed.ncbi.nlm.nih.gov/42255822/
+
+Abstract:
+Sepsis is a life-threatening condition associated with significant morbidity and mortality worldwide. The emergency department (ED) plays a crucial role in the early recognition and management of sepsis, as delays in treatment are strongly associated with worse outcomes. Although sepsis management guidelines and care bundles have been widely implemented to standardize and accelerate care, their impact on patient outcomes remains variably reported. This systematic review evaluated the effect of implementing sepsis management guidelines in EDs on both process indicators and clinical outcomes. A systematic search was conducted across PubMed, Scopus, Web of Science, and the Cochrane Library using a combination of controlled vocabulary and free-text terms related to sepsis, emergency care, and guideline implementation, yielding 4,309 records; after removal of duplicates and screening, eight studies met the inclusion criteria. Data extraction was performed using a standardized form capturing study characteristics, interventions, and outcomes, and risk of bias was assessed using the Risk Of Bias In Non-randomized Studies of Interventions (ROBINS-I) tool. The included studies comprised diverse designs, including before-and-after studies, retrospective cohort studies, observational studies, and one quasi-experimental trial. Overall, implementation of sepsis guidelines consistently improved process measures, including reduced time to antibiotic administration, increased lactate testing, improved blood culture collection, and higher compliance with sepsis bundles. However, effects on clinical outcomes were heterogeneous: some studies reported reductions in mortality, intensive care unit (ICU) admissions, and resource utilization, while others showed no significant mortality benefit despite improved process indicators. Additionally, some studies reported unintended consequences such as increased antimicrobial use and potential overtreatment. Most studies were judged to have a moderate to serious risk of bias, largely due to confounding and non-randomized designs. In conclusion, implementation of sepsis management guidelines in EDs is associated with consistent improvements in care processes and timeliness of treatment, but evidence for improved clinical outcomes, particularly mortality, remains inconsistent and is limited by study design and risk of bias; further high-quality studies are needed to establish causality, optimize implementation strategies, and balance timely treatment with antimicrobial stewardship.
+
+--- PAPER PUBMED ---
+Título: Alerts and Alarms-Can Electronic Medical Records Help Children and Adolescents Survive Sepsis?
+Revista: Journal of paediatrics and child health
+Fecha: 2026
+Tipo: Journal Article, Systematic Review, Review
+PMID: 42068108
+DOI: 10.1111/jpc.70412
+URL: https://pubmed.ncbi.nlm.nih.gov/42068108/
+
+Abstract:
+Early recognition and treatment of paediatric sepsis has been shown to improve survival. Automated sepsis alerts embedded in electronic medical records (EMRs) offer real-time identification of high-risk patients and may improve timeliness of sepsis care, with possible limitations including overdiagnosis, overtreatment and alert fatigue. It is currently unclear whether automated alerts improve clinical outcomes in paediatric sepsis. We conducted a systematic review and narrative synthesis of studies evaluating clinical outcomes (mortality, PICU admission rate, length of stay), process measures (time to fluids/antibiotics, bundle adherence), and balancing measures (hospitalisation rate, antibiotic use) after implementation of EMR-based automated sepsis alerts in patients under 18 years of age. Twelve studies met inclusion criteria. Automated alerts were associated with improvements in process measures, notably reduced time to antibiotics (4/6 studies) and fluids (2/5 studies). Mortality was reduced in one study of PICU patients (29.9% vs. 17.4%, p = 0.011), and a trend towards reduced PICU admissions was observed. No significant impact on hospital or PICU length of stay was noted. Alerts did not increase hospital admission rates or antibiotic usage. Automated sepsis alerts may improve time to fluids and antibiotics in paediatric sepsis. While inconsistently reported, alerts were not found to increase hospital admission rates or antibiotic use. The impact on clinical outcomes, particularly mortality, remains uncertain. High quality randomised studies are needed to define their role in improving paediatric sepsis outcomes.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Evaluation of Updated NG51 Guidelines on Early Recognition and Sepsis Outcomes in Elderly Patients
+URL: https://clinmedjournals.org/articles/ijccem/international-journal-of-critical-care-and-emergency-medicine-ijccem-11-168.php?jid=
+Score: 0.8259413
+
+Texto:
+[![logo](https://clinmedjournals.org/img/logo.png)](https://clinmedjournals.org/)
+
+[######](../../.php)
+
+# Table of Contents
+
+* [Abstract](#abs)
+* [Introduction](#int)
+* [Positive Implications of NG51 Updates](#pos)
+* [Limitations of Updates](#lim)
+* [Challenges in Elderly Patients](#cha)
+* [Considerations for Future Updates](#cons)
+* [NG51 in Practice](#ng51)
+* [Conclusion and Reflections](#con)
+* [Acknowledgments](#ack)
+* [Conflicts of Interest](#conf)
+* [Tables](#tab)
+
++ - [Table 1](#tab1)
+
+* [References](#ref)
+* [Citation](#cit)
+
+# Citation
+
+Greenwold J (2025) Evaluation of Updated NG51 Guidelines on Early Recognition and Sepsis Outcomes in Elderly Patients. Int J Crit Care Emerg Med 11:168. doi.org/10.23937/2474-3674/1510168
+
+###### Review Article | OPEN ACCESS DOI: 10.23937/2474-3674/1510168
+
+# Evaluation of Updated NG51 Guidelines on Early Recognition and Sepsis Outcomes in Elderly Patients
+
+##### Jack Greenwold\*
+
+University of Bristol, United Kingdom
+
+# Abstract
+
+On 31st January 2024, NICE updated NG51, following recommendations from the Academy of Medical Royal Colleges in 2022. After years of stalling progress for sepsis outcomes, particularly in the elderly population, this guideline update seeks to address sepsis mortality rates by introducing new recommendations surrounding early administration of antibiotics, and most significantly encouraging universal use of NEWS2 to identify deterioration, aiding identification of early septic patients. This review critically examines the evidence and arguments regarding the impacts of the updated NG51 guidelines on future sepsis identification, diagnosis and outcomes. Drawing on personal observations of sepsis management in the Emergency Department, this review also includes original recommendations for potential future updates to the NG51 guidelines.
+
+# Introduction
+
+Sepsis is defined as life-threatening organ dysfunction due to an unregulated host response to infection. The Lancet Journal of Respiratory Medicine reported 245,000 sepsis cases annually in England, with a 20.3% mortality rate, responsible for more deaths than leukaemia, breast, bowel, and prostate cancer combined [[1](#ref1),[2](#ref2)]. In 2016, the National Institute for Health and Care Excellence published NICE Guidelines 51 (NG51), a protocol for recognition, early diagnosis, and management of sepsis. On 31
+st
+January 2024, NICE updated NG51, following recommendations from the Academy of Medical Royal Colleges in 2022. Specifically, the elderly population typically suffer the least favourable sepsis outcomes, with mortality in 75-79 year-olds in England increasing by 351 annual deaths from 2015-22 [[3](#ref3),[4](#ref4)]. Therefore, this update aims to address the challenges surrounding diagnosis and sepsis treatment, given early intervention has proven to significantly mitigate mortality.
+
+This academic review aims to critically evaluate the updated NG51 guidelines on early recognition and sepsis outcomes in elderly patients, analysing the impact in this vulnerable patient demographic. The 2024 NG51 update holds positive implications for sepsis outcomes, however, some limitations remain unresolved since its original publication in 2016. Given limited progress to improve outcomes in recent years, this review will propose original recommendations for research and updates for future guideline amendments.
+
+# Positive Implications of NG51 Updates
+
+The 2024 NG51 update amends important considerations involving recognising sepsis early. Firstly, whilst sepsis is typically suspected in patients recording a temperature > 39 °C or < 36 °C, some septic patients will record normal body temperature, previously including elderly patients, infants, cancer patients and severe sepsis patients. The 2024 update includes patients with spinal cord injuries, thus increasing vigilance for potential hidden cases of sepsis.
+
+NG51 includes further details informing early antibiotic treatment. Evidence highlights prescribing antibiotics within the first hour of suspecting sepsis is crucial for successful recovery. From 2024, ambulance staff should administer antibiotics if the hospital transfer time exceeds one hour and if the patient meets any high-risk criteria, minimising delayed treatment. Outlined are the high-risk criteria for patients aged > 12 years: New altered mental state, respiratory rate > 25 bpm, requiring > 40% oxygen delivery to maintain SaO
+2
+> 92% (SaO
+2
+> 88% in COPD), systolic BP < 90 mmHg (alternatively > 40 mmHg below their normal systolic pressure), heart rate > 130 bpm, no urine output in previous 18 hours, cyanosis, mottled/ashen skin.
+
+Prior to the 2024 update, research at James Paget University Hospital discovered the significance of early antibiotic administration. The trust increased the number of patients receiving antibiotics within one hour of suspecting sepsis from 63% to 87%. Subsequently, sepsis mortality decreased by 2.4% and admission length decreased by 3.3 days [[5](#ref5)]. Thus, promoting early antibiotic treatment in the updated NG51 guidelines aims to reduce mortality rates and hospitalisation, enhancing patient reintegration into society and improving outcomes.
+
+The most significant update is introducing the National Early Warning Score (NEWS2) for use in hospital, mental health and ambulance settings. Early warning scores assess patient deterioration, monitoring: temperature, heart rate, respiratory rate, oxygen saturation, blood pressure, consciousness level [[6](#ref6)].
+
+A normal parameter scores 0, whilst the maximum score of 3 for a single parameter indicates increased risk of organ dysfunction [[7](#ref7)]. NEWS2 facilitates regular vital sign monitoring, providing a visible trajectory of deterioration. Following recommendations by the Academy of Medical Royal Colleges in 2022, proposing “NEWS2 should be used to supplement clinical judgement to identify adult patients with suspected sepsis”, using NEWS2 allows stratification of patients into
+
+--- FUENTE WEB ---
+Título: Evaluation of Updated NG51 Guidelines on Early Recognition and ...
+URL: https://clinmedjournals.org/articles/ijccem/international-journal-of-critical-care-and-emergency-medicine-ijccem-11-168.php?jid=ijccem
+Score: 0.82048416
+
+Texto:
+[![logo](https://clinmedjournals.org/img/logo.png)](https://clinmedjournals.org/)
+
+[###### *International Journal of*
+
+Critical Care and Emergency Medicine](../../International-Journal-of-Critical-Care-and-Emergency-Medicine.php) ISSN: 2474-3674
+
+# Table of Contents
+
+* [Abstract](#abs)
+* [Introduction](#int)
+* [Positive Implications of NG51 Updates](#pos)
+* [Limitations of Updates](#lim)
+* [Challenges in Elderly Patients](#cha)
+* [Considerations for Future Updates](#cons)
+* [NG51 in Practice](#ng51)
+* [Conclusion and Reflections](#con)
+* [Acknowledgments](#ack)
+* [Conflicts of Interest](#conf)
+* [Tables](#tab)
+
++ - [Table 1](#tab1)
+
+* [References](#ref)
+* [Citation](#cit)
+
+# Citation
+
+Greenwold J (2025) Evaluation of Updated NG51 Guidelines on Early Recognition and Sepsis Outcomes in Elderly Patients. Int J Crit Care Emerg Med 11:168. doi.org/10.23937/2474-3674/1510168
+
+###### Review Article | OPEN ACCESS DOI: 10.23937/2474-3674/1510168
+
+# Evaluation of Updated NG51 Guidelines on Early Recognition and Sepsis Outcomes in Elderly Patients
+
+##### Jack Greenwold\*
+
+University of Bristol, United Kingdom
+
+# Abstract
+
+On 31st January 2024, NICE updated NG51, following recommendations from the Academy of Medical Royal Colleges in 2022. After years of stalling progress for sepsis outcomes, particularly in the elderly population, this guideline update seeks to address sepsis mortality rates by introducing new recommendations surrounding early administration of antibiotics, and most significantly encouraging universal use of NEWS2 to identify deterioration, aiding identification of early septic patients. This review critically examines the evidence and arguments regarding the impacts of the updated NG51 guidelines on future sepsis identification, diagnosis and outcomes. Drawing on personal observations of sepsis management in the Emergency Department, this review also includes original recommendations for potential future updates to the NG51 guidelines.
+
+# Introduction
+
+Sepsis is defined as life-threatening organ dysfunction due to an unregulated host response to infection. The Lancet Journal of Respiratory Medicine reported 245,000 sepsis cases annually in England, with a 20.3% mortality rate, responsible for more deaths than leukaemia, breast, bowel, and prostate cancer combined [[1](#ref1),[2](#ref2)]. In 2016, the National Institute for Health and Care Excellence published NICE Guidelines 51 (NG51), a protocol for recognition, early diagnosis, and management of sepsis. On 31
+st
+January 2024, NICE updated NG51, following recommendations from the Academy of Medical Royal Colleges in 2022. Specifically, the elderly population typically suffer the least favourable sepsis outcomes, with mortality in 75-79 year-olds in England increasing by 351 annual deaths from 2015-22 [[3](#ref3),[4](#ref4)]. Therefore, this update aims to address the challenges surrounding diagnosis and sepsis treatment, given early intervention has proven to significantly mitigate mortality.
+
+This academic review aims to critically evaluate the updated NG51 guidelines on early recognition and sepsis outcomes in elderly patients, analysing the impact in this vulnerable patient demographic. The 2024 NG51 update holds positive implications for sepsis outcomes, however, some limitations remain unresolved since its original publication in 2016. Given limited progress to improve outcomes in recent years, this review will propose original recommendations for research and updates for future guideline amendments.
+
+# Positive Implications of NG51 Updates
+
+The 2024 NG51 update amends important considerations involving recognising sepsis early. Firstly, whilst sepsis is typically suspected in patients recording a temperature > 39 °C or < 36 °C, some septic patients will record normal body temperature, previously including elderly patients, infants, cancer patients and severe sepsis patients. The 2024 update includes patients with spinal cord injuries, thus increasing vigilance for potential hidden cases of sepsis.
+
+NG51 includes further details informing early antibiotic treatment. Evidence highlights prescribing antibiotics within the first hour of suspecting sepsis is crucial for successful recovery. From 2024, ambulance staff should administer antibiotics if the hospital transfer time exceeds one hour and if the patient meets any high-risk criteria, minimising delayed treatment. Outlined are the high-risk criteria for patients aged > 12 years: New altered mental state, respiratory rate > 25 bpm, requiring > 40% oxygen delivery to maintain SaO
+2
+> 92% (SaO
+2
+> 88% in COPD), systolic BP < 90 mmHg (alternatively > 40 mmHg below their normal systolic pressure), heart rate > 130 bpm, no urine output in previous 18 hours, cyanosis, mottled/ashen skin.
+
+Prior to the 2024 update, research at James Paget University Hospital discovered the significance of early antibiotic administration. The trust increased the number of patients receiving antibiotics within one hour of suspecting sepsis from 63% to 87%. Subsequently, sepsis mortality decreased by 2.4% and admission length decreased by 3.3 days [[5](#ref5)]. Thus, promoting early antibiotic treatment in the updated NG51 guidelines aims to reduce mortality rates and hospitalisation, enhancing patient reintegration into society and improving outcomes.
+
+The most significant update is introducing the National Early Warning Score (NEWS2) for use in hospital, mental health and ambulance settings. Early warning scores assess patient deterioration, monitoring: temperature, heart rate, respiratory rate, oxygen saturation, blood pressure, consciousness level [[6](#ref6)].
+
+A normal parameter scores 0, whilst the maximum score of 3 for a single parameter indicates increased risk of organ dysfunction [[7](#ref7)]. NEWS2 facilitates regular vital sign monitoring, providing a visible trajectory of deterioration. Following recommendations by the Academy of Medical Royal Colleges in 2022, proposing “NEWS2 should 
+
+--- FUENTE WEB ---
+Título: Clinical Practice Guideline for Early Identification of Sepsis in ...
+URL: https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=12623&context=dissertations
+Score: 0.740494
+
+Texto:
+Walden University Walden University ScholarWorks ScholarWorks Walden Dissertations and Doctoral Studies Walden Dissertations and Doctoral Studies Collection 2021 Clinical Practice Guideline for Early Identification of Sepsis in the Clinical Practice Guideline for Early Identification of Sepsis in the Emergency Emergency Delta Williams Walden University Follow this and additional works at: https://scholarworks.waldenu.edu/dissertations Part of the Nursing Commons This Dissertation is brought to you for free and open access by the Walden Dissertations and Doctoral Studies Collection at ScholarWorks. It has been accepted for inclusion in Walden Dissertations and Doctoral Studies by an authorized administrator of ScholarWorks. For more information, please contact ScholarWorks@waldenu.edu. Walden University College of Nursing This is to certify that the doctoral study by Delta Williams has been found to be complete and satisfactory in all respects, and that any and all revisions required by the review committee have been made. Review Committee Dr. Cheryl Holly, Committee Chairperson, Nursing Faculty Dr. Camilla Jaekel, Committee Member, Nursing Faculty Dr. Jonas Nguh, University Reviewer, Nursing Faculty Chief Academic Officer and Provost Sue Subocz, Ph.D. Walden University 2021 Abstract Clinical Practice Guideline for Early Identification of Sepsis in the Emergency Department by Delta Williams MS, City University of New York, 2010 BS, University of Dundee, 2007 Project Submitted in Partial Fulfillment of the Requirements for the Degree of Doctor of Nursing Practice Walden University November 2021 Abstract Sepsis, a life-threatening condition caused by infection, is a leading cause of mortality and morbidity globally. Researchers suggest that early identification of sepsis upon admission to the emergency department (ED) can help mitigate the consequences of sepsis. The emergency department of a hospital in a large urban U.S. city has participated in the Centers for Medicare & Medicaid Services’ sepsis reporting system (SEP-1) since 2015; however, recent reports indicated below benchmark scores. As more than half of patients diagnosed with sepsis were admitted or readmitted through the ED, the purpose of this project was to develop a clinical practice guideline, informed by Rosswurm and Larrabee’s evidence-based practice model and a literature search, for use in the ED with input from an expert advisory panel using the AGREE II tool criteria across six domains. A 4-member panel member, comprised of the ED’s medical director, director of nursing, nurse manager, and an ED staff nurse unanimously recommended the use of the guideline. Domain scores ranged from 40 to 100%, with a mean of 83%. This sepsis clinical guideline scored highest in the domains of scope and purpose (100%) and clarity and presentation (95%) and applicability (83%). The domains of stakeholder involvement (40%) and editorial independence (57%) had the lowest domain scores. The overall quality assessment score was 7 based on a Likert scale ranging from 1 (lowest possible quality) to 7 (highest possible quality). In making sepsis screening a routine practice informed by a clinical guideline, nurses at the project site may be able to identify sepsis earlier in patients presenting to the ED, resulting in improved outcomes, promoting a positive social change, and increasing the SEP-1 scores. Clinical Practice Guideline for Early Identification of Sepsis in the Emergency Department by Delta Williams MS, City University of New York, 2010 BS, University of Dundee, 2007 Project Submitted in Partial Fulfillment of the Requirements for the Degree of Doctor of Nursing Practice Walden University November 2021 Dedication This project is dedicated in loving memory of a close friend Cheryl Simon, who had been a constant support of all educational endeavors and who encouraged me to pursue my Doctor of Nursing Practice. Cheryl died from sepsis-related complication. Acknowledgments To my daughter, Toya G. Robinson, and my grandson Carter, thanks for your support and patience. Toya, you always believe I can accomplish anything I attempt. Many thanks to my project mentor, Cheryl Holly, EdD, RN, ANEF, FNAP, for her encouragement, support, and guidance throughout this project. Dr. Holly, thank you for your unfailing support in keeping me on track with this project and for all the help provided. Dr. Frumenti, thank you for facilitating an excellent clinical experience. Special thanks to my manager Mary Mitchell, Sharon Simmons, and Shirley Hartley, for your support throughout this journey towards completing my DNP. Special thanks to Dr. Cheryl Etienne, Dr. Sally Francisco, and Ms. Degano for their encouragement, mentoring, and guidance throughout this project. i Table of Contents List of Tables ..................................................................................................................... iii Section 1: Nature of the Project ...........................................................................................1 Introduction ....................................................................................................................1 Problem Statement .........................................................................................................2 Purpose ...........................................................................................................................2 Nature of the Doctoral Project .......................................................................................3 Significance....................................................................................................................4 Summary ........................................................................................................................5 Section 2: Background and Context ....................................................................................6 Introduction ............................
+
+--- FUENTE WEB ---
+Título: Sepsis | ACEP
+URL: https://www.acep.org/by-medical-focus/sepsis
+Score: 0.6721816
+
+Texto:
+![](https://px.ads.linkedin.com/collect/?pid=2651396&fmt=gif)
+![Logo](/siteassets/sites/-comms-global/media/acep-logo3x.png)
+
+ACEP ID:
+
+![logo](#)
+![logo](https://www.acep.org/globalassets/sites/acep/media/global/acep-logo3x.png)
+
+# Sepsis
+
+### Comments on Severe Sepsis and Septic Shock: Early Management Bundle (SEP-1)
+
+Sept. 9, 2021: **ACEP signed on to a letter to the National Quality Forum calling on SEP-1 *NOT* to be re-endorsed unless it is revised.** ACEP is joined in this endorsement by Infectious Diseases Society of America, American Hospital Association, the Pediatric Infectious Disease Society, Society for Healthcare Epidemiology of America, Society of Hospital Medicine, and Society of Infectious Disease Pharmacists.  
+  
+The [comment letter](/siteassets/sites/acep/media/by-medical-focus/sepsis/sep-1-comments-to-nqf-9-9-21-sepsis.pdf "SEP-1 Comments to NQF-9-9-21-Sepsis.pdf") suggests revisions that would accomplish the following goals:
+
+**View the full [comment letter](/siteassets/sites/acep/media/by-medical-focus/sepsis/sep-1-comments-to-nqf-9-9-21-sepsis.pdf "SEP-1 Comments to NQF-9-9-21-Sepsis.pdf") that goes into greater detail on each of these goals.**
+
+### Early Care of Adults With Suspected Sepsis in the Emergency Department and Out-of-Hospital Environment: A Consensus-Based Task Force Report
+
+In April, the multispecialty task force convened by ACEP in 2019 published its new sepsis guidelines, “[Early Care of Adults With Suspected Sepsis in the Emergency Department and Out-of-Hospital Environment: A Consensus-Based Task Force Report](https://www.annemergmed.com/article/S0196-0644(21)00117-7/fulltext)” in *Annals of Emergency Medicine*. The report covers principles of early sepsis recognition, initial care steps in the ED and out-of-hospital environments, titration of care and related controversies. It has been endorsed by the American Academy of Emergency Medicine, the American College of Osteopathic Emergency Physicians, the American Osteopathic Board of Emergency Medicine, the Association of Academic Chairs of Emergency Medicine, the Council of Emergency Medicine Residency Directors, the Emergency Medicine Residents’ Association, the Emergency Nurses Association, the National Association of EMS Physicians, the Infectious Diseases Society of America, the Society for Academic Emergency Medicine, the Society of Critical Care Medicine, and the Society of Hospital Medicine.
+
+**Note:** The [DART tool](https://poctools.acep.org/POCTool/3e79bc6f-1007-458d-b309-09f25bc0f462) has been updated to reflect these new guidelines. [Developed by the ACEP Expert Panel on Sepsis.](https://poctools.acep.org/POCTool/3e79bc6f-1007-458d-b309-09f25bc0f462)
+
+### Evidence-driven Sepsis and Septic Shock Bedside Tool
+
+[![](/siteassets/sites/acep/media/dart/dart_logo.png)](https://poctools.acep.org/POCTool/276ed0a9-f24d-45f1-8d0c-e908a2758e5a "DART")
+
+![](/siteassets/sites/acep/media/dart/dart_logo.png)
+
+### E-QUAL Network Sepsis Initiative
+
+#### **E-QUAL Sepsis Initiative**
+
+#### **E-QUAL Sepsis Podcasts**
+
+#### **E-QUAL Sepsis Rural Webinars**
+
+Sepsis Guidelines and Materials
+
+CDC Resources
+
+Sepsis Reimbursement
+
+### Quality Improvement & Patient Safety Section
+
+[![](/siteassets/sites/acep/media/sections-logos/small/qipslogo_sm.png)](/qips "quality improvement ")
+
+![](/siteassets/sites/acep/media/sections-logos/small/qipslogo_sm.png)
+
+### Critical Care Medicine Section
+
+[![](/siteassets/sites/acep/media/sections-logos/small/criticalcare_logo.png)](/criticalcare)
+
+![](/siteassets/sites/acep/media/sections-logos/small/criticalcare_logo.png)
+![Logo](/siteassets/sites/-comms-global/media/footer-logo.png)
+![](//googleads.g.doubleclick.net/pagead/viewthroughconversion/1002887777/?value=0&guid=ON&script=0)
+![](//googleads.g.doubleclick.net/pagead/viewthroughconversion/1003582659/?guid=ON&script=0)
+
+--- FUENTE WEB ---
+Título: Early Recognition and Initial Management of Sepsis in Adult ...
+URL: https://www.ncbi.nlm.nih.gov/books/NBK598311
+Score: 0.6533265
+
+Texto:
+**Warning:**
+The NCBI web site requires JavaScript to function.
+[more...](/guide/browsers/#enablejs "Learn how to enable JavaScript")
+
+![U.S. flag](https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png)
+
+An official website of the United States government
+
+![Dot gov](https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg)
+
+**The .gov means it's official.**
+  
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you're on a federal
+government site.
+
+![Https](https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg)
+
+**The site is secure.**
+  
+The **https://** ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+
+![NIH NLM Logo](https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg)
+
+#### Account
+
+# [Bookshelf](/books/ "Bookshelf home")
+
+## 
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+![Cover of Early Recognition and Initial Management of Sepsis in Adult Patients](/corehtml/pmc/pmcgifs/bookshelf/thumbs/th-umichsepsis-lrg.png)
+
+# Early Recognition and Initial Management of Sepsis in Adult Patients
+
+Jessie King, MD, PhD, Lead, Carol E Chenoweth, MD, Peter C England, MD, Andrew Heiler, MBA, RN, Michael T Kenes, PharmD, FCCM, BCPS, BCCCP, Krishnan Raghavendran, MD, Winnie Wood, MSN, RN, CNS, and Shiwei Zhou, MD. Clinical Guidelines Oversight: Megan Mack, MD, Dave Wesorick, MD, and April Proudlock, BBA, RN.
+
+#### Authors
+
+Jessie King, MD, PhD, Lead, Carol E Chenoweth, MD, Peter C England, MD, Andrew Heiler, MBA, RN, Michael T Kenes, PharmD, FCCM, BCPS, BCCCP, Krishnan Raghavendran, MD, Winnie Wood, MSN, RN, CNS, and Shiwei Zhou, MD.1 Clinical Guidelines Oversight: Megan Mack, MD, Dave Wesorick, MD, and April Proudlock, BBA, RN.![corresponding author](/corehtml/pmc/pmcgifs/corrauth.gif)
+
+#### Authors
+
+![corresponding author](/corehtml/pmc/pmcgifs/corrauth.gif)
+
+#### Affiliations
+
+![corresponding author](/corehtml/pmc/pmcgifs/corrauth.gif)
+
+**Patient Population:** Sepsis is medical emergency, associated with high morbidity and mortality, and early recognition and standardized treatment of sepsis saves lives[1](#references.r1). This guideline is intended for adult patients.
+
+We recommend following the Surviving Sepsis Campaign’s International Guidelines for the Management of Sepsis and Septic Shock (2021)[2](#references.r2), on which this guideline is based. We also endorse the SEP-1 treatment bundle ([Figure 1](/books/NBK598311/figure/fm.s1.f1/?report=objectonly)) as standard of care for the initial management of a patient with sepsis.
+
+![Figure 1. Initial Recognition and Treatment of Sepsis.](/books/NBK598311/bin/fm.s1f1.gif)
+
+#### [Figure 1](/books/NBK598311/figure/fm.s1.f1/?report=objectonly)
+
+Initial Recognition and Treatment of Sepsis. \* Draw one set of blood cultures from each lumen of any central venous catheter, and at least one set from a peripheral site \*\* For hemodynamically unstable/critically ill patients, administration of broad [(more...)](/books/NBK598311/figure/fm.s1.f1/?report=objectonly)
+
+**Definitions:** Sepsis is a syndrome characterized by life-threatening organ dysfunction caused by a dysregulated host response to infection.[1](#references.r1) SEP3 clinically defined sepsis as acute organ dysfunction (e.g., ≥2 new SOFA points), plus evidence of infection[2](#references.r2). However for billing, documentation, and treatment purposes, the older definitions of sepsis are still used.
+
+Sepsis: two Systemic Inflammatory Response syndrome (SIRS) criteria plus evidence of infection.
+
+Severe sepsis: Sepsis with evidence of organ dysfunction.
+
+Septic shock: Sepsis with persistent hypotension, despite fluid resuscitation.
+
+## Key Points
+
+### Recognition of sepsis
+
+### Initial Approach to the Sepsis Patient: The SEP-1 Bundle
+
+### Antibiotics
+
+![Figure 2. Empiric Antibiotic Recommendations.](/books/NBK598311/bin/fm.s1f2.gif)
+
+#### [Figure 2](/books/NBK598311/figure/fm.s1.f2/?report=objectonly)
+
+Empiric Antibiotic Recommendations. \* Nosocomial infection is defined as infection onset after 48 hours of hospitalization, hospitalization or extended care facility stay within the last 90 days, or isolation of a nosocomial pathogen within the previous [(more...)](/books/NBK598311/figure/fm.s1.f2/?report=objectonly)
+
+### Resuscitation-Fluids ([Figure 1](/books/NBK598311/figure/fm.s1.f1/?report=objectonly))
+
+### Resuscitation - Reassessment ([Figure 1](/books/NBK598311/figure/fm.s1.f1/?report=objectonly))
+
+![Figure 3. Passive Leg Raise.](/books/NBK598311/bin/fm.s1f3.gif)
+
+#### [Figure 3](/books/NBK598311/figure/fm.s1.f3/?report=objectonly)
+
+Passive Leg Raise. A passive leg raise maneuver compares hemodynamic data when the patient is semi-recumbent to that when the legs are raised, as in the figure. Initial hemodynamic measurements should be taken while the patient is the semi-recumbent position. [(more...)](/books/NBK598311/figure/fm.s1.f3/?report=objectonly)
+
+### Resuscitation - Vasopressors and Steroids ([Figure 1](/books/NBK598311/figure/fm.s1.f1/?report=objectonly))
+
+### Source Control
+
+### De-resuscitation
+
+### De-escalation of Antibiotics
+
+### Post-Discharge
+
+### Sepsis in Vulnerable Populations - Congestive Heart Failure
+
+### Sepsis in Vulnerable Populations - Neutropenia
+
+### Sepsis in Vulnerable Populations - Cirrhosis
+
+### Table 1Overview of the Initial Evaluation and Empiric Antibiotics for the Septic Patient[#](#fm.s1.tfn1)
+
+[View in own window](/books/NBK598311/table/fm.s1.t1/?report=objectonly)
+
+| Suspected site | Symptoms/signs | Initial microbiologic evaluation | Relevant Imaging Studies | Empiric Antibiotic Recommendations[\*](#fm.s1.tfn2) |
+| --- | --- | --- | --- | --- |
+| Upper respiratory tract | Pharyngeal inflammation plus exudate ± swelling and lymphadenopathy, sinus congestion/drainage | Throat swab for aerobic culture | None, unless conce
+
+--- FUENTE WEB ---
+Título: Early sepsis care with the National Early Warning Score 2-guided Sepsis Hour-1 Bundle in the emergency department: hybrid type 1 effectiveness-implementation pilot stepped wedge randomised controlled trial (NEWS-1 TRIPS) protocol
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10836386
+Score: 0.6493346
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC10836386#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: BMJ Open logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-bmjo.png)
+
+BMJ Open
+
+. 2024 Feb 1;14(2):e080676. doi: [10.1136/bmjopen-2023-080676](https://doi.org/10.1136/bmjopen-2023-080676)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22BMJ%20Open%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22BMJ%20Open%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22BMJ%20Open%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC10836386?term=%22BMJ%20Open%22[jour])
+
+# Early sepsis care with the National Early Warning Score 2-guided Sepsis Hour-1 Bundle in the emergency department: hybrid type 1 effectiveness-implementation pilot stepped wedge randomised controlled trial (NEWS-1 TRIPS) protocol
+
+[Rex Pui Kin Lam](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lam%20R%22[Author])
+
+### Rex Pui Kin Lam
+
+1 Hong Kong
+
+2 Hong Kong
+
+ Find articles by [Rex Pui Kin Lam](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lam%20R%22[Author])
+
+1 2, [Kevin Kei Ching Hung](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hung%20K%22[Author])
+
+### Kevin Kei Ching Hung
+
+3 Hong Kong
+
+4 Hong Kong
+
+ Find articles by [Kevin Kei Ching Hung](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hung%20K%22[Author])
+
+3 4, [Chun Tat Lui](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lui%20C%22[Author])
+
+### Chun Tat Lui
+
+5 Hong Kong
+
+ Find articles by [Chun Tat Lui](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lui%20C%22[Author])
+
+5, [Wai Shing Kwok](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kwok%20W%22[Author])
+
+### Wai Shing Kwok
+
+6 Hong Kong
+
+ Find articles by [Wai Shing Kwok](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kwok%20W%22[Author])
+
+6, [Wendy Wing Tak Lam](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lam%20W%22[Author])
+
+### Wendy Wing Tak Lam
+
+7 Hong Kong
+
+ Find articles by [Wendy Wing Tak Lam](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lam%20W%22[Author])
+
+7, [Eric Ho Yin Lau](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lau%20E%22[Author])
+
+### Eric Ho Yin Lau
+
+7 Hong Kong
+
+ Find articles by [Eric Ho Yin Lau](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lau%20E%22[Author])
+
+7, [Siddharth Sridhar](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sridhar%20S%22[Author])
+
+### Siddharth Sridhar
+
+8 Hong Kong
+
+ Find articles by [Siddharth Sridhar](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sridhar%20S%22[Author])
+
+8, [Peter Yau Tak Ng](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ng%20P%22[Author])
+
+### Peter Yau Tak Ng
+
+5 Hong Kong
+
+ Find articles by [Peter Yau Tak Ng](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ng%20P%22[Author])
+
+5, [Chi Hung Cheng](https://pubmed.ncbi.nlm.nih.gov/?t
+
+--- FUENTE WEB ---
+Título: Sepsis in the emergency department: a dual challenge of early management and antimicrobial stewardship
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12613919
+Score: 0.609455
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC12613919#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: BMC Infectious Diseases logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-bmcid.png)
+
+BMC Infect Dis
+
+. 2025 Nov 12;25:1563. doi: [10.1186/s12879-025-11947-7](https://doi.org/10.1186/s12879-025-11947-7)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22BMC%20Infect%20Dis%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22BMC%20Infect%20Dis%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22BMC%20Infect%20Dis%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC12613919?term=%22BMC%20Infect%20Dis%22[jour])
+
+# Sepsis in the emergency department: a dual challenge of early management and antimicrobial stewardship
+
+[Romina Corsini](https://pubmed.ncbi.nlm.nih.gov/?term=%22Corsini%20R%22[Author])
+
+### Romina Corsini
+
+1 https://ror.org/001bbwj30grid.458453.bInfectious Disease Unit, Azienda Unità Sanitaria Locale-IRCCS di Reggio Emilia, Reggio Emilia, Italy 
+
+ Find articles by [Romina Corsini](https://pubmed.ncbi.nlm.nih.gov/?term=%22Corsini%20R%22[Author])
+
+1, [Giulia Marini](https://pubmed.ncbi.nlm.nih.gov/?term=%22Marini%20G%22[Author])
+
+### Giulia Marini
+
+1 https://ror.org/001bbwj30grid.458453.bInfectious Disease Unit, Azienda Unità Sanitaria Locale-IRCCS di Reggio Emilia, Reggio Emilia, Italy 
+
+ Find articles by [Giulia Marini](https://pubmed.ncbi.nlm.nih.gov/?term=%22Marini%20G%22[Author])
+
+1, [Marta Ottone](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ottone%20M%22[Author])
+
+### Marta Ottone
+
+2 https://ror.org/001bbwj30grid.458453.bEpidemiology Unit, Azienda Unità Sanitaria Locale-IRCCS di Reggio Emilia, Reggio Emilia, Italy 
+
+ Find articles by [Marta Ottone](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ottone%20M%22[Author])
+
+2, [Paolo Giorgi Rossi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Rossi%20P%22[Author])
+
+### Paolo Giorgi Rossi
+
+2 https://ror.org/001bbwj30grid.458453.bEpidemiology Unit, Azienda Unità Sanitaria Locale-IRCCS di Reggio Emilia, Reggio Emilia, Italy 
+
+ Find articles by [Paolo Giorgi Rossi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Rossi%20P%22[Author])
+
+2, [Ivana Maria Lattuada](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lattuada%20I%22[Author])
+
+### Ivana Maria Lattuada
+
+3 https://ror.org/001bbwj30grid.458453.bDepartment of Emergency Medicine, Azienda Unità Sanitaria Locale-IRCCS di Reggio Emilia, Reggio Emilia, Italy 
+
+ Find articles by [Ivana Maria Lattuada](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lattuada%20I%22[Author])
+
+3, [Valentina Cocchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cocchi%20V%22[Author])
+
+### Valentina Cocchi
+
+3 https://ror.org/001bbwj30grid.458453.bDepa
+
+--- FUENTE WEB ---
+Título: Early sepsis care with the National Early Warning Score 2- ...
+URL: https://bmjopen.bmj.com/content/14/2/e080676
+Score: 0.608897
+
+Texto:
+[![BMJ Journals](/sites/default/themes/bmjj/img/logos/logo-bmj-journals.svg "BMJ Journals")](http://journals.bmj.com/ "BMJ Journals")
+
+![BMJ Journals](/sites/default/themes/bmjj/img/logos/logo-bmj-journals.svg "BMJ Journals")
+
+### Log in using your username and password
+
+![BMJ Open](https://resources.bmj.com/repository/journals-network-project/images/journal-logos/logo-bmjopen.svg)
+
+## 
+
+## 
+
+## Main menu
+
+### Log in using your username and password
+
+## You are here
+
+Article Text
+
+[![Download PDF](/sites/default/themes/bmjj/img/icon-pdf.png)**PDF**](/content/bmjopen/14/2/e080676.full.pdf)
+
+![Download PDF](/sites/default/themes/bmjj/img/icon-pdf.png)
+
+[![Download PDF + Supplemental Data](/sites/default/themes/bmjj/img/icon-pdf.png)**PDF +  
+Supplementary  
+Material**](/content/bmjopen/14/2/e080676.full.pdf?with-ds=yes)
+
+![Download PDF + Supplemental Data](/sites/default/themes/bmjj/img/icon-pdf.png)
+![Loading](https://bmjopen.bmj.com/sites/all/modules/contrib/panels_ajax_tab/images/loading.gif "Loading")
+
+## Abstract
+
+**Introduction** Early sepsis treatment in the emergency department (ED) is crucial to improve patient survival. Despite international promulgation, the uptake of the Surviving Sepsis Campaign (SSC) Hour-1 Bundle (lactate measurement, blood culture, broad-spectrum antibiotics, 30 mL/kg crystalloid for hypotension/lactate ≥4 mmol/L and vasopressors for hypotension during/after fluid resuscitation within 1 hour of sepsis recognition) is low across healthcare settings. Delays in sepsis recognition and a lack of high-quality evidence hinder its implementation. We propose a novel sepsis care model (National Early Warning Score, NEWS-1 care), in which the SSC Hour-1 Bundle is triggered objectively by a high NEWS-2 (≥5). This study aims to determine the feasibility of a full-scale type 1 hybrid effectiveness-implementation trial on the NEWS-1 care in multiple EDs.
+
+**Methods and analysis** We will conduct a pilot type 1 hybrid trial and prospectively recruit 200 patients from 4 public EDs in Hong Kong cluster randomised in a stepped wedge design over 10 months. All study sites will start with an initial period of standard care and switch in random order at 2-month intervals to the NEWS-1 care unidirectionally. The implementation evaluation will employ mixed methods guided by the Reach, Effectiveness, Adoption, Implementation and Maintenance framework, which includes qualitative and quantitative data from focus group interviews, staff survey and clinical record reviews. We will analyse the 14 feasibility outcomes as progression criteria to a full-scale trial, including trial acceptability to patients and staff, patient and staff recruitment rates, accuracy of sepsis screening, protocol adherence, accessibility to follow-up data, safety and preliminary clinical impacts of the NEWS1 care, using descriptive statistics.
+
+**Ethics and dissemination** The institutional review boards of all study sites approved this study. This study will establish the feasibility of a full-scale hybrid trial. We will disseminate the findings through peer-reviewed publications, conference presentations and educational activities.
+
+**Trial registration number** [NCT05731349](/lookup/external-ref?link_type=CLINTRIALGOV&access_num=NCT05731349&atom=%2Fbmjopen%2F14%2F2%2Fe080676.atom).
+
+This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See: <http://creativecommons.org/licenses/by-nc/4.0/>.
+
+<https://doi.org/10.1136/bmjopen-2023-080676>
+
+## Statistics from Altmetric.com
+
+## Request Permissions
+
+If you wish to reuse any or all of this article please use the link below which will take you to the Copyright Clearance Center’s RightsLink service. You will be able to get a quick price and instant permission to reuse the content in many different ways.
+
+## 
+
+### STRENGTHS AND LIMITATIONS OF THIS STUDY
+
+The National Early Warning Score (NEWS-1) care is a novel sepsis care model that applies the Surviving Sepsis Campaign Hour-1 Bundle to adult patients with an infection and a high NEWS-2 (≥5) in emergency departments (EDs).
+
+This study will provide data that inform whether it is feasible to conduct a full-scale type 1 hybrid trial on the effectiveness and implementation of the NEWS-1 care in multiple EDs in Hong Kong.
+
+This study also evaluates the barriers to and facilitators of the implementation of the NEWS-1 care in the ED, which is important in tailoring implementation strategies to suit local contexts.
+
+Due to the stepped wedge study design, the need for implementation before crossing over from standard care to NEWS-1 care, and differences in clinical interventions, allocation concealment of the cross-over date and blinding of the patients, clinicians and assessors are not possible.
+
+## Introduction
+
+Sepsis is a medical emergency with a substantial impact on public health worldwide, not only because it is life-threatening and debilitating, but also because it is costly to treat.[1–3](#ref-1) In Hong Kong, 39% of hospitalised adult patients with suspected infection developed sepsis, of whom 20% died.[4](#ref-4) The burden of sepsis continues to rise in the face of an ageing population; increasing burden of chronic disease; growing use of immunosuppressive therapy, transplantation, chemotherapy, invasive procedures and devices; and the emergence of novel pathogens and multidrug-resistant infections.[5](#ref-5) A significant proportion of patients with sepsis are admitted to the hospital through the emergency department (ED), where appropriate intervention might have a significant impact on the downstream clinical course.
+
+Early diagnosis, coupled with prompt cor
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada

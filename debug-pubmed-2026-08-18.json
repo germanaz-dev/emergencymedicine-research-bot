@@ -1,0 +1,107 @@
+[
+  {
+    "pmid": "42605402",
+    "title": "Evolution of Sepsis Management in the Emergency Department: From Early Goal-Directed Therapy to Personalized Resuscitation.",
+    "journal": "Cureus",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.7759/cureus.112866",
+    "abstract": "Sepsis remains a leading cause of morbidity and mortality worldwide and represents a major challenge in emergency medicine. Early recognition and timely intervention are critical determinants of patient outcomes. The introduction of early goal-directed therapy (EGDT) in 2001 transformed sepsis management by promoting protocolized hemodynamic resuscitation during the initial hours of care. However, subsequent evidence challenged the routine use of invasive EGDT targets and led to significant changes in contemporary sepsis management strategies. This narrative review examines the evolution of sepsis management in the emergency department, focusing on the development, implementation, and reassessment of EGDT. Literature published between 2001 and 2026 was reviewed using major medical databases and guideline repositories, with emphasis on landmark randomized controlled trials (RCTs), systematic reviews, meta-analyses, and international guideline statements. Key studies, including Protocolized Care for Early Septic Shock (ProCESS), Australasian Resuscitation in Sepsis Evaluation (ARISE), and Protocolised Management in Sepsis (ProMISe), demonstrated no mortality benefit of rigid protocolized EGDT compared with contemporary standard care, contributing to a shift toward individualized, physiology-guided resuscitation strategies. Current evidence supporting early antimicrobial administration, balanced crystalloid resuscitation, dynamic assessment of fluid responsiveness, early vasopressor initiation, and lactate-guided monitoring is reviewed, along with ongoing controversies involving antibiotic timing, fluid management, biomarker-guided therapy, and personalized sepsis care. Although protocolized EGDT is no longer routinely recommended, its emphasis on early recognition and prompt intervention continues to influence modern sepsis management. Contemporary practice favors individualized, patient-centered approaches focused on rapid diagnosis, timely antimicrobial therapy, targeted hemodynamic support, and continuous reassessment of tissue perfusion, while future advances are likely to involve biomarker-guided treatment, precision medicine, and artificial intelligence-assisted clinical decision support.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42605402/"
+  },
+  {
+    "pmid": "42591672",
+    "title": "Early recognition and bundle-based management of pediatric sepsis in the emergency department: a narrative review.",
+    "journal": "Translational pediatrics",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.5935/0103-507X.20210030",
+    "abstract": "Pediatric sepsis is a high-stakes, time-sensitive emergency, yet early recognition in the emergency department (ED) remains inconsistent because presenting features are heterogeneous, early signs are nonspecific, and implementation capacity varies across hospitals. At the same time, evidence for bundle-based care has expanded, but important clinical questions remain regarding which recognition approaches are most reliable in frontline ED settings, which bundle elements are best supported, and why pathway uptake remains uneven. This narrative review was undertaken to address these questions and to clarify current evidence gaps relevant to pediatric emergency practice. This structured narrative review searched PubMed on March 15, 2026 for studies published from January 1, 2010 through March 15, 2026 using terms related to pediatric sepsis, emergency care, screening, early recognition, sepsis bundles, biomarkers, quality improvement, and digital decision support. We focused on ED-relevant studies addressing recognition strategies, bundle implementation, nursing or workflow processes, and emerging technologies. Titles and abstracts were screened against predefined inclusion and exclusion criteria, and the final literature set was synthesized thematically into recognition, management, implementation, and future-direction domains. No language filter was planned at search design, but the review was limited to studies with accessible English full-text data for analysis. Current evidence supports a layered ED recognition model that combines clinical assessment with structured screening, targeted biomarkers, and workflow-integrated digital support rather than reliance on any single tool. Evidence is strongest for bundle pathways improving process outcomes such as time to antibiotics, pathway activation, and compliance with first-hour care targets. By contrast, evidence for direct mortality benefit, stand-alone biomarker superiority, and routine use of artificial intelligence (AI)-enabled systems remains promising but inconsistent because studies are heterogeneous in definitions, populations, and implementation context. The literature also shows that success in general ED practice depends heavily on pediatric readiness, nursing-led escalation, local workflow design, and multidisciplinary coordination. Pediatric sepsis care in the ED should be organized around rapid recognition plus measurable, context-adapted bundle delivery. The clearest evidence gaps involve external validation of recognition tools in general EDs, more explicit evaluation of individual bundle components, harmonized operational definitions and bundle metrics, and implementation studies that test how digital support and nursing workflows can improve frontline performance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42591672/"
+  },
+  {
+    "pmid": "42590188",
+    "title": "Clinical Practice Recommendations for Non-Dermatologists on the Diagnostic Suspicion of GPP.",
+    "journal": "Journal of clinical medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1080/00325481.2023.2285730",
+    "abstract": "Generalized pustular psoriasis (GPP) is a rare, potentially life-threatening, chronic cutaneous inflammatory disease characterized by unpredictable, recurrent acute flares of painful sterile pustules on a widespread erythematous background. In addition to cutaneous manifestations, patients may experience fever, pruritus, pain, chills, and general malaise, which may be further complicated by secondary infection, sepsis, and organ failure, thus requiring urgent medical treatment and, in some cases, hospitalization. Prompt therapeutic management of the acute phase is crucial for severe cases, and proactive treatment to prevent flares should always be considered. However, early recognition of acute flares can be challenging due to the low frequency of the disease, the rapid onset of flares, the lack of hematological biomarkers and the absence of standardized diagnostic criteria. Moreover, despite the approval of new targeted therapies, there are still several unmet needs, as these treatments are highly expensive, not always readily available, and may have limited efficacy in patients with advanced or complicated disease. For these reasons, multidisciplinary round-table discussions and shared diagnostic and therapeutic algorithms involving dermatologists, who are responsible for diagnosing and treating GPP, and other medical specialists are desirable to facilitate prompt referral to dermatologists for accurate diagnosis and appropriate treatment. We report the updated literature discussed during a multidisciplinary meeting with the aim of providing practice recommendations for clinicians involved in GPP management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42590188/"
+  },
+  {
+    "pmid": "42279388",
+    "title": "Identification and Management of Differentiation Syndrome in Emergency Settings: A Narrative Review.",
+    "journal": "Cancers",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1038/s41419-025-08109-7",
+    "abstract": "Background: Differentiation therapy is a cornerstone in treating hematologic malignancies, particularly acute myeloid leukemia (AML). Differentiation agents target molecular defects blocking myeloid differentiation. However, rapid differentiation can precipitate a life-threatening complication, differentiation syndrome (DS). DS manifests with fever, pulmonary infiltrates, pleural or pericardial effusions, hypotension, and organ dysfunction, often mimicking sepsis or infection. Early recognition in the emergency department (ED) is critical to mitigate morbidity and mortality. This review aims to provide emergency clinicians with practical strategies for the timely identification and management of DS in patients undergoing differentiation therapy. Discussion: Suspicion for DS should be heightened in patients with acute promyelocytic leukemia (M3 AML) who recently started induction chemotherapy, including all-trans retinoic acid or arsenic trioxide, and in those with non-M3 AML receiving differentiation agents (i.e., isocitrate dehydrogenase inhibitors, menin inhibitors, FMS-like tyrosine kinase 3 inhibitors). Imaging can identify pulmonary infiltrates, effusions, and other cardiopulmonary manifestations. Laboratory workups should include complete blood counts with differentials, serum chemistries, cardiac biomarkers, and sepsis panels to exclude infection. Electrocardiography is advised for patients on QT-prolonging agents. Management emphasizes prompt initiation of high-dose corticosteroids and supportive measures such as blood pressure support, intravascular volume optimization, and oxygen therapy or ventilatory support. Multidisciplinary coordination with oncology, hematology, and critical care teams is important to tailor plans and monitor complications. Conclusions: DS represents a diagnostic challenge in the ED due to its nonspecific presentation and mimicry of infection. A high index of suspicion, combined with targeted imaging, laboratory evaluation, and early corticosteroid therapy, can improve outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42279388/"
+  },
+  {
+    "pmid": "42278762",
+    "title": "Clinical Outcomes for Emergency Department Presentations of Sepsis Managed on a Clinical Pathway: A Systematic Review and Meta-Analysis.",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1056/NEJMoa1703058",
+    "abstract": "Background: Sepsis is a time-critical condition requiring early recognition and intervention. Many emergency departments (EDs) have adopted clinical pathways to standardise sepsis care; however, the impact of these pathways on patient outcomes remains unclear. Methods: A systematic review and meta-analysis was conducted in November 2024 searching PubMed, Embase, and Scopus. Studies were included if they assessed the impact of a clinical pathway on adult or paediatric patients with sepsis presenting to the ED. Results: Thirty-three studies were included, of which the majority were retrospective cohort designs and were rated serious overall risk of bias. Pathway implementation was associated with faster time to antibiotics across all subgroups (135 min before vs. 93 min after; MD -43 min, p < 0.001). In-hospital mortality appeared reduced in the primary analysis (RD -2.4%, p = 0.032); however, this finding was fragile under sensitivity analysis and was not observed in prospective or randomised designs. The apparent reduction in hospital length of stay was driven by paediatric and low- and middle-income country studies and was non-significant when restricted to adult studies. ICU admission rate, ED length of stay, and time to IV fluid resuscitation were not significantly reduced. Conclusions: ED sepsis pathway implementation is associated with improved time to antibiotics across clinical settings and populations. Current evidence is insufficient to demonstrate a reduction in mortality; the apparent signal in retrospective studies is attributable to secular improvements in sepsis care and asymmetric patient identification rather than a true pathway effect. Future research should prioritise prospective controlled studies with standardised screening methods, time zero definitions and control of confounding variables.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42278762/"
+  },
+  {
+    "pmid": "42275833",
+    "title": "Deep neck space Infections in children: Peritonsillar, retropharyngeal, parapharyngeal, and Ludwig's angina emergencies in the pediatric emergency department.",
+    "journal": "American journal of otolaryngology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1016/j.amjoto.2026.104864",
+    "abstract": "Pediatric deep neck space infections (DNSIs)-peritonsillar, retropharyngeal, and parapharyngeal abscesses and Ludwig's angina-are uncommon but potentially life-threatening due to rapid progression to airway obstruction, sepsis, and mediastinal extension. This narrative review summarizes evidence for emergency clinicians. A literature search of PubMed/Scopus (2000-2025) identified studies on pediatric DNSI epidemiology, imaging, microbiology, and management. DNSIs peak at ages 2-5 years because of prominent retropharyngeal lymph nodes. Nonspecific symptoms (fever, irritability, neck stiffness) often delay diagnosis in young children, while older children present with trismus, dysphagia, and \"hot potato\" voice. Airway compromise is the highest priority and must be assessed before imaging. Contrast-enhanced CT remains the gold standard for stable patients, but point-of-care ultrasound has high accuracy for peritonsillar abscesses. Microbiology is polymicrobial; methicillin-resistant Staphylococcus aureus is increasingly reported. Empiric broad-spectrum intravenous antibiotics (e.g., ampicillin-sulbactam) should be initiated early, with vancomycin added if MRSA risk factors are present. Surgical drainage is indicated for abscesses >2-2.5 cm, airway compromise, or failure of medical therapy. Multidisciplinary collaboration reduces complications. Early recognition, an airway-first approach, selective imaging, and timely antibiotics improve outcomes. Standardized emergency department (ED) protocols and risk stratification tools are needed to prevent life-threatening complications in this vulnerable group.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275833/"
+  },
+  {
+    "pmid": "42255822",
+    "title": "Impact of Sepsis Management Guideline Implementation in Emergency Departments: A Systematic Review of Process Measures and Clinical Outcomes.",
+    "journal": "Cureus",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.7759/cureus.108271",
+    "abstract": "Sepsis is a life-threatening condition associated with significant morbidity and mortality worldwide. The emergency department (ED) plays a crucial role in the early recognition and management of sepsis, as delays in treatment are strongly associated with worse outcomes. Although sepsis management guidelines and care bundles have been widely implemented to standardize and accelerate care, their impact on patient outcomes remains variably reported. This systematic review evaluated the effect of implementing sepsis management guidelines in EDs on both process indicators and clinical outcomes. A systematic search was conducted across PubMed, Scopus, Web of Science, and the Cochrane Library using a combination of controlled vocabulary and free-text terms related to sepsis, emergency care, and guideline implementation, yielding 4,309 records; after removal of duplicates and screening, eight studies met the inclusion criteria. Data extraction was performed using a standardized form capturing study characteristics, interventions, and outcomes, and risk of bias was assessed using the Risk Of Bias In Non-randomized Studies of Interventions (ROBINS-I) tool. The included studies comprised diverse designs, including before-and-after studies, retrospective cohort studies, observational studies, and one quasi-experimental trial. Overall, implementation of sepsis guidelines consistently improved process measures, including reduced time to antibiotic administration, increased lactate testing, improved blood culture collection, and higher compliance with sepsis bundles. However, effects on clinical outcomes were heterogeneous: some studies reported reductions in mortality, intensive care unit (ICU) admissions, and resource utilization, while others showed no significant mortality benefit despite improved process indicators. Additionally, some studies reported unintended consequences such as increased antimicrobial use and potential overtreatment. Most studies were judged to have a moderate to serious risk of bias, largely due to confounding and non-randomized designs. In conclusion, implementation of sepsis management guidelines in EDs is associated with consistent improvements in care processes and timeliness of treatment, but evidence for improved clinical outcomes, particularly mortality, remains inconsistent and is limited by study design and risk of bias; further high-quality studies are needed to establish causality, optimize implementation strategies, and balance timely treatment with antimicrobial stewardship.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42255822/"
+  },
+  {
+    "pmid": "42068108",
+    "title": "Alerts and Alarms-Can Electronic Medical Records Help Children and Adolescents Survive Sepsis?",
+    "journal": "Journal of paediatrics and child health",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Review"
+    ],
+    "doi": "10.1111/jpc.70412",
+    "abstract": "Early recognition and treatment of paediatric sepsis has been shown to improve survival. Automated sepsis alerts embedded in electronic medical records (EMRs) offer real-time identification of high-risk patients and may improve timeliness of sepsis care, with possible limitations including overdiagnosis, overtreatment and alert fatigue. It is currently unclear whether automated alerts improve clinical outcomes in paediatric sepsis. We conducted a systematic review and narrative synthesis of studies evaluating clinical outcomes (mortality, PICU admission rate, length of stay), process measures (time to fluids/antibiotics, bundle adherence), and balancing measures (hospitalisation rate, antibiotic use) after implementation of EMR-based automated sepsis alerts in patients under 18 years of age. Twelve studies met inclusion criteria. Automated alerts were associated with improvements in process measures, notably reduced time to antibiotics (4/6 studies) and fluids (2/5 studies). Mortality was reduced in one study of PICU patients (29.9% vs. 17.4%, p = 0.011), and a trend towards reduced PICU admissions was observed. No significant impact on hospital or PICU length of stay was noted. Alerts did not increase hospital admission rates or antibiotic usage. Automated sepsis alerts may improve time to fluids and antibiotics in paediatric sepsis. While inconsistently reported, alerts were not found to increase hospital admission rates or antibiotic use. The impact on clinical outcomes, particularly mortality, remains uncertain. High quality randomised studies are needed to define their role in improving paediatric sepsis outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42068108/"
+  }
+]

@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "selected_topic": {
-    "id": "acute_coronary_syndrome_troponin",
-    "title": "high sensitivity troponin in acute coronary syndrome",
-    "axis": "cardiovascular",
+    "id": "sepsis_early_recognition",
+    "title": "sepsis early recognition in the emergency department",
+    "axis": "infectious",
     "priority": 10,
     "review_interval_days": 120,
     "keywords": [
-      "acute coronary syndrome",
-      "high sensitivity troponin",
+      "sepsis",
+      "early recognition",
       "emergency department"
     ]
   },
-  "score": 125.25,
+  "score": 125.5,
   "exploration": false,
   "reason": {
     "priority_score": 100,
-    "recency_score": 2.25,
+    "recency_score": 2.5,
     "axis_score": 23.0,
     "alert_score": 0,
     "last_axis_penalty": false,
@@ -24,34 +24,34 @@
   },
   "top_5": [
     {
-      "id": "acute_coronary_syndrome_troponin",
-      "title": "high sensitivity troponin in acute coronary syndrome",
-      "axis": "cardiovascular",
-      "score": 125.25
-    },
-    {
       "id": "sepsis_early_recognition",
       "title": "sepsis early recognition in the emergency department",
       "axis": "infectious",
-      "score": 125.25
+      "score": 125.5
+    },
+    {
+      "id": "shock_undifferentiated",
+      "title": "undifferentiated shock in emergency medicine",
+      "axis": "critical_care",
+      "score": 125.5
     },
     {
       "id": "stroke_thrombectomy_selection",
       "title": "acute ischemic stroke thrombectomy selection",
       "axis": "neurology",
-      "score": 124.5
-    },
-    {
-      "id": "pulmonary_embolism_rv",
-      "title": "right ventricular dysfunction in pulmonary embolism",
-      "axis": "cardiovascular",
-      "score": 123.75
+      "score": 124.75
     },
     {
       "id": "syncope_risk",
       "title": "syncope risk stratification in emergency medicine",
       "axis": "cardinal_symptoms",
-      "score": 116.25
+      "score": 116.5
+    },
+    {
+      "id": "dyspnea_ed",
+      "title": "acute dyspnea in the emergency department",
+      "axis": "cardinal_symptoms",
+      "score": 115.75
     }
   ]
 }
