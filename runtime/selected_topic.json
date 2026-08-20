@@ -1,23 +1,23 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "selected_topic": {
-    "id": "dyspnea_ed",
-    "title": "acute dyspnea in the emergency department",
-    "axis": "cardinal_symptoms",
-    "priority": 9,
+    "id": "shock_undifferentiated",
+    "title": "undifferentiated shock in emergency medicine",
+    "axis": "critical_care",
+    "priority": 10,
     "review_interval_days": 120,
     "keywords": [
-      "dyspnea",
-      "emergency department",
-      "diagnosis"
+      "shock",
+      "undifferentiated shock",
+      "emergency medicine"
     ]
   },
-  "score": 116.0,
-  "exploration": true,
+  "score": 126.0,
+  "exploration": false,
   "reason": {
-    "priority_score": 90,
-    "recency_score": 2.0,
-    "axis_score": 24.0,
+    "priority_score": 100,
+    "recency_score": 1.0,
+    "axis_score": 25.0,
     "alert_score": 0,
     "last_axis_penalty": false,
     "matched_alerts": []
@@ -27,31 +27,31 @@
       "id": "shock_undifferentiated",
       "title": "undifferentiated shock in emergency medicine",
       "axis": "critical_care",
-      "score": 125.75
+      "score": 126.0
     },
     {
       "id": "stroke_thrombectomy_selection",
       "title": "acute ischemic stroke thrombectomy selection",
       "axis": "neurology",
-      "score": 125.0
+      "score": 125.25
     },
     {
       "id": "pulmonary_embolism_rv",
       "title": "right ventricular dysfunction in pulmonary embolism",
       "axis": "cardiovascular",
-      "score": 124.25
+      "score": 124.5
     },
     {
       "id": "acute_coronary_syndrome_troponin",
       "title": "high sensitivity troponin in acute coronary syndrome",
       "axis": "cardiovascular",
-      "score": 123.5
+      "score": 123.75
     },
     {
-      "id": "syncope_risk",
-      "title": "syncope risk stratification in emergency medicine",
-      "axis": "cardinal_symptoms",
-      "score": 116.75
+      "id": "sepsis_early_recognition",
+      "title": "sepsis early recognition in the emergency department",
+      "axis": "infectious",
+      "score": 123.5
     }
   ]
 }
