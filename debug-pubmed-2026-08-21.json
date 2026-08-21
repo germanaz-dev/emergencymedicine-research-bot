@@ -1,0 +1,109 @@
+[
+  {
+    "pmid": "42614727",
+    "title": "Endovascular thrombectomy for acute ischemic stroke: evolving patient selection, procedural strategies, and adjunctive therapies.",
+    "journal": "Frontiers in neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1016/S0140-6736(24)02809-5",
+    "abstract": "Endovascular thrombectomy (EVT) has transformed the treatment of acute ischemic stroke caused by large-vessel occlusion; however, its expanding indications require increasingly precise patient selection and procedural execution. This mini-review summarizes contemporary issues in EVT that go beyond the original early-window anterior-circulation paradigm. Current evidence supports the use of EVT for selected anterior-circulation large-vessel occlusion, late-window stroke, large-core infarction, and basilar artery occlusion, while more marginal scenarios-including a very low Alberta Stroke Program Early CT Score (ASPECTS), minor stroke with large-vessel occlusion, presentations beyond 24 h, prestroke disability, and medium-vessel occlusion-require individualized assessment. Recent randomized trials have tempered enthusiasm for routine thrombectomy in medium-vessel occlusion, emphasizing the need to distinguish technical accessibility from meaningful clinical benefit, particularly when eloquent brain regions are involved. Procedural strategy has also shifted from simple recanalization toward high-quality, tissue-effective reperfusion, with attention to the access route, device selection, first-pass effect, reperfusion grade, tandem lesions, intracranial atherosclerotic disease, anesthesia, antithrombotic use, and blood-pressure management. Adjunctive therapies, especially intra-arterial thrombolysis after successful, incomplete, or failed reperfusion, remain promising but should be employed selectively rather than as a routine practice. Overall, the future of EVT lies in disciplined precision: selecting patients for whom reperfusion is likely to be beneficial, optimizing procedural quality, and developing adjunctive strategies that convert angiographic success into durable functional recovery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42614727/"
+  },
+  {
+    "pmid": "42609327",
+    "title": "Efficacy and safety of magnetic resonance imaging- vs. computed tomography-guided reperfusion in acute ischemic stroke: a systematic review and meta-analysis.",
+    "journal": "Frontiers in neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Comparative Study"
+    ],
+    "doi": "10.1186/s12874-015-0091-1",
+    "abstract": "Acute ischemic stroke (AIS) is a leading cause of death and disability. Timely reperfusion improves outcomes, but optimal patient selection depends on neuroimaging; CT is fast and widely available, whereas MRI offers greater precision in identifying salvageable brain tissue. This systematic review (SR) and meta-analysis evaluates the comparative effectiveness of MRI-guided reperfusion (MRI-R) vs. CT-guided reperfusion (CT-R) in adult AIS. We conducted a PRISMA-compliant SR and searched PubMed, Embase, Cochrane Library, Web of Science, CINAHL and Google Scholar for English or Spanish studies comparing MRI-R vs. CT-R in adult AIS. Randomized trials, cohort, and case-control designs were included. Primary outcome was mortality; secondary outcomes were 90-day functional independence modified Rankin Scale (mRS) 0-2) and symptomatic intracranial hemorrhage (sICH). Data were pooled with a random-effects model; risk of bias was assessed using Cochrane RoB 2.0 and ROBINS-I tools. From 11,578 records, 13 studies (27,313 patients) met inclusion criteria. Meta-analysis of 11 studies (27, 197 patients) showed MRI-R was associated with increased 90-day mRS ≤2 (RR 1.28, 95 % CI 1.06-1.55; p = 0.01; I2 = 82.6 %), reduced mortality (RR 0.72, 95 % CI 0.62-0.84; p = 0.002; I2 = 0 %) and lowered sICH (RR 0.59, 95 % CI 0.45-0.78; p = 0.002; I2 = 7.6 %) compared with CT-R. Subgroup analyses by CT comparator type (NCCT-only or multimodal CT) and reperfusion strategy (IVT, MT, or both) for successful reperfusion and 90-day functional independence showed no statistically significant differences between groups. MRI-R was associated with improved functional outcomes, reduced mortality and lower sICH rates than CT-guided strategies. However, these findings should not be interpreted as definitive superiority given the high heterogeneity in functional outcomes, baseline patient characteristic differences between imaging groups, and detected publication bias. CT remains essential for rapid hyperacute assessment, while in well-equipped centers, MRI can improve patient selection through detailed tissue characterization, provided this does not delay reperfusion and patients have no contraindications. Further, prospective, randomized studies are needed to confirm these findings. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251165578, CRD420251165578.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42609327/"
+  },
+  {
+    "pmid": "42605679",
+    "title": "Intraarterial Thrombolysis: Past, Present, Future.",
+    "journal": "Stroke",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1161/STROKEAHA.126.052342",
+    "abstract": "Suboptimal clinical outcomes are common after ischemic stroke with large vessel occlusion despite current reperfusion treatment with intravenous thrombolysis and mechanical thrombectomy. Targeting residual distal arterial and microvascular occlusions with intraarterial thrombolysis has recently gained substantial interest as an adjunct to improve cerebral tissue perfusion. While recent trials provide promise in selected patients with anterior-circulation stroke, further high-quality, large-scale studies and pooled individual-patient analyses are needed. This review summarizes the evolving role of intraarterial thrombolysis over the past 3 decades and projects potential developments.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42605679/"
+  },
+  {
+    "pmid": "42604786",
+    "title": "[Role of Cerebral Hemodynamic and Metabolic Measurements in the Management of Ischemic Cerebrovascular Disease].",
+    "journal": "No shinkei geka. Neurological surgery",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "English Abstract"
+    ],
+    "doi": "10.11477/mf.030126030540040891",
+    "abstract": "Understanding cerebral hemodynamics and metabolism is essential for the diagnosis and treatment of ischemic cerebrovascular disease. Advances in imaging modalities and techniques have enabled the quantitative assessment of hemodynamic compromise and facilitated tailored treatment. In acute ischemic stroke, computed tomography/magnetic resonance perfusion imaging supports the identification of salvageable tissue (the penumbra) and contributes to the selection of endovascular thrombectomy (EVT), particularly within the delayed time window. In chronic intracranial atherosclerotic disease (ICAD), quantitative assessments of cerebral blood flow (CBF), cerebrovascular reactivity (CVR), and oxygen extraction fraction (OEF) are useful for evaluating the risk of recurrence. The results of clinical trials for extracranial-intracranial bypass surgery vary due to differences in selection criteria and perioperative risks; therefore, patient selection based on rigorous hemodynamic evaluation is crucial. Repeated hemodynamic assessments are helpful in determining treatment strategies in moyamoya disease, for instance, which is progressive, even in asymptomatic cases. Postoperative cerebral hemodynamics may present with a mixture of hyperperfusion and hypoperfusion. To reduce the risk of postoperative complications, it is key to accurately understand the hemodynamic status. Collectively, the measurement of cerebral hemodynamics and metabolism is crucial for individualized and evidence-based management of ischemic cerebrovascular disease.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42604786/"
+  },
+  {
+    "pmid": "42603253",
+    "title": "Challenges and Adjunctive Use of CT Perfusion (CTP) in Acute Stroke: Pitfalls, False Negatives, and Diagnostic Clues for Stroke Mimics.",
+    "journal": "Current neurology and neuroscience reports",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1177/23969873221114256",
+    "abstract": "Computed tomography perfusion (CTP) has become an important tool for tissue-based assessment in acute ischemic stroke, particularly in patients considered for reperfusion therapy beyond conventional time windows. This review summarizes common pitfalls, diagnostic blind spots, and adjunctive uses of CTP. Although CTP supports patient selection for endovascular thrombectomy in the extended window, automated core-penumbra estimates are vulnerable to technical and interpretive error. Major pitfalls include overestimation of ischemic core (ghost infarct core) and underestimation of core (perfusion scotoma). Negative automated maps do not exclude small deep infarcts or posterior circulation stroke, and perfusion abnormalities may also occur in stroke mimics. CTP should not be interpreted in isolation. Its greatest clinical value lies in integration with non-contrast CT, CT angiography, perfusion parameter maps, and clinical assessment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42603253/"
+  },
+  {
+    "pmid": "42579828",
+    "title": "Distal Vessel Occlusions in Acute Ischemic Stroke: Reframing Patient Selection and Reperfusion Strategies.",
+    "journal": "Neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1212/WNL.0000000000218440",
+    "abstract": "Mechanical thrombectomy (MT) has revolutionized the treatment of acute ischemic stroke because of large vessel occlusion (LVO), but distal and medium vessel occlusions (DMVOs) remain a gray zone. DMVOs account for a substantial proportion of ischemic strokes and can cause long-term disability or death despite often presenting with only mild to moderate symptoms. Their biologic and anatomic diversity-including small vessel caliber, variable perfusion territories, collateral dependence, and complex access pathways-creates distinct patterns of natural history, treatment responsiveness, and procedural risk compared with proximal LVO. Recent randomized trials and meta-analyses, conducted in broadly defined DMVO populations, did not demonstrate functional benefit of endovascular therapy (EVT) over best medical therapy (BMT) and observed numerically higher rates of intracranial hemorrhage with MT. These neutral results have fueled skepticism and guideline recommendations against routine EVT for DMVO stroke; however, they coexist with emerging trial data suggesting that treatment effects may depend on refined patient selection and optimized, distal-specific techniques, as well as with registry findings indicating that many patients with DMVO remain disabled despite BMT. In this narrative, we provide an interpretative synthesis of the available evidence to argue that the apparent discrepancy between biologic plausibility and neutral trial results reflects, at least in part, heterogeneity of DMVO definitions and phenotypes, limitations of severity and outcome scales, anatomy- and device-related safety constraints, and the unique mechanics and biology of small vessel thrombus retrieval rather than an absence of biologic efficacy. We highlight clinical, imaging, anatomic, and thrombus-related features which may help identify subgroups more likely to benefit from distal reperfusion and discuss emerging technical and pharmacologic strategies-including DMVO-specific device adaptations, intraarterial thrombolysis, and hybrid reperfusion approaches-which aim to reduce mechanical trauma while preserving the advantages of timely recanalization. Together, these considerations support a shift from viewing distal MT as a failed extension of proximal EVT to recognizing DMVO stroke as a distinct syndrome that requires tailored selection, techniques, and outcome assessment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42579828/"
+  },
+  {
+    "pmid": "42566118",
+    "title": "From Recanalization to Failed Recovery: No Reflow, No Rescue, and No Regrow After Thrombectomy.",
+    "journal": "Translational stroke research",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1212/wnl.80.7_supplement.p02.122",
+    "abstract": "Despite the remarkable technical success of endovascular thrombectomy (EVT) in achieving high recanalization rates for acute ischemic stroke due to large vessel occlusion (LVO), angiographic success does not consistently translate into functional recovery. Approximately 50% of successfully recanalized patients failed to achieve functional independence at 90 days, a phenomenon termed futile recanalization (FR). Futile recanalization highlights the biological limitations of macrovascular reperfusion alone. We propose a mechanistic framework for FR centered on the \"3 R's\" of stroke recovery: No-Reflow, No-Rescue, and No-Regrow. No-Reflow refers to microvascular failure despite proximal recanalization, driven by capillary obstruction, endothelial injury, pericyte constriction, and thromboinflammatory processes. No-Rescue describes secondary loss of initially salvageable neurons due to complement activation, neuroinflammation, oxidative stress, and blood-brain barrier dysfunction. No-Regrow reflects impaired neuroplasticity in the subacute and chronic phases, including failed neurogenesis, axonal degeneration, white matter injury, and disrupted network reorganization. This review examines the clinical, imaging, procedural, and molecular determinants of FR to better understand why successful reperfusion does not always result in neurological recovery. Understanding the multifactorial nature of FR is essential to improving EVT outcomes. Future strategies should target microvascular injury and inflammation, refine patient selection criteria, and explore adjunctive therapies aimed at restoring downstream perfusion and mitigating neuroinflammation. By addressing both macrovascular and microvascular factors, it may be possible to translate angiographic success into meaningful functional recovery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42566118/"
+  },
+  {
+    "pmid": "42558811",
+    "title": "Clinical equipoise and ethical challenges in expanding endovascular stroke thrombectomy practice.",
+    "journal": "Frontiers in surgery",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1161/STROKEAHA.106.476648",
+    "abstract": "Endovascular thrombectomy transformed acute ischemic stroke care while exposing ethical tensions in emergency research. As landmark trials rapidly shifted standards, investigators faced complex questions regarding equipoise, early stopping, and respecting autonomy when patients lack capacity and time is critical. We conducted a focused literature analysis from 2003 to 2024 spanning practice-changing thrombectomy trials and contemporary ethics literature. We synthesized three domains: (1) equipoise dynamics during evidence accumulation; (2) balancing non-maleficence against the social value of continuing trials; and (3) consent models for incapacitated patients in time-sensitive settings. Initial uncertainty regarding endovascular efficacy justified early randomized controls. However, post-2015 data precipitated a rapid loss of equipoise, necessitating the early termination of trials to uphold the duty of care for control arm participants. While early stopping rules successfully minimized harm, they raised tensions regarding the precision of treatment effect estimates. Furthermore, the requirement for standard informed or surrogate consent was found to introduce selection bias against severe stroke patients lacking capacity. The literature supports shifting toward deferred or presumed consent models in these emergencies, arguing that rigid adherence to autonomy can paradoxically violate the principles of justice and beneficence by systematically excluding the most vulnerable patient populations from life-altering interventions. Ethical conduct of emergency stroke trials requires continuous reassessment of equipoise, pre-specified stopping rules that prioritize participant welfare, and consent pathways tailored to incapacity and time sensitivity. We explore principles integrating beneficence, non-maleficence, autonomy, and justice to maximize lives saved and prevent disability while preserving rights. These principles generalize to future trials as indications, technologies, and timelines evolve.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42558811/"
+  }
+]
