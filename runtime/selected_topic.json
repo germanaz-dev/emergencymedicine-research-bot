@@ -1,57 +1,57 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "selected_topic": {
-    "id": "stroke_thrombectomy_selection",
-    "title": "acute ischemic stroke thrombectomy selection",
-    "axis": "neurology",
+    "id": "shock_undifferentiated",
+    "title": "undifferentiated shock in emergency medicine",
+    "axis": "critical_care",
     "priority": 10,
-    "review_interval_days": 180,
+    "review_interval_days": 120,
     "keywords": [
-      "ischemic stroke",
-      "thrombectomy",
-      "patient selection"
+      "shock",
+      "undifferentiated shock",
+      "emergency medicine"
     ]
   },
   "score": 125.5,
   "exploration": false,
   "reason": {
     "priority_score": 100,
-    "recency_score": 3.5,
-    "axis_score": 22.0,
+    "recency_score": 0.5,
+    "axis_score": 25.0,
     "alert_score": 0,
     "last_axis_penalty": false,
     "matched_alerts": []
   },
   "top_5": [
     {
-      "id": "stroke_thrombectomy_selection",
-      "title": "acute ischemic stroke thrombectomy selection",
-      "axis": "neurology",
+      "id": "shock_undifferentiated",
+      "title": "undifferentiated shock in emergency medicine",
+      "axis": "critical_care",
       "score": 125.5
     },
     {
       "id": "pulmonary_embolism_rv",
       "title": "right ventricular dysfunction in pulmonary embolism",
       "axis": "cardiovascular",
-      "score": 124.75
+      "score": 125.0
     },
     {
       "id": "acute_coronary_syndrome_troponin",
       "title": "high sensitivity troponin in acute coronary syndrome",
       "axis": "cardiovascular",
-      "score": 124.0
+      "score": 124.25
     },
     {
       "id": "sepsis_early_recognition",
       "title": "sepsis early recognition in the emergency department",
       "axis": "infectious",
-      "score": 123.75
+      "score": 124.0
     },
     {
       "id": "syncope_risk",
       "title": "syncope risk stratification in emergency medicine",
       "axis": "cardinal_symptoms",
-      "score": 117.25
+      "score": 117.5
     }
   ]
 }
