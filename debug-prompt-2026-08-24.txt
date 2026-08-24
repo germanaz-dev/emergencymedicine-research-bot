@@ -1,0 +1,789 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: undifferentiated shock in emergency medicine
+
+PAPERS RECUPERADOS DE PUBMED:
+No se recuperaron resultados relevantes de PubMed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Undifferentiated Shock – Diagnosis and Treatment : Emergency Care BC
+URL: https://emergencycarebc.ca/clinical_resource/clinical-summary/undifferentiated-shock-diagnosis-and-treatment
+Score: 0.6141863
+
+Texto:
+[![Logo](https://emergencycarebc.ca/wp-content/themes/emn/images/logo_ecbc.svg)](https://emergencycarebc.ca)
+
+MenuBack
+
+# POINT-OF-CARE EMERGENCY CLINICAL SUMMARY
+
+## Member Login
+
+![close-x-white](https://emergencycarebc.ca/wp-content/themes/emn/images/icons/icon-exit.svg)
+
+You must be a logged in member to see the content you clicked on.
+
+[![](https://emergencycarebc.ca/wp-content/themes/emn/images/global-symbols/reply-icon.svg)
+
+Go back](javascript:history.back();)
+
+## INDEX
+
+[![Logo](https://emergencycarebc.ca/wp-content/themes/emn/images/logo.svg)](https://emergencycarebc.ca)
+
+## Undifferentiated Shock – Diagnosis and Treatment
+
+Cardinal Presentations / Presenting Problems, Critical Care / Resuscitation
+
+Last Reviewed on Feb 17, 2022
+
+Read Disclaimer
+
+By  [Samantha Jang-Stewart](#),Kevin Choi
+
+## Context
+
+* Shock is a state of acute cardiocirculatory failure resulting in end-organ hypoxia and dysfunction.
+* Promptly recognizing and treating shock is important as it is associated with high mortality
+* Shock has many etiologies and is the final common pathway of death.
+* Approach to undifferentiated shock requires simultaneous resuscitation and investigation.
+
+![](https://www.bcemergencynetwork.ca/wp-content/uploads/2022/12/table-shock.jpg)
+
+Table 1 Categories of shock
+
+## Diagnostic Process
+
+Approach to undifferentiated shock
+
+1. Recognize shock.
+
+* No single clinical finding or investigation can rule in or rule out shock. Diagnosis is based on a combination of clinical findings.
+* Shock is commonly associated with hypotension, but it can also occur with normal blood pressure.
+* Shock red flags
+  + Ill appearance.
+  + Altered mental status.
+  + HR > 100, MAP < 65, SBP < 90, shock index (SI) > 0.8.
+  + RR > 20.
+  + Urine output < 0.5 ml/kg/h.
+  + Skin – cool peripheries, mottling, urticaria.
+  + Lactate > 4 mM/L or arterial base deficit < -4mEq/L.
+
+1. Primary survey (ABCDE)
+
+* **Airway**: assess airway patency.
+* **Breathing**: assess oxygenation and ventilation.
+  + Consider the need for intubation and mechanical ventilation. Minimize induction agents to avoid hemodynamic collapse.
+* **Circulation**: assess pulse, BP, telemetry, signs of obvious bleeding.
+  + Obtain large bore peripheral IV access. Obtain intraosseous access if peripheral IV access is difficult. Do not delay resuscitation for central line access.
+* **Disability**: assess for level of consciousness and signs of spinal cord injury.
+* **Exposure:** assess skin for urticaria, angioedema (signs of anaphylaxis).
+* **Rule out conditions requiring immediate intervention**: tension pneumothorax, massive hemothorax, cardiac tamponade, MI, significant arrhythmias, massive PE, anaphylaxis, hypovolemia.
+
+1. Initiate empiric resuscitation unless the cause of shock is clear and is rapidly reversed.
+
+* Fluid resuscitation.
+  + Fluid challenge with 300-500 ml of a crystalloid solution over 20-30 min. Repeat according to fluid responsiveness based on changes in BP, HR, urine output.
+  + Be cautious with excessive fluid administration, especially if suspecting cardiogenic shock or massive PE.
+  + Colloids like albumin are theoretically better intravascular volume expanders but there is no evidence of mortality benefit over crystalloids.
+
+* Consider vasoactive agents if hypotension persists (MAP <65) despite fluid resuscitation.
+  + Typical first line agent is norepinephrine with initial dose of 0.2 mcg/kg/min. Norepinephrine can initially be given through peripheral IV until central line access is available.
+  + Vasopressin and epinephrine infusions can be used as second-line agents for severe cases of shock.
+* Consider the use of inotropes if suspecting cardiogenic shock. Dobutamine is commonly used as a first line agent.
+* Start broad-spectrum antibiotics if suspecting sepsis. Early antibiotic therapy improves outcomes in sepsis.
+* Consider empiric corticosteroids for chronic steroid users or shock refractory to vasopressors and fluid resuscitation. Options include dexamethasone 6 mg IV or hydrocortisone 100 mg IV.
+* Sodium bicarbonate therapy for severe metabolic acidosis is commonly used but there is no evidence of mortality benefit.
+
+1. Secondary survey focused on determining the cause of shock.
+
+* History: trauma, infection, immunosuppression, corticosteroid use, exposure to allergen, chest pain, toxic ingestions.
+* Head to toe examination.
+* Point of care ultrasound (FAST, RUSH).
+  + Recent systematic review suggests ultrasound measurement of IVC is not a reliable indicator of volume status.
+* Suggested initial investigations.
+  + Blood tests: ABG, lactate, CBC, serum chemistry, LFT, troponin, BNP, coagulation studies.
+  + ECG – ACS.
+  + CXR – heart failure or pneumonia.
+  + CT scan depending on working differential.
+* Consider placing arterial line and/or central line.
+
+1. Reassess indicators of adequate hemodynamic support.
+
+* MAP > 65 with clinical signs of adequate tissue perfusion (mental status, skin appearance, urine output).
+* Decreasing serial lactate measurements.
+
+6. Transition to ICU.
+
+## Quality Of Evidence*?*
+
+![](https://emergencycarebc.ca/wp-content/themes/emn/images/global-symbols/close-x-white.svg)
+
+### High
+
+We are highly confident that the true effect lies close to that of the estimate of the effect. There is a wide range of studies included in the analyses with no major limitations, there is little variation between studies, and the summary estimate has a narrow confidence interval.
+
+### Moderate
+
+We consider that the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different. There are only a few studies and some have limitations but not major flaws, there are some variations between studies, or the confidence interval of the summary estimate is wide.
+
+### Low
+
+When the true effect may be substantially different from the estimate of the effect. The studies have major flaws, there is important variations between studies, of the confidence in
+
+--- FUENTE WEB ---
+Título: An Approach to Undifferentiated Shock and Hypotension - CanadiEM
+URL: https://canadiem.org/approach-to-undifferentiated-shock-and-hypotension
+Score: 0.5954225
+
+Texto:
+* [## CanadiEM MVP Infographic Series
+
+  Alvin Chin Featured, Infographics August 7, 2019](https://canadiem.org/canadiem-mvp-infographic-series/)
+* [## HiQuiPs (Quality Improvement)
+
+  Ahmed Taher Education & Quality Improvement, HiQuiPs July 10, 2018](https://canadiem.org/hiquips/)
+* [## CRACKCast
+
+  Adam Thomas CRACKCast, Podcast August 11, 2016](https://canadiem.org/crackcast/)
+* [## The ‘Top Five Changes’ Project: 2015 AHA guidelines on CPR + ECC update infographic series
+
+  Blair Bigham Infographics, Knowledge Translation October 22, 2015](https://canadiem.org/the-top-five-changes-project-2015-aha-guidelines-update-cpr-ecc-infographic-series/)
+* [## CaRMS Guide
+
+  Brent Thoma CaRMS Guide, Mentorship January 1, 2015](https://canadiem.org/carms-guide/)
+* [## Basic Airway Assessment: It’s as easy as… 1-2-3?
+
+  Rob Woods Medical Concepts August 4, 2014](https://canadiem.org/basic-airway-assessment-easy-1-2-3/)
+
+[Facebook](https://www.facebook.com/CanadiEM/ "Facebook")[X](https://twitter.com/WeAreCanadiEM "X")[LinkedIn](https://www.linkedin.com/groups/8458253 "LinkedIn")[RSS](http://feeds.feedburner.com/CanadiEM "RSS")
+
+[![CanadiEM](//canadiem.org/wp-content/uploads/2016/01/CanadiEM-300x120.png)](https://canadiem.org/)  [Navigation](#) 
+
+* [About](https://canadiem.org/about/)
+  + [Editorial Board](https://canadiem.org/about/editorial-board/)
+  + [Disclaimer](https://canadiem.org/about/disclaimer-copyright/)
+  + [Terms of Use Agreement](https://canadiem.org/about/terms-of-use-agreement/)
+  + [Privacy Policy](https://canadiem.org/privacy-policy/)
+* [Content](https://canadiem.org/category/all/)
+  + [Education & QI](https://canadiem.org/category/all/education-quality-improvement/)
+    - [Great Evidence in MedEd (GEMeS)](https://canadiem.org/category/all/education-quality-improvement/gemes/)
+    - [Featured Education Innovations (FEI)](https://canadiem.org/category/all/education-quality-improvement/fei/)
+    - [FLOW Hacks](https://canadiem.org/category/all/education-quality-improvement/flow-hacks/)
+    - [Mentorship](https://canadiem.org/category/all/education-quality-improvement/mentorship/)
+    - [TipsForEMExams](https://canadiem.org/category/all/education-quality-improvement/mentorship/tipsforemexams/)
+    - [CaRMS Guide](https://canadiem.org/carms-guide/)
+  + [Medical Concepts](https://canadiem.org/category/all/medical/)
+    - [Chalk Talks](https://canadiem.org/category/all/medical/chalk-talks/)
+    - [Clinical Questions](https://canadiem.org/category/all/medical/clinical-questions/)
+    - [Infographics](https://canadiem.org/category/all/medical/infographics/)
+    - [Knowledge Translation](https://canadiem.org/category/all/medical/knowledge-translation/)
+    - [Tiny Tips](https://canadiem.org/category/all/medical/tiny-tip/)
+  + [Podcast](https://canadiem.org/category/podcast/)
+    - [CRACKCast](https://canadiem.org/category/podcast/crackcast/)
+    - [Physicians as Humans](https://canadiem.org/category/podcast/physicians-as-humans/)
+  + [Opinion & Arts](https://canadiem.org/category/all/opinion/)
+    - [Commentary](https://canadiem.org/category/all/opinion/commentary/)
+    - [Counterpoint](https://canadiem.org/category/all/opinion/counterpoint/)
+    - [Editorial](https://canadiem.org/category/all/opinion/editorial/)
+    - [Arts PRN Gallery](https://canadiem.org/arts-prn-gallery/)
+* [Submissions](https://canadiem.org/submissions/)
+  + [General Submissions](https://canadiem.org/submissions/)
+  + [Arts PRN Project](https://canadiem.org/arts-prn-project/)
+* [Search](#)
+
+![Undifferentiated shock](https://canadiem.org/wp-content/uploads/2024/09/Shock-1-864x329.png)
+
+# An Approach to Undifferentiated Shock and Hypotension
+
+In  [Medical Concepts](https://canadiem.org/category/all/medical/ "View all posts in: “Medical Concepts\”") by Mackenzie MacAuley[Leave a Comment](https://canadiem.org/approach-to-undifferentiated-shock-and-hypotension/#respond "Leave a comment on: “An Approach to Undifferentiated Shock and Hypotension\”")
+
+### Background
+
+Shock is a state of **cellular** and **tissue hypoxia** caused by reduced oxygen delivery or increased oxygen consumption. We tend to use the patients systolic blood pressure (SBP) as our main diagnostic test for shock as it is readily available and simple to assess. Therefore, patients with a SBP of **90 mmHg or less** are considered to be in **shock** **until proven otherwise**. Caution should be noted for special populations such as pediatrics, geriatrics or hypertensive patients who have different cut-offs for acceptable blood pressures. In these cases, consider other indicators of poor perfusion such as the **Shock Index (SI)**, which is a ratio of heart rate to SBP.​1​ This is especially useful when those you suspect are in shock present with normal triage vitals. With mortality from shock exceeding 50% in certain cases it is vital that medical trainees be able to recognize, formulate an approach to and identify the possible underlying etiologies for undifferentiated shock.
+
+### Presentation
+
+While shock can take on many forms, there are certain easily identifiable clues to look out for while in the emergency room. Patients which could be in shock, or at risk of, may be **ill appearing** or have an **altered mental status (AMS)**. They will likely be **tachypneic** with a respiratory rate >20, **tachycardic** at >100 bpm and have **decreased urine output** defined as less than 0.5 mL/kg per hour. However, the strongest predictors of patient outcomes and the most accurate indicators of tissue hypoperfusion are the arterial base deficit and lactate.​2​ Simply put, the less oxygen our tissues receive, the more anerobic respiration takes place and the more lactic acid is produced. To compensate our body uses up more bicarbonate to buffer the increasing lactic acid which in turn lowers the base deficit. Therefore, patients with a **dropping bicarbonate** or **increasing lactate** are at serious risk of circulatory insufficiency with subsequent multi organ fa
+
+--- FUENTE WEB ---
+Título: Reliability of Emergency Department Diagnosis in Identifying the Etiology of Nontraumatic Undifferentiated Hypotension - PMC
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7358855
+Score: 0.56575525
+
+Texto:
+An official website of the United States government
+
+Here's how you know
+
+**Official websites use .gov**   
+ A **.gov** website belongs to an official government organization in the United States.
+
+**Secure .gov websites use HTTPS**   
+ A **lock** (  ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+* [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+* [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+* [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+* [Journal List](/journals/)
+* [User Guide](/about/userguide/)
+
+* ## PERMALINK
+
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.  
+ Learn more: [PMC Disclaimer](/about/disclaimer/) |  [PMC Copyright Notice](/about/copyright/)
+
+. 2020 May;24(5):313–320. doi: [10.5005/jp-journals-10071-23429](https://doi.org/10.5005/jp-journals-10071-23429)
+
+# Reliability of Emergency Department Diagnosis in Identifying the Etiology of Nontraumatic Undifferentiated Hypotension
+
+[Rameshbabu H Javali](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+### Rameshbabu H Javali
+
+1–3,6–9Department of Emergency Medicine, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India
+
+Find articles by [Rameshbabu H Javali](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+1, [Arpitha Loganathan](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+### Arpitha Loganathan
+
+1–3,6–9Department of Emergency Medicine, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India
+
+Find articles by [Arpitha Loganathan](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+2,✉, [Madhu Srinivasarangan](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+### Madhu Srinivasarangan
+
+1–3,6–9Department of Emergency Medicine, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India
+
+Find articles by [Madhu Srinivasarangan](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+3, [Akkamahadevi Patil](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+### Akkamahadevi Patil
+
+4Department of Anesthesia, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India
+
+Find articles by [Akkamahadevi Patil](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+4, [Ganesha B Siddappa](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+### Ganesha B Siddappa
+
+5Department of Emergency Medicine, SSIMS&RC, Davangere, Karnataka, India
+
+Find articles by [Ganesha B Siddappa](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+5, [Nisarg Satyanarayana](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+### Nisarg Satyanarayana
+
+1–3,6–9Department of Emergency Medicine, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India
+
+Find articles by [Nisarg Satyanarayana](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+6, [Adarsh S Bheemanna](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+### Adarsh S Bheemanna
+
+1–3,6–9Department of Emergency Medicine, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India
+
+Find articles by [Adarsh S Bheemanna](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+7, [Sriharsha Jagadeesh](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+### Sriharsha Jagadeesh
+
+1–3,6–9Department of Emergency Medicine, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India
+
+Find articles by [Sriharsha Jagadeesh](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+8, [Sagarika Betkerur](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+### Sagarika Betkerur
+
+1–3,6–9Department of Emergency Medicine, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India
+
+Find articles by [Sagarika Betkerur](https://pubmed.ncbi.nlm.nih.gov/?term=)
+
+9
+
+
+
+1–3,6–9Department of Emergency Medicine, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India
+
+4Department of Anesthesia, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India
+
+5Department of Emergency Medicine, SSIMS&RC, Davangere, Karnataka, India
+
+✉
+
+Arpitha Loganathan, Department of Emergency Medicine, JSS Medical College, JSS Academy of Higher Education and Research, Mysuru, Karnataka, India, Phone: +91 9900688088, e-mail: arpi.loga@gmail.com
+
+Copyright © 2020; Jaypee Brothers Medical Publishers (P) Ltd.
+
+© The Author(s). 2020 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<https://creativecommons.org/licenses/by-nc/4.0/>), which permits unrestricted use, distribution, and non-commercial reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<http://creativecommons.org/publicdomain/zero/1.0/>) applies to the data made available in this article, unless otherwise stated.
+
+[PMC Copyright notice](/about/copyright/)
+
+PMCID: PMC7358855  PMID: [32728321](https://pubmed.ncbi.nlm.nih.gov/32728321/)
+
+## ABSTRACT
+
+### Introduction
+
+Nontraumatic undifferentiated hypotension is one of the common and challenging critical presentations in the emergency department (ED) due to the difficulty in diagnosing the etiology of shock. In the present study, an attempt was made to test point-of-care ultrasound (PoCUS) as an early approach to improve the accuracy of diagnosis and to narrow the differentials in cases of nontraumatic undifferentiated hypotension.
+
+### Materials and methods
+
+This is a prospective explorative study conducted in the ED of a tertiary care hospital over a period of 18 months. A total of 100 patients were included in the study. All patients >18 years of age with systolic blood pressure <90 mm Hg with at least one sign or symptom of hypoperfusion were included in t
+
+--- FUENTE WEB ---
+Título: Approach to Shock | SAEM
+URL: https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-stabilization-of-the-acutely-ill-patient/approach-to-shock
+Score: 0.55623144
+
+Texto:
+[![](/images/default-source/academy-images/academy-logos-rev/cdem-600x300.png?sfvrsn=9a3ab567_3 "CDEM 600x300")](/about-saem/academies-interest-groups-affiliates2/cdem)
+
+Visit us on [Twitter](https://twitter.com/saemonline) [LinkedIn](https://www.linkedin.com/company/society-for-academic-emergency-medicine) [Facebook](https://www.facebook.com/SAEMonline) [YouTube](https://www.youtube.com/channel/UCFyc9y4eYZ-e5gtO3xAS19w) [Instagram](https://www.instagram.com/saemonline)
+
+* [Join/Renew](/join)
+* [Careers](/careers)
+
+Profile
+
+* [Logout](/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum/group-stabilization-of-the-acutely-ill-patient/approach-to-shock/SignOut/)
+
+# Approach to Shock
+
+[Home](/)   /  [About SAEM](/about-saem)   /  [Academies, Interest Groups, & Affiliates](/about-saem/academies-interest-groups-affiliates2)   /  [CDEM](/about-saem/academies-interest-groups-affiliates2/cdem)   /  [For Students](/about-saem/academies-interest-groups-affiliates2/cdem/for-students)   /  [CDEM Curriculum](/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education)   /  [M3 Curriculum](/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m3-curriculum)   /  Approach to Shock
+
+### **Author Credentials**
+
+**Author:** Benjamin J. Sandefur, MD, Mayo Clinic College of Medicine and Science
+
+**Editor:** Todd A. Guth, MD, MHPE, University of Colorado School of Medicine:
+
+**Updated:** September, 2019
+
+**Original Author:** Jennifer Avegno, MD, Louisiana State University School of Medicine
+
+**Original Editor:** David Manthey, MD, Wake Forest University School of Medicine
+
+**Created:** 2008
+
+### --- Case Study
+
+A 63 year old female patient is brought to the emergency department by pre-hospital providers. The patient’s family called 911 after they noticed her to be confused this morning. Paramedics found her to be oriented to person and place, though not oriented to time or event. Vital signs were notable for a temperature of 37.8 ° C, heart rate 132 beats per minute, blood pressure 88/48, and an oxygen saturation of 98% on room air. She was given 1 liter of intravenous normal saline during transport to the emergency department. On arrival, she appears ill and remains hypotensive, tachycardic, and confused.
+
+### --- Objectives
+
+Upon completion of this module, the student will be able to:
+
+* Define shock
+* Describe a clinically relevant categorization for mechanisms of shock
+* Develop a diagnostic plan for a patient with shock of undifferentiated etiology
+* Discuss empiric management strategies for a patient with shock, directed by the presumed etiology of illness
+
+### --- Introduction
+
+Shock is a pathophysiologic state in which the oxygen supply to body tissues inadequately meets metabolic demands, resulting in dysfunction of end-organs. Shock may arise by impaired delivery of oxygen to tissues, impaired utilization of oxygen by tissues, increased oxygen consumption by tissues, or a combination of these processes. While circulatory failure and hypotension is the most common and readily identified clinical presentation of shock, the manifestations of shock exist along a continuum of illness severity, thus a patient with initially normal vital signs may still be in shock.
+
+### --- Initial Actions and Primary Survey
+
+Early recognition of shock and institution of empiric treatment is of utmost importance. Some patients in shock present with a readily identifiable etiology (i.e. gunshot wound to the abdomen), while others may be undifferentiated. A rapid and accurate assessment of the airway, breathing, and circulation, followed by a focused history and physical examination should be performed. Particular attention should be directed to neck veins (± jugular venous distention), cardiopulmonary examination, abdominal examination, and extremity examination (± signs of hypoperfusion or abnormal vasodilatation). A rectal examination is often indicated to assess for melena or hematochezia. Robust intravenous access (i.e. two large-bore IVs, intraosseous access, or central venous catheter) should be established. The patient should be placed on continuous telemetry, noninvasive blood pressure monitoring, and pulse oximetry. An ECG and chest radiograph should generally be obtained. Bedside ultrasonography (i.e. FAST examination) can provide valuable information to narrow the differential diagnosis. Initiation of intravenous fluid resuscitation is usually indicated, and is rarely harmful, to a patient in shock.
+
+### --- Presentation
+
+The many causes of shock maybe categorized based on etiology. While various categorizations for shock exist, a commonly utilized and clinically relevant categorization is depicted in the following table.
+
+Table 1.Categorization of Shock
+
+|  |  |  |
+| --- | --- | --- |
+| Category | Physiology | Examples |
+| Hypovolemic | Decreased intravascular volume resulting in decreased preload, stroke volume, and cardiac output | * Hemorrhagic (major trauma, gastrointestinal bleeding, ruptured ectopic pregnancy, etc.) * Non-hemorrhagic (vomiting, diarrhea, burns, etc.) |
+| Cardiogenic | Impaired cardiac output secondary to cardiac pump function, rhythm aberrancy or structural defect | * Arrhythmogenic (brady- or tachydysrhythmia) * Cardiomyopathic (myocardial infarction, heart failure, etc.) * Cardiotoxicity from medication * Structural (valvular insufficiency, ventricular septal wall defect, etc.) |
+| Distributive | Pathologic vasodilatation leading to relative intravascular volume depletion | * Anaphylactic (IgE mediated allergic reaction) * Septic (pneumonia, pyelonephritis, etc.) * Neurogenic (spinal cord injury) * Toxicologic (vasodilatory medication) |
+| Obstructive | Impaired cardiac output due to pulmonary vascular or mechanical obstruction | * Pulmonary vascular obstruction (pulmonary embolism, venous air embolism, etc.) * Mechanical obstruction (tension pneumothorax, pericardial tamponade, left v
+
+--- FUENTE WEB ---
+Título: The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion
+URL: https://link.springer.com/article/10.1186/s12245-024-00660-y
+Score: 0.53473455
+
+Texto:
+## Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See our [privacy policy](https://link.springer.com/privacystatement) for more information on the use of your personal data.
+
+Manage preferences for further information and to change your choices.
+
+Accept all cookies Reject optional cookies
+
+[Skip to main content](https://link.springer.com/article/10.1186/s12245-024-00660-y#main)
+
+Advertisement
+
+BMC journals have moved to Springer Nature Link. [Learn more about website changes.](https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link)
+
+[![Image 2: Springer Nature Link](https://link.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)](https://link.springer.com/)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1186/s12245-024-00660-y)
+
+[Menu](javascript:;)
+
+[Find a journal](https://link.springer.com/journals/)[Publish with us](https://www.springernature.com/gp/authors)[Track your research](https://link.springernature.com/home/)
+
+[Search](javascript:;)
+
+[Saved research](https://link.springer.com/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+## Search
+
+Search by keyword or author 
+
+Search
+
+## Navigation
+
+*   [Find a journal](https://link.springer.com/journals/)
+*   [Publish with us](https://www.springernature.com/gp/authors)
+*   [Track your research](https://link.springernature.com/home/)
+
+1.   [Home](https://link.springer.com/)
+2.   [International Journal of Emergency Medicine](https://link.springer.com/journal/12245)
+3.   Article
+
+# The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion
+
+*   Review
+*   [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+*    Published: 25 July 2024
+
+*   Volume 17, article number 96 (2024) 
+*   [Cite this article](https://link.springer.com/article/10.1186/s12245-024-00660-y#citeas)
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](https://link.springer.com/content/pdf/10.1186/s12245-024-00660-y.pdf)
+
+[Save article](https://link.springer.com/article/10.1186/s12245-024-00660-y/save-research?_csrf=Ae6FcZaDGBVNwfej3KTAGPkgfDrdNXVp)
+
+[View saved research](https://link.springer.com/saved-research)
+
+[![Image 3](https://media.springernature.com/w72/springer-static/cover-hires/journal/12245?as=webp)International Journal of Emergency Medicine](https://link.springer.com/journal/12245)[Aims and scope](https://link.springer.com/journal/12245/aims-and-scope)[Submit manuscript](https://submission.nature.com/new-submission/12245/3)
+
+ The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion 
+
+[Download PDF](https://link.springer.com/content/pdf/10.1186/s12245-024-00660-y.pdf)
+
+*   [Ahmed Hasanin](https://link.springer.com/article/10.1186/s12245-024-00660-y#auth-Ahmed-Hasanin-Aff1)[1](https://link.springer.com/article/10.1186/s12245-024-00660-y#Aff1), 
+*   [Filippo Sanfilippo](https://link.springer.com/article/10.1186/s12245-024-00660-y#auth-Filippo-Sanfilippo-Aff2-Aff3)[2](https://link.springer.com/article/10.1186/s12245-024-00660-y#Aff2),[3](https://link.springer.com/article/10.1186/s12245-024-00660-y#Aff3), 
+*   [Martin W Dünser](https://link.springer.com/article/10.1186/s12245-024-00660-y#auth-Martin_W-D_nser-Aff4)[4](https://link.springer.com/article/10.1186/s12245-024-00660-y#Aff4), 
+*   [Hassan M Ahmed](https://link.springer.com/article/10.1186/s12245-024-00660-y#auth-Hassan_M-Ahmed-Aff5)[5](https://link.springer.com/article/10.1186/s12245-024-00660-y#Aff5), 
+*   [Laurent Zieleskiewicz](https://link.springer.com/article/10.1186/s12245-024-00660-y#auth-Laurent-Zieleskiewicz-Aff6)[6](https://link.springer.com/article/10.1186/s12245-024-00660-y#Aff6), 
+*   [Sheila Nainan Myatra](https://link.springer.com/article/10.1186/s12245-024-00660-y#auth-Sheila_Nainan-Myatra-Aff7)[7](https://link.springer.com/article/10.1186/s12245-024-00660-y#Aff7)&
+*   …
+*   [Maha Mostafa](https://link.springer.com/article/10.1186/s12245-024-00660-y#auth-Maha-Mostafa-Aff1)[1](https://link.springer.com/article/10.1186/s12245-024-00660-y#Aff1)
+
+Show authors
+
+*   43k Accesses
+
+*   11 Citations
+
+*   234  Altmetric
+
+*   [Explore all metrics](https://link.springer.com/article/10.1186/s12245-024-00660-y/metrics)
+
+## Abstract
+
+Acute circulatory shock is a life-threatening emergency requiring an efficient and timely management plan, which varies according to shock etiology and pathophysiology. Specific guidelines have been developed for each type of shock; however, there is a need for a clear timeline to promptly implement initial life-saving interventions during the early phase of shock recognition and management. A simple, easily memorable bundle of interventions could facilitate standardized management with clear targets and specified timeline. The authors propose the “MINUTES” acronym which summarizes essential interventions which should be performed within the first 30 min following shock recognition. All the interventions in the MINUTES bundle are suitable for any patient with undifferentiated shock. In addition to the acronym, we suggest a timeline for each step, balancing the feasibility and urgency of each intervention. The M
+
+--- FUENTE WEB ---
+Título: Circulatory shock in adults in emergency department
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10389095
+Score: 0.52203226
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC10389095#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: Turkish Journal of Emergency Medicine logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-tjem.png)
+
+Turk J Emerg Med
+
+. 2023 Jan 09;23(3):139. doi: [10.4103/2452-2473.367400](https://doi.org/10.4103/2452-2473.367400)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Turk%20J%20Emerg%20Med%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Turk%20J%20Emerg%20Med%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Turk%20J%20Emerg%20Med%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC10389095?term=%22Turk%20J%20Emerg%20Med%22[jour])
+
+# Circulatory shock in adults in emergency department
+
+[Ashok Kumar Pannu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Pannu%20A%22[Author])
+
+### Ashok Kumar Pannu
+
+_Department of Internal Medicine, Postgraduate Institute of Medical Education and Research, Chandigarh, India_
+
+ Find articles by [Ashok Kumar Pannu](https://pubmed.ncbi.nlm.nih.gov/?term=%22Pannu%20A%22[Author])
+
+*
+
+*   Author information
+*   Article notes
+*   Copyright and License information
+
+_Department of Internal Medicine, Postgraduate Institute of Medical Education and Research, Chandigarh, India_
+
+_Corresponding author_
+
+**Author contributions**
+
+AKP: Conceptualization; Literature search; Writing-original draft, review and editing. The corresponding author is responsible for ensuring that the descriptions are accurate and agreed upon by all authors.
+
+✉
+**Address for correspondence:** Dr. Ashok Kumar Pannu, 4 th Floor, F Block, Nehru Hospital, Postgraduate Institute of Medical Education and Research, Chandigarh - 160 012, India. E-mail: gawaribacchi@gmail.com
+
+Received 2022 Sep 19; Revised 2022 Nov 12; Accepted 2022 Nov 13; Collection date 2023.
+
+Copyright: © 2023 Turkish Journal of Emergency Medicine
+
+This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as appropriate credit is given and the new creations are licensed under the identical terms.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC10389095 PMID: [37529784](https://pubmed.ncbi.nlm.nih.gov/37529784/)
+
+## [](https://pmc.ncbi.nlm.nih.gov/articles/PMC10389095)Abstract
+
+Circulatory shock is a common condition that carries high morbidity and mortality. This review aims to update the critical steps in managing common types of shock in adult patients admitted to medical emergency and intensive care units. A literature rev
+
+--- FUENTE WEB ---
+Título: Shock (Chapter 6) - An Introduction to Clinical Emergency ...
+URL: https://www.cambridge.org/core/books/an-introduction-to-clinical-emergency-medicine/shock/B3CEA7ACDA94F0F02BCEBD6C0558EDAE
+Score: 0.45871297
+
+Texto:
+... evaluation and treatment of undifferentiated patients in shock. An incomplete history can lead to poor treatment choices and increased morbidity and mortality.
+
+--- FUENTE WEB ---
+Título: Shock Management - Traumatic shock
+URL: https://www.ebmedicine.net/topics/critical-care/management-of-shock
+Score: 0.4362623
+
+Texto:
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![Click to search](/template_images/_ebm_icon_search.png)](#_ebm_global_topBar_searchMin)
+
+[![navigation bar background](/template_images/_icon_bars_trans.png)](#)
+
+[My Content](/myProfile.php)[Log In](/login.php)
+[Browse Topics](/topics) [Take CME Tests](/cme.php) [FOAMed](https://foamed.ebmedicine.net/) [Pathways](/pathways)  [About](/About) [Contact](/contact.php) [Emergency Clinicians](/emergency-clinicians) [Urgent Care Clinicians](/urgent-care-clinicians) [Emergency PAs & NPs](/apc) [Residents](/Residents) [Groups & Hospitals](/Groups)
+[Subscribe](/subscribe)[Emergency Medicine  
+Practice](/EMPinfo) [Pediatric Emergency  
+Medicine Practice](/PEMPinfo) [EM Practice &   
+Pediatric EM   
+Practice Bundle](/subscribe.php) [Courses](/store/Courses-and-LLSAs) [LLSA Study Guides](/LLSA) [Stroke CME](/store/stroke) [Trauma CME](/store/trauma) [State-Required CME](/CME-Requirements) [Pathways](/pathways) [View All Courses](/store)
+
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![](/template_images/_icon_grid_trans.png) **Product Library**](#) 
+
+[Emergency Medicine Practice](/EMPinfo) [Pediatric Emergency Medicine Practice](/PEMPinfo) [Evidence-Based Urgent Care](/urgent-care-CME) [Savings & Upgrades](/subscribe) [Courses](/store/Courses-and-LLSAs) [LLSA Study Guides](/LLSA) [Stroke CME](/store/stroke) [Trauma CME](/store/trauma) [State-Required CME](/CME-Requirements ) [View All Products](/store)
+
+[![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png) 678-366-7933](tel:1-678-366-7933)[![Click to check your cart](/template_images/_ebm_cart_icon.png)0](/store.php?paction=viewCart)[**Log In**](/login.php) [**Subscribe**](/subscribe)
+
+* [Browse Topics](/topics)
+* [Earn CME Credits](#)
+
+  [Stroke](/cme/stroke) [Cardiac](/cme/cardiovascular) [Trauma](/cme/trauma) [Pediatric Trauma](/cme.php?paction=setFilterOpts&sortBy=publication_date+DESC&resultsPerPg=25&available_to=all_cme&products%5B%5D=pemp&categories%5B%5D=Trauma) [Urgent Care](/CME/evidence-based-urgent-care) [All CME Tests](/cme)
+* [FOAMed](https://foamed.ebmedicine.net/)
+* [Pathways](/pathways)
+* [About](/About)
+* [Contact](/contact.php)
+
+* [**Resources For**](#)
+
+  [Emergency Clinicians](/emergency-clinicians) [Urgent Care Clinicians](/urgent-care-clinicians) [Emergency PAs & NPs](/apc) [Residents](/Residents) [Groups & Hospitals](/Groups)
+
+[Home](/) > [All Topics](/topics) > Diagnosis And Management Of Shock In The Emergency Department
+
+![](/publicationImages/EMP-Heading.png "Emergency Medicine Practice")
+
+# Diagnosis And Management Of Shock In The Emergency Department
+
+|  |
+| --- |
+|  |
+
+[**Log in**](/login.php)
+
+[**Subscribe**](/subscribe)
+
+[**Free Sample**](javascript:void(0);)
+
+![](/template_images/New-TOC-desktop-icon.png)![](/template_images/New-TOC-mobile-icon.png)
+
+Table of Contents![](/template_images/icon-close.png)
+
+Table of Contents
+
+1. [Abstract](#Abstract)
+2. [Case Presentation](#Case-Presentation)
+3. [Introduction](#Introduction)
+4. [Critical Appraisal Of The Literature](#Critical-Appraisal)
+5. Pathophysiology
+   1. Hypovolemic Shock
+   2. Distributive Shock
+   3. Cardiogenic Shock
+   4. Obstructive Shock
+6. Emergency Department Evaluation
+   1. Initial Stabilization
+   2. History
+   3. Physical Examination
+7. Diagnostic Studies
+   1. Laboratory Studies
+      1. Base Deficit
+   2. Imaging
+      1. Ultrasound
+   3. Chest X-Ray
+   4. Computed Tomography
+   5. Echocardiography
+   6. Other Diagnostics
+8. Treatment
+   1. Cardiovascular Monitoring
+   2. Fluid Resuscitation
+      1. Goals Of Fluid Resuscitation
+      2. Fluid Selection
+   3. Central Venous Lines
+      1. Arterial Lines
+      2. Pulmonary Artery Catheters
+   4. Vasopressors
+   5. Clinical Course In The Emergency Department
+      1. Deterioration
+9. Special Circumstances
+   1. Shock In Pregnancy
+   2. Traumatic Shock
+   3. Septic Shock
+   4. Anaphylactic Shock
+   5. Cardiogenic Shock Due To Myocardial Infarction
+10. Controversies And Cutting Edge
+    1. Early Goal-Directed Therapy
+    2. Pulmonary Embolism
+    3. Noninvasive Hemodynamic Monitors
+11. Disposition
+12. Summary
+13. In The March/April Issue of EM Practice Guidelines Update
+14. [Pitfalls To Avoid In The Diagnosis And Management Of Shock](#Risk-Management-Pitfalls)
+15. Case Conclusion
+16. Clinical Pathway For Diagnosing And Managing Shock
+17. [Tables](#Tables)
+    1. [Table 1. Categories Of Shock](#Table-1)
+    2. [Table 2. Etiologies Of Cardiogenic Shock](#Table-2)
+    3. Table 3. Causes Of Shock In The Trauma Patient
+    4. Table 4. Early Goal-Directed Therapy Protocol For Patients With Severe Sepsis And Septic Shock
+18. [References](#References)
+
+### Abstract
+
+Shock is a state of acute circulatory failure leading to decreased organ perfusion, with inadequate delivery of oxygenated blood to tissues and resultant end-organ dysfunction. The mechanisms that can result in shock are divided into 4 categories: (1) hypovolemic, (2) distributive, (3) cardiogenic, and (4) obstructive. While much is known regarding treatment of patients in shock, several controversies continue in the literature. Assessment begins with identifying the need for critical interventions such as intubation, mechanical ventilation, or obtaining vascular access. Prompt workup should be initiated with laboratory testing (especially of serum lactate levels) and imaging, as indicated. Determining the intravascular volume status of patients in shock is critical and aids in categorizing and informing treatment decisions. This issue reviews the 4 primary categories of shock as well as special categories, including shock in pregnancy, traumatic shock, septic shock, and cardiogenic shock in myocardial infarction. Adherence to evidence-based care of the specific causes of shock can optimize a patient’s chances of surviving this life-threatening condition.
+
+### Case Presentation
+
+*You are working in the ED late one evening 
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
