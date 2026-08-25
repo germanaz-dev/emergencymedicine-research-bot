@@ -1,0 +1,533 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: syncope risk stratification in emergency medicine
+
+PAPERS RECUPERADOS DE PUBMED:
+No se recuperaron resultados relevantes de PubMed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Risk-stratification tools for emergency department patients with syncope: A systematic review and meta-analysis of direct evidence for SAEM GRACE - PubMed
+URL: https://www.uptodate.com/contents/approach-to-the-adult-patient-with-syncope-in-the-emergency-department/abstract-text/39496561/pubmed
+Score: 0.8003337
+
+Texto:
+Go to My NCBI account settings to confirm your email and then refresh this page. # Risk-stratification tools for emergency department patients with syncope: A systematic review and meta-analysis of direct evidence for SAEM GRACE. * 1 Department of Emergency Medicine, Beaumont Hospital, Dublin, Ireland. * 3 Department of Emergency Medicine, Kings County Hospital Center, Brooklyn, New York, USA. * 5 Department of Emergency Medicine, Los Angeles General Medical Center, Los Angeles, California, USA. * 7 Department of Emergency Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA. # Risk-stratification tools for emergency department patients with syncope: A systematic review and meta-analysis of direct evidence for SAEM GRACE. * 1 Department of Emergency Medicine, Beaumont Hospital, Dublin, Ireland. * 3 Department of Emergency Medicine, Kings County Hospital Center, Brooklyn, New York, USA. * 5 Department of Emergency Medicine, Los Angeles General Medical Center, Los Angeles, California, USA. * 7 Department of Emergency Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA. **Objectives:** Approximately 10% of patients with syncope have serious or life-threatening causes that may not be apparent during the initial emergency department (ED) assessment. Consequently, researchers have developed clinical decision rules (CDRs) to predict adverse outcomes and risk stratify ED syncope patients. This systematic review and meta-analysis (SRMA) aims to cohere and synthesize the best current evidence regarding the methodological quality and predictive accuracy of CDRs for developing an evidence-based ED syncope management guideline. **Methods:** We conducted a systematic literature search according to the patient-intervention-control-outcome question: In patients 16 years of age or older who present to the ED with syncope for whom no underlying serious/life-threatening condition was found during the index ED visit (population), are risk stratification tools (intervention), better than unstructured clinical judgment (i.e., usual care; comparison), for providing accurate prognosis and aiding disposition decision for outcomes within 30 days (outcome)? **Conclusions:** Most CDRs for ED adult syncope management have low-quality evidence for routine clinical practice use. **Keywords:** clinical decision rule; emergency department; syncope. The authors declare no conflicts of interest. Emergency department management of syncope: need for standardization and improved risk stratification. Intern Emerg Med. 2015;10(5):619‐627. Ann Emerg Med. 1984;13(7):499‐504.
+
+--- FUENTE WEB ---
+Título: Risk stratification of syncope: Current syncope guidelines and beyond
+URL: https://www.sciencedirect.com/science/article/pii/S1566070221001594
+Score: 0.78670514
+
+Texto:
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S1566070221001594#screen-reader-main-content)[Skip to article](https://www.sciencedirect.com/science/article/pii/S1566070221001594#screen-reader-main-title)
+
+[![Image 2: Elsevier logo](https://www.sciencedirect.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://www.sciencedirect.com/)
+
+*   [Journals & Books](https://www.sciencedirect.com/browse/journals-and-books)
+
+*   Help   
+*   [Search](https://www.sciencedirect.com/search) 
+
+[My account](https://www.sciencedirect.com/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1566070221001594&from=globalheader)
+
+[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1566070221001594)
+
+*   [View**PDF**](https://www.sciencedirect.com/science/article/pii/S1566070221001594/pdfft?md5=1db138cd1211100208765d841d47b0f2&pid=1-s2.0-S1566070221001594-main.pdf)
+*   Download full issue
+
+Search ScienceDirect 
+
+## Outline
+
+1.   [Highlights](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ab0010 "Highlights")
+2.   [Abstract](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ab0005 "Abstract")
+3.   [Keywords](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ks0005 "Keywords")
+4.   [1. Introduction](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0005 "1. Introduction")
+5.   [2. Why and how to identify high-risk syncope?](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0010 "2. Why and how to identify high-risk syncope?")
+6.   [3. Syncope prediction tools](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0015 "3. Syncope prediction tools")
+7.   [4. The role of syncope clinics](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0020 "4. The role of syncope clinics")
+8.   [5. Risk stratification for tailored treatment of syncope](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0025 "5. Risk stratification for tailored treatment of syncope")
+9.   [6. Future of syncope evaluation and risk stratification](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0030 "6. Future of syncope evaluation and risk stratification")
+10.   [7. Conclusions](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0050 "7. Conclusions")
+11.   [References](https://www.sciencedirect.com/science/article/pii/S1566070221001594#bi0005 "References")
+
+Show full outline
+
+## [Cited by (21)](https://www.sciencedirect.com/science/article/pii/S1566070221001594#section-cited-by)
+
+## Figures (1)
+
+1.   [![Image 3: Fig. 1. Risk stratification and clinical management of patients with suspected syncope…](https://ars.els-cdn.com/content/image/1-s2.0-S1566070221001594-gr1.sml)](https://www.sciencedirect.com/science/article/pii/S1566070221001594#f0005)
+
+## Tables (6)
+
+1.   [Table 1](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0005 "Clinical characteristics associated with increased probability of cardiac and noncardiac causes of syncope")
+2.   [Table 2](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0010 "High-risk and low-risk features for risk stratification of patients with suspected syncope in the emergency department according to 2018 ESC syncope guidelines.")
+3.   [Table 3](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0015 "Risk markers of short-term and long-term prognosis in patients presenting with syncope according to 2017 ACC/AHA/HRS guidelines.")
+4.   [Table 4](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0020 "Medical conditions requiring hospital admission for further evaluation and therapy.")
+5.   [Table 5](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0025 "Syncope prediction tools.")
+6.   [Table 6](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0030 "Canadian Syncope Risk Score.")
+
+[![Image 4: Elsevier](https://www.sciencedirect.com/us-east-1/prod/c524f14709f590a4e5082eb10a70f44cb6a22214/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/autonomic-neuroscience "Go to Autonomic Neuroscience on ScienceDirect")
+
+## [Autonomic Neuroscience](https://www.sciencedirect.com/journal/autonomic-neuroscience "Go to Autonomic Neuroscience on ScienceDirect")
+
+[Volume 238](https://www.sciencedirect.com/journal/autonomic-neuroscience/vol/238/suppl/C "Go to table of contents for this volume/issue"), March 2022, 102929
+
+[![Image 5: Autonomic Neuroscience](https://ars.els-cdn.com/content/image/1-s2.0-S1566070221X00082-cov150h.gif)](https://www.sciencedirect.com/journal/autonomic-neuroscience/vol/238/suppl/C)
+
+# Review
+
+Risk stratification of syncope: Current syncope guidelines and beyond
+
+Author links open overlay panel[Richard Sutton a](https://www.sciencedirect.com/author/57203194854/richard-sutton), [Fabrizio Ricci b c](https://www.sciencedirect.com/author/51665764100/fabrizio-ricci), [Artur Fedorowski d](https://www.sciencedirect.com/author/6602745793/artur-fedorowski)
+
+Show more
+
+Outline
+
+Add to Mendeley
+
+Share
+
+Cite
+
+[https://doi.org/10.1016/j.autneu.2021.102929](https://doi.org/10.1016/j.autneu.2021.102929 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S1566070221001594&orderBeanReset=true)
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+
+Open access
+
+## Highlights
+
+*   •Clinical judgment is still the cornerstone of syncope management. 
+*   •Risk stratification determines how and by whom syncope patients are managed. 
+*   •High-risk patients require immediate hospitalization and appropriate investigations. 
+*   •Intermediate risk patients require systematic evaluation by syncope experts. 
+*   •Low-risk patients need reassurance and education. 
+
+## Abstract
+
+Syncope is an alarming event carr
+
+--- FUENTE WEB ---
+Título: Risk‐stratification tools for emergency department patients with syncope: A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151
+Score: 0.7707586
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: Academic Emergency Medicine logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-blackwellopen.png)
+
+Acad Emerg Med
+
+. 2024 Nov 04;32(1):72. doi: [10.1111/acem.15041](https://doi.org/10.1111/acem.15041)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Acad%20Emerg%20Med%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Acad%20Emerg%20Med%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Acad%20Emerg%20Med%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151?term=%22Acad%20Emerg%20Med%22[jour])
+
+# Risk‐stratification tools for emergency department patients with syncope: A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+
+[Abel Wakai](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wakai%20A%22[Author])
+
+### Abel Wakai
+
+ 1 Department of Emergency Medicine Beaumont Hospital Dublin Ireland 
+
+ 2 Emergency Care Research Unit (ECRU) Royal College of Surgeons in Ireland (RCSI) Dublin Ireland 
+
+ Find articles by [Abel Wakai](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wakai%20A%22[Author])
+
+ 1  2 , [Richard Sinert](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sinert%20R%22[Author])
+
+### Richard Sinert
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+
+ Find articles by [Richard Sinert](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sinert%20R%22[Author])
+
+ 3  4 , [Shahriar Zehtabchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zehtabchi%20S%22[Author])
+
+### Shahriar Zehtabchi
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+
+ Find articles by [Shahriar Zehtabchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zehtabchi%20S%22[Author])
+
+ 3  4 , [Ian S. de Souza](https://pubmed.ncbi.nlm.nih.gov/?term=%22de%20Souza%20I%22[Author])
+
+### Ian S. de Souza
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+
+ Find articles by [Ian S. de Souza](https://pubmed.ncbi.nlm.nih.gov/?term=%22de%20Souza%20I%22[Author])
+
+ 3  4 , [Roshanak Benabbas](https://pubmed.ncbi.nlm.nih.gov/?term=%22Benabbas%20R%22[Author])
+
+### Roshanak Benabbas
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Broo
+
+--- FUENTE WEB ---
+Título: Recent Updates and Technological Developments in Evaluating Cardiac Syncope in the Emergency Department
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9893151
+Score: 0.767847
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC9893151#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: Current Cardiology Reviews logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-currcardiorev.png)
+
+Curr Cardiol Rev
+
+. 2022 Nov 18;18(6):e210422203887. doi: [10.2174/1573403X18666220421110935](https://doi.org/10.2174/1573403X18666220421110935)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Curr%20Cardiol%20Rev%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Curr%20Cardiol%20Rev%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Curr%20Cardiol%20Rev%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC9893151?term=%22Curr%20Cardiol%20Rev%22[jour])
+
+# Recent Updates and Technological Developments in Evaluating Cardiac Syncope in the Emergency Department
+
+[Utkarsh Ojha](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ojha%20U%22[Author])
+
+### Utkarsh Ojha
+
+1 Department of Cardiology, Royal Brompton & Harefield Hospitals, England, UK;
+
+ Find articles by [Utkarsh Ojha](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ojha%20U%22[Author])
+
+1*, [James Ayathamattam](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ayathamattam%20J%22[Author])
+
+### James Ayathamattam
+
+2 Lancaster
+
+ Find articles by [James Ayathamattam](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ayathamattam%20J%22[Author])
+
+2, [Kenneth Okonkwo](https://pubmed.ncbi.nlm.nih.gov/?term=%22Okonkwo%20K%22[Author])
+
+### Kenneth Okonkwo
+
+2 Lancaster
+
+ Find articles by [Kenneth Okonkwo](https://pubmed.ncbi.nlm.nih.gov/?term=%22Okonkwo%20K%22[Author])
+
+2, [Innocent Ogunmwonyi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ogunmwonyi%20I%22[Author])
+
+### Innocent Ogunmwonyi
+
+3 Department of Medicine, Darent Valley Hospital, Dartford, England, UK
+
+ Find articles by [Innocent Ogunmwonyi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Ogunmwonyi%20I%22[Author])
+
+3
+
+*   Author information
+*   Article notes
+*   Copyright and License information
+
+1 Department of Cardiology, Royal Brompton & Harefield Hospitals, England, UK;
+
+2 Lancaster
+
+3 Department of Medicine, Darent Valley Hospital, Dartford, England, UK
+
+✉
+*Address correspondence to this author at the Department of Cardiology, Royal Brompton & Harefield Hospitals, H England, UK; E-mail: utkarshojha@hotmail.com
+
+Received 2022 Jan 21; Revised 2022 Feb 21; Accepted 2022 Feb 24
+
+© 2022 Bentham Science Publishers
+
+This is an open access article licensed under the terms of the Creative Commons Attribution-Non-Commercial 4.0 International Public License (CC BY-NC 4.0) ([https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)), which permits unrestricted, non-commercial use, distribution 
+
+--- FUENTE WEB ---
+Título: (PDF) Syncope: a review of emergency department management and disposition
+URL: https://www.academia.edu/50379308/Syncope_a_review_of_emergency_department_management_and_disposition
+Score: 0.75312227
+
+Texto:
+Title: (PDF) Syncope: a review of emergency department management and disposition
+# Syncope: a review of emergency department management and disposition. 2015, Clinical and Experimental Emergency Medicine. Epidemiological characteristics and diagnostic approach in patients admitted to the emergency room for transient loss of consciousness: Group for Syncope Study in the Emergency Room (GESINUR) study. Syncope: Evaluation and Differential Diagnosis. Management of transient loss of consciousness of suspected syncopal cause, after the initial evaluation in the Emergency Department. Orthostatic Hypotension As Cause of Syncope in Patients Older Than 65 Years Admitted to Emergency Departments for Transient Loss of Consciousness. The initial evaluation of patients with syncope. An approach to the clinical assessment and management of syncope in adults. Syncope and Risk of Sudden Death. Revised Strategy of Syncope Diagnosis in the Emergency Room at the General Hospital (Resaster): A Cluster Randomized Trial. Syncope and the risk of sudden cardiac death: Evaluation, management, and prevention. Key challenges in the current management of syncope. Prospective validation of prognostic and diagnostic syncope scores in the emergency department. It is a common chief complaint of patients presenting to the emergency department. The differential diagnosis for syncope is broad and the management varies significantly depending on the underlying etiology. In the emergency department, determining the cause of a syncopal episode can be difficult. This review will focus on the diagnosis and management of the various types of syncope. - Sun BC, Emond JA, Camargo CA Jr. Characteristics and admis- sion patterns of patients presenting with syncope to U.S. emer- gency departments, 1992-2000. Are echocardiography, telemetry, ambulatory electrocardiography monitoring, and cardiac enzymes in emergency department patients presenting with syncope useful tests? J Emerg Med 2014;47:113-8. Am Heart J 2001;141:817-21. Management of syncope in the Emergency Depart- ment. J Am Coll Cardiol 1993;21:110-6. The value of the clinical history in the differentiation of syncope due to ventricular tachycardia, atrioventricular block, and neurocar- diogenic syncope. Am J Med 1995;98:365-73. Development and pro- spective validation of a risk stratification system for patients with syncope in the emergency department: the OESIL risk score. Role of echocardiography in the evaluation of syncope: a prospective study. Syncope Evaluation in the Emergency Department Study (SEEDS): a multidisciplinary approach to syncope management.
+
+--- FUENTE WEB ---
+Título: Risk‐stratification tools for emergency... : Academic Emergency Medicine
+URL: https://www.ovid.com/00043480-202501000-00008
+Score: 0.75181264
+
+Texto:
+![](/images/icons/pdf.svg)
+![](/images/icons/permissions.svg)
+![Crossmark: Check for updates](https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg)
+
+# Risk‐stratification tools for emergency department patients with syncope
+
+## A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+
+![Creative commons license](/images/cclicense.svg)
+
+## INTRODUCTION
+
+Syncope accounts for about 1% of all emergency department (ED) visits.1, 2, 3, 4, 5 While the etiology is often benign, approximately 10% of patients have serious or life‐threatening causes that may not be apparent during the initial ED assessment.6, 7, 8, 9, 10, 11, 12 Identifying ED syncope patients with serious or life‐threatening causes and requiring further diagnostic evaluation and monitoring has been a significant challenge for emergency physicians. Frequently, expensive, unnecessary, and potentially harmful investigations are undertaken for fear of missing life‐threatening or otherwise serious underlying causes, particularly cardiogenic causes. Such overtesting often leads to prolonged hospitalization13, 14, 15, 16, 17 and excessive resource utilization.18
+
+Investigators have developed clinical decision rules (CDRs) to try and predict adverse outcomes and risk stratify ED syncope patients to minimize unnecessary resource utilization.19 CDRs are tools designed to assist clinicians in making decisions at the bedside. They are derived from original research and incorporate important predictors of outcome from history, physical examination, and basic diagnostic tests.20
+
+The first‐ever systematic review and meta‐analysis (SRMA) to evaluate the methodological quality and prognostic accuracy of CDRs for ED patients with syncope reported limitations at outcome and study levels.19 A key limitation of the SR at the outcome level was the diversity of clinical and methodological aspects across studies.19 The SR study‐level limitations included the absence of an appropriate syncope reference test or criterion standard and differing syncope definitions across studies.19
+
+In the context of the Society for Academic Emergency Medicine (SAEM)'s Guidelines for Reasonable and Appropriate Care in the Emergency Department (GRACE) initiative,21 because syncope is a relatively common ED presentation with life‐threatening causes that may not be apparent in the ED, the current SR evaluates the direct evidence on the efficacy of CDRs to risk stratify ED syncope patients and predict adverse outcomes. Specifically, this SRMA aims to address the following question: in patients 16 years of age or older who present in the ED with syncope for whom no underlying serious or life‐threatening condition is found during the index ED visit, are risk stratification tools better than unstructured clinical judgment for providing accurate prognosis and aiding disposition decision for outcomes within 30 days?
+
+## METHODS
+
+Reporting of this SR is consistent with recommendations from the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses as applicable to diagnostic accuracy reviews.22, 23 We developed a protocol for the SR with input from methodologists with expertise in systematic reviews (A.W., R.S.) and a content expert (V.T.). We registered the protocol in PROSPERO, an international prospective registry of systematic reviews (registration ID: CRD42023428455).
+
+### Population–intervention–comparator–outcome (PICO) question
+
+The proposed PICO question is as follows: In patients 16 years of age or older who present to the ED with syncope for whom no underlying serious or life‐threatening condition is found during the index ED visit (population), are risk stratification tools (intervention), better than unstructured clinical judgment (i.e., usual care; comparison), for providing accurate prognosis and aiding disposition decision for outcomes within 30 days (outcome)?
+
+Expert reference librarians designed and conducted a comprehensive literature search with input from one of the authors (R.S.). The search strategy incorporated medical subject headings and text words related to CDRs (clinical prediction guides, decision support techniques, algorithms, multivariate analyses, logistic models, risk assessment) and syncope (fainting, loss of consciousness, drop attack, near syncope). We searched the following databases: PubMed (1946 to June 2023), EMBASE (1946 to June 2023), Cumulative Index of Nursing and Allied Health (CINAHL; 1937 to June 2023), Wiley Cochrane Central Register of Controlled Trials (CENTRAL), Wiley Database of Abstracts of Reviews of Effects (DARE), Wiley Cochrane Database of Systematic Reviews, and [ClinicalTrials.gov](https://ClinicalTrials.gov).
+
+For the gray literature search, we conducted bibliographic searches of abstracts presented at scientific meetings published in *Academic Emergency Medicine, Annals of Emergency Medicine, Canadian Journal of Emergency Medicine, Emergency Medicine Journal, European Journal of Emergency Medicine, Emergency Medicine Australasia,* and *African Journal of Emergency Medicine* in English. We consulted syncope and CDR development experts for additional published or unpublished reports. Lastly, we reviewed the bibliographies of all retrieved articles to identify potentially relevant articles not identified in the electronic search strategy.
+
+We uploaded citations into an SR software program (DistillerSR, Ottawa, ON, Canada), followed by full‐text screening. The PubMed (Ovid interface) search strategy is displayed in Appendix 1.
+
+### Eligibility criteria and study selection
+
+Table [1](#T1-8) details the inclusion and exclusion criteria. To conduct a more informative review, we did not exclude studies based on the timing of outcome assessment. Although we excluded clinical practice guidelines and editorials, we used them as potential bibliographic sources of eligible primary studies.
+
+![](/image-api/imgsrv/article/i/thumb/wkmrid/JOURNAL%252Facemd%252F04.03%252F00043480-
+
+--- FUENTE WEB ---
+Título: The Emergency Department Approach to Syncope
+URL: https://rotacionurgenciascmi.wordpress.com/wp-content/uploads/2018/02/the-emergency-department-approach-to-syncope.pdf
+Score: 0.7244226
+
+Texto:
+The Emergency Department Approach to Syncope: Evidence-based Guidelines and Prediction Rules Chad Kessler, MDa,b,c,d,*, Jenny M. Tristano, MDe, Robert De Lorenzo, MD, MSMf,g There are many admissions for syncope because of concern that this generally benign condition can occasionally be an ominous sign of a life-threatening disease process.
+Although the need for admission is obvious when a cardiac cause of syncope is diag-nosed in an emergency department (ED), a large percentage of patients have undiag-nosed causes of syncope after the standard evaluation. Admissions for syncope are costly1 and often return an unrevealing work-up.
+a Department of Emergency Medicine, Jesse Brown VA Hospital, 820 South Damen Avenue, MC 111, Chicago, IL 60612, USA b Department of Internal Medicine, The University of Illinois School of Medicine at Chicago, 840 South Wood Street (M/C 718), Chicago, IL 60612-7315, USA c Department of Emergency Medicine, The University of Illinois School of Medicine at Chicago, 808 South Wood Street, M/C 724, Chicago, IL 60612, USA d Combined Internal Medicine/Emergency Medicine Residency, The University of Illinois School of Medicine at Chicago, 808 South Wood Street, M/C 724, Chicago, IL 60612, USA e Departments of Internal Medicine and Emergency Medicine Residency Program, University of Illinois-Chicago, 808 South Wood Street, M/C 724, Chicago, IL 60612, USA f Uniformed Services University of the Health Sciences, 4301 Jones Bridge Road, Bethesda, MD 20814-4799, USA g Department of Clinical Investigation, MCHE-CI, Brooke Army Medical Center, 3851 Roger Brooke Drive, Fort Sam Houston, TX 78234-6200, USA * Corresponding author. Emergency Medicine, Jesse Brown VA Hospital, 820 South Damen Avenue, MC 111, Chicago, IL 60612.
+E-mail address: Chad.Kessler@va.gov KEYWORDS  Syncope  Emergency department  Guidelines  San Francisco Syncope Rule Emerg Med Clin N Am 28 (2010) 487–500 doi:10.1016/j.emc.2010.03.014 emed.theclinics.com 0733-8627/10/$ – see front matter. Published by Elsevier Inc.
+In the past two decades, many researchers have attempted to develop clinical deci-sion criteria that emergency physicians (EPs) may use to categorize patients into high versus low risk for serious outcomes. Because syncope is a presentation with a broad differential diagnosis, these risk stratification guidelines have historically been prob-lematic in 2 ways:  They ensure identification of all patients who might benefit from acute interven-tion but increase the number of unnecessary and costly admissions.
+ They decrease the number of unwarranted admissions but miss identification of at least a few patients who are predicted to have serious outcomes soon after ED presentation.
+This clinical review focuses on current studies and recommendations that outline risk stratification and treatment guidelines for patients who present with syncope. It also briefly discusses the management of syncope, patient outcomes in various syncope causes, and the survival benefit accrued from acute hospitalization.
+METHODS Every attempt was made to include the most recent and relevant articles. To conduct a current and thorough review of the literature, OvidMEDLINE and PubMedMEDLINE searches were performed, including but not limited to the following queries: ‘‘Syncope,’’ ‘‘Syncope AND emergency,’’ ‘‘Syncope AND risk,’’ ‘‘Syncope AND outcomes,’’ ‘‘Syncope and Prognosis,’’ and ‘‘Syncope AND presyncope.’’ Articles were limited to those written in English and published after 1980. Articles were reviewed for relevance to the topic of risk stratification in the ED as well as patient disposition and outcomes. PubMed-suggested related articles and bibliographies of chosen articles were also reviewed for additional sources.
+WHAT IS SYNCOPE?
+Syncope is characterized by a sudden, transient loss of consciousness associated with an inability to maintain postural tone.2–7 The presentation is sometimes confused with other conditions that lead to loss of consciousness, such as seizure, vertigo, dizziness, drop attacks, coma, or shock and cannot be the result of trauma, ethanol, or other toxic substances. By definition, patients with syncope have regained consciousness and baseline neurologic status spontaneously, promptly, and independently, in other words, without the aid of electrical or chemical cardioversion.8 Syncope is most accu-rately categorized as a syndrome rather than a discrete medical entity.9 Symptom combinations vary significantly and have a broad differential diagnosis. There is vari-ability between investigators as to whether or not ‘‘presyncope’’ is considered a varia-tion of the syncope syndrome as it does not include a loss of consciousness.
+WHAT IS THE PREVALENCE OF SYNCOPE IN THE ED AND IN HOSPITAL ADMISSIONS?
+Syncope is responsible for 1.2% to 1.5% of ED visits and up to 6% of hospital admis-sions.3,10–12 In 2000, an estimated 460,000 patients were hospitalized with discharge diagnoses that included syncope, 230,000 of whom had primary diagnoses of syncope.1 The incidence of syncope increases with advancing age.13,14 With the United States population growing older, the number of syncope admissions will increase and contribute to the growth of health care expenditures.
+Of patients who present to the ED with syncope, from 39% to 50% of patients do not have the cause of syncope established after the initial ED evaluation.13,15–17 Kessler et al 488 This leads to syncope admission rates upwards of 60%,11 with most undergoing a hospital admission that is nondiagnostic.3,8 WHAT IS THE COST OF SYNCOPE ADMISSIONS?
+In 2005, Sun and colleagues1 estimated the total annual cost for syncope-related hospitalizations was $2.4 billion (95% CI, 2.2 to 2.6 billion) with a mean cost of $5,400 (95% CI, 5100 to 5600) per hospitalization. A more recent study by Alshekhlee and colleagues18 estimates a more modest but still significant $1.7 billion annually.
+These costs were similar to that of asthma, HIV, and chronic obstructive pul
+
+--- FUENTE WEB ---
+Título: Standardized reporting guidelines for emergency department syncope risk-stratification research | EQUATOR Network
+URL: https://www.equator-network.org/reporting-guidelines/standardized-reporting-guidelines-for-emergency-department-syncope-risk-stratification-research
+Score: 0.71185225
+
+Texto:
+[skip to main content](#maincontent)
+
+[![Equator network](https://www.equator-network.org/wp-content/themes/equator/images/equator_logo.png)](https://www.equator-network.org)
+
+Enhancing the QUAlity and Transparency Of health Research
+
+[Website translation help](https://www.equator-network.org/website-translation/)
+
+* [Home](https://www.equator-network.org/)
+* [About us](https://www.equator-network.org/about-us/)
+* [Library](https://www.equator-network.org/library/)
+* [Toolkits](https://www.equator-network.org/toolkits/)
+* [Courses & events](https://www.equator-network.org/category/events/upcoming-events/)
+* [News](https://www.equator-network.org/category/news/)
+* [Blog](https://www.equator-network.org/category/blog/)
+* [Contact](https://www.equator-network.org/contact/)
+
+[Navigate this website](#)
+
+* [Home](https://www.equator-network.org/)
+* [About us](https://www.equator-network.org/about-us/)
+* [Library](https://www.equator-network.org/library/)
+* [Toolkits](https://www.equator-network.org/toolkits/)
+* [Courses & events](https://www.equator-network.org/category/events/upcoming-events/)
+* [News](https://www.equator-network.org/category/news/)
+* [Blog](https://www.equator-network.org/category/blog/)
+* [Contact](https://www.equator-network.org/contact/)
+
+[Home](https://www.equator-network.org/) > [Library](/library) > [Reporting guideline](https://www.equator-network.org//reporting-guidelines/) > Standardized reporting guidelines for emergency department syncope risk-stratification research
+
+# Search for reporting guidelines
+
+Use your browser's Back button to return to your search results
+
+#### Standardized reporting guidelines for emergency department syncope risk-stratification research
+
+| Reporting guideline provided for? (i.e. exactly what the authors state in the paper) | Reporting emergency department syncope risk-stratification research |
+| Full bibliographic reference | Sun BC, Thiruganasambandamoorthy V, Cruz JD; Consortium to Standardize ED Syncope Risk Stratification Reporting. Standardized reporting guidelines for emergency department syncope risk-stratification research. Acad Emerg Med. 2012;19(6):694-702. |
+| Language | English |
+| PubMed ID | [22687184](http://www.ncbi.nlm.nih.gov/pubmed/22687184) |
+| Study design | Observational studies |
+| Clinical area | Emergency medicine |
+| Applies to the whole report or to individual sections of the report? | Data, Outcomes (variables), Study characteristics (participants etc.), Terminology/definitions |
+| Record last updated on | May 29, 2015 |
+
+### Reporting guidelines for main study types
+
+| [Randomised trials](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=experimental-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [CONSORT](https://www.equator-network.org/reporting-guidelines/consort/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+CONSORT+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Observational studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=observational-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+&eq_guidelines_study_design_sub_cat=0)  [STROBE](https://www.equator-network.org/reporting-guidelines/strobe/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+STROBE+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Systematic reviews](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=systematic-reviews-and-meta-analyses&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [PRISMA](https://www.equator-network.org/reporting-guidelines/prisma/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=PRISMA+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Study protocols](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=study-protocols&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [SPIRIT](https://www.equator-network.org/reporting-guidelines/spirit-2013-statement-defining-standard-protocol-items-for-clinical-trials/)  [PRISMA-P](https://www.equator-network.org/reporting-guidelines/prisma-protocols/) |
+| [Diagnostic/prognostic studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=diagnostic-prognostic-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [STARD](https://www.equator-network.org/reporting-guidelines/stard/)  [TRIPOD](https://www.equator-network.org/reporting-guidelines/tripod-statement/) |
+| [Case reports](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=case+report&btn_submit=Search+Reporting+Guidelines)  [CARE](https://www.equator-network.org/reporting-guidelines/care/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=CARE+case+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Clinical practice guidelines](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=clinical-practice-guidelines&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [AGREE](https://www.equator-network.org/reporting-guidelines/the-agree-reporting-checklist-a-tool-to-improve-reporting-of-clinical-practice-guidelines/)  [RIGHT](https://www.equator-network.org/reporting-guidelines/right-statement/) |
+| [Qualitative research](https://www.equator-network.org/?post_type=eq_guidelines&eq_guide
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada

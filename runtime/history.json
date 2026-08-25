@@ -15,8 +15,8 @@
     "axis": "neurology"
   },
   "syncope_risk": {
-    "last_seen": "2026-08-08",
-    "times_reviewed": 1,
+    "last_seen": "2026-08-25",
+    "times_reviewed": 2,
     "axis": "cardinal_symptoms"
   },
   "shock_undifferentiated": {
