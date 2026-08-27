@@ -1,0 +1,815 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: syncope risk stratification in emergency medicine
+
+PAPERS RECUPERADOS DE PUBMED:
+No se recuperaron resultados relevantes de PubMed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Risk stratification of syncope: Current syncope guidelines and beyond
+URL: https://www.sciencedirect.com/science/article/pii/S1566070221001594
+Score: 0.78670514
+
+Texto:
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S1566070221001594#screen-reader-main-content)[Skip to article](https://www.sciencedirect.com/science/article/pii/S1566070221001594#screen-reader-main-title)
+
+[![Image 2: Elsevier logo](https://www.sciencedirect.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://www.sciencedirect.com/)
+
+*   [Journals & Books](https://www.sciencedirect.com/browse/journals-and-books)
+
+*   Help   
+*   [Search](https://www.sciencedirect.com/search) 
+
+[My account](https://www.sciencedirect.com/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1566070221001594&from=globalheader)
+
+[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1566070221001594)
+
+*   [View**PDF**](https://www.sciencedirect.com/science/article/pii/S1566070221001594/pdfft?md5=1db138cd1211100208765d841d47b0f2&pid=1-s2.0-S1566070221001594-main.pdf)
+*   Download full issue
+
+Search ScienceDirect 
+
+## Outline
+
+1.   [Highlights](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ab0010 "Highlights")
+2.   [Abstract](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ab0005 "Abstract")
+3.   [Keywords](https://www.sciencedirect.com/science/article/pii/S1566070221001594#ks0005 "Keywords")
+4.   [1. Introduction](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0005 "1. Introduction")
+5.   [2. Why and how to identify high-risk syncope?](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0010 "2. Why and how to identify high-risk syncope?")
+6.   [3. Syncope prediction tools](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0015 "3. Syncope prediction tools")
+7.   [4. The role of syncope clinics](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0020 "4. The role of syncope clinics")
+8.   [5. Risk stratification for tailored treatment of syncope](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0025 "5. Risk stratification for tailored treatment of syncope")
+9.   [6. Future of syncope evaluation and risk stratification](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0030 "6. Future of syncope evaluation and risk stratification")
+10.   [7. Conclusions](https://www.sciencedirect.com/science/article/pii/S1566070221001594#s0050 "7. Conclusions")
+11.   [References](https://www.sciencedirect.com/science/article/pii/S1566070221001594#bi0005 "References")
+
+Show full outline
+
+## [Cited by (21)](https://www.sciencedirect.com/science/article/pii/S1566070221001594#section-cited-by)
+
+## Figures (1)
+
+1.   [![Image 3: Fig. 1. Risk stratification and clinical management of patients with suspected syncope…](https://ars.els-cdn.com/content/image/1-s2.0-S1566070221001594-gr1.sml)](https://www.sciencedirect.com/science/article/pii/S1566070221001594#f0005)
+
+## Tables (6)
+
+1.   [Table 1](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0005 "Clinical characteristics associated with increased probability of cardiac and noncardiac causes of syncope")
+2.   [Table 2](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0010 "High-risk and low-risk features for risk stratification of patients with suspected syncope in the emergency department according to 2018 ESC syncope guidelines.")
+3.   [Table 3](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0015 "Risk markers of short-term and long-term prognosis in patients presenting with syncope according to 2017 ACC/AHA/HRS guidelines.")
+4.   [Table 4](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0020 "Medical conditions requiring hospital admission for further evaluation and therapy.")
+5.   [Table 5](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0025 "Syncope prediction tools.")
+6.   [Table 6](https://www.sciencedirect.com/science/article/pii/S1566070221001594#t0030 "Canadian Syncope Risk Score.")
+
+[![Image 4: Elsevier](https://www.sciencedirect.com/us-east-1/prod/60c70907fc6e955d91b577ca3b53d6d6c94b631b/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/autonomic-neuroscience "Go to Autonomic Neuroscience on ScienceDirect")
+
+## [Autonomic Neuroscience](https://www.sciencedirect.com/journal/autonomic-neuroscience "Go to Autonomic Neuroscience on ScienceDirect")
+
+[Volume 238](https://www.sciencedirect.com/journal/autonomic-neuroscience/vol/238/suppl/C "Go to table of contents for this volume/issue"), March 2022, 102929
+
+[![Image 5: Autonomic Neuroscience](https://ars.els-cdn.com/content/image/1-s2.0-S1566070221X00082-cov150h.gif)](https://www.sciencedirect.com/journal/autonomic-neuroscience/vol/238/suppl/C)
+
+# Review
+
+Risk stratification of syncope: Current syncope guidelines and beyond
+
+Author links open overlay panel[Richard Sutton a](https://www.sciencedirect.com/author/57203194854/richard-sutton), [Fabrizio Ricci b c](https://www.sciencedirect.com/author/51665764100/fabrizio-ricci), [Artur Fedorowski d](https://www.sciencedirect.com/author/6602745793/artur-fedorowski)
+
+Show more
+
+Outline
+
+Add to Mendeley
+
+Share
+
+Cite
+
+[https://doi.org/10.1016/j.autneu.2021.102929](https://doi.org/10.1016/j.autneu.2021.102929 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S1566070221001594&orderBeanReset=true)
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+
+Open access
+
+## Highlights
+
+*   •Clinical judgment is still the cornerstone of syncope management. 
+*   •Risk stratification determines how and by whom syncope patients are managed. 
+*   •High-risk patients require immediate hospitalization and appropriate investigations. 
+*   •Intermediate risk patients require systematic evaluation by syncope experts. 
+*   •Low-risk patients need reassurance and education. 
+
+## Abstract
+
+Syncope is an alarming event carr
+
+--- FUENTE WEB ---
+Título: Risk‐stratification tools for emergency... : Academic Emergency Medicine
+URL: https://www.ovid.com/00043480-202501000-00008
+Score: 0.776708
+
+Texto:
+[Ovid®
+
+Ovid Logo](https://www.ovid.com/)
+
+[Search OvidSearch Ovid](/search)
+
+[BrowseBrowse](https://www.ovid.com/browse)
+
+[LoginLogin](/login)
+
+[Academic Emergency Medicine](https://www.ovid.com/journals/acemd)
+
+[Search JournalSearch Journal](https://www.ovid.com/journals/acemd/search)
+
+Button group.
+
+SYSTEMATIC REVIEW
+
+# Risk‐stratification tools for emergency department patients with syncope
+
+## A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+
+* Abel Wakai
+* Richard Sinert
+* Shahriar Zehtabchi
+* Ian S. de Souza
+* Roshanak Benabbas
+* Robert Allen
+* Eric Dunne
+* Rebekah Richards
+* Amelie Ardilouze
+* Isidora Rovic
+
+Academic Emergency Medicine [32(1):p 72-86, January 2025.](https://www.ovid.com/journals/acemd/toc/2025/01000) | DOI: 10.1111/acem.15041
+
+## INTRODUCTION
+
+Syncope accounts for about 1% of all emergency department (ED) visits., , , ,  While the etiology is often benign, approximately 10% of patients have serious or life‐threatening causes that may not be apparent during the initial ED assessment., , , , , ,  Identifying ED syncope patients with serious or life‐threatening causes and requiring further diagnostic evaluation and monitoring has been a significant challenge for emergency physicians. Frequently, expensive, unnecessary, and potentially harmful investigations are undertaken for fear of missing life‐threatening or otherwise serious underlying causes, particularly cardiogenic causes. Such overtesting often leads to prolonged hospitalization, , , ,  and excessive resource utilization.
+
+Investigators have developed clinical decision rules (CDRs) to try and predict adverse outcomes and risk stratify ED syncope patients to minimize unnecessary resource utilization. CDRs are tools designed to assist clinicians in making decisions at the bedside. They are derived from original research and incorporate important predictors of outcome from history, physical examination, and basic diagnostic tests.
+
+The first‐ever systematic review and meta‐analysis (SRMA) to evaluate the methodological quality and prognostic accuracy of CDRs for ED patients with syncope reported limitations at outcome and study levels. A key limitation of the SR at the outcome level was the diversity of clinical and methodological aspects across studies. The SR study‐level limitations included the absence of an appropriate syncope reference test or criterion standard and differing syncope definitions across studies.
+
+In the context of the Society for Academic Emergency Medicine (SAEM)'s Guidelines for Reasonable and Appropriate Care in the Emergency Department (GRACE) initiative, because syncope is a relatively common ED presentation with life‐threatening causes that may not be apparent in the ED, the current SR evaluates the direct evidence on the efficacy of CDRs to risk stratify ED syncope patients and predict adverse outcomes. Specifically, this SRMA aims to address the following question: in patients 16 years of age or older who present in the ED with syncope for whom no underlying serious or life‐threatening condition is found during the index ED visit, are risk stratification tools better than unstructured clinical judgment for providing accurate prognosis and aiding disposition decision for outcomes within 30 days?
+
+## METHODS
+
+Reporting of this SR is consistent with recommendations from the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses as applicable to diagnostic accuracy reviews.,  We developed a protocol for the SR with input from methodologists with expertise in systematic reviews (A.W., R.S.) and a content expert (V.T.). We registered the protocol in PROSPERO, an international prospective registry of systematic reviews (registration ID: CRD42023428455).
+
+### Population–intervention–comparator–outcome (PICO) question
+
+The proposed PICO question is as follows: In patients 16 years of age or older who present to the ED with syncope for whom no underlying serious or life‐threatening condition is found during the index ED visit (population), are risk stratification tools (intervention), better than unstructured clinical judgment (i.e., usual care; comparison), for providing accurate prognosis and aiding disposition decision for outcomes within 30 days (outcome)?
+
+Expert reference librarians designed and conducted a comprehensive literature search with input from one of the authors (R.S.). The search strategy incorporated medical subject headings and text words related to CDRs (clinical prediction guides, decision support techniques, algorithms, multivariate analyses, logistic models, risk assessment) and syncope (fainting, loss of consciousness, drop attack, near syncope). We searched the following databases: PubMed (1946 to June 2023), EMBASE (1946 to June 2023), Cumulative Index of Nursing and Allied Health (CINAHL; 1937 to June 2023), Wiley Cochrane Central Register of Controlled Trials (CENTRAL), Wiley Database of Abstracts of Reviews of Effects (DARE), Wiley Cochrane Database of Systematic Reviews, and [ClinicalTrials.gov](https://ClinicalTrials.gov).
+
+For the gray literature search, we conducted bibliographic searches of abstracts presented at scientific meetings published in *Academic Emergency Medicine, Annals of Emergency Medicine, Canadian Journal of Emergency Medicine, Emergency Medicine Journal, European Journal of Emergency Medicine, Emergency Medicine Australasia,* and *African Journal of Emergency Medicine* in English. We consulted syncope and CDR development experts for additional published or unpublished reports. Lastly, we reviewed the bibliographies of all retrieved articles to identify potentially relevant articles not identified in the electronic search strategy.
+
+We uploaded citations into an SR software program (DistillerSR, Ottawa, ON, Canada), followed by full‐text screening. The PubMed (Ovid interface) search strategy is displayed in Appendix 1.
+
+### Eligibility criteria and study selection
+
+Table [1](#T1-8) details the inclusion and 
+
+--- FUENTE WEB ---
+Título: Risk‐stratification tools for emergency department patients with syncope: A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151
+Score: 0.7707586
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: Academic Emergency Medicine logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-blackwellopen.png)
+
+Acad Emerg Med
+
+. 2024 Nov 04;32(1):72. doi: [10.1111/acem.15041](https://doi.org/10.1111/acem.15041)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Acad%20Emerg%20Med%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Acad%20Emerg%20Med%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Acad%20Emerg%20Med%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151?term=%22Acad%20Emerg%20Med%22[jour])
+
+# Risk‐stratification tools for emergency department patients with syncope: A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+
+[Abel Wakai](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wakai%20A%22[Author])
+
+### Abel Wakai
+
+ 1 Department of Emergency Medicine Beaumont Hospital Dublin Ireland 
+
+ 2 Emergency Care Research Unit (ECRU) Royal College of Surgeons in Ireland (RCSI) Dublin Ireland 
+
+ Find articles by [Abel Wakai](https://pubmed.ncbi.nlm.nih.gov/?term=%22Wakai%20A%22[Author])
+
+ 1  2 , [Richard Sinert](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sinert%20R%22[Author])
+
+### Richard Sinert
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+
+ Find articles by [Richard Sinert](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sinert%20R%22[Author])
+
+ 3  4 , [Shahriar Zehtabchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zehtabchi%20S%22[Author])
+
+### Shahriar Zehtabchi
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+
+ Find articles by [Shahriar Zehtabchi](https://pubmed.ncbi.nlm.nih.gov/?term=%22Zehtabchi%20S%22[Author])
+
+ 3  4 , [Ian S. de Souza](https://pubmed.ncbi.nlm.nih.gov/?term=%22de%20Souza%20I%22[Author])
+
+### Ian S. de Souza
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Brooklyn New York USA 
+
+ Find articles by [Ian S. de Souza](https://pubmed.ncbi.nlm.nih.gov/?term=%22de%20Souza%20I%22[Author])
+
+ 3  4 , [Roshanak Benabbas](https://pubmed.ncbi.nlm.nih.gov/?term=%22Benabbas%20R%22[Author])
+
+### Roshanak Benabbas
+
+ 3 Department of Emergency Medicine Kings County Hospital Center Brooklyn New York USA 
+
+ 4 Downstate Health Sciences University State University of New York (SUNY) Broo
+
+--- FUENTE WEB ---
+Título: Risk stratification tools for patients with syncope in emergency medical services and emergency departments: a scoping review
+URL: https://link.springer.com/article/10.1186/s13049-023-01102-z
+Score: 0.7286136
+
+Texto:
+## Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See our [privacy policy](https://link.springer.com/privacystatement) for more information on the use of your personal data.
+
+Manage preferences for further information and to change your choices.
+
+Accept all cookies Reject optional cookies
+
+[Skip to main content](https://link.springer.com/article/10.1186/s13049-023-01102-z#main)
+
+Advertisement
+
+BMC journals have moved to Springer Nature Link. [Learn more about website changes.](https://support.springernature.com/en/support/solutions/articles/6000281876-springer-nature-brand-websites-are-moving-to-springer-nature-link)
+
+[![Image 2: Springer Nature Link](https://link.springer.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)](https://link.springer.com/)
+
+[Log in](https://idp.springer.com/auth/personal/springernature?redirect_uri=https://link.springer.com/article/10.1186/s13049-023-01102-z)
+
+[Menu](javascript:;)
+
+[Find a journal](https://link.springer.com/journals/)[Publish with us](https://www.springernature.com/gp/authors)[Track your research](https://link.springernature.com/home/)
+
+[Search](javascript:;)
+
+[Saved research](https://link.springer.com/saved-research)
+
+[Cart](https://order.springer.com/public/cart)
+
+## Search
+
+Search by keyword or author 
+
+Search
+
+## Navigation
+
+*   [Find a journal](https://link.springer.com/journals/)
+*   [Publish with us](https://www.springernature.com/gp/authors)
+*   [Track your research](https://link.springernature.com/home/)
+
+1.   [Home](https://link.springer.com/)
+2.   [Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine](https://link.springer.com/journal/13049)
+3.   Article
+
+# Risk stratification tools for patients with syncope in emergency medical services and emergency departments: a scoping review
+
+*   Review
+*   [Open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)
+*    Published: 18 September 2023
+
+*   Volume 31, article number 48 (2023) 
+*   [Cite this article](https://link.springer.com/article/10.1186/s13049-023-01102-z#citeas)
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+[Download PDF](https://link.springer.com/content/pdf/10.1186/s13049-023-01102-z.pdf)
+
+[Save article](https://link.springer.com/article/10.1186/s13049-023-01102-z/save-research?_csrf=FRfsm0ILBGK46UxJ5rNmQIWCwD__Xmci)
+
+[View saved research](https://link.springer.com/saved-research)
+
+[![Image 3](https://media.springernature.com/w72/springer-static/cover-hires/journal/13049?as=webp)Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine](https://link.springer.com/journal/13049)[Aims and scope](https://link.springer.com/journal/13049/aims-and-scope)[Submit manuscript](https://submission.springernature.com/new-submission/13049/3)
+
+ Risk stratification tools for patients with syncope in emergency medical services and emergency departments: a scoping review 
+
+[Download PDF](https://link.springer.com/content/pdf/10.1186/s13049-023-01102-z.pdf)
+
+*   [Lucia G. uit het Broek](https://link.springer.com/article/10.1186/s13049-023-01102-z#auth-Lucia_G_-Broek-Aff1)[ORCID: orcid.org/0000-0003-3188-0218](https://orcid.org/0000-0003-3188-0218)[1](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff1), 
+*   [B. Bastiaan A. Ort](https://link.springer.com/article/10.1186/s13049-023-01102-z#auth-B__Bastiaan_A_-Ort-Aff1)[1](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff1), 
+*   [Hester Vermeulen](https://link.springer.com/article/10.1186/s13049-023-01102-z#auth-Hester-Vermeulen-Aff2-Aff3)[2](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff2),[3](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff3), 
+*   [Thomas Pelgrim](https://link.springer.com/article/10.1186/s13049-023-01102-z#auth-Thomas-Pelgrim-Aff1)[1](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff1), 
+*   [Lilian C.M. Vloet](https://link.springer.com/article/10.1186/s13049-023-01102-z#auth-Lilian_C_M_-Vloet-Aff1-Aff2-Aff3)[1](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff1),[2](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff2),[3](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff3)&
+*   …
+*   [Sivera A.A. Berben](https://link.springer.com/article/10.1186/s13049-023-01102-z#auth-Sivera_A_A_-Berben-Aff1-Aff2-Aff3)[1](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff1),[2](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff2),[3](https://link.springer.com/article/10.1186/s13049-023-01102-z#Aff3)
+
+Show authors
+
+*   5180 Accesses
+
+*   8 Citations
+
+*   9  Altmetric
+
+*   [Explore all metrics](https://link.springer.com/article/10.1186/s13049-023-01102-z/metrics)
+
+## Abstract
+
+### Background
+
+Patients with a syncope constitute a challenge for risk stratification in (prehospital) emergency care. Professionals in EMS and ED need to differentiate the high-risk from the low-risk syncope patient, with limited time and resources. Clinical decision rules (CDRs) are designed to support professionals in risk stratification and clinical decision-making. Current CDRs seem unable to meet the standards to be used in the chain of emergency care. However, the need for a structured approach for syncope patients remains. We aimed to generate a broad overview of the available risk stratification tools and ide
+
+--- FUENTE WEB ---
+Título: Standardized reporting guidelines for emergency department syncope risk-stratification research | EQUATOR Network
+URL: https://www.equator-network.org/reporting-guidelines/standardized-reporting-guidelines-for-emergency-department-syncope-risk-stratification-research
+Score: 0.71185225
+
+Texto:
+[skip to main content](#maincontent)
+
+[![Equator network](https://www.equator-network.org/wp-content/themes/equator/images/equator_logo.png)](https://www.equator-network.org)
+
+Enhancing the QUAlity and Transparency Of health Research
+
+[Website translation help](https://www.equator-network.org/website-translation/)
+
+* [Home](https://www.equator-network.org/)
+* [About us](https://www.equator-network.org/about-us/)
+* [Library](https://www.equator-network.org/library/)
+* [Toolkits](https://www.equator-network.org/toolkits/)
+* [Courses & events](https://www.equator-network.org/category/events/upcoming-events/)
+* [News](https://www.equator-network.org/category/news/)
+* [Blog](https://www.equator-network.org/category/blog/)
+* [Contact](https://www.equator-network.org/contact/)
+
+[Navigate this website](#)
+
+* [Home](https://www.equator-network.org/)
+* [About us](https://www.equator-network.org/about-us/)
+* [Library](https://www.equator-network.org/library/)
+* [Toolkits](https://www.equator-network.org/toolkits/)
+* [Courses & events](https://www.equator-network.org/category/events/upcoming-events/)
+* [News](https://www.equator-network.org/category/news/)
+* [Blog](https://www.equator-network.org/category/blog/)
+* [Contact](https://www.equator-network.org/contact/)
+
+[Home](https://www.equator-network.org/) > [Library](/library) > [Reporting guideline](https://www.equator-network.org//reporting-guidelines/) > Standardized reporting guidelines for emergency department syncope risk-stratification research
+
+# Search for reporting guidelines
+
+Use your browser's Back button to return to your search results
+
+#### Standardized reporting guidelines for emergency department syncope risk-stratification research
+
+| Reporting guideline provided for? (i.e. exactly what the authors state in the paper) | Reporting emergency department syncope risk-stratification research |
+| Full bibliographic reference | Sun BC, Thiruganasambandamoorthy V, Cruz JD; Consortium to Standardize ED Syncope Risk Stratification Reporting. Standardized reporting guidelines for emergency department syncope risk-stratification research. Acad Emerg Med. 2012;19(6):694-702. |
+| Language | English |
+| PubMed ID | [22687184](http://www.ncbi.nlm.nih.gov/pubmed/22687184) |
+| Study design | Observational studies |
+| Clinical area | Emergency medicine |
+| Applies to the whole report or to individual sections of the report? | Data, Outcomes (variables), Study characteristics (participants etc.), Terminology/definitions |
+| Record last updated on | May 29, 2015 |
+
+### Reporting guidelines for main study types
+
+| [Randomised trials](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=experimental-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [CONSORT](https://www.equator-network.org/reporting-guidelines/consort/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+CONSORT+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Observational studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=observational-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+&eq_guidelines_study_design_sub_cat=0)  [STROBE](https://www.equator-network.org/reporting-guidelines/strobe/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+STROBE+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Systematic reviews](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=systematic-reviews-and-meta-analyses&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [PRISMA](https://www.equator-network.org/reporting-guidelines/prisma/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=PRISMA+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Study protocols](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=study-protocols&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=+)  [SPIRIT](https://www.equator-network.org/reporting-guidelines/spirit-2013-statement-defining-standard-protocol-items-for-clinical-trials/)  [PRISMA-P](https://www.equator-network.org/reporting-guidelines/prisma-protocols/) |
+| [Diagnostic/prognostic studies](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=diagnostic-prognostic-studies&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [STARD](https://www.equator-network.org/reporting-guidelines/stard/)  [TRIPOD](https://www.equator-network.org/reporting-guidelines/tripod-statement/) |
+| [Case reports](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=case+report&btn_submit=Search+Reporting+Guidelines)  [CARE](https://www.equator-network.org/reporting-guidelines/care/)  [Extensions](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=0&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=CARE+case+extension&btn_submit=Search+Reporting+Guidelines) |
+| [Clinical practice guidelines](https://www.equator-network.org/?post_type=eq_guidelines&eq_guidelines_study_design=clinical-practice-guidelines&eq_guidelines_clinical_specialty=0&eq_guidelines_report_section=0&s=)  [AGREE](https://www.equator-network.org/reporting-guidelines/the-agree-reporting-checklist-a-tool-to-improve-reporting-of-clinical-practice-guidelines/)  [RIGHT](https://www.equator-network.org/reporting-guidelines/right-statement/) |
+| [Qualitative research](https://www.equator-network.org/?post_type=eq_guidelines&eq_guide
+
+--- FUENTE WEB ---
+Título: Validation of the Canadian Syncope Risk Score - REBEL EM - Emergency Medicine Blog
+URL: https://rebelem.com/validation-of-the-canadian-syncope-risk-score
+Score: 0.7050753
+
+Texto:
+[Skip to content](#content "Skip to content")
+
+[![](https://i0.wp.com/rebelem.com/wp-content/uploads/2019/01/rebelEM-lightbg.png?fit=800%2C186&ssl=1)](https://rebelem.com)
+
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2020/04/Canadian-Syncope-Risk-Score-1.png?fit=900%2C505&ssl=1)
+
+# Validation of the Canadian Syncope Risk Score
+
+* [Written by Mark Ramzy](https://rebelem.com/author/mramzydo/)
+* REBEL EM
+* Medical Category:  [Cardiovascular](https://rebelem.com/medical-category/cardiovascular/)
+* [Canadian Syncope Risk Score](https://rebelem.com/tag/canadian-syncope-risk-score/), [CSRS](https://rebelem.com/tag/csrs/), [Syncope](https://rebelem.com/tag/syncope/)
+
+**![](https://i0.wp.com/rebelem.com/wp-content/uploads/2020/04/Canadian-Syncope-Risk-Score-1.png?resize=300%2C168&ssl=1)Background Information:**The presentation of a patient with syncope to the Emergency Department (ED) can pose a challenge to clinicians as the identification of a serious underlying condition is the priority. Often the original cause of the syncope is difficult to determine in the ED and ultimately results in unnecessary hospitalization. Of all syncope patients evaluated in the ED, 3-5% of them will be found to have a serious condition after ED disposition.1 Furthermore, the literature has shown that hospital admissions due to syncope were associated with low mortality or the need for procedures.2 Emergency physicians are then also posed with the task of determining which patients may be considered low, medium and high risk for a serious outcome. Several risk stratification tools have been developed to help with the identification of these patients, however many of these tools are not validated and very complex, therefore they are not used clinically. The Canadian Syncope Risk Score (CSRS) is among these decision tools, however it has yet to be validated. The authors of this paper sought to conduct a multicenter ED based prospective study to validate this tool and advocate its superior use over some of the other risk stratification tools that currently exist.
+
+### **Clinical Question:**
+
+* Is the CSRS a valid clinical tool in predicting 30-day serious outcomes not evident during the index ED evaluation of syncope patients?
+
+### **What They Did:**
+
+* Prospective cohort validation study at 9 large Canadian EDs from March 2014 to April 2018
+* Screened all consecutive ED patients for enrollment in the study both before and after the publication of the CSRS.
+* After the publication of the CSRS, ED attendings and residents were trained on the study protocol with a 1-hour didactic session to enroll patients with true syncope and record the CSRS predictors
+* Research assistants trained in the study protocol reviewed all ED visits during the study period to identify eligible patients who may have not been enrolled
+* The following multi-step approach to ascertain 30-day outcomes was implemented:
+  + First a structured review of all available medical records related to the index and subsequent ED visits
+  + Second, a scripted telephone follow-up immediately after 30 days
+  + Third, they reviewed administrative health records for return visits, outpatient investigations, or hospitalizations at all local adult hospitals across four provinces
+  + Finally, patients without 30-day follow-up information were searched in provincial coroner’s database for matching records
+* Two blinded emergency physicians adjudicated each serious outcome including time and when in the care the outcome occurred. A third physician resolved any disagreements between the two.
+
+### **Inclusion Criteria:**
+
+* Emergency department patients ≥16 years of age
+* Presented to the ED within 24 hours of their syncopal episode regardless of whether they were discharged or hospitalized
+
+### **Exclusion Criteria:**
+
+* Prolonged LOC (> 5 minutes)
+* Obvious witnessed seizure
+* Mental status changes from baseline
+* Head trauma causing LOC
+* Major trauma
+* Unable to obtain history (i.e. language barrier, alcohol or drug intoxication)
+* Serious underlying condition identified during the index ED evaluation
+
+### **Outcomes:**
+
+**Primary:**
+
+* 30-day serious outcomes which was classified into two sub-groups:
+* Arrhythmic Serious Conditions:
+  + Any serious arrhythmias
+  + Intervention to treat arrhythmias such as pacemaker/defibrillator insertion, or cardioversion
+  + Any death due to an unknown cause.
+* Non-arrhythmic Serious Conditions:
+  + Myocardial infarction
+  + Serious structural heart disease
+  + Aortic Dissection
+  + Pulmonary Embolism
+  + Severe pulmonary hypertension
+  + Subarachnoid hemorrhage
+  + Any serious condition causing syncope
+
+### **Results:**
+
+* 4131 patients with syncope were enrolled. After 160 (3.9%) with serious conditions were excluded and 152 (3.7%) were lost to follow-up, a total of 3819 patients were included in the final analysis
+* 139 patients (3.6%) experienced serious 30-day outcomes
+* 107 (2.8%) experienced arrhythmic outcomes, including 9 who died due to an unknown cause
+* 32 (0.3%) experienced non-arrhythmic outcomes
+* A total of 13 (0.3%) patients died within 30 days and the following causes of death were identified for the following four patients:
+  + Cardiogenic shock: 1 patient
+  + Septic shock: 1 patient
+  + Ventricular arrhythmia: 2 patients
+* Of the 4030 patients:
+  + 114 (3.0%) were missing ECGs
+  + 1566 (41.0%) did not have troponin measured
+
+## **Critical Results:**
+
+* In this validation study, 3 (0.3%) out of 1631 patients at very low risk and 9 (0.7%) at low risk experienced serious 30-day outcomes
+* Approximately 20% and 50% of high risk and very-high risk patients experienced serious 30-day outcomes, respectively
+* Of the 99 patients in the medium, high and very-high risk groups who experienced arrhythmic serious outcomes, 89 (89.9%) of them were identified within 15 days of the index ED visit
+* The 13 patients with ventricular arrhythmia had them identified within 9 days of the index ED visit
+* None of the 12 pat
+
+--- FUENTE WEB ---
+Título: Emergency Department Management of Syncope | EB Medicine
+URL: https://www.ebmedicine.net/topics/cardiovascular/syncope
+Score: 0.6821721
+
+Texto:
+-
+
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![Click to search](/template_images/_ebm_icon_search.png)](#_ebm_global_topBar_searchMin)
+
+[![navigation bar background](/template_images/_icon_bars_trans.png)](#)
+
+[My Content](/myProfile.php)[Log In](/login.php)
+[Browse Topics](/topics) [Take CME Tests](/cme.php) [FOAMed](https://foamed.ebmedicine.net/) [Pathways](/pathways)  [About](/About) [Contact](/contact.php) [Emergency Clinicians](/emergency-clinicians) [Urgent Care Clinicians](/urgent-care-clinicians) [Emergency PAs & NPs](/apc) [Residents](/Residents) [Groups & Hospitals](/Groups)
+[Subscribe](/subscribe)[Emergency Medicine  
+Practice](/EMPinfo) [Pediatric Emergency  
+Medicine Practice](/PEMPinfo) [EM Practice &   
+Pediatric EM   
+Practice Bundle](/subscribe.php) [Courses](/store/Courses-and-LLSAs) [LLSA Study Guides](/LLSA) [Stroke CME](/store/stroke) [Trauma CME](/store/trauma) [State-Required CME](/CME-Requirements) [Pathways](/pathways) [View All Courses](/store)
+
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![](/template_images/_icon_grid_trans.png) **Product Library**](#) 
+
+[Emergency Medicine Practice](/EMPinfo) [Pediatric Emergency Medicine Practice](/PEMPinfo) [Evidence-Based Urgent Care](/urgent-care-CME) [Savings & Upgrades](/subscribe) [Courses](/store/Courses-and-LLSAs) [LLSA Study Guides](/LLSA) [Stroke CME](/store/stroke) [Trauma CME](/store/trauma) [State-Required CME](/CME-Requirements ) [View All Products](/store)
+
+[![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png) 678-366-7933](tel:1-678-366-7933)[![Click to check your cart](/template_images/_ebm_cart_icon.png)0](/store.php?paction=viewCart)[**Log In**](/login.php) [**Subscribe**](/subscribe)
+
+* [Browse Topics](/topics)
+* [Earn CME Credits](#)
+
+  [Stroke](/cme/stroke) [Cardiac](/cme/cardiovascular) [Trauma](/cme/trauma) [Pediatric Trauma](/cme.php?paction=setFilterOpts&sortBy=publication_date+DESC&resultsPerPg=25&available_to=all_cme&products%5B%5D=pemp&categories%5B%5D=Trauma) [Urgent Care](/CME/evidence-based-urgent-care) [All CME Tests](/cme)
+* [FOAMed](https://foamed.ebmedicine.net/)
+* [Pathways](/pathways)
+* [About](/About)
+* [Contact](/contact.php)
+
+* [**Resources For**](#)
+
+  [Emergency Clinicians](/emergency-clinicians) [Urgent Care Clinicians](/urgent-care-clinicians) [Emergency PAs & NPs](/apc) [Residents](/Residents) [Groups & Hospitals](/Groups)
+
+[Home](/) > [All Topics](/topics) > Emergency Department Management of Syncope
+
+![](/publicationImages/EMP-Heading.png "Emergency Medicine Practice")
+
+# Emergency Department Management of Syncope
+
+![](/productImages/EMP-21-06_800x200.jpg)
+
+|  |
+| --- |
+|  |
+
+[**Log in**](/login.php)
+
+[**Subscribe**](/subscribe)
+
+[**Free Sample**](javascript:void(0);)
+
+![](/template_images/New-TOC-desktop-icon.png)![](/template_images/New-TOC-mobile-icon.png)
+
+Table of Contents![](/template_images/icon-close.png)
+
+### About This Issue
+
+## Transient loss of consciousness from syncope is a very common presentation in the ED, and it often has a benign etiology. Although one-third of these patients are admitted to the hospital, the majority of them will be discharged with a symptomatic diagnosis of “syncope and collapse.” A structured approach to the history, ECG assessment, risk assessment, and appropriate testing will help identify patients with life-threatening processes that do require admission. This issue will review:
+
+## The physiologic basis for the 3 classifications: neurally mediated (reflex) syncope, orthostatic hypotension-caused syncope, and cardiac syncope
+
+## The most common life-threatening conditions that can present with syncope
+
+## The most helpful features to look for when differentiating seizure from syncope
+
+## Syncope mimics: neurologic, psychiatric, metabolic, and toxicologic
+
+## Identifying the highest risk historical features to guide disposition
+
+## Seven of the most commonly used clinical decision tools: how do they compare, how do they differ, and are any of them useful?
+
+## The particular concerns with elderly patients who present with syncope: falls, comorbid conditions, and underlying and undiagnosed conditions.
+
+## The tests that all patients need to have and the tests that should be ordered only when there are specific concerns.
+
+Table of Contents
+
+1. [Abstract](#Abstract)
+2. [Case Presentations](#Case-Presentations)
+3. Introduction
+4. Critical Appraisal of the Literature
+5. Etiology and Pathophysiology
+   1. Neurally Mediated Syncope
+   2. Orthostatic Hypotension-Mediated Syncope
+   3. Cardiac Syncope
+6. Differential Diagnosis
+   1. Seizure
+7. Prehospital Care
+8. Emergency Department Evaluation
+   1. History
+   2. Physical Examination
+9. Diagnostic Studies
+   1. Electrocardiogram
+   2. Laboratory Testing
+   3. Echocardiography
+   4. Imaging and Other Advanced Testing
+10. Treatment
+    1. Clinical Risk-Stratification Tools
+    2. Guidelines
+11. Special Populations
+    1. Pediatric Patients
+    2. Elderly Patients
+12. Controversies
+    1. Admission of Elderly Patients
+    2. Orthostatic Vital Signs
+13. Disposition
+    1. High-Risk Patients
+    2. Intermediate-Risk Patients
+    3. Low-Risk Patients
+14. Summary
+15. Time- and Cost-Effective Strategies
+16. Acknowledgement
+17. Risk Management Pitfalls For Management of Syncope in the Emergency Department
+18. Case Conclusions
+19. [Clinical Pathway for Emergency Department Evaluation of Patients Presenting With Transient Loss of Consciousness](#Clinical-Pathway)
+20. [Tables and Figures](#Tables-and-Figures)
+    1. [Table 1. Classifications of Syncope, by Cause](#Table-Thumbnails)
+    2. [Table 2. Clinical Characteristics of Immediately Life-Threatening Conditions That May Present With Syncope](#Table-Thumbnails)
+    3. [Table 3. Syncope Mimics](#Table-Thumbnails)
+    4. [Table 4. Historical Features Suggesting Etiology of Syncope](#Table-4)
+    5. [Table 5. Contraindications to Performing Carotid Sinus Massage](#Table-Th
+
+--- FUENTE WEB ---
+Título: Risk stratification of syncope: Current syncope guidelines ...
+URL: https://www.autonomicneuroscience.com/article/S1566-0702(21)00159-4/fulltext
+Score: 0.6334335
+
+Texto:
+## Login to your account
+
+If you don't remember your password, you can reset it by entering your email address and clicking the Reset Password button. You will then receive an email that contains a secure link for resetting your password
+
+If the address matches a valid account an email will be sent to \_\_email\_\_ with instructions for resetting your password
+
+| Property | Value |
+| --- | --- |
+| Status |  |
+| Version |  |
+| Ad File |  |
+| Disable Ads Flag |  |
+| Environment |  |
+| Moat Init |  |
+| Moat Ready |  |
+| Contextual Ready |  |
+| Contextual URL |  |
+| Contextual Initial Segments |  |
+| Contextual Used Segments |  |
+| AdUnit |  |
+| SubAdUnit |  |
+| Custom Targeting |  |
+| Ad Events |  |
+| Invalid Ad Sizes |  |
+
+![Advertisement](/templates/jsp/_style2/_marlin/images/bg_adHoriz.gif)
+![Autonomic Neuroscience](/pb-assets/ux3/logos/ha/autneu-1579197014490.svg)
+
+Access provided by
+
+![Cover Image - Autonomic Neuroscience: Basic and Clinical, Volume 266, Issue undefined](/cms/asset/atypon:cms:attachment:img:d174e6:rev:1783732374228-5621:pii:S1566070226X20021/cover.tif.jpg)
+
+Download started.
+
+#### Latest
+
+## Popular Articles
+
+#### [Sleep disorders in patients with postural tachycardia syndrome: A review of the literature and guide for clinicians](/article/S1566-0702(18)30051-1/fulltext)
+
+#### [Management of headache and chronic pain in POTS](/article/S1566-0702(17)30340-5/fulltext)
+
+#### [Exercise and non-pharmacological treatment of POTS](/article/S1566-0702(18)30066-3/fulltext)
+
+## Latest Articles
+
+#### [Circadian rhythm disturbances in nocturia and nocturnal polyuria: A systematic review](/article/S1566-0702(26)00040-8/fulltext)
+
+#### [Why women's health matters](/article/S1566-0702(26)00046-9/fulltext)
+
+#### [Exploring the association between interoceptive awareness and neuropsychiatric symptoms in people living with Parkinson's disease](/article/S1566-0702(26)00048-2/fulltext)
+
+#### For Authors
+
+#### Society
+
+#### Journal Information
+
+#### Access
+
+#### Contact
+
+#### Follow Us
+
+Please enter a term before submitting your search.
+
+Download started
+
+# Risk stratification of syncope: Current syncope guidelines and beyond
+
+![Cover Image - Autonomic Neuroscience: Basic and Clinical, Volume 238, Issue undefined](/cms/asset/d7b739bd-db00-4c05-95da-be00428ea55a/cov200h.gif)
+
+#### Share
+
+#### Share
+
+Download started
+
+## Highlights
+
+## Abstract
+
+## Keywords
+
+## 1 Introduction
+
+## 2 Why and how to identify high-risk syncope?
+
+![Fig. 1](/cms/10.1016/j.autneu.2021.102929/asset/525c9ed5-3d78-4712-a6b9-726c4ce0ef2d/main.assets/gr1.jpg)
+
+|  | More often associated with cardiac causes of syncope | More often associated with noncardiac causes of syncope |
+| --- | --- | --- |
+| 2017 ACC/AHA/HRS US | •  Older age (>60 years)  •  Male sex  •  Presence of known ischemic heart disease, structural heart disease, previous arrhythmias, or reduced ventricular function  •  Brief prodrome, such as palpitations, or sudden loss of consciousness without prodrome  •  Syncope during exertion  •  Syncope in the supine position  •  Low number of syncope episodes (1 or 2)  •  Abnormal cardiac examination  •  Family history of inheritable conditions or premature SCD (<50 years of age)  •  Known congenital heart disease | •  Younger age  •  No known cardiac disease  •  Syncope only in the standing position  •  Positional change from supine or sitting to standing  •  Presence of prodrome: nausea, vomiting, feeling warmth  •  Presence of specific triggers: dehydration, pain, distressful stimulus, medical environment  •  Situational triggers: cough, laugh, micturition, defecation, deglutition  •  Frequent recurrence and prolonged history of syncope with similar characteristics  •  Many episodes over long period |
+| 2018 ESC EU | •  During exertion or when supine  •  Sudden onset palpitation immediately followed by syncope  •  Family history of unexplained sudden death at young age  •  Presence of structural heart disease or coronary artery disease ECG findings suggesting arrhythmic syncope  •  Bifascicular block (defined as either left or right BBB combine with left anterior or left posterior fascicular block)  •  Other intraventricular conduction abnormalities (QRS duration ≥0.12 s)  •  Mobitz I second-degree ann first degree AV block with markedly prolonged PR interval  •  Asymptomatic mild inappropriate sinus bradycardia (40–50 bpm) or slow atrial fibrillation (40–50 bpm) in the absence of negatively chronotropic medications  •  Non-sustained VT  •  Pre-excited QRS complexes  •  Long or short QT intervals  •  Early repolarization  •  ST-segment elevation with type 1 morphology in lead V1-V3  •  Negative T waves in right precordial leads, epsilon wave  •  Left ventricular hypertrophy suggesting hypertrophic cardiomyopathy | Reflex syncope  •  Long history of recurrent syncope, in particular occurring before the age of 40 years  •  After unpleasant sight, sound, smell, or pain  •  Prolonged standing  •  During meal  •  Being in crowded and/or hot places  •  Autonomic activation before syncope: pallor, sweating, and/or nausea/vomiting  •  With head rotation or pressure on carotid sinus (as in tumours, shaving, tight collars)  •  Absence of heart disease Syncope due to OH  •  While or after standing  •  Prolonged standing  •  Standing after exertion  •  Post-prandial hypotension  •  Temporal relationship with start or titration of vasodepressive drugs or diuretics leading to hypotension  •  Presence of autonomic neuropathy or parkinsonism |
+
+| Features | Syncopal event | History | Physical examination | ECG |
+| --- | --- | --- | --- | --- |
+| High risk | •  New onset chest pain, dyspnea, abdominal pain, or headache  •  During exertion or when supine  •  Sudden onset palpitation immediately followed by syncope  •  No warning symptoms or short (<10 s) prodrome[a](#tf0005)  •  Family history of SCD at young age[a](#tf0005)  •  Syncope in the sitting position[a](#tf0005) | •  Severe structural or coronary heart disease (heart fa
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
