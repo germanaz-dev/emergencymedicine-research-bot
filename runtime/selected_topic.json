@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "selected_topic": {
-    "id": "acute_coronary_syndrome_troponin",
-    "title": "high sensitivity troponin in acute coronary syndrome",
-    "axis": "cardiovascular",
+    "id": "sepsis_early_recognition",
+    "title": "sepsis early recognition in the emergency department",
+    "axis": "infectious",
     "priority": 10,
     "review_interval_days": 120,
     "keywords": [
-      "acute coronary syndrome",
-      "high sensitivity troponin",
+      "sepsis",
+      "early recognition",
       "emergency department"
     ]
   },
@@ -24,34 +24,34 @@
   },
   "top_5": [
     {
-      "id": "acute_coronary_syndrome_troponin",
-      "title": "high sensitivity troponin in acute coronary syndrome",
-      "axis": "cardiovascular",
-      "score": 125.75
-    },
-    {
       "id": "sepsis_early_recognition",
       "title": "sepsis early recognition in the emergency department",
       "axis": "infectious",
-      "score": 125.5
+      "score": 125.75
     },
     {
       "id": "shock_undifferentiated",
       "title": "undifferentiated shock in emergency medicine",
       "axis": "critical_care",
-      "score": 125.5
-    },
-    {
-      "id": "pulmonary_embolism_rv",
-      "title": "right ventricular dysfunction in pulmonary embolism",
-      "axis": "cardiovascular",
-      "score": 124.25
+      "score": 125.75
     },
     {
       "id": "stroke_thrombectomy_selection",
       "title": "acute ischemic stroke thrombectomy selection",
       "axis": "neurology",
-      "score": 123.75
+      "score": 124.0
+    },
+    {
+      "id": "pocus_shock",
+      "title": "point of care ultrasound in undifferentiated shock",
+      "axis": "pocus_procedures",
+      "score": 117.25
+    },
+    {
+      "id": "dyspnea_ed",
+      "title": "acute dyspnea in the emergency department",
+      "axis": "cardinal_symptoms",
+      "score": 116.5
     }
   ]
 }
