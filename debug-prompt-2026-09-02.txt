@@ -1,0 +1,525 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: acute ischemic stroke thrombectomy selection
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Adjuvant neuroprotective therapies for acute ischemic stroke in the reperfusion era: a comparative narrative review of clinical evidence for edaravone, edaravone-dexborneol, and butylphthalide.
+Revista: Frontiers in neurology
+Fecha: 2026
+Tipo: Journal Article, Review, Comparative Study
+PMID: 42656240
+DOI: 10.1021/acs.molpharmaceut.3c00103
+URL: https://pubmed.ncbi.nlm.nih.gov/42656240/
+
+Abstract:
+Reperfusion therapies, including intravenous thrombolysis and endovascular treatment (EVT), are central to acute ischemic stroke (AIS) management; however, ischemia-reperfusion injury may limit recovery despite successful recanalization. This structured narrative review compares the clinical evidence, safety signals, and mechanistic literature for edaravone, butylphthalide (NBP), and the fixed-dose combination edaravone-dexborneol (EDB) as adjunctive neuroprotective approaches. The evidence base is heterogeneous with respect to population, background reperfusion treatment, outcome timing, and geographical setting. In TASTE-2, EDB administered before EVT was associated with a modest increase in 90-day functional independence versus placebo (55.0% vs. 49.6%, p = 0.05), without an apparent safety signal; bridging alteplase was permitted in a subset of participants. In the BAST trial, NBP improved the prespecified 90-day functional outcome versus placebo among patients receiving intravenous thrombolysis and/or EVT (56.7% vs. 44.0%). Observational studies and meta-analyses provide supportive but non-confirmatory evidence for edaravone. Network meta-analyses generate relative rankings at individual endpoints, but indirect comparisons and differing outcome networks preclude definitive between-agent selection. Mechanistic studies indicate overlapping antioxidant, anti-inflammatory, mitochondrial, and neurovascular effects rather than exclusive pathway regulation. Biomarker and imaging approaches, including exploratory GFAP and UCH-L1 measurements, are promising research tools but are not yet validated for treatment selection in AIS. Accordingly, these agents should be regarded as candidates for further evidence-informed adjunctive use; future trials are needed to define reproducible patient-selection and treatment-timing strategies.
+
+--- PAPER PUBMED ---
+Título: Acute Ischemic Stroke in 2026: From Time to Penumbra-An Updated Narrative Review of Reperfusion Strategies with a Latin American Implementation Perspective.
+Revista: Journal of clinical medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42652900
+DOI: 10.3390/biomedicines11102617
+URL: https://pubmed.ncbi.nlm.nih.gov/42652900/
+
+Abstract:
+Background/Objective: The management of acute ischemic stroke (AIS) has evolved from rigid time-based treatment paradigms toward tissue-based selection guided by advanced neuroimaging, thereby expanding eligibility for reperfusion therapies. To provide an updated narrative review of acute ischemic stroke (AIS) classification and management, with emphasis on extended therapeutic windows for intravenous thrombolysis (IVT) and endovascular therapy (EVT), bridging strategies, posterior circulation stroke, and implementation challenges in Latin America and other resource-constrained settings. Methods: A structured narrative review was conducted using the PubMed/MEDLINE, Embase, Scopus, and LILACS databases, covering the period from 2013 to 2025. Results: Sixty-three studies were selected from 412 records and categorized into etiologic classification, extended-window thrombolysis, EVT and bridging therapy, and posterior circulation stroke. Current evidence supports imaging-guided IVT beyond 4.5 h and EVT up to 24 h in selected patients with salvageable brain tissue, including some individuals with large infarct cores. Recent trials also support EVT for basilar artery occlusion. Tenecteplase offers practical workflow advantages in many centers, particularly where transfer delays and limited access to advanced imaging constrain timely reperfusion decisions. Conclusions: Contemporary AIS management is increasingly guided by pathophysiology and imaging rather than strict time thresholds. However, improving outcomes in middle- and low-income settings requires the implementation of adapted clinical algorithms, strengthening of stroke care networks, and optimization of referral pathways.
+
+--- PAPER PUBMED ---
+Título: Carotid Free-Floating Thrombus: A Case Series, Narrative Review, and Proposal for Biology-Guided Treatment Selection.
+Revista: Medical sciences (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review, Case Reports
+PMID: 42646591
+DOI: 10.1016/j.jstrokecerebrovasdis.2018.11.004
+URL: https://pubmed.ncbi.nlm.nih.gov/42646591/
+
+Abstract:
+Background: Carotid free-floating thrombus (CFFT) is an uncommon but clinically significant cause of transient ischemic attack and ischemic stroke, carrying a substantial risk of recurrent cerebral embolization. Despite advances in vascular imaging, the optimal management of CFFT remains controversial because available recommendations are largely based on retrospective studies, case series, and expert opinion. The present study reports a single-center experience with CFFT and provides an updated narrative review of current diagnostic and therapeutic strategies, with particular attention to the timing of intervention. Methods: A retrospective review of patients diagnosed with CFFT and managed at our institution over a 20-year period was performed. Clinical presentation, imaging findings, treatment strategy, and outcomes were analyzed. In parallel, a narrative review of the contemporary literature was conducted to summarize current evidence regarding medical management, carotid endarterectomy, endovascular techniques, hybrid approaches, and emerging concepts related to thrombus composition and maturation. Results: Five patients with symptomatic CFFT were identified. Four patients underwent carotid thromboendarterectomy, whereas one patient was managed medically with anticoagulation and antiplatelet therapy, resulting in complete thrombus resolution. Two patients experienced neurological deterioration while receiving initial anticoagulation and subsequently required urgent surgical intervention. No postoperative strokes occurred after carotid endarterectomy. Review of the literature confirmed that anticoagulation remains the cornerstone of initial therapy and achieves thrombus resolution in a substantial proportion of patients. However, recurrent neurological events continue to occur under medical treatment, while the indications and timing of invasive intervention remain poorly defined. Recent advances in high-resolution magnetic resonance imaging and optical coherence tomography suggest that thrombus age and composition may become important determinants of future treatment selection. Conclusions: CFFT represents a rare but potentially unstable vascular condition for which high-quality evidence is still lacking. Initial anticoagulation remains the most widely accepted treatment strategy, while carotid endarterectomy, endovascular thrombectomy, carotid artery stenting, and hybrid procedures may be appropriate in selected patients. Future management algorithms may ultimately move beyond a one-size-fits-all approach by incorporating thrombus biology, imaging characteristics, and individual patient risk profiles. Although this concept remains preliminary, advances in thrombus characterization may provide the foundation for more personalized treatment strategies as further clinical evidence becomes available.
+
+--- PAPER PUBMED ---
+Título: The Imaging Compass: Navigating Reperfusion in Acute Ischemic Stroke.
+Revista: Journal of magnetic resonance imaging : JMRI
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42642837
+DOI: 10.1002/jmri.70517
+URL: https://pubmed.ncbi.nlm.nih.gov/42642837/
+
+Abstract:
+The management of acute ischemic stroke has shifted from rigid time-based protocols to imaging-driven, tissue-based reperfusion strategies. Non-contrast CT and CT angiography remain the indispensable frontline for rapid triage, particularly in community and low-resource settings. However, magnetic resonance imaging (MRI) provides unique biological information that complements CT-based assessment: Diffusion-weighted imaging (DWI) detects cellular ischemia within minutes without contrast; DWI-fluid-attenuated inversion recovery (FLAIR) mismatch serves as a tissue clock for unknown-onset stroke; susceptibility-weighted imaging (SWI) aids thrombus characterization; and MRI resolves the posterior fossa without beam-hardening artifact. Low-field portable MRI further extends these capabilities to the bedside where conventional scanners are unavailable. This review examines four convergent trends within this transition: expanding thrombectomy to large-core infarction, extending thrombolysis through tissue-based selection, advancing recanalization in posterior-circulation stroke while defining boundaries for medium- and distal-vessel occlusions, and simplifying imaging workflows through fast MRI protocols, quantitative CT biomarkers, and artificial intelligence (AI). Landmark trials have established that treatment benefit is determined by tissue viability rather than clock time, while recent negative trials define critical boundaries beyond which intervention may cause harm. We critically appraise how CT and MRI are integrated hierarchically across these scenarios, and how emerging fast MRI and quantitative biomarkers may reshape future selection paradigms. EVIDENCE LEVEL: 3-4. TECHNICAL EFFICACY: 3.
+
+--- PAPER PUBMED ---
+Título: Endovascular thrombectomy for acute ischemic stroke: evolving patient selection, procedural strategies, and adjunctive therapies.
+Revista: Frontiers in neurology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42614727
+DOI: 10.1016/S0140-6736(24)02809-5
+URL: https://pubmed.ncbi.nlm.nih.gov/42614727/
+
+Abstract:
+Endovascular thrombectomy (EVT) has transformed the treatment of acute ischemic stroke caused by large-vessel occlusion; however, its expanding indications require increasingly precise patient selection and procedural execution. This mini-review summarizes contemporary issues in EVT that go beyond the original early-window anterior-circulation paradigm. Current evidence supports the use of EVT for selected anterior-circulation large-vessel occlusion, late-window stroke, large-core infarction, and basilar artery occlusion, while more marginal scenarios-including a very low Alberta Stroke Program Early CT Score (ASPECTS), minor stroke with large-vessel occlusion, presentations beyond 24 h, prestroke disability, and medium-vessel occlusion-require individualized assessment. Recent randomized trials have tempered enthusiasm for routine thrombectomy in medium-vessel occlusion, emphasizing the need to distinguish technical accessibility from meaningful clinical benefit, particularly when eloquent brain regions are involved. Procedural strategy has also shifted from simple recanalization toward high-quality, tissue-effective reperfusion, with attention to the access route, device selection, first-pass effect, reperfusion grade, tandem lesions, intracranial atherosclerotic disease, anesthesia, antithrombotic use, and blood-pressure management. Adjunctive therapies, especially intra-arterial thrombolysis after successful, incomplete, or failed reperfusion, remain promising but should be employed selectively rather than as a routine practice. Overall, the future of EVT lies in disciplined precision: selecting patients for whom reperfusion is likely to be beneficial, optimizing procedural quality, and developing adjunctive strategies that convert angiographic success into durable functional recovery.
+
+--- PAPER PUBMED ---
+Título: Efficacy and safety of magnetic resonance imaging- vs. computed tomography-guided reperfusion in acute ischemic stroke: a systematic review and meta-analysis.
+Revista: Frontiers in neurology
+Fecha: 2026
+Tipo: Journal Article, Systematic Review, Meta-Analysis, Comparative Study
+PMID: 42609327
+DOI: 10.1186/s12874-015-0091-1
+URL: https://pubmed.ncbi.nlm.nih.gov/42609327/
+
+Abstract:
+Acute ischemic stroke (AIS) is a leading cause of death and disability. Timely reperfusion improves outcomes, but optimal patient selection depends on neuroimaging; CT is fast and widely available, whereas MRI offers greater precision in identifying salvageable brain tissue. This systematic review (SR) and meta-analysis evaluates the comparative effectiveness of MRI-guided reperfusion (MRI-R) vs. CT-guided reperfusion (CT-R) in adult AIS. We conducted a PRISMA-compliant SR and searched PubMed, Embase, Cochrane Library, Web of Science, CINAHL and Google Scholar for English or Spanish studies comparing MRI-R vs. CT-R in adult AIS. Randomized trials, cohort, and case-control designs were included. Primary outcome was mortality; secondary outcomes were 90-day functional independence modified Rankin Scale (mRS) 0-2) and symptomatic intracranial hemorrhage (sICH). Data were pooled with a random-effects model; risk of bias was assessed using Cochrane RoB 2.0 and ROBINS-I tools. From 11,578 records, 13 studies (27,313 patients) met inclusion criteria. Meta-analysis of 11 studies (27, 197 patients) showed MRI-R was associated with increased 90-day mRS ≤2 (RR 1.28, 95 % CI 1.06-1.55; p = 0.01; I2 = 82.6 %), reduced mortality (RR 0.72, 95 % CI 0.62-0.84; p = 0.002; I2 = 0 %) and lowered sICH (RR 0.59, 95 % CI 0.45-0.78; p = 0.002; I2 = 7.6 %) compared with CT-R. Subgroup analyses by CT comparator type (NCCT-only or multimodal CT) and reperfusion strategy (IVT, MT, or both) for successful reperfusion and 90-day functional independence showed no statistically significant differences between groups. MRI-R was associated with improved functional outcomes, reduced mortality and lower sICH rates than CT-guided strategies. However, these findings should not be interpreted as definitive superiority given the high heterogeneity in functional outcomes, baseline patient characteristic differences between imaging groups, and detected publication bias. CT remains essential for rapid hyperacute assessment, while in well-equipped centers, MRI can improve patient selection through detailed tissue characterization, provided this does not delay reperfusion and patients have no contraindications. Further, prospective, randomized studies are needed to confirm these findings. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251165578, CRD420251165578.
+
+--- PAPER PUBMED ---
+Título: Intraarterial Thrombolysis: Past, Present, Future.
+Revista: Stroke
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42605679
+DOI: 10.1161/STROKEAHA.126.052342
+URL: https://pubmed.ncbi.nlm.nih.gov/42605679/
+
+Abstract:
+Suboptimal clinical outcomes are common after ischemic stroke with large vessel occlusion despite current reperfusion treatment with intravenous thrombolysis and mechanical thrombectomy. Targeting residual distal arterial and microvascular occlusions with intraarterial thrombolysis has recently gained substantial interest as an adjunct to improve cerebral tissue perfusion. While recent trials provide promise in selected patients with anterior-circulation stroke, further high-quality, large-scale studies and pooled individual-patient analyses are needed. This review summarizes the evolving role of intraarterial thrombolysis over the past 3 decades and projects potential developments.
+
+--- PAPER PUBMED ---
+Título: [Role of Cerebral Hemodynamic and Metabolic Measurements in the Management of Ischemic Cerebrovascular Disease].
+Revista: No shinkei geka. Neurological surgery
+Fecha: 2026
+Tipo: Journal Article, Review, English Abstract
+PMID: 42604786
+DOI: 10.11477/mf.030126030540040891
+URL: https://pubmed.ncbi.nlm.nih.gov/42604786/
+
+Abstract:
+Understanding cerebral hemodynamics and metabolism is essential for the diagnosis and treatment of ischemic cerebrovascular disease. Advances in imaging modalities and techniques have enabled the quantitative assessment of hemodynamic compromise and facilitated tailored treatment. In acute ischemic stroke, computed tomography/magnetic resonance perfusion imaging supports the identification of salvageable tissue (the penumbra) and contributes to the selection of endovascular thrombectomy (EVT), particularly within the delayed time window. In chronic intracranial atherosclerotic disease (ICAD), quantitative assessments of cerebral blood flow (CBF), cerebrovascular reactivity (CVR), and oxygen extraction fraction (OEF) are useful for evaluating the risk of recurrence. The results of clinical trials for extracranial-intracranial bypass surgery vary due to differences in selection criteria and perioperative risks; therefore, patient selection based on rigorous hemodynamic evaluation is crucial. Repeated hemodynamic assessments are helpful in determining treatment strategies in moyamoya disease, for instance, which is progressive, even in asymptomatic cases. Postoperative cerebral hemodynamics may present with a mixture of hyperperfusion and hypoperfusion. To reduce the risk of postoperative complications, it is key to accurately understand the hemodynamic status. Collectively, the measurement of cerebral hemodynamics and metabolism is crucial for individualized and evidence-based management of ischemic cerebrovascular disease.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: mechanical thrombectomy in the acute phase of ischemic ...
+URL: https://www.researchgate.net/publication/392456156_MECHANICAL_THROMBECTOMY_IN_THE_ACUTE_PHASE_OF_ISCHEMIC_STROKE_CURRENT_EVIDENCE_AND_GUIDELINES
+Score: 0.8976328
+
+Texto:
+thrombectomy has emerged as a revolutionary treatment, providing rapid recanalization in Understanding its indications, efficacy, and integration into clinical pathways Objective: To review the current evidence on mechanical thrombectomy for acute ischemic stroke, highlighting recent guideline updates, patient selection criteria, procedural timing, and long-term outcomes. The main objective of this narrative review is to synthesize and critically analyze recent evidence concerning the use of mechanical thrombectomy (MT) in the treatment of acute ischemic stroke, focusing on clinical outcomes, indications, patient selection, and procedural Secondary objectives include evaluating updated international guidelines, assessing the expansion of therapeutic windows, discussing the role of imaging in clinical decision-making, and identifying ongoing challenges and innovations in MT implementation across diverse The literature search for this narrative review was conducted using five major databases: PubMed, Scopus, Web of Scienc e, Cochrane Library, and Google Scholar. Randomized clinical trials have established mechanical thrombectomy as a superior intervention compared to medical therapy alone in patients with acute ischemic stroke due to Trials such as MR CLEAN, ESCAPE, and REVASCAT demonstrated significant improvement in functional outcomes when thrombectomy was performed within a six-hour window from symptom onset. Conclusions: Endovascular thrombectomy for ischemic stroke 6 to 16 hours after a patient was last known to be well plus standard medical therapy resulted in better functional outcomes than standard medical therapy alone among patients with proximal middle-cerebral-artery or internal-carotid-artery occlusion and a region of tissue that was ischemic but not yet infarcted. In these trials, patients with acute ischaemic stroke caused by occlusion of the proximal anterior artery circulation were randomly assigned to receive either endovascular thrombectomy within 12 h of symptom onset or standard care (control), with a primary outcome of reduced disability on the modified Rankin Scale (mRS) at 90 days. A Randomized Trial of Intraarterial Treatment for Acute Ischemic Stroke ### Early Endovascular Thrombectomy for Large Vessel Ischemic Stroke Reduces Disability at 90 Days December 2018 · Academic Emergency Medicine * : Mona Al BannaMona Al Banna Anterior circulation large vessel occlusion (LVO) of the internal carotid or middle cerebral artery is one of the most devastating ischemic stroke subtypes.
+
+--- FUENTE WEB ---
+Título: Comparing Thrombolytics for Acute Ischemic Stroke Guidelines - Guidelines Side-By-Side - Guideline Central
+URL: https://www.guidelinecentral.com/insights/thrombolytics-for-acute-ischemic-stroke-side-by-side
+Score: 0.7625837
+
+Texto:
+# Comparing Thrombolytics for Acute Ischemic Stroke Guidelines - Guidelines Side-By-Side
+
+![Comparing Thrombolytics for Acute Ischemic Stroke Guidelines - Guidelines Side-By-Side featured image](https://titan-production-gc.s3.us-east-2.amazonaws.com/images/content/160994.jpg)
+
+Published: December 18, 2024
+
+In the United States in 2022, stroke accounted for 1 in 6 deaths related to cardiovascular disease, according to the Centers for Disease Control and Prevention (CDC). The incidence rate of stroke experienced a slight decrease from 41.1 per 100,000 in 2021 to 39.5 per 100,000 in 2022. Ischemic strokes make up approximately 87% of all strokes, with around 30% of acute ischemic strokes involving a large vessel occlusion (LVO). LVO plays a significant role in 64% of cases resulting in moderate-to-severe disability from stroke at 3 months and over 95% of stroke-related deaths at 6 months. These statistics underscore the significant impact of stroke on public health and highlight the critical need for ongoing research and optimal management strategies for this condition.
+
+This Guidelines Side-By-Side article offers a comprehensive comparison of the current clinical practice guidelines from the American Heart Association/American Stroke Association (AHA/ASA) and the clinical policy from the American College of Emergency Physicians (ACEP). By analyzing these recommendations, this article aims to provide healthcare providers with valuable insights and best practices for the management of acute ischemic stroke. This evidence-based approach seeks to improve health outcomes for individuals affected by this complex condition.
+
+**Titles of Comparison:**
+
+| **Titles** | ***Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke*** | ***Clinical Policy: Use of Thrombolytics for the Management of Acute Ischemic Stroke in the Emergency Department*** |
+| --- | --- | --- |
+| Society | American Heart Association/American Stroke Association (AHA/ASA) | American College of Emergency Physicians (ACEP) |
+| Publication Date | October 30, 2019 | September 26, 2024 |
+| Objective | The purpose of these guidelines is to provide an up-to-date comprehensive set of recommendations in a single document for clinicians caring for adult patients with acute arterial ischemic stroke. | This clinical policy from the American College of Emergency Physicians (ACEP) is the revision of a clinical policy approved in 2015 addressing a critical question regarding the use of thrombolytics for the management of acute ischemic stroke. |
+| Target Population | The intended audiences are prehospital care providers, physicians, allied health professionals, and hospital administrators. | This guideline is intended forphysicians working in emergency departments (EDs). |
+| Methodology | Members of the writing group were appointed by the American Heart Association (AHA) Stroke Council’s Scientific Statements Oversight Committee, representing various areas of medical expertise. Members were not allowed to participate in discussions or to vote on topics relevant to their relations with industry. | This American College of Emergency Physicians (ACEP) clinical policy was developed by emergency physicians with input from medical librarians and a patient safety advocate; is based on a systematic review and critical descriptive analysis of the medical literature; and is reported in accordance with Preferred Reporting Items for Systematic reviews and Meta-Analyses guidelines. |
+| Graded Strength of Recommendations | Yes | Yes |
+| Graded Level of Evidence | Yes | Yes |
+| Systematic Review Conducted | Yes | Yes |
+| Literature Review Conducted | Yes | Yes |
+| COIs & Funding Source(s) Disclosed | Yes | Yes |
+| Full-text | [Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke](https://www.ahajournals.org/doi/10.1161/STR.0000000000000211) | [Clinical Policy: Use of Thrombolytics for the Management of Acute Ischemic Stroke in the Emergency Department](https://www.acep.org/siteassets/sites/acep/media/clinical-policies/thrombolytics-for-the-management-of-acute-ischemic-stroke-b.pdf) |
+| Summary | [Early Management of Patients With Acute Ischemic Stroke](https://www.guidelinecentral.com/guideline/7091/) | [Use of Thrombolytics for the Management of Acute Ischemic Stroke in the Emergency Department](https://www.guidelinecentral.com/guideline/3996317/) |
+
+**Comparison of Key Points on Thrombolytics**
+
+| **2019 Update AHA/ASA** | **ACEP Clinical Policy** |
+| --- | --- |
+| Time Window for rtPA Use | Within 4.5 hours (with some consideration for patients outside this window based on newer studies). | Within 3 to 4.5 hours of symptom onset. |
+| Exclusion Criteria | Standard exclusion criteria (e.g., active bleeding, severe hypertension, recent surgery). | More detailed exclusion criteria, including recent trauma, recent surgery, and more specific hypertension thresholds. |
+| Imaging | Neuroimaging required to confirm ischemic stroke (CT/MRI). | CT or MRI required to confirm ischemic stroke. |
+| Monitoring After Administration | Emphasis on monitoring for intracranial hemorrhage (ICH) and other complications (e.g., blood pressure management). | Focus on monitoring for ICH, blood pressure management, and complications in the ED. |
+| Extended Window for Thrombolysis | Evidence for using rtPA beyond 4.5 hours in select patients, especially with thrombectomy consideration. | Focus on a strict 3-4.5 hour window, with limited extension. |
+
+**Management Overview**
+
+**The 2019 Update to the AHA/ASA guidelines provides recommendations for the use of intravenous tissue plasminogen activator (rtPA) for eligible patients within 4.5 hours of symptom onset. Key points include:**
+
+* **Use of rtPA:**
+  + rtPA is recommended for patients with AIS within 4.5 hours of symptom 
+
+--- FUENTE WEB ---
+Título: Mechanical Thrombectomy for Acute Ischemic Stroke
+    
+
+             -
+URL: https://practicalneurology.com/diseases-diagnoses/stroke/mechanical-thrombectomy-for-acute-ischemic-stroke/30291
+Score: 0.752468
+
+Texto:
+Title: Mechanical Thrombectomy for Acute Ischemic Stroke
+    
+
+             -
+On October 25, 2014, the Multicenter Randomized Clinical Trial of Endovascular Treatment for Acute Ischemic Stroke in the Netherlands (MR CLEAN)1 investigators presented results of their randomized controlled trial of patients with acute ischemic stroke presenting within 6 hours of stroke undergoing medical therapy versus mechanical thrombectomy in the setting of anterior circulation large vessel occlusion (internal carotid artery [ICA], middle cerebral artery segment 1 [M1]). The results of six total endovascular trials (MR CLEAN, Endovascular Treatment for Small Core and Proximal Occlusion Ischemic Stroke [ESCAPE]2, Endovascular Revascularization With Solitaire Device Versus Best Medical Therapy in Anterior Circulation Stroke Within 8 Hours [REVASCAT]3, Solitaire with the Intention for Thrombectomy as Primary Endovascular Treatment for Acute Ischemic Stroke [SWIFT PRIME]4, Extending the Time for Thrombolysis in Emergency Neurological Deficits—Intra-Arterial [EXTEND-IA]5, Trial and Cost Effectiveness Evaluation of Intra-arterial Thrombectomy in Acute Ischemic Stroke [THRACE]6) contrasted sharply with the results of three prior clinical trials (Interventional Management of Stroke Trial [IMS3]7, Local Versus Systemic Thrombolysis for Acute Ischemic Stroke [SYNTHESIS]8, Mechanical Retrieval and Recanalization of Stroke Clots Using Embolectomy [MR RESCUE]9 that were presented back-to-back at the International Stroke Conference in 2013. This confluence of these factors was likely contributory and accordingly, the 2015 American Heart Association/American Stroke Association guidelines10 interpreted the new trial results as supportive of a class I, level of evidence A recommendation for stent retriever thrombectomy in a carefully defined population of patients: namely, patients with National Institutes of Health Stroke Scale (NIHSS) score of 6 or higher in the setting of a documented proximal anterior circulation large vessel occlusion and small baseline core infarct. To address this area of clinical uncertainly, the Clinical Mismatch in the Triage of Wake Up and Late Presenting Strokes Undergoing Neurointervention With Trevo (DAWN) trial investigators sought to test the benefit of mechanical clot retrieval in patients presenting in the late time window (6–24 hours).11 Like the second-generation trials, there was emphasis on selecting patients presenting with small established infarct in the setting of a proximal anterior circulation large vessel occlusion (ICA, M1).
+
+--- FUENTE WEB ---
+Título: Thrombectomy for acute ischemic stroke: an evidence-based treatment. - PDF Download Free
+URL: https://d.docksci.com/thrombectomy-for-acute-ischemic-stroke-an-evidence-based-treatment_5a5fd4aed64ab223a24bd2a0.html
+Score: 0.74229145
+
+Texto:
+Thrombectomy for acute ischemic stroke: an evidence-based treatment David J Fiorella,1 Kyle M Fargen,2 J Mocco,3 Felipe Albuquerque,4 Joshua A Hirsch,5 Michael Chen,6 Rishi Gupta,7 Italo Linfante,8 William Mack,9 Ansaar Rai,10 Robert W Tarr11 Just 2 years ago, at the International Stroke Conference in Honolulu, Hawaii, USA, the Interventional Management of Stroke (IMS III),1 Mechanical Retrieval and Recanalization of Stroke Clots Using Embolectomy (MR RESCUE),2 and SYNTHESIS-Expansion3 trials were presented and concurrently published in The New England Journal of Medicine. The overarching message to the medical community and lay press was that these studies provided unambiguous evidence that mechanical thrombectomy was ineffective in treating acute stroke secondary to emergent large vessel occlusion (ELVO). The Multicenter Randomized CLinical trial of Endovascular treatment for Acute ischemic stroke in the Netherlands (MR CLEAN),6 The Endovascular treatment for Small Core and Anterior circulation Proximal occlusion with Emphasis on minimizing CT to recanalization times (ESCAPE),7 the Extending the Time for Thrombolysis in Emergency Neurological Deﬁcits—Intra-Arterial (EXTEND-IA)8 and Solitaire FR With the Intention For Thrombectomy as Primary Endovascular Treatment for Acute Ischemic Stroke (SWIFT PRIME)9 studies provide us with concordant, unambiguous, and overwhelming level 1a evidence that thrombectomy is profoundly beneﬁcial in patients with ELVO. #### Endovascular thrombectomy in acute ischemic stroke. #### Mechanical thrombectomy for acute ischemic stroke with cerebral microbleeds. #### Mechanical Thrombectomy for Acute Ischemic Stroke After Cardiac Surgery. #### Mechanical Thrombectomy in Acute Ischemic Stroke: A Systematic Review. #### Outcome of mechanical thrombectomy in the very elderly for the treatment of acute ischemic stroke: the real world experience. #### Endovascular Mechanical Thrombectomy for Acute Ischemic Stroke: A New Standard of Care. #### The long way to positive trials for mechanical thrombectomy in acute ischemic stroke. #### Differences in Effectiveness among Devices for Endovascular Thrombectomy in Patients with Acute Ischemic Stroke. ## Thrombectomy for acute ischemic stroke: an evidence-based treatment. Thrombectomy for acute ischemic stroke: an evidence-based treatment. Endovascular thrombectomy in acute ischemic stroke. Mechanical thrombectomy for acute ischemic stroke with cerebral microbleeds. Mechanical Thrombectomy for Acute Ischemic Stroke After Cardiac Surgery. Outcome of mechanical thrombectomy in the very elderly for the treatment of acute ischemic stroke: the real world experience.
+
+--- FUENTE WEB ---
+Título: Update on Management of Acute Ischemic Stroke in The Emergency ...
+URL: https://recapem.com/update-on-management-of-acute-ischemic-stroke-in-the-emergency-department-2
+Score: 0.7286136
+
+Texto:
+August 28, 2026
+
+- * [Facebook](https://www.facebook.com/)
+  * [Twitter](https://twitter.com/RECAPEM1)
+  * [YouTube](https://www.youtube.com/@recapem-h3n)
+  * [Google+](https://plus.google.com/)
+  * [Instagram](https://www.instagram.com/recapem/)
+
+[![RECAPEM](https://recapem.com/wp-content/uploads/2020/07/Main.png)](https://recapem.com/)
+
+[![RECAPEM](https://recapem.com/wp-content/uploads/2020/07/Main.png)](https://recapem.com/)
+
+[![RECAPEM](https://recapem.com/wp-content/uploads/2020/07/MiniLogo.png)](https://recapem.com/)
+
+![Management of Acute Ischemic Stroke 2026 guideline](https://recapem.com/wp-content/uploads/2021/09/updated-acute-stroke-management-1252x500.png)
+
+[Facebook](#)[X](#)[Email](mailto:?subject=Update%20on%20Management%20of%20Acute%20Ischemic%20Stroke%20in%20The%20Emergency%20Department&body=https%3A%2F%2Frecapem.com%2Fupdate-on-management-of-acute-ischemic-stroke-in-the-emergency-department-2%2F)[Reddit](#)[LinkedIn](#)[WhatsApp](https://api.whatsapp.com/send?text=Update%20on%20Management%20of%20Acute%20Ischemic%20Stroke%20in%20The%20Emergency%20Department https%3A%2F%2Frecapem.com%2Fupdate-on-management-of-acute-ischemic-stroke-in-the-emergency-department-2%2F)
+
+[Core](https://recapem.com/category/core/)[Neurology](https://recapem.com/category/neurology/)
+
+# Update on Management of Acute Ischemic Stroke in The Emergency Department
+
+[![Avatar photo](https://recapem.com/wp-content/uploads/2025/05/cropped-cropped-IMG-20250520-WA0024-24x24.jpg) Shahriar Lahouti](https://recapem.com/author/shahriar/)
+
+3 months ago
+
+[Add comment](https://recapem.com/update-on-management-of-acute-ischemic-stroke-in-the-emergency-department-2/#respond)
+
+72 min read
+
+**24 September 2021, via** **Shahriar Lahouti. Last Update 13 June 2026.**
+
+![Management of Acute Ischemic Stroke 2026 guideline](https://recapem.com/wp-content/uploads/2021/09/updated-acute-stroke-management.png)
+
+* [**Preface**](#PRE)
+* [**Pathophysiology of stroke**](#PATHO)
+* [**Physiology: Core infarct vs. ischemic Penumbra**](#PHYSIO)
+* [**Clinical presentation**](#CL)
+* [**Anatomy of stroke**](#ANATOMY)
+  + [**Arterial territories**](#ARTERIAL)
+  + [**Territorial signs and symptoms**](#SUMM)
+  + [**Vessel diameter-based classification in AIS**](#VES)
+    - [**Large vessel occlusion**](#LVO)
+    - [**Lacunar infarction**](#LACUNAR)
+* [**Differential diagnosis**](#DDX)
+* **General approach to diagnosis and management**
+  + [**Overview**](#OVER)
+  + [**History**](#HX)
+  + [**Physical exam**](#OX)
+    - [**Paradigm Shift**](#PS)
+    - **📊[Summary table](#SCC)**
+  + [**Stroke algorithm**](#SA)
+  + [**🩻Brain Imaging**](#IM)
+    - [**Non-contrast Head CT**](#NON)
+    - [**Brain MRI**](#BRA)
+      * [**Ischemic changes on MRI**](#ISCH)
+    - [**Vascular imaging**](#VAS)
+    - [**Perfusion study**](#PER)
+    - [**Imaging decision-making in AIS management**](#IMD)
+* **Disabling AIS Management**
+  + [**General supportive early management**](#GENERAL)
+  + [**Reperfusion therapy**](#REPP)
+    - [**Intravenous thrombolytic**](#IVT)
+      * [**Agents**](#AGENT)
+      * [**Decision-making: Indications & contraindications**](#DER)
+      * [**Consent**](#CON)
+      * [**Administration**](#AD)
+      * [**Recent Updates & Special****Situations**](#RECENT)
+      * **Thrombolytic complication and management**
+        + [**Early neurologic worsening and symptomatic ICH**](#EARLY)
+        + [**Systemic bleeding**](#SYSTEMIC)
+        + [**Angioedema**](#ANGIOEDEMA)
+    - [**Endovascular Thrombectomy (EVT)**](#EVT)
+      * [**Specific indications for posterior circulation**](#SPS)
+      * [**Other scenarios (selected patients)**](#OTHERS)
+      * [**Complications following EVT**](#CEVT)
+    - [**Bridge EVT**](#BRIDGE)
+  + [**Other therapeutic measures**](#OTHERT)
+* **Nondisabling Strokes and TIAs**
+  + [**Background**](#BACKK)
+  + [**Approach to diagnosing and management**](#APP2)
+    - [**Diagnosis and Initial Management**](#DIA7)
+    - [**Evaluation**](#EVAL7)
+    - [**Treatment pathway based on etiology**](#TR7)
+  + **Secondary Prevention**
+    - [**CEA**](#CEA7)
+    - [**Medical Therapy**](#MED7)
+      * [**Antiplatlets**](#A7)
+      * [**Anticoagulation**](#AC7)
+  + **[Admission](#ADD7) vs. [Disposition](#DI7)**
+* [**Media**](#MEDIA)
+* [**Going further**](#GOING)
+* [**References**](#REF)
+
+**AIS**, acute ischemic stroke  
+**CAA**, cerebral amyloid angiopathy  
+**CVA**, cerebrovascular accident  
+**CVT**, cerebral vein thrombosis  
+**DWI**, diffusion-weighted imaging  
+**EVT**, endovascular therapy  
+**FLAIR**, fluid-attenuated inversion recovery  
+**ICH**, intracranial hemorrhage  
+**IV**T; intravenous Thrombolytics  
+**NCCT**, noncontrast computed tomography  
+**CTA**, CT angiography  
+**LS**N, Last seen normal  
+**LVO**, large vessel occlusion  
+**MRI**, magnetic resonance imaging  
+**MRA**, MR angiography  
+**MT**, mechanical thrombectomy;
+
+## 
+
+## **Preface**
+
+Cerebrovascular disease encompasses a variety of medical conditions that affect the cerebral circulation and brain function. Stroke is generally defined as any disease process that interrupts blood flow to the brain. In the following discussion, acute ischemic stroke (AIS) and transient ischemic attack are reviewed in the light of recent guidelines.
+
+[📖2026 guideline for early management of ais. 👉click here to View full PDF](https://www.ahajournals.org/doi/epub/10.1161/STR.0000000000000513)
+
+---
+
+---
+
+## **Pathophysiology of stroke**
+
+The significance of understanding the pathophysiologic classification (Figure 1) is that each stroke type has a distinct presentation, treatment, and prognosis. Acute cerebrovascular syndrome (ACVS) is a constellation of signs and symptoms that are caused by any acute vascular pathology (arterial or venous) that injures the central nervous system tissues. Arterial CVA is classified broadly into two major types: ischemic (≈85%) and [hemorrhagic](https://recapem.com/intracerebral-hemorrhage/) (≈15%) [1](https://pubmed.ncbi.nlm.nih.gov/25104492/). Ischemic s
+
+--- FUENTE WEB ---
+Título: 5. Acute Ischemic Stroke Treatment | Canadian Stroke Best Practices
+URL: https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment
+Score: 0.7208996
+
+Texto:
+![Home, Heart & Stroke logo](/public/images/bp-main-logo-en.svg)
+
+# 5. Acute Ischemic Stroke Treatment
+
+7th Edition UPDATE – December 2022 & Endovascular Thrombectomy Interim Update 2025
+
+7th Edition UPDATE – December 2022 & Endovascular Thrombectomy Interim Update 2025
+
+###### Notes
+
+*Treatment benefits from revascularization decrease over time, and 1.9 million brain cells die every minute following stroke onset (Saver, 2006); therefore, all patients with stroke **should be treated as quickly as possible** to maximize the potential for the best outcomes. The new extended time windows should not be interpreted to mean that time to treatment should be slowed in any way.*
+
+*Acute stroke treatment is shifting from a time-based to a tissue-based paradigm as emerging evidence suggests that the speed of stroke progression differs between individuals and beneficial treatment may be offered beyond standard time windows. Using time as the sole criterion to select patients for thrombolysis and endovascular thrombectomy (EVT) may lead to missed opportunities for treatment. Nevertheless, “time is brain” remains a reality, and delays in stroke diagnosis and treatment are associated with worse outcomes” ([Desai and Smith, Cardiovascular Disease and Stroke, 2013](https://link.springer.com/article/10.1007/s11883-013-0337-5#auth-Jamsheed_A_-Desai)).*
+
+###### Recommendations and/or Clinical Considerations
+
+###### 5.1 Patient Selection for Acute Ischemic Stroke Treatments
+
+**Section 5.1 Clinical Considerations**
+
+###### 5.2 (REVISED FOR 2022) Intravenous Thrombolysis Administration
+
+*For patients with symptomatic ICH following IV thrombolysis refer to section 5.6.*
+
+**Section 5.2 Clinical Considerations**
+
+###### 5.3 Stroke While Already in Hospital
+
+###### 
+
+###### 5.4 (NEW FOR 2025) Endovascular Thrombectomy for Acute Ischemic Stroke, Interim Update 2025
+
+***(NEW 2025)** Emerging evidence has led to an interim review of the existing 2022 Canadian Stroke Best Practice Recommendations (CSBPR) for Acute Stroke Management, 7th edition, recommendations for endovascular treatment of acute ischemic stroke (section 5.4). The updated 2025 recommendations in section 5.4 supersede the endovascular thrombectomy recommendations included in the 2022 publication of the CSBPR acute stroke management module. These changes include: updating section 5.4, and removal of boxes: 4B, 4C, 5C.*
+
+**5.4.1. Endovascular Thrombectomy Selection Criteria and Management**
+
+**5.4.1 Clinical Considerations**
+
+**5.4.2 Sedation for Endovascular Interventions**
+
+###### 5.5 Seizure Management
+
+###### 5.6 (NEW FOR 2022) Emergency Management of Thrombolysis-Associated Hemorrhage
+
+*Note: Section 5.6 applies to patients experiencing a cerebral or systemic hemorrhage following administration of intravenous thrombolysis. Refer to [CSBPR guidelines on Management of Intracerebral Hemorrhage](https://www.strokebestpractices.ca/recommendations/management-of-intracerebral-hemorrhage) for additional information.*
+
+**5.6.1 Intracranial Hemorrhage**
+
+**5.6.2 Extracranial (Systemic) Hemorrhage Management**
+
+*Note: For systemic hemorrhage, follow local protocol for management guidance.*
+
+**Section 5.6 Clinical Considerations**
+
+Meta-analyses of randomized controlled trials (RCTs) of intravenous alteplase for acute ischemic stroke have shown the treatment can reduce the risk of disability and death, despite a small risk of serious bleeding. The widest time window for alteplase administration after stroke onset remains imprecisely defined, but currently available data show clear evidence of benefit when given up to 4.5 hours after the onset of symptoms. There remains a strong inverse relationship between treatment delay and clinical outcome; therefore, eligible patients should be treated as soon as possible.
+
+Endovascular therapy (EVT) has been demonstrated to reduce disability and reduce mortality following acute ischemic stroke. Initially, EVT was limited to individuals with anterior circulation large vessel occlusion (LVO), small infarct core (ASPECTS ≥6), moderately disabling strokes and treatment within a narrow time window (typically up to 6 hours from symptom onset). The number needed to treat to reduce disability by at least one point on mRS at 90 days for one patient has been reported to be as low as 2.6 (3). (Goyal et al. 2016) More recently the use of EVT has been expanded to include patients with late onset stroke, mild stroke, infarcts in the posterior circulation and large core infarcts (ASPECTs 2-5), enabling more patients to benefit from this life-saving therapy.
+
+People with lived experience expressed the importance of having conversations with loved ones before health changes occur. Without these conversations, it can be difficult to know what the person would want. Some individuals shared that those conversations, even around desire to be involved in trials and/or experimental treatments, can be helpful to have in advance of changes in health status. Similarly, people with lived experience stated the importance of sharing personal values and preferences with the healthcare team, to help with treatment decisions.
+
+(Note: DAWN trial criteria: To obtain mRS of 0-2 at 90 days (49% vs. 13%=NNT of 2.8); HERMES 2016 meta-analysis to obtain mRS score of 0-2 at 90 days (46% vs. 26.5%=NNT of 5.1).
+
+To ensure people experiencing a stroke receive timely stroke assessments, interventions and management, interdisciplinary teams need to have the infrastructure and resources required. These may include the following components established at a systems level.
+
+**System Indicators:**
+
+**Process indicators:**
+
+**Patient-oriented outcome and experience indicators:**
+
+***Measurement Notes***
+
+*Resources and tools listed below that are external to Heart & Stroke and the Canadian Stroke Best Practice Recommendations may be useful resources for stroke care. However, their inclusion is not an actual or implied endorsement by the Canadian Stroke Best Practices writi
+
+--- FUENTE WEB ---
+Título: Update: Is Endovascular Therapy Effective in the Treatment of Acute Ischemic Stroke? - Annals of Emergency Medicine
+URL: https://www.annemergmed.com/article/S0196-0644(15)01107-5/fulltext
+Score: 0.71829855
+
+Texto:
+# Update: Is Endovascular Therapy Effective in the Treatment of Acute Ischemic Stroke? **A randomized trial of intraarterial treatment for acute ischemic stroke**. **Endovascular treatment for acute ischemic stroke**. **A randomized trial of intraarterial treatment for acute ischemic stroke**. **Endovascular treatment for acute ischemic stroke**. **Does endovascular therapy benefit patients with acute ischemic stroke?**. have been published on the use of endovascular therapy for acute ischemic stroke. After Multicenter Randomized Clinical Trial of Endovascular Treatment for Acute Ischemic Stroke in the Netherlands (MR CLEAN)3. **Endovascular treatment for acute ischemic stroke**. **Does endovascular therapy benefit patients with acute ischemic stroke?**. * Thrombolytic Therapy for Acute Ischemic Stroke: Why the Majority of Patients Remain Ineligible for Treatment70411-7/fulltext "Thrombolytic Therapy for Acute Ischemic Stroke: Why the Majority of Patients Remain Ineligible for Treatment"). * Recent Evidence for Endovascular Therapy in Acute Ischemic Stroke00427-8/fulltext "Recent Evidence for Endovascular Therapy in Acute Ischemic Stroke"). * Does Endovascular Therapy Benefit Patients With Acute Ischemic Stroke? 01261-X/fulltext "Does Endovascular Therapy Benefit Patients With Acute Ischemic Stroke?"). * Treatment Delays for Patients With Acute Ischemic Stroke in an Iranian Emergency Department: A Retrospective Chart Review31171-5/fulltext "Treatment Delays for Patients With Acute Ischemic Stroke in an Iranian Emergency Department: A Retrospective Chart Review"). * Use of thrombolytic therapy in patients with acute ischemic stroke73709-8/fulltext "Use of thrombolytic therapy in patients with acute ischemic stroke"). 70258-X/fulltext "Is Admission Medically Justified for All Patients With Acute Stroke or Transient Ischemic Attack?"). 01147-3/fulltext "Should Routine Intravenous Thrombolysis Be Considered in Patients Receiving Endovascular Thrombectomy for Acute Ischemic Stroke With Large Vessel Occlusions?"). Comparing Thrombolytic Therapies for Acute Ischemic Stroke: June 2023 Annals of Emergency Medicine Journal Club00299-8/fulltext "Tenecteplase to Replace Alteplase? Comparing Thrombolytic Therapies for Acute Ischemic Stroke: June 2023 Annals of Emergency Medicine Journal Club"). * Is the Use of Computed Tomography Perfusion Versus Noncontrast Computed Tomography Associated With Improved Outcomes in Patients Presenting 6-24 Hours After Symptom Onset With Large Vessel Occlusion Acute Ischemic Stroke Undergoing Endovascular Thrombectomy? 01140-X/fulltext "Is the Use of Computed Tomography Perfusion Versus Noncontrast Computed Tomography Associated With Improved Outcomes in Patients Presenting 6-24 Hours After Symptom Onset With Large Vessel Occlusion Acute Ischemic Stroke Undergoing Endovascular Thrombectomy?").
+
+--- FUENTE WEB ---
+Título: Neuroimaging in Patient Selection for Thrombectomy, From the AJR Special Series on Emergency Radiology
+URL: https://ajronline.org/doi/10.2214/AJR.22.28608
+Score: 0.69622743
+
+Texto:
+[Skip to main content](https://ajronline.org/doi/10.2214/AJR.22.28608#afterNav-ihw)
+
+[![Image 1: logo](https://ajronline.org/specs/products/arrs/releasedAssets/images/AJR_header_logo-da68a167e92bdfb60613852777830599.svg) # American Journal of Roentgenology](https://ajronline.org/)
+
+[](https://ajronline.org/doi/10.2214/AJR.22.28608 "Search")
+
+Search American Journal of Roentgenology  
+
+Search
+
+[Advanced search](https://ajronline.org/search/advanced)
+
+*   [Shopping cart with 0 item](https://ajronline.org/action/showCart?FlowID=1 "Cart")  
+*   
+[Login | Register](https://ajronline.org/doi/10.2214/AJR.22.28608# "Login | Register")
+
+    *   [Individual Login](https://ajronline.org/action/ssostart?idp=https%3A%2F%2Farrs.atsservices.net%2FSAML%2Fexportmetadata.aspx&redirectUri=https%3A%2F%2Fajronline.org%2Fdoi%2F10.2214%2FAJR.22.28608)
+    *   [Institutional Login](https://ajronline.org/action/ssostart?uri=https%3A%2F%2Fajronline.org%2Fdoi%2F10.2214%2FAJR.22.28608)
+
+[Skip main navigation](https://ajronline.org/doi/10.2214/AJR.22.28608#afterNav-y2v)
+
+Close Drawer Menu Open Drawer Menu[Menu](https://ajronline.org/doi/10.2214/AJR.22.28608#)
+*   [Articles & Issues](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [New Articles](https://ajronline.org/toc/ajr/0/0)
+    *   [Issue in Progress](https://ajronline.org/toc/iip)
+    *   [Latest Issue](https://ajronline.org/toc/ajr/current)
+    *   [All Issues](https://ajronline.org/loi/ajr)
+    *   [Editor’s Choice (Free)](https://ajronline.org/editorschoice)
+    *   [Special Series Reviews](https://ajronline.org/specialseries)
+    *   [Articles with Credit](https://www.arrs.org/ajrarticles)
+    *   [Best of _AJR_](https://ajronline.org/bestofajr)
+    *   [Top 10 Lists](https://ajronline.org/top10lists)
+
+*   [Collections](https://ajronline.org/page/collections)
+    *   [Artificial Intelligence / Machine Learning](https://ajronline.org/topic/article-collection/ai1)
+    *   [Best Practices](https://ajronline.org/topic/article-collection/bp)
+    *   [Diversity, Equity, & Inclusion](https://ajronline.org/topic/article-collection/dei1)
+    *   [Editor's Notebook](https://ajronline.org/topic/article-collection/en1)
+    *   [Emergency Radiology](https://ajronline.org/topic/article-collection/er)
+    *   [Expert Panel Narrative Reviews](https://ajronline.org/topic/article-collection/epnr1)
+    *   [Generative AI / Large Language Models](https://ajronline.org/topic/article-collection/ai2)
+    *   [Global Reading Room](https://ajronline.org/topic/article-collection/grr1)
+    *   [Articles with Study Guides](https://ajronline.org/topic/article-collection/jc1)
+    *   [Photon-Counting Detector CT](https://ajronline.org/topic/article-collection/pcd1)
+    *   [Point/Counterpoint](https://ajronline.org/topic/article-collection/pcp1)
+    *   [Sustainability](https://ajronline.org/topic/article-collection/sus1)
+    *   [Workforce](https://ajronline.org/topic/article-collection/wf01)
+
+*   [Information](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [About _AJR_](https://ajronline.org/aboutajr)
+    *   [Editorial Board](https://ajronline.org/editorialboard)
+    *   [Frequently Asked Questions](https://ajronline.org/faq)
+    *   [Subscriptions](https://ajronline.org/subscriptions)
+    *   [Membership](https://www.arrs.org/ARRSLIVE/Membership)
+    *   [Permissions](http://www.arrs.org/ajrpermission)
+    *   [Institutional Admins](https://ajronline.org/action/showPreferences?menuTab=licenses)
+    *   [_AJR_ Alerts Sign Up](https://ajronline.org/alerts)
+
+*   [Authors](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [Author Guidelines](https://ajronline.org/authorguidelines)
+    *   [Original Research Guide](https://ajronline.org/originalresearchguide)
+    *   [_AJR_ Abbreviation List](https://ajronline.org/abbreviationlist)
+    *   [Submit Manuscript](https://www.editorialmanager.com/ajr/default.aspx)
+
+*   [Reviewers](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [Reviewer Guide](https://ajronline.org/reviewerguide)
+    *   [Reviewer Spotlight](https://ajronline.org/reviewerspotlight)
+    *   [Lifetime Awards](https://ajronline.org/lifetimeawards)
+
+*   [Multimedia](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [Visual Abstracts](https://ajronline.org/visualabstracts)
+    *   [_AJR_ Podcast Series](https://ajronline.libsyn.com/category/AJR+Podcast+Series)
+    *   [_AJR_ Conversations](https://ajronline.libsyn.com/category/AJR+Conversations)
+    *   [Trainee Podcasts](https://ajronline.libsyn.com/category/Trainee+Podcasts)
+    *   [_AJR_ This Month](https://ajronline.org/ajrthismonth)
+    *   [X/Twitter](https://twitter.com/ajr_radiology)
+    *   [Bluesky](https://bsky.app/profile/ajrradiology.bsky.social)
+    *   [YouTube](https://www.youtube.com/channel/UCfFAYezkLMxJGMgIJLN0Dpg/)
+    *   [Facebook](https://www.facebook.com/AmericanRoentgenRaySociety/)
+    *   [Instagram](https://www.instagram.com/arrs_radiology/)
+    *   [_AJR_ Global](https://ajronline.org/ajrglobal)
+    *   [Multimedia Archive](https://ajronline.org/archivemultimedia)
+    *   [Podcast Archive](https://ajronline.org/podcastarchive)
+
+*   [Sections](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [Evidence Synthesis & Decision Analysis](https://ajronline.org/action/doSearch?ConceptID=102098)
+    *   [Breast Imaging](https://ajronline.org/action/doSearch?ConceptID=102095)
+    *   [Cardiothoracic Imaging](https://ajronline.org/action/doSearch?ConceptID=102097)
+    *   [Gastrointestinal Imaging](https://ajronline.org/action/doSearch?ConceptID=102096)
+    *   [Genitourinary Imaging](https://ajronline.org/action/doSearch?ConceptID=102101)
+    *   [Interventional Radiology](https://ajronline.org/action/doSearch?ConceptID=102103)
+    *   [Musculoskeletal Imaging](https://ajronline.org/action/doSearch?ConceptID=102102)
+    *   [Neuroradiology/Head & Neck Imaging](https://ajronline.org/action/doSearch?ConceptID=102100)
+    *   [Nuclear Medicine](https://ajronline.org/acti
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
