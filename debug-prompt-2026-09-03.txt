@@ -1,0 +1,349 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: diagnostic error in acute abdominal pain
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Rare and Unusual Consequences of Blunt Abdominal Trauma-The Significance of Anatomical Anomalies.
+Revista: Journal of clinical medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42074645
+DOI: 10.1117/1.JMI.8.5.052110
+URL: https://pubmed.ncbi.nlm.nih.gov/42074645/
+
+Abstract:
+Background/Objectives: Blunt abdominal trauma is a frequent challenge in emergency medicine, but its diagnosis and treatment become significantly more complex when rare anatomical anomalies are present. Atypical anatomy may mask symptoms or mimic other acute abdominal conditions, causing delays in treatment. The aim of this paper is to review the literature on six rare anatomical anomalies and their impact on the consequences of blunt abdominal trauma. Methods: A Narrative literature review was undertaken, covering PubMed, Scopus, Web of Science and Google Scholar databases, analysing publications from 1960 to 2025. Case reports and case series (91 patients in total) with confirmed organ damage following blunt trauma in the course of: duodenal diverticulum, Meckel's diverticulum, splenic torsion, rupture or torsion of the accessory spleen, visceral inversion (situs inversus) and horseshoe kidney. Results: Demographic analysis revealed a predominance of perforations of the duodenal diverticulum in older women (mean age 62 years), while younger men predominated in all other groups. The clinical picture was often non-specific or misleading, especially in situs inversus, where the location of pain did not correlate with the typical topography of organs. Contrast-enhanced computed tomography (CECT) has proved to be a key diagnostic tool, surpassing ultrasound/FAST scans due to its ability to provide precise anatomical imaging. Surgical treatment was predominant (100% in Meckel's diverticulum, 95% in duodenal diverticulum), while conservative treatment was effective in horseshoe kidney injuries (94.8%). Mortality was highest in situs inversus (29%) and duodenal diverticulum perforation (20%). The vast majority of these fatal cases occurred in the era of modern computed tomography, suggesting that the therapeutic challenges stem directly from the specific nature of these anomalies, rather than from past diagnostic limitations. Conclusions: Anatomical anomalies significantly modulate the clinical manifestations of blunt abdominal trauma, increasing the risk of diagnostic errors. Early contrast-enhanced computed tomography and awareness of these rare pathologies are crucial for appropriate management and improved prognosis.
+
+--- PAPER PUBMED ---
+Título: CT patterns of acute enterocolitis - a practical guide for the emergency radiologist.
+Revista: Emergency radiology
+Fecha: 2025
+Tipo: Journal Article, Review
+PMID: 41193916
+DOI: 10.1016/j.jviscsurg.2020.08.012
+URL: https://pubmed.ncbi.nlm.nih.gov/41193916/
+
+Abstract:
+Acute enterocolitis encompasses a broad spectrum of conditions affecting the small and large bowel, frequently presenting with nonspecific symptoms such as abdominal pain, diarrhea, fever, and vomiting. Given the clinical overlap among infectious, inflammatory, immune-mediated, vascular, and miscellaneous etiologies, imaging plays a pivotal role in refining the differential diagnosis, identifying complications, and guiding timely management. Computed tomography (CT), owing to its accessibility and rapid acquisition, remains the cornerstone of imaging evaluation in acute settings. CT enables detailed assessment of bowel wall morphology, disease distribution, vascular involvement, and extraintestinal manifestations. While ancillary imaging modalities have a role in select scenarios, this review emphasizes a CT-focused approach tailored for acute care. We present a comprehensive, pattern-based review of the CT imaging features across various forms of acute enterocolitis, highlighting diagnostic hallmarks, interpretive pitfalls, and clinically relevant mimics. The included cases were encountered by the radiologists in their day-to day practice and included based on their ability to highlight the majority representative features of each pathology. Through the integration of structured tables, illustrative cases, and diagnostic tips, this article aims to enhance the radiologist's ability to recognize key imaging signatures, avoid diagnostic errors, and contribute meaningfully to multidisciplinary patient care.
+
+--- PAPER PUBMED ---
+Título: Diagnostic errors in acute cholecystitis: a scoping review.
+Revista: Diagnosis (Berlin, Germany)
+Fecha: 2026
+Tipo: Journal Article, Scoping Review
+PMID: 41091049
+DOI: 10.1515/dx-2025-0061
+URL: https://pubmed.ncbi.nlm.nih.gov/41091049/
+
+Abstract:
+Diagnostic errors in acute cholecystitis significantly impact patient safety. Misdiagnosis, including both false negatives and false positives, is common due to the complex nature of abdominal pain and the overlapping symptoms of various conditions. This scoping review examines the definition, prevalence, and contributing factors of diagnostic errors in acute cholecystitis, emphasizing the need for improved diagnostic processes. Employing the PRISMA-ScR framework, this review examined definitions and factors contributing to diagnostic errors in cholecystitis. It highlights the variability in diagnostic criteria, with many studies relying on clinical judgment rather than standardized guidelines such as the Tokyo Guidelines. False negative diagnoses are often due to hypoalbuminemia, inconspicuous imaging findings, and the clinical setting, whereas false positives often result from misinterpreted imaging findings and failure to differentiate from other conditions. This review found that approximately 30 % of acute cholecystitis cases may be missed (false negative), and 20-36 % of cases initially diagnosed can be incorrect (false positive). Adherence to standardized guidelines and improved recognition of atypical presentations could reduce diagnostic errors. Future research should aim for large-scale studies with clear diagnostic criteria and detailed clinical data to enhance diagnostic accuracy and patient safety.
+
+--- PAPER PUBMED ---
+Título: Epiploic appendagitis: An overlooked cause of acute abdominal pain.
+Revista: World journal of gastroenterology
+Fecha: 2025
+Tipo: Journal Article, Review
+PMID: 40900773
+DOI: 10.3748/wjg.v31.i32.109897
+URL: https://pubmed.ncbi.nlm.nih.gov/40900773/
+
+Abstract:
+Epiploic appendagitis is a rare, often underrecognized cause of acute abdominal pain. Misdiagnosis can lead to unnecessary hospitalization, antibiotic use, or surgical intervention. Advances in imaging have improved the recognition of this self-limiting condition, but clinical awareness remains critical. To provide a comprehensive update on the epidemiology, anatomy, pathogenesis, clinical presentation, diagnostic strategies, differential diagnosis, and management of epiploic appendagitis, emphasizing its distinguishing features from other causes of acute abdomen. A review of the literature was conducted, focusing on the clinical characteristics, imaging findings, differential diagnoses, and evidence-based management strategies for epiploic appendagitis. Epiploic appendagitis typically presents with acute, localized, non-radiating abdominal pain without significant systemic symptoms. Diagnosis is heavily reliant on imaging, with computed tomography (CT) being the gold standard. Hallmark CT findings include a small, fat-density ovoid lesion adjacent to the colon, with the usual characteristic ring and dot signs. Differential diagnoses include mainly diverticulitis, appendicitis, omental infarction, and many other causes. Management is predominantly conservative with nonsteroidal anti-inflammatory drugs and observation, reserving surgical intervention for rare, complicated cases. Recognizing the clinical and imaging features of epiploic appendagitis is essential to avoid unnecessary interventions. Increased clinician awareness, coupled with judicious use of imaging, facilitates timely diagnosis and appropriate management, ensuring optimal patient outcomes.
+
+--- PAPER PUBMED ---
+Título: Hemorrhagic necrosis of omental cysts misdiagnosed as torsion of ovarian cysts: a case report and literature review.
+Revista: BMC women's health
+Fecha: 2025
+Tipo: Journal Article, Case Reports, Review
+PMID: 40660240
+DOI: 10.1186/s12905-025-03893-y
+URL: https://pubmed.ncbi.nlm.nih.gov/40660240/
+
+Abstract:
+Omental cysts are extremely rare intra-abdominal lesions that are typically benign and asymptomatic. When hemorrhagic necrosis occurs, it may mimic other acute abdominal emergencies, such as adnexal torsion. Omental cysts are easily misdiagnosed as other diseases because of their lack of specific clinical symptoms and signs, thus posing a diagnostic challenge. We report a 32-year-old woman presenting with acute lower abdominal pain and fever, initially diagnosed with ovarian cyst torsion. Imaging revealed a large pelvic cystic mass; however, laparoscopic exploration identified a hemorrhagic omental cyst with necrosis and inflammatory adhesion. Complete excision was performed, and histopathology confirmed a benign omental cyst with hemorrhage and necrosis. The patient recovered uneventfully and showed no recurrence over 11 months of follow-up. Analyzing this case allowed us to delve into the causes of misdiagnosis of omental cysts. This case emphasizes the diagnostic difficulty posed by complicated omental cysts and highlights the necessity of considering omental cyst in women presenting with acute abdomen and pelvic masses. Imaging aids diagnosis, but surgical exploration is the most direct and reliable method for confirming the cause of abdominal pain. Timely laparoscopic intervention facilitates accurate diagnosis and effective management.
+
+--- PAPER PUBMED ---
+Título: Artificial intelligence in gynecologic and obstetric emergencies.
+Revista: International journal of emergency medicine
+Fecha: 2025
+Tipo: Journal Article, Review
+PMID: 39924503
+DOI: 10.1308/rcsbull.2021.111
+URL: https://pubmed.ncbi.nlm.nih.gov/39924503/
+
+Abstract:
+Artificial intelligence (AI) uses a process by which machines perform human-like functions such as automated clinical decisions. This may operate efficiently in gynecologic and obstetric emergencies. We aimed to review the role and applications of AI in gynecologic and obstetric emergencies. A literature search was carried out in November 2023 in PubMed, Cochrane Library and Google Scholar using the keywords combination of "artificial intelligence, gynecology and obstetrics". Relevant articles were selected and read. Reference lists of the selected articles were also searched. The literature demonstrated the role of AI to improve healthcare in emergency settings in several aspects such as diagnostic imaging, improving predictions in emergencies, and improving planning and resource allocation for emergency services. AI works objectively, overcoming human biases in decision-making. Creating interconnected data registries for AI will likely enhance its performance. Validation research in emergency settings has shown that AI-prediction tools perform more accurately compared with the estimation of risk and outcomes by gynecologists and obstetricians in emergency situations including endometriosis and acute abdominal pain. There was acceptance of AI and its potential benefits. Ethical dilemmas of using AI include data governance, responsibility for errors, and security issues. Providing training on AI to healthcare professionals working in emergency departments is needed. Healthcare professionals should educate themselves about the anticipated role of AI in gynecologic and obstetric emergencies, its indications, limitations, and ethical considerations so that they can take steps towards its application in their future practice using defined guidelines. WHY IS THIS REVIEW IS IMPORTANT?: The use of AI in healthcare has created polarized thoughts among emergency medicine professionals. This review is an effort to compare the pros and cons of using AI in gynecologic and obstetric emergencies so that AI can be properly applied in these specialities. WHAT DOES THIS REVIEW SHOW?: This review shows that there are several research studies in gynecology and obstetrics emergencies with positive points in favor of using AI in emergencies like acute abdominal and pelvic pain, and endometriosis. There are some reservations from the practitioners to use it due to lack of understanding of its nature, advantages and limitations. By narrating the findings of AI-related publications in gynecology and obstetrics emergency, we propose their applications and their limitations. WHAT ARE THE KEY FINDINGS?: AI can help in critical decision-making in emergency gynecologic and obstetric situations under the conditions of correct input information and human supervision. So, AI can assist gynecologists in deciding which treatment approach to use in emergencies and it may also reduce the burden on human professionals and save time by prompt interventional decisions. HOW IS PATIENT CARE IMPACTED?: Using AI with the input of trained medical professionals and software engineers, decision-making in gynecologic and obstetric emergencies can be made more efficient. AI-assisted tools can predict the outcomes of patients rapidly, saving time and avoiding delays in directing further care.
+
+--- PAPER PUBMED ---
+Título: When Not to Operate on Acute Cases-A Surgeon's Perspective on Rapid Assessment of Emergency Abdominopelvic Computed Tomography.
+Revista: Journal of imaging
+Fecha: 2023
+Tipo: Journal Article, Review
+PMID: 37888307
+DOI: 10.2214/AJR.10.4340
+URL: https://pubmed.ncbi.nlm.nih.gov/37888307/
+
+Abstract:
+Clinical problem solving evolves in parallel with advances in technology and discoveries in the medical field. However, it always reverts to basic cognitive processes involved in critical thinking, such as hypothetical-deductive reasoning, pattern recognition, and compilation models. When dealing with cases of acute abdominal pain, clinicians should employ all available tools that allow them to rapidly refine their analysis for a definitive diagnosis. Therefore, we propose a standardized method for the quick assessment of abdominopelvic computed tomography as a supplement to the traditional clinical reasoning process. This narrative review explores the cognitive basis of errors in reading imaging. It explains the practical use of attenuation values, contrast phases, and windowing for non-radiologists and details a multistep protocol for finding radiological cues during CT reading and interpretation. This systematic approach describes the salient features and technical tools needed to ascertain the causality between clinical patterns and abdominopelvic changes visible on CT scans from a surgeon's perspective. It comprises 16 sections that should be read successively and that cover the entire abdominopelvic region. Each section details specific radiological signs and provides clear explanations for targeted searches, as well as anatomical and technical hints. Reliance on imaging in clinical problem solving does not make a decision dichotomous nor does it guarantee success in diagnostic endeavors. However, it contributes exact information for supporting the clinical assessments even in the most subtle and intricate conditions.
+
+--- PAPER PUBMED ---
+Título: Accuracy of ultrasound for the diagnosis of acute appendicitis in the emergency department: A systematic review.
+Revista: Medicine
+Fecha: 2023
+Tipo: Systematic Review, Journal Article
+PMID: 37000097
+DOI: 10.1097/MD.0000000000033397
+URL: https://pubmed.ncbi.nlm.nih.gov/37000097/
+
+Abstract:
+Point-of-Care Ultrasound (POCUS) is a quick, useful, noninvasive, and inexpensive diagnostic tool used for the diagnosis of trauma, abdominal pain, dyspnea, and chest pain in the emergency department (ED). However, the diagnostic accuracy of ultrasound in the ED may be different from those reported in previous studies owing to the setting and time constraints in ED. We conducted our study in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines. A literature search was conducted using databases on US National Library of Medicine's database of biomedical literature, Ovid MEDLINE, online database of biomedical articles, and the collection of databases of systematic reviews and other evidence. The inclusion criteria were the use of bedside ultrasound as a diagnostic tool for acute appendicitis in the ED and the available data on diagnostic parameters such as sensitivity, specificity, and positive and negative predictive values (NPV). We constructed forest plots and summary receiver operating characteristic curves to evaluate the diagnostic accuracy of bedside ultrasound for acute appendicitis in the ED. A total of 21 studies that met the inclusion criteria of this study were included for analysis. The overall pooled sensitivity was 0.81 (95% CI, 0.78-0.83), whereas the pooled specificity was 0.87 (95% CI, 0.85-0.88). However, the I2 test showed 91.7% and 90.9% heterogeneity in the sensitivity and specificity values, respectively. The summary receiver operating characteristic curves showed high levels of accuracy, as evidenced by an area under the curve of 0.9249 (standard error: 0.0180). The use of ultrasound for the diagnosis of acute appendicitis in the ED showed that ultrasound has high overall sensitivity and specificity for the diagnosis of acute appendicitis. however, high heterogeneity among the included studies was observed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Evaluation of acute abdomen - Summary
+URL: https://www.epocrates.com/online/diseases/503/evaluation-of-acute-abdomen
+Score: 0.7413937
+
+Texto:
+Title: Evaluation of acute abdomen - Summary
+Immunocompromised patients mount an altered inflammatory response, and may display atypical symptoms and signs of acute abdominal pathology. Ischemic bowel disease: 84-year-old man presenting with symptoms suggestive of ischemic bowel diseas. Liver abscess: CT scan showing 8 cm by 8 cm superinfected and ruptured echinococcal cyst, and a 4 cm. ACR Appropriateness Criteria: acute nonlocalized abdominal pain. Commissioning guide: emergency general surgery (acute abdominal pain). The role of diagnostic laparoscopy for acute abdominal conditions: an evidence-based review. Early laparoscopy versus active observation in acute abdominal pain: systematic review and meta-analysis. Analgesia in patients with acute abdominal pain. Acute abdominal pain in the older adult. Epidemiology and outcomes of acute abdominal pain in a large urban emergency department: retrospective analysis of 5,340 cases. The use of abdominal computed tomography in older ED patients with acute abdominal pain. Non-specific abdominal pain remains as the most common reason for acute abdomen: 26-year retrospective audit in one emergency unit. Diagnostic accuracy of history, physical examination, laboratory tests, and point-of-care ultrasound for pediatric acute appendicitis in the emergency department: a systematic review and meta-analysis. ACR Appropriateness Criteria: acute nonlocalized abdominal pain. Impact of computed tomography of the abdomen on clinical outcomes in patients with acute right lower quadrant pain: a meta-analysis. Diagnosis and management of acute left-sided colonic diverticulitis: a clinical guideline from the American College of Physicians. 2020 update of the WSES guidelines for the management of acute colonic diverticulitis in the emergency setting. 2024 clinical practice guideline update by the Infectious Diseases Society of America on complicated intra-abdominal infections: risk assessment, diagnostic imaging, and microbiological evaluation in adults, children, and pregnant people. Unenhanced CT for clinical triage of elderly patients presenting to the emergency department with acute abdominal pain. Role of surgeon-performed ultrasound on further management of patients with acute abdominal pain: a randomised controlled clinical trial. Randomized clinical trial of bedside ultrasound among patients with abdominal pain in the emergency department: impact on patient satisfaction and health care consumption. Imaging of acute abdominal pain in the third trimester of pregnancy. Laparoscopy for the management of acute lower abdominal pain in women of childbearing age.
+
+--- FUENTE WEB ---
+Título: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+URL: https://saem.org/publications/grace/grace-2
+Score: 0.68798697
+
+Texto:
+[![Society for Academic Emergency Medicine Logo | SAEM](/images/default-source/siteimages/logos/logo-2.png?sfvrsn=74156739_4 "Society for Academic Emergency Medicine Logo | SAEM")](/home)
+
+Visit us on [Twitter](https://twitter.com/saemonline) [LinkedIn](https://www.linkedin.com/company/society-for-academic-emergency-medicine) [Facebook](https://www.facebook.com/SAEMonline) [YouTube](https://www.youtube.com/channel/UCFyc9y4eYZ-e5gtO3xAS19w) [Instagram](https://www.instagram.com/saemonline)
+
+* [Join/Renew](/join)
+* [Careers](/careers) 
+  + [Academic Career Guide](/careers/saem-2019-academic-career-guide)
+  + [Medical Education Portfolio](/careers/medical-education-portfolio)
+  + [EM Job Link](/careers/job-board)
+
+Profile
+
+* [Logout](/publications/grace/grace-2/SignOut/)
+
+[Login](https://www.saem.org/list-pages/account/login?redirect_uri=%2fpublications%2fgrace%2fgrace-2)
+
+* [GRACE-1 Recurrent, Low-Risk Chest Pain](/publications/grace/grace-1)
+* [GRACE-2 Recurrent, Low-Risk Abdominal Pain](/publications/grace/grace-2)
+* [GRACE-3 Acute Dizziness & Vertigo](/publications/grace/grace-3)
+* [GRACE-4 Alcohol Use Disorder & Cannabinoid Hyperemesis Syndrome](/publications/grace/grace-4)
+
+# GRACE-2
+
+[Home](/)   /  [Publications](/publications)   /  [GRACE](/publications/grace)   /  GRACE-2
+
+![GRACE w tag logo](/images/default-source/logos/grace-w-tag-logo.png?sfvrsn=80a3730d_0 "GRACE w tag logo")
+
+The SAEM GRACE program addresses the best practices for the care of the most common chief complaints that can be seen on the tracking board of any emergency department in the country, based upon research and expert consensus. These guidelines are designed with de-implementation as a guiding principle to reasonably reduce wasteful testing, provide explicit criteria to reduce foreseeable risk, and define sensible and prudent medical care.
+
+#### [GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14495)
+
+Abdominal pain has consistently remained the most frequent chief complaint in United States emergency departments (EDs) from 2009 to 2018. The evaluation of acute abdominal pain requires substantial ED resources, including imaging, laboratory studies, nursing care, time, and patient care space. Despite the intensity of diagnostic testing, most patients presenting with abdominal pain do not receive a specific diagnosis in the ED and are discharged.
+
+National data on ED presentations for recurrent abdominal pain are limited. Little guidance is available to emergency physicians evaluating and treating patients with recurrent and undifferentiated abdominal pain. Without guidelines for care, variance in practice could result in lower quality care, including risks of over- or under-testing, misdiagnosis, adverse effects of over- or under-treatment, higher costs, greater length of stay, and lower patient satisfaction.
+
+The purpose of the second Guideline for Reasonable and Appropriate Care in the Emergency Department (GRACE-2) is to provide an evidence-based, patient-centric approach for clinicians in their evaluation and management of adult patients with low-risk, recurrent, undifferentiated abdominal pain in the ED.   
+  
+The GRACE-2 panel reached the following recommendations:
+
+1. If a prior negative computed tomography of the abdomen and pelvis (CTAP) has been performed within 12 months, there is insufficient evidence to accurately identify populations in whom repeat CTAP imaging can be safely avoided or routinely recommended.
+2. If CTAP with IV contrast is negative, the panel suggests against ultrasound unless there is concern for pelvic or biliary pathology.
+3. The panel suggests screening for depression and/or anxiety may be performed during the ED evaluation.
+4. The panel suggests using an opioid-minimizing strategy for pain control.
+
+##### Read the full article:  [GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14495)
+
+##### Podcast: [GRACE-2 Podcast on The Skeptics Guide to Emergency Medicine](https://thesgem.com/2022/05/sgem367-grace2-low-risk-recurrent-abdominal-pain/)
+
+![GRACE-2 Abdominal Pain DRAFT](/images/default-source/aem/grace-2-infographic-v2.png?sfvrsn=ec55d574_2 "GRACE-2 Abdominal Pain")
+
+#### Guideline Infographics
+
+* [GRACE-2: Abdominal Pain Recommendations Summary](/images/default-source/aem/grace-abdo-pain-summary-final-challen.png?sfvrsn=c9afc275_2)
+* [GRACE-2: Abdominal Pain Infographic](/images/default-source/aem/grace-2-infographic-v2.png?sfvrsn=ec55d574_2)
+
+#### Patient Information Handout
+
+* [GRACE-2 Patient Education Handout](/docs/default-source/default-document-library/grace-2_patient_education_final.pdf?sfvrsn=f2cd0d6e_2 "GRACE-2 Patient Education Handout")
+
+#### Related Articles
+
+* [Repeated computed tomography in recurrent abdominal pain: An evidence synthesis for guidelines for reasonable and appropriate care in the emergency department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14427)
+* [Depression and anxiety screening in emergency department patients with recurrent abdominal pain: An evidence synthesis for a clinical practice guideline](https://onlinelibrary.wiley.com/doi/10.1111/acem.14394)
+* [A Candle in the Dark: The Role of Indirect Evidence in Emergency Medicine Clinical Practice Guidelines](https://onlinelibrary.wiley.com/doi/abs/10.1111/acem.14494)
+
+#### Press Release
+
+* [SAEM publishes new guideline for low-risk, recurrent abdominal pain in the emergency department](https://www.eurekalert.org/news-releases/951756)
+
+#### 
+
+#### Other GRACE Guidelines
+
+[GRACE-1: Recurrent, Low-Risk Chest Pain in the ED](https://www.saem.org/publications/academic-emergency-medicine/grace/grace-1)
+
+[GRACE-3: Acute Dizziness in the ED](/publications/grace/grace-3)
+
+[GRACE-4: Alcohol Use Disorder and Cannabis Hyperemesis Management in the Emergency Department](/publications/grace/grace-4)
+
+GRACE-5: Syncope (2025)
+
+--- FUENTE WEB ---
+Título: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+URL: https://www.saem.org/publications/grace/grace-2
+Score: 0.68798697
+
+Texto:
+[![Society for Academic Emergency Medicine Logo | SAEM](/images/default-source/siteimages/logos/logo-2.png?sfvrsn=74156739_4 "Society for Academic Emergency Medicine Logo | SAEM")](/home)
+
+Visit us on [Twitter](https://twitter.com/saemonline) [LinkedIn](https://www.linkedin.com/company/society-for-academic-emergency-medicine) [Facebook](https://www.facebook.com/SAEMonline) [YouTube](https://www.youtube.com/channel/UCFyc9y4eYZ-e5gtO3xAS19w) [Instagram](https://www.instagram.com/saemonline)
+
+* [Join/Renew](/join)
+* [Careers](/careers) 
+  + [Academic Career Guide](/careers/saem-2019-academic-career-guide)
+  + [Medical Education Portfolio](/careers/medical-education-portfolio)
+  + [EM Job Link](/careers/job-board)
+
+Profile
+
+* [Logout](/publications/grace/grace-2/SignOut/)
+
+[Login](https://www.saem.org/list-pages/account/login?redirect_uri=%2fpublications%2fgrace%2fgrace-2)
+
+* [GRACE-1 Recurrent, Low-Risk Chest Pain](/publications/grace/grace-1)
+* [GRACE-2 Recurrent, Low-Risk Abdominal Pain](/publications/grace/grace-2)
+* [GRACE-3 Acute Dizziness & Vertigo](/publications/grace/grace-3)
+* [GRACE-4 Alcohol Use Disorder & Cannabinoid Hyperemesis Syndrome](/publications/grace/grace-4)
+
+# GRACE-2
+
+[Home](/)   /  [Publications](/publications)   /  [GRACE](/publications/grace)   /  GRACE-2
+
+![GRACE w tag logo](/images/default-source/logos/grace-w-tag-logo.png?sfvrsn=80a3730d_0 "GRACE w tag logo")
+
+The SAEM GRACE program addresses the best practices for the care of the most common chief complaints that can be seen on the tracking board of any emergency department in the country, based upon research and expert consensus. These guidelines are designed with de-implementation as a guiding principle to reasonably reduce wasteful testing, provide explicit criteria to reduce foreseeable risk, and define sensible and prudent medical care.
+
+#### [GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14495)
+
+Abdominal pain has consistently remained the most frequent chief complaint in United States emergency departments (EDs) from 2009 to 2018. The evaluation of acute abdominal pain requires substantial ED resources, including imaging, laboratory studies, nursing care, time, and patient care space. Despite the intensity of diagnostic testing, most patients presenting with abdominal pain do not receive a specific diagnosis in the ED and are discharged.
+
+National data on ED presentations for recurrent abdominal pain are limited. Little guidance is available to emergency physicians evaluating and treating patients with recurrent and undifferentiated abdominal pain. Without guidelines for care, variance in practice could result in lower quality care, including risks of over- or under-testing, misdiagnosis, adverse effects of over- or under-treatment, higher costs, greater length of stay, and lower patient satisfaction.
+
+The purpose of the second Guideline for Reasonable and Appropriate Care in the Emergency Department (GRACE-2) is to provide an evidence-based, patient-centric approach for clinicians in their evaluation and management of adult patients with low-risk, recurrent, undifferentiated abdominal pain in the ED.   
+  
+The GRACE-2 panel reached the following recommendations:
+
+1. If a prior negative computed tomography of the abdomen and pelvis (CTAP) has been performed within 12 months, there is insufficient evidence to accurately identify populations in whom repeat CTAP imaging can be safely avoided or routinely recommended.
+2. If CTAP with IV contrast is negative, the panel suggests against ultrasound unless there is concern for pelvic or biliary pathology.
+3. The panel suggests screening for depression and/or anxiety may be performed during the ED evaluation.
+4. The panel suggests using an opioid-minimizing strategy for pain control.
+
+##### Read the full article:  [GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14495)
+
+##### Podcast: [GRACE-2 Podcast on The Skeptics Guide to Emergency Medicine](https://thesgem.com/2022/05/sgem367-grace2-low-risk-recurrent-abdominal-pain/)
+
+![GRACE-2 Abdominal Pain DRAFT](/images/default-source/aem/grace-2-infographic-v2.png?sfvrsn=ec55d574_2 "GRACE-2 Abdominal Pain")
+
+#### Guideline Infographics
+
+* [GRACE-2: Abdominal Pain Recommendations Summary](/images/default-source/aem/grace-abdo-pain-summary-final-challen.png?sfvrsn=c9afc275_2)
+* [GRACE-2: Abdominal Pain Infographic](/images/default-source/aem/grace-2-infographic-v2.png?sfvrsn=ec55d574_2)
+
+#### Patient Information Handout
+
+* [GRACE-2 Patient Education Handout](/docs/default-source/default-document-library/grace-2_patient_education_final.pdf?sfvrsn=f2cd0d6e_2 "GRACE-2 Patient Education Handout")
+
+#### Related Articles
+
+* [Repeated computed tomography in recurrent abdominal pain: An evidence synthesis for guidelines for reasonable and appropriate care in the emergency department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14427)
+* [Depression and anxiety screening in emergency department patients with recurrent abdominal pain: An evidence synthesis for a clinical practice guideline](https://onlinelibrary.wiley.com/doi/10.1111/acem.14394)
+* [A Candle in the Dark: The Role of Indirect Evidence in Emergency Medicine Clinical Practice Guidelines](https://onlinelibrary.wiley.com/doi/abs/10.1111/acem.14494)
+
+#### Press Release
+
+* [SAEM publishes new guideline for low-risk, recurrent abdominal pain in the emergency department](https://www.eurekalert.org/news-releases/951756)
+
+#### 
+
+#### Other GRACE Guidelines
+
+[GRACE-1: Recurrent, Low-Risk Chest Pain in the ED](https://www.saem.org/publications/academic-emergency-medicine/grace/grace-1)
+
+[GRACE-3: Acute Dizziness in the ED](/publications/grace/grace-3)
+
+[GRACE-4: Alcohol Use Disorder and Cannabis Hyperemesis Management in the Emergency Department](/publications/grace/grace-4)
+
+GRACE-5: Syncope (2025)
+
+--- FUENTE WEB ---
+Título: Guideline for the Diagnostic Pathway in Patients with Acute Abdominal Pain | Semantic Scholar
+URL: https://www.semanticscholar.org/paper/Guideline-for-the-Diagnostic-Pathway-in-Patients-Gans-Pols/c25fc6fb6289b300f97aec3e5dee88dbfc66932b
+Score: 0.6633424
+
+Texto:
+# Guideline for the Diagnostic Pathway in Patients with Acute Abdominal Pain. @article{Gans2015GuidelineFT, title={Guideline for the Diagnostic Pathway in Patients with Acute Abdominal Pain}, author={Sarah Gans and Margreet A. Developing an evidence-based guideline for the diagnostic pathway of patients with abdominal pain of non-traumatic origin and proposing the use of the following definition for acute abdominal pain: pain of nontraumatic origin with a maximum duration of 5 days. ### The Diagnostic Process for the Evaluation of Acute Abdominal Pain by Resident Trainees in Japan: A Cross-sectional Study. ### Diagnostic Accuracy of Serum and Urine S100A8/A9 and Serum Amyloid A in Probable Acute Abdominal Pain at Emergency Department. It is shown that in acute abdominal pain, serum and urine S100A8/A9 can be useful indicators of the need for surgery, but serum amyloid A had a low and nonsignificant diagnostic accuracy. ### Development and validation of risk prediction models for high-risk patients with non-traumatic acute abdominal pain: a prospective observational study. A machine learning–based model is developed to help triage nurses identify high-risk patients with non-traumatic acute abdominal pain, enhancing accuracy and safety and external validation results indicated that the logistic regression model had good extrapolation and generalization ability. D diagnostic accuracy of inexperienced readers in the evaluation of abdominal MR images for acute appendicitis improved after training with direct feedback, and the addition of DW images improved reader sensitivity. ### The role of plain radiographs in patients with acute abdominal pain at the ED. ### Laparoscopy in the Emergency Setting: A Retrospective Review of 540 Patients with Acute Abdominal Pain. ### Standard Outpatient Re-Evaluation for Patients Not Admitted to the Hospital After Emergency Department Evaluation for Acute Abdominal Pain. Standard outpatient re-evaluation is a safe and effective means of improving diagnostic accuracy and helps to adapt management for patients that are not admitted to the hospital after surgical consultation for acute abdominal pain at the emergency department. ### Imaging strategies for detection of urgent conditions in patients with acute abdominal pain: diagnostic accuracy study. Although CT is the most sensitive imaging investigation for detecting urgent conditions in patients with abdominal pain, using Ultrasonography first and CT only in those with negative or inconclusive ultrasonography results in the best sensitivity and lowers exposure to radiation.
+
+--- FUENTE WEB ---
+Título: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+URL: https://www.saem.org/publications/academic-emergency-medicine/grace/grace-2
+Score: 0.6549173
+
+Texto:
+Title: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+Society for Academic Emergency Medicine Logo | SAEM. # GRACE-2. The SAEM GRACE program addresses the best practices for the care of the most common chief complaints that can be seen on the tracking board of any emergency department in the country, based upon research and expert consensus. These guidelines are designed with de-implementation as a guiding principle to reasonably reduce wasteful testing, provide explicit criteria to reduce foreseeable risk, and define sensible and prudent medical care. Abdominal pain has consistently remained the most frequent chief complaint in United States emergency departments (EDs) from 2009 to 2018. The evaluation of acute abdominal pain requires substantial ED resources, including imaging, laboratory studies, nursing care, time, and patient care space. Despite the intensity of diagnostic testing, most patients presenting with abdominal pain do not receive a specific diagnosis in the ED and are discharged. National data on ED presentations for recurrent abdominal pain are limited. Little guidance is available to emergency physicians evaluating and treating patients with recurrent and undifferentiated abdominal pain. Without guidelines for care, variance in practice could result in lower quality care, including risks of over- or under-testing, misdiagnosis, adverse effects of over- or under-treatment, higher costs, greater length of stay, and lower patient satisfaction. The purpose of the second Guideline for Reasonable and Appropriate Care in the Emergency Department (GRACE-2) is to provide an evidence-based, patient-centric approach for clinicians in their evaluation and management of adult patients with low-risk, recurrent, undifferentiated abdominal pain in the ED. The GRACE-2 panel reached the following recommendations:. ##### Read the full article:  GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department. ##### Podcast: GRACE-2 Podcast on The Skeptics Guide to Emergency Medicine. GRACE-2 Abdominal Pain DRAFT. #### Guideline Infographics. #### Patient Information Handout. #### Related Articles. #### Press Release. #### Other GRACE Guidelines. GRACE-1: Recurrent, Low-Risk Chest Pain in the ED. GRACE-3: Acute Dizziness in the ED. GRACE-4: Alcohol Use Disorder and Cannabis Hyperemesis Management in the Emergency Department. Society for Academic Emergency Medicine logo. 1111 East Touhy Ave, Suite 540, Des Plaines, IL 60018. Phone: 847.257.7236 Fax: 847.813.5450.
+
+--- FUENTE WEB ---
+Título: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+URL: https://saem.org/publications/grace/grace-2/SignOut
+Score: 0.6549173
+
+Texto:
+Title: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+Society for Academic Emergency Medicine Logo | SAEM. # GRACE-2. The SAEM GRACE program addresses the best practices for the care of the most common chief complaints that can be seen on the tracking board of any emergency department in the country, based upon research and expert consensus. These guidelines are designed with de-implementation as a guiding principle to reasonably reduce wasteful testing, provide explicit criteria to reduce foreseeable risk, and define sensible and prudent medical care. Abdominal pain has consistently remained the most frequent chief complaint in United States emergency departments (EDs) from 2009 to 2018. The evaluation of acute abdominal pain requires substantial ED resources, including imaging, laboratory studies, nursing care, time, and patient care space. Despite the intensity of diagnostic testing, most patients presenting with abdominal pain do not receive a specific diagnosis in the ED and are discharged. National data on ED presentations for recurrent abdominal pain are limited. Little guidance is available to emergency physicians evaluating and treating patients with recurrent and undifferentiated abdominal pain. Without guidelines for care, variance in practice could result in lower quality care, including risks of over- or under-testing, misdiagnosis, adverse effects of over- or under-treatment, higher costs, greater length of stay, and lower patient satisfaction. The purpose of the second Guideline for Reasonable and Appropriate Care in the Emergency Department (GRACE-2) is to provide an evidence-based, patient-centric approach for clinicians in their evaluation and management of adult patients with low-risk, recurrent, undifferentiated abdominal pain in the ED. The GRACE-2 panel reached the following recommendations:. ##### Read the full article:  GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department. ##### Podcast: GRACE-2 Podcast on The Skeptics Guide to Emergency Medicine. GRACE-2 Abdominal Pain DRAFT. #### Guideline Infographics. #### Patient Information Handout. #### Related Articles. #### Press Release. #### Other GRACE Guidelines. GRACE-1: Recurrent, Low-Risk Chest Pain in the ED. GRACE-3: Acute Dizziness in the ED. GRACE-4: Alcohol Use Disorder and Cannabis Hyperemesis Management in the Emergency Department. Society for Academic Emergency Medicine logo. 1111 East Touhy Ave, Suite 540, Des Plaines, IL 60018. Phone: 847.257.7236 Fax: 847.813.5450.
+
+--- FUENTE WEB ---
+Título: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+URL: https://www.saem.org/publications/grace/grace-2/SignOut
+Score: 0.6549173
+
+Texto:
+Title: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+Society for Academic Emergency Medicine Logo | SAEM. # GRACE-2. The SAEM GRACE program addresses the best practices for the care of the most common chief complaints that can be seen on the tracking board of any emergency department in the country, based upon research and expert consensus. These guidelines are designed with de-implementation as a guiding principle to reasonably reduce wasteful testing, provide explicit criteria to reduce foreseeable risk, and define sensible and prudent medical care. Abdominal pain has consistently remained the most frequent chief complaint in United States emergency departments (EDs) from 2009 to 2018. The evaluation of acute abdominal pain requires substantial ED resources, including imaging, laboratory studies, nursing care, time, and patient care space. Despite the intensity of diagnostic testing, most patients presenting with abdominal pain do not receive a specific diagnosis in the ED and are discharged. National data on ED presentations for recurrent abdominal pain are limited. Little guidance is available to emergency physicians evaluating and treating patients with recurrent and undifferentiated abdominal pain. Without guidelines for care, variance in practice could result in lower quality care, including risks of over- or under-testing, misdiagnosis, adverse effects of over- or under-treatment, higher costs, greater length of stay, and lower patient satisfaction. The purpose of the second Guideline for Reasonable and Appropriate Care in the Emergency Department (GRACE-2) is to provide an evidence-based, patient-centric approach for clinicians in their evaluation and management of adult patients with low-risk, recurrent, undifferentiated abdominal pain in the ED. The GRACE-2 panel reached the following recommendations:. ##### Read the full article:  GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department. ##### Podcast: GRACE-2 Podcast on The Skeptics Guide to Emergency Medicine. GRACE-2 Abdominal Pain DRAFT. #### Guideline Infographics. #### Patient Information Handout. #### Related Articles. #### Press Release. #### Other GRACE Guidelines. GRACE-1: Recurrent, Low-Risk Chest Pain in the ED. GRACE-3: Acute Dizziness in the ED. GRACE-4: Alcohol Use Disorder and Cannabis Hyperemesis Management in the Emergency Department. Society for Academic Emergency Medicine logo. 1111 East Touhy Ave, Suite 540, Des Plaines, IL 60018. Phone: 847.257.7236 Fax: 847.813.5450.
+
+--- FUENTE WEB ---
+Título: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+URL: http://saem.org/publications/grace/grace-2
+Score: 0.6549173
+
+Texto:
+Title: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+Society for Academic Emergency Medicine Logo | SAEM. # GRACE-2. The SAEM GRACE program addresses the best practices for the care of the most common chief complaints that can be seen on the tracking board of any emergency department in the country, based upon research and expert consensus. These guidelines are designed with de-implementation as a guiding principle to reasonably reduce wasteful testing, provide explicit criteria to reduce foreseeable risk, and define sensible and prudent medical care. Abdominal pain has consistently remained the most frequent chief complaint in United States emergency departments (EDs) from 2009 to 2018. The evaluation of acute abdominal pain requires substantial ED resources, including imaging, laboratory studies, nursing care, time, and patient care space. Despite the intensity of diagnostic testing, most patients presenting with abdominal pain do not receive a specific diagnosis in the ED and are discharged. National data on ED presentations for recurrent abdominal pain are limited. Little guidance is available to emergency physicians evaluating and treating patients with recurrent and undifferentiated abdominal pain. Without guidelines for care, variance in practice could result in lower quality care, including risks of over- or under-testing, misdiagnosis, adverse effects of over- or under-treatment, higher costs, greater length of stay, and lower patient satisfaction. The purpose of the second Guideline for Reasonable and Appropriate Care in the Emergency Department (GRACE-2) is to provide an evidence-based, patient-centric approach for clinicians in their evaluation and management of adult patients with low-risk, recurrent, undifferentiated abdominal pain in the ED. The GRACE-2 panel reached the following recommendations:. ##### Read the full article:  GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department. ##### Podcast: GRACE-2 Podcast on The Skeptics Guide to Emergency Medicine. GRACE-2 Abdominal Pain DRAFT. #### Guideline Infographics. #### Patient Information Handout. #### Related Articles. #### Press Release. #### Other GRACE Guidelines. GRACE-1: Recurrent, Low-Risk Chest Pain in the ED. GRACE-3: Acute Dizziness in the ED. GRACE-4: Alcohol Use Disorder and Cannabis Hyperemesis Management in the Emergency Department. Society for Academic Emergency Medicine logo. 1111 East Touhy Ave, Suite 540, Des Plaines, IL 60018. Phone: 847.257.7236 Fax: 847.813.5450.
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
