@@ -1,0 +1,561 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: point of care ultrasound in undifferentiated shock
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: The Role of PoCUS in the Diagnosis and Early Monitoring of Cardiogenic Shock in the Emergency Department: A Narrative Review.
+Revista: Reviews in cardiovascular medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42694896
+DOI: 10.1097/CCE.0000000000001388
+URL: https://pubmed.ncbi.nlm.nih.gov/42694896/
+
+Abstract:
+Cardiogenic shock (CS) is the most serious heart failure manifestation, characterised by a significant risk of morbidity and mortality despite improving diagnosis and treatment: early recognition and accurate hemodynamic phenotypization are crucial to improve its poor prognosis. Recently, point-of-care ultrasound (PoCUS) has evolved as a key method in emergency settings for fast shock assessment. Evidence indicates that PoCUS improves the clinician's diagnostic accuracy by identifying ventricular dysfunction, valvular disease, complications of myocardial infarction, loading conditions, and systemic congestion. Multiorgan protocols that combine cardiac, pulmonary, and vascular assessments enable differentiation among cardiogenic, obstructive, hypovolemic, and distributive shock. Echocardiographic parameters-including ventricular function, volume indices, and dynamic measures such as stroke volume and cardiac output-can guide fluid management, vasoactive therapy, and circulatory support. Limitations include operator dependence and potential imaging challenges due to patient factors. When combined with clinical and laboratory data, PoCUS is a fundamental tool for early CS assessment. With this paper, we aimed to describe the role of PoCUS in the differential diagnosis of undifferentiated shock, confirming or ruling out CS, assessing CS prognosis, guiding appropriate treatment and enabling hemodynamic monitoring. Integrating PoCUS elements with validated classifications, such as the Society for Cardiovascular Angiography and Interventions (SCAI) CS stages, can be useful for improving CS management. This review highlights validated PoCUS markers, practical PoCUS applications within the SCAI framework, and areas for further research, emphasising the increasing role of PoCUS in personalised, physiology-guided management of CS in the emergency department.
+
+--- PAPER PUBMED ---
+Título: Optimizing the use of critical care echocardiography: from point-of-care tool to monitoring modality.
+Revista: Current opinion in critical care
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42669186
+DOI: 10.1097/MCC.0000000000001423
+URL: https://pubmed.ncbi.nlm.nih.gov/42669186/
+
+Abstract:
+To summarize latest evidence on the use of critical care echocardiography for haemodynamic management of the critically ill patient. Echocardiography is now considered a cornerstone for hemodynamic management and is recommended by recent guidelines. Its ability to quickly assess undifferentiated shock helps clinicians in diagnosis and immediate management. In stabilizing and optimizing treatment of the shocked patient, serial echocardiography guides fluid, vasopressor, and inotrope therapy while allowing detailed assessment of cardiac structure and function. Echocardiography may be used to assess fluid-responsiveness and myocardial function, conversely, echocardiography and ultrasonography can identify patients who are at risk of harm induced by fluid overload, mechanical ventilation and inotropes, allowing further refinement of therapeutic strategies. When continuous cardiac output monitoring or advanced haemodynamic data are required, echocardiography should be complemented with continuous haemodynamic monitoring rather than used alone. We provide a framework for the optimal use of critical care echocardiography, from a point-of-care tool to a sophisticated hemodynamic monitor.
+
+--- PAPER PUBMED ---
+Título: [Prehospital point-of-care ultrasound (pPOCUS): "See, decide, act" : Evidence, training concepts, and the role of pPOCUS in the acute assessment of traumatic and nontraumatic emergencies].
+Revista: Medizinische Klinik, Intensivmedizin und Notfallmedizin
+Fecha: 2026
+Tipo: English Abstract, Journal Article, Review
+PMID: 42458004
+DOI: 10.1186/s13049-021-00985-0
+URL: https://pubmed.ncbi.nlm.nih.gov/42458004/
+
+Abstract:
+Prehospital point-of-care ultrasound (pPOCUS) enables focused sonography for immediate management-relevant clinical questions. To summarize the role of pPOCUS in traumatic and nontraumatic emergencies with regard to evidence, indications, training, and limitations. pPOCUS may provide clinically relevant adjunctive information in trauma, acute dyspnea, chest pain, undifferentiated shock, resuscitation, and selected procedural settings. Current evidence supports its feasibility and frequent impact on management decisions, whereas robust data on patient-centered outcomes remain limited. The clinical benefit of pPOCUS depends on appropriate indications, integration into team workflows, structured training, documentation, and quality assurance. pPOCUS should be regarded as focused decision support rather than as an exclusionary diagnostic modality. HINTERGRUND: Die präklinische Point-of-Care-Sonographie (pPOCUS) ergänzt die Akutversorgung um eine fokussierte Sonographie zur Beantwortung unmittelbar handlungsrelevanter Fragestellungen. ZIEL: Darstellung des Stellenwerts von pPOCUS in der Versorgung traumatologischer und nichttraumatologischer Notfälle unter Berücksichtigung von Evidenz, Indikationen, Ausbildung und Limitationen. Die pPOCUS kann bei Trauma, akuter Dyspnoe, Thoraxschmerz, unklarem Schock, Reanimation und ausgewählten Interventionen entscheidungsrelevante Zusatzinformationen liefern. Die verfügbare Evidenz zeigt eine gute Machbarkeit und einen häufigen Einfluss auf den Einsatzverlauf; belastbare Daten zu patientenzentrierten Endpunkten bleiben jedoch begrenzt. Der klinische Nutzen von pPOCUS hängt von einer klaren Indikationsstellung, der Integration in den Teamworkflow, strukturierter Ausbildung, Dokumentation und Qualitätssicherung ab. Die pPOCUS ist Entscheidungs- und keine Ausschlussdiagnostik.
+
+--- PAPER PUBMED ---
+Título: Pre-hospital and emergency department point-of-care ultrasound in cardiovascular emergencies: a scoping review.
+Revista: Cardiovascular diagnosis and therapy
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42428657
+DOI: 10.1016/j.annemergmed.2025.04.002
+URL: https://pubmed.ncbi.nlm.nih.gov/42428657/
+
+Abstract:
+Point-of-care ultrasound (POCUS) is integral to emergency department (ED) and pre-hospital medicine, yet evidence comparing its diagnostic and operational performance across environments remains fragmented, especially in cardiovascular emergencies. This review aimed to evaluate and compare the diagnostic performance, workflow impact, and clinical influence of POCUS for six major cardiovascular emergencies across pre-hospital and ED settings, while examining the effects of operator training, device technology, and governance structures. A structured scoping review search was conducted using multiple electronic databases to identify adult studies evaluating pre-hospital or ED POCUS in cardiac arrest, cardiac tamponade, acute heart failure, shock, pneumothorax, and aortic dissection. Eligible designs included randomised, prospective, and observational studies reporting diagnostic accuracy, process efficiency, management impact, or outcomes. Data were synthesised comparatively rather than pooled. ED POCUS demonstrated high diagnostic accuracy (typically >85-90%) and shortened time to diagnosis or intervention by 30-70 minutes in acute heart failure, pneumothorax, tamponade, and dissection representing meaningful process improvements. However, as seen in conditions like undifferentiated shock, these process gains do not consistently translate into improved patient-centred outcomes such as survival or reduced hospital length of stay. Pre-hospital POCUS achieved adequate views in 70-90% of cases and frequently changed triage or destination decisions (10-50%), though mortality effects were neutral across studies with follow-up data. Cardiac-arrest POCUS provided strong prognostic value but required disciplined choreography to avoid interrupting compressions. Device miniaturisation and brief targeted training enabled field feasibility, while structured curricula, image archiving, and quality assurance (QA) underpinned safety and accuracy. POCUS consistently improves diagnostic efficiency and decision-making in both ED and pre-hospital settings. However, evidence that these gains translate into improved patient-centred outcomes remains limited. Future research should focus on protocolised POCUS pathways integrated with governance structures and system-level responses.
+
+--- PAPER PUBMED ---
+Título: Point-of-care Ultrasound after Cardiac Surgery: Understanding the Congestion Cascade.
+Revista: Cardiology clinics
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42399041
+DOI: 10.1016/j.ccl.2026.05.009
+URL: https://pubmed.ncbi.nlm.nih.gov/42399041/
+
+Abstract:
+Point-of-care ultrasound (POCUS) is an essential tool in perioperative and cardiac critical care, providing rapid, bedside evaluation of cardiac function, pulmonary pathology, and volume status. This article introduces a protocolized, whole-body POCUS approach centered on the sonographic congestion cascade, conceptualizing the cardiopulmonary venous system as a continuous physiologic unit. By integrating cardiac, lung, and multisite venous Doppler findings, clinicians can identify shock etiologies, characterize congestion phenotypes, and guide individualized, physiology-driven management in patients with undifferentiated shock and respiratory failure.
+
+--- PAPER PUBMED ---
+Título: Defining the scope of point-of-care ultrasound in internal medicine: a consensus statement by the point-of-care special interest group of the Internal Medicine Society of Australia and New Zealand.
+Revista: Internal medicine journal
+Fecha: 2025
+Tipo: Journal Article, Consensus Statement
+PMID: 40568951
+DOI: 10.1111/imj.70127
+URL: https://pubmed.ncbi.nlm.nih.gov/40568951/
+
+Abstract:
+Point-of-care ultrasound (POCUS) complements physical examination to advance diagnosis and treatment in a range of clinical scenarios. However, the scope for adult internal medicine physicians is not defined in Australia and New Zealand. To outline the clinical scope and core competencies of POCUS for internal medicine physicians in Australia and New Zealand using a consensus process. A steering committee and expert panel utilised the Delphi method, comprising rounds of questionnaires and anonymous feedback, to define scope by determining (i) clinical scenarios in which POCUS provides benefit and (ii) core competencies in scanning. An 80% agreement cut-off was used in each round for both inclusion and exclusion of items, and items could be added depending on feedback. Synthesis of qualitative feedback was included. The expert panel endorsed the use of POCUS in eight clinical scenarios: assessment of fluid status, undifferentiated shock or hypotension, dyspnoea/respiratory failure, acute kidney injury, suspected venous thromboembolism, synovitis/joint effusion and for guiding invasive procedures and diuretic therapy in heart failure. Core competencies based on identification of organ system pathology were endorsed, incorporating abnormalities of the heart, lung, inferior vena cava, abdomen, peripheral veins, soft tissue collection and joint effusion. The consensus intended not to mandate POCUS use nor limit the scope for physicians with advanced training, but offer a structured schema. We successfully established a consensus on the POCUS scope for internal medicine in our region. This provides a foundation to develop formal training and credentialing.
+
+--- PAPER PUBMED ---
+Título: Point-of-Care Ultrasound: A Vital Tool for Anesthesiologists in the Perioperative and Critical Care Settings.
+Revista: Cureus
+Fecha: 2024
+Tipo: Journal Article, Review
+PMID: 39280520
+DOI: 10.7759/cureus.66908
+URL: https://pubmed.ncbi.nlm.nih.gov/39280520/
+
+Abstract:
+Point-of-care ultrasound (POCUS) is an essential skill in various specialties like anesthesiology, critical care, and emergency medicine. Anesthesiologists utilize POCUS for quick diagnosis and procedural guidance in perioperative and critical care settings. Key applications include vascular ultrasound for challenging venous and arterial catheter placements, gastric ultrasound for aspiration risk assessment, airway ultrasound, diaphragm ultrasound, and lung ultrasound for respiratory assessment. Additional utilities of POCUS can include multi-organ POCUS evaluation for undifferentiated shock or cardiac arrest, ultrasound-guided central neuraxial and peripheral nerve blocks, focused cardiac ultrasound, and novel applications such as venous excess ultrasound. This review highlights these POCUS applications in perioperative and intensive care and summarizes the latest evidence of their accuracy and limitations.
+
+--- PAPER PUBMED ---
+Título: Advances in Point-of-Care Ultrasound in Pediatric Acute Care Medicine.
+Revista: Indian journal of pediatrics
+Fecha: 2025
+Tipo: Journal Article, Review
+PMID: 38842749
+DOI: 10.3390/diagnostics13030535
+URL: https://pubmed.ncbi.nlm.nih.gov/38842749/
+
+Abstract:
+Pediatric point-of-care ultrasonography (POCUS) has grown in utilization and is now an integral part of pediatric acute care. Applications within the pediatric critical care, neonatology and pediatric emergency were once limited to evaluation of undifferentiated shock states, abdominal free fluid assessments in trauma resuscitation and procedural guidance. The body of pediatric POCUS literature is ever expanding and recently published international consensus guidelines are available to guide implementation into clinical practice. The authors present a review of emerging applications and controversies within thoracic, hemodynamic, neurologic, and ocular POCUS in pediatric acute care medicine.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: In adult Emergency Department patients with undifferentiated shock, does point-of-care ultrasound improve diagnostic accuracy compared with standard clinical assessment alone? – bestBETs
+URL: https://www.bestbets.org/bets/in-adult-emergency-department-patients-with-undifferentiated-shock-does-point-of-care-ultrasound-improve-diagnostic-accuracy-compared-with-standard-clinical-assessment-alone
+Score: 0.84246206
+
+Texto:
+[Skip to content](#primary)
+
+
+
+
+# In adult Emergency Department patients with undifferentiated shock, does point-of-care ultrasound improve diagnostic accuracy compared with standard clinical assessment alone?
+
+Date First Published:
+
+July 17, 2026
+
+Last Updated:
+
+July 17, 2026
+
+Report by:
+
+Malik awan, Momina Shafique, SPR, CF (TAMESIDE AND GLOSSOP NHS TRUST)
+
+Search checked by:
+
+Malik Awan, SPR
+
+Three-Part Question:
+
+In adult patients presenting to the Emergency Department with undifferentiated shock, does point-of-care ultrasound (POCUS) improve diagnostic accuracy and reduce time to diagnosis compared with standard clinical assessment alone?
+
+Clinical Scenario:
+
+A 72-year-old man presents to the Emergency Department with hypotension, tachycardia, and confusion. Clinical examination suggests shock, but the underlying cause remains unclear. Differential diagnoses include septic shock, cardiogenic shock, hypovolaemic shock, and obstructive shock. Rapid identification of the aetiology is essential to guide treatment. You wonder whether bedside POCUS can improve the accuracy and speed of diagnosis compared with standard assessment based on history, physical examination, ECG, laboratory investigations, and conventional imaging.
+
+Search Strategy:
+
+("point-of-care ultrasound" OR POCUS OR bedside ultrasound  
+ OR focused cardiac ultrasound OR FoCUS OR RUSH protocol)  
+   
+ AND  
+   
+ (shock OR hypotension OR undifferentiated shock)  
+   
+ AND  
+   
+ (emergency department OR emergency medicine  
+ OR emergency service)
+
+Search Details:
+
+A comprehensive literature search was performed on 7 July 2026 using PubMed/MEDLINE, Embase, Cochrane Library, Scopus, Web of Science, BMJ Evidence Search, BestBETs, and Google Scholar. Search terms included “point-of-care ultrasound”, “POCUS”, “bedside ultrasound”, “focused cardiac ultrasound”, “RUSH protocol”, “shock”, “hypotension”, “undifferentiated shock”, and “emergency department”. Human adult studies published in English between 2000 and 2026 were included. Reference lists of relevant articles and reviews were manually searched to identify additional studies. Relevant emergency medicine ultrasound guidelines were also reviewed.
+
+Outcome:
+
+The search yielded multiple studies and reviews examining the role of POCUS in patients with undifferentiated shock.  
+ Emergency ultrasound guidelines published by the American College of Emergency Physicians identify POCUS as a core component of Emergency Medicine and support its use in evaluating suspected shock states. These guidelines report improved diagnostic accuracy across a range of clinical presentations including dyspnoea, shock, and cardiac pathology. [ijsra.net], [cureus.com]  
+ Recent narrative reviews have concluded that multi-organ POCUS protocols incorporating cardiac, lung, abdominal, and inferior vena cava assessment provide rapid bedside information that assists differentiation between cardiogenic, hypovolaemic, obstructive, and distributive shock.
+
+Relevant Paper(s):
+
+| Study Title | Patient Group | Study type (level of evidence) | Outcomes | Key results | Study Weaknesses |
+| --- | --- | --- | --- | --- | --- |
+| Sonography in Hypotension and Cardiac Arrest (SHoC): Rates of Abnormal Findings in Undifferentiated Hypotension and During Cardiac Arrest as a Basis for Consensus on a Hierarchical Point of Care Ultrasound Protocol James Milne 1, Paul Atkinson 2,3,✉, David Lewis 3, Jacqueline Fraser 2,4, Laura Diegelmann 5, Paul Olszynski 6, Melanie Stander 7, Hein Lamprecht 8 April, 2016 Canada | Adult patients presenting with undifferentiated hypotension/shock and patients in cardiac arrest. Data were derived from published studies evaluating point-of-care ultrasound findings in these patient groups. | Systematic Review and Consensus-Based Protocol Development Study. The study reviewed the frequency of abnormal ultrasound findings in hypotension and cardiac arrest to develop a hierarchical SHoC (Sonography in Hypotension and Cardiac Arrest) ultrasound protocol. | Identification of common ultrasound abnormalities in shock and cardiac arrest; development of a prioritised ultrasound protocol to guide clinicians during resuscitation. | The study found that the most frequently reported and clinically relevant abnormalities involved the heart, including pericardial effusion, right ventricular strain, poor left ventricular function, and cardiac standstill. Based on these findings, the authors proposed a hierarchical SHoC protocol prioritising core cardiac views followed by targeted lung, IVC, and abdominal ultrasound examinations. The protocol aimed to improve diagnostic efficiency and reduce unnecessary scanning during time-critical resuscitation | Not a primary prospective diagnostic study. Relied on data from previously published studies with varying methodologies and patient populations. Significant heterogeneity among included studies. No direct assessment of diagnostic accuracy, mortality, or patient-centred outcomes. Recommendations were partly based on expert consensus rather than high-level comparative evidence. Operator dependency remains a potential limitation. |
+| The diagnostic accuracy of a point-of-care ultrasound protocol for shock etiology: A systematic review and meta-analysis Sean P Stickles 1, Christopher R Carpenter 1, Robert Gekle 2, Chadd K Kraus 3, Caryn Scoville 4, Daniel Theodoro 1, Vu Huy Tran 5, George Ubiñas 6, Christopher Raio 2 Jan 2019 USA/ CANADA | Patients presenting to the Emergency Department with undifferentiated shock. Four studies were included in the meta-analysis assessing POCUS protocols (predominantly RUSH-based approaches). | ystematic Review and Meta-analysis of studies evaluating the diagnostic accuracy of POCUS for determining shock aetiology. A total of 5,097 records were screened, with 4 studies included in the final analysis. | Diagnostic accuracy of POCUS for identifying shock subtype (hypovolaemic, cardiogenic, distributive, obstructive, and mixed shock). | POC
+
+--- FUENTE WEB ---
+Título: Updates on the clinical integration of point-of-care ultrasound in pediatric emergency medicine - PubMed
+URL: https://pubmed.ncbi.nlm.nih.gov/38411588
+Score: 0.8325776
+
+Texto:
+Title: Updates on the clinical integration of point-of-care ultrasound in pediatric emergency medicine - PubMed
+An official website of the United States government. Federal government websites often end in .gov or .mil. The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. ## Save citation to file. ## Email citation. Go to  My NCBI account settings  to confirm your email and then refresh this page. ### Add to Collections. ### Add to My Bibliography. # Updates on the clinical integration of point-of-care ultrasound in pediatric emergency medicine. # Updates on the clinical integration of point-of-care ultrasound in pediatric emergency medicine. Michelle Sin Lee et al. **Purpose of review:**  There is expanding evidence for point-of-care ultrasound (POCUS) use in pediatric emergency medicine - this review highlights the benefits and challenges in the clinical integration of high-yield POCUS applications. Specifically, it will delve into POCUS applications during resuscitations, controversies of Focused Assessment with Sonography for Trauma (FAST) in pediatric trauma, POCUS-guided procedures, and examples of clinical pathways where POCUS can expedite definitive care. **Recent findings:**  POCUS can enhance diagnostic accuracy and aid in management of pediatric patients in shock and help identify reversible causes during cardiac arrest. The use of the FAST in pediatric blunt abdominal trauma remains nuanced - its proper use requires an integration with clinical findings and an appreciation of its limitations. Integrating POCUS into pathways for conditions such as intussusception and testicular torsion expedites downstream care. **Summary:**  POCUS enhances diagnostic efficiency and management in pediatric patients arriving at the ED with undifferentiated shock, cardiac arrest, or trauma. Additionally, POCUS improves procedural success and safety, and is integral to clinical pathways for expediting definitive care for various pediatric emergencies. Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved. Advances in point-of-care ultrasound in pediatric emergency medicine. Yoshida T, Yoshida T, Noma H, et al. Diagnostic accuracy of point-of-care ultrasound for shock: a systematic review and meta-analysis. Verras C, Ventoulis I, Bezati S, et al. Point of care ultrasonography for the septic patient in the emergency department: a literature review. Stickles SP, Carpenter CR, Gekle R, et al. The diagnostic accuracy of a point-of-care ultrasound protocol for shock etiology: a systematic review and meta-analysis.
+
+--- FUENTE WEB ---
+Título: A Systemic Review on the Diagnostic Accuracy of Point-of-Care Ultrasound in Patients With Undifferentiated Shock in the Emergency Department
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9009815
+Score: 0.7933146
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC9009815#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: Cureus logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-cureus.png)
+
+Cureus
+
+. 2022 Mar 15;14(3):e23188. doi: [10.7759/cureus.23188](https://doi.org/10.7759/cureus.23188)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Cureus%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Cureus%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Cureus%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC9009815?term=%22Cureus%22[jour])
+
+# A Systemic Review on the Diagnostic Accuracy of Point-of-Care Ultrasound in Patients With Undifferentiated Shock in the Emergency Department
+
+Editor: Alexander Muacevic, John R Adler
+
+*   Author information
+*   Article notes
+*   Copyright and License information
+
+1 Emergency Medicine Department, Haaglanden Medical Centre, The Hague, NLD 
+
+2 Emergency Medicine Department, University Hospital Leuven, Leuven, BEL 
+
+3 Division of Emergency Medicine, Stellenbosch University, Cape Town, ZAF 
+
+4 Emergency Medicine Department, Hôpital Charleslemoyne, Montreal, CAN 
+
+5 Respiratory Medicine Department, Hôpital Charleslemoyne, Montreal, CAN 
+
+6 Emergency Medicine Department, Erasmus Medical Center, Rotterdam, NLD 
+
+✉
+Ingvar Berg i.berg@haaglandenmc.nl
+
+Accepted 2022 Mar 14
+
+Copyright © 2022, Berg et al.
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+[PMC Copyright notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC9009815 PMID: [35444920](https://pubmed.ncbi.nlm.nih.gov/35444920/)
+
+## [](https://pmc.ncbi.nlm.nih.gov/articles/PMC9009815)Abstract
+
+Early identification of the shock type and correct diagnosis is associated with better outcomes. Previous studies have suggested that point-of-care ultrasound (POCUS) increases the diagnostic accuracy of patients in undifferentiated shock. However, a complete overview of the diagnostic accuracy of POCUS and the related treatment changes when compared to standard care is still limited. Our objective was to compare POCUS against standard practice regarding the diagnostic accuracy and specific therapeutic management changes (fluid volume administration and vasopressor use) in patients with undifferentiated shock in the emergency department (ED).
+
+We conducted a systematic review in concordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses. A systematic search was performed using Embase, PubMed, Cochran
+
+--- FUENTE WEB ---
+Título: Undifferentiated Shock – Diagnosis and Treatment : Emergency Care BC
+URL: https://emergencycarebc.ca/clinical_resource/clinical-summary/undifferentiated-shock-diagnosis-and-treatment
+Score: 0.72605723
+
+Texto:
+[![Logo](https://emergencycarebc.ca/wp-content/themes/emn/images/logo_ecbc.svg)](https://emergencycarebc.ca)
+
+MenuBack
+
+# POINT-OF-CARE EMERGENCY CLINICAL SUMMARY
+
+## Member Login
+
+![close-x-white](https://emergencycarebc.ca/wp-content/themes/emn/images/icons/icon-exit.svg)
+
+You must be a logged in member to see the content you clicked on.
+
+[![](https://emergencycarebc.ca/wp-content/themes/emn/images/global-symbols/reply-icon.svg)
+
+Go back](javascript:history.back();)
+
+## INDEX
+
+[![Logo](https://emergencycarebc.ca/wp-content/themes/emn/images/logo.svg)](https://emergencycarebc.ca)
+
+## Undifferentiated Shock – Diagnosis and Treatment
+
+Cardinal Presentations / Presenting Problems, Critical Care / Resuscitation
+
+Last Reviewed on Feb 17, 2022
+
+Read Disclaimer
+
+By  [Samantha Jang-Stewart](#),Kevin Choi
+
+## Context
+
+* Shock is a state of acute cardiocirculatory failure resulting in end-organ hypoxia and dysfunction.
+* Promptly recognizing and treating shock is important as it is associated with high mortality
+* Shock has many etiologies and is the final common pathway of death.
+* Approach to undifferentiated shock requires simultaneous resuscitation and investigation.
+
+![](https://www.bcemergencynetwork.ca/wp-content/uploads/2022/12/table-shock.jpg)
+
+Table 1 Categories of shock
+
+## Diagnostic Process
+
+Approach to undifferentiated shock
+
+1. Recognize shock.
+
+* No single clinical finding or investigation can rule in or rule out shock. Diagnosis is based on a combination of clinical findings.
+* Shock is commonly associated with hypotension, but it can also occur with normal blood pressure.
+* Shock red flags
+  + Ill appearance.
+  + Altered mental status.
+  + HR > 100, MAP < 65, SBP < 90, shock index (SI) > 0.8.
+  + RR > 20.
+  + Urine output < 0.5 ml/kg/h.
+  + Skin – cool peripheries, mottling, urticaria.
+  + Lactate > 4 mM/L or arterial base deficit < -4mEq/L.
+
+1. Primary survey (ABCDE)
+
+* **Airway**: assess airway patency.
+* **Breathing**: assess oxygenation and ventilation.
+  + Consider the need for intubation and mechanical ventilation. Minimize induction agents to avoid hemodynamic collapse.
+* **Circulation**: assess pulse, BP, telemetry, signs of obvious bleeding.
+  + Obtain large bore peripheral IV access. Obtain intraosseous access if peripheral IV access is difficult. Do not delay resuscitation for central line access.
+* **Disability**: assess for level of consciousness and signs of spinal cord injury.
+* **Exposure:** assess skin for urticaria, angioedema (signs of anaphylaxis).
+* **Rule out conditions requiring immediate intervention**: tension pneumothorax, massive hemothorax, cardiac tamponade, MI, significant arrhythmias, massive PE, anaphylaxis, hypovolemia.
+
+1. Initiate empiric resuscitation unless the cause of shock is clear and is rapidly reversed.
+
+* Fluid resuscitation.
+  + Fluid challenge with 300-500 ml of a crystalloid solution over 20-30 min. Repeat according to fluid responsiveness based on changes in BP, HR, urine output.
+  + Be cautious with excessive fluid administration, especially if suspecting cardiogenic shock or massive PE.
+  + Colloids like albumin are theoretically better intravascular volume expanders but there is no evidence of mortality benefit over crystalloids.
+
+* Consider vasoactive agents if hypotension persists (MAP <65) despite fluid resuscitation.
+  + Typical first line agent is norepinephrine with initial dose of 0.2 mcg/kg/min. Norepinephrine can initially be given through peripheral IV until central line access is available.
+  + Vasopressin and epinephrine infusions can be used as second-line agents for severe cases of shock.
+* Consider the use of inotropes if suspecting cardiogenic shock. Dobutamine is commonly used as a first line agent.
+* Start broad-spectrum antibiotics if suspecting sepsis. Early antibiotic therapy improves outcomes in sepsis.
+* Consider empiric corticosteroids for chronic steroid users or shock refractory to vasopressors and fluid resuscitation. Options include dexamethasone 6 mg IV or hydrocortisone 100 mg IV.
+* Sodium bicarbonate therapy for severe metabolic acidosis is commonly used but there is no evidence of mortality benefit.
+
+1. Secondary survey focused on determining the cause of shock.
+
+* History: trauma, infection, immunosuppression, corticosteroid use, exposure to allergen, chest pain, toxic ingestions.
+* Head to toe examination.
+* Point of care ultrasound (FAST, RUSH).
+  + Recent systematic review suggests ultrasound measurement of IVC is not a reliable indicator of volume status.
+* Suggested initial investigations.
+  + Blood tests: ABG, lactate, CBC, serum chemistry, LFT, troponin, BNP, coagulation studies.
+  + ECG – ACS.
+  + CXR – heart failure or pneumonia.
+  + CT scan depending on working differential.
+* Consider placing arterial line and/or central line.
+
+1. Reassess indicators of adequate hemodynamic support.
+
+* MAP > 65 with clinical signs of adequate tissue perfusion (mental status, skin appearance, urine output).
+* Decreasing serial lactate measurements.
+
+6. Transition to ICU.
+
+## Quality Of Evidence*?*
+
+![](https://emergencycarebc.ca/wp-content/themes/emn/images/global-symbols/close-x-white.svg)
+
+### High
+
+We are highly confident that the true effect lies close to that of the estimate of the effect. There is a wide range of studies included in the analyses with no major limitations, there is little variation between studies, and the summary estimate has a narrow confidence interval.
+
+### Moderate
+
+We consider that the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different. There are only a few studies and some have limitations but not major flaws, there are some variations between studies, or the confidence interval of the summary estimate is wide.
+
+### Low
+
+When the true effect may be substantially different from the estimate of the effect. The studies have major flaws, there is important variations between studies, of the confidence in
+
+--- FUENTE WEB ---
+Título: Does Point of Care Ultrasound Improve Resuscitation Markers in Undifferentiated Hypotension? An International Randomized Controlled Trial From The Sonography in Hypotension and Cardiac Arrest in the Emergency Department (SHoC-ED) Series - PMC
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7505535
+Score: 0.7092009
+
+Texto:
+Find articles by Paul Atkinson. Point of Care Ultrasound (PoCUS) protocols are commonly used to guide resuscitation for patients with undifferentiated hypotension, yet there is a paucity of evidence for any outcome benefit. Adult patients presenting to six emergency departments (ED) in Canada and South Africa with undifferentiated hypotension (systolic blood pressure (SBP) <100mmHg or a Shock Index >1.0) were randomized to receive a PoCUS protocol or standard care (control). We found no meaningful difference in physiological and biochemical resuscitation markers with or without the use of a PoCUS protocol in the resuscitation of undifferentiated hypotensive ED patients. We previously reported the outcomes for mortality and length of stay measures from an international randomized controlled trial for patients presenting to the emergency department (ED) with undifferentiated non-traumatic hypotension or shock who received treatment with or without point of care ultrasound (PoCUS) [1]. We asked if the use of point of care ultrasound improved resuscitation markers in emergency department patients with undifferentiated hypotension, compared with standard care. We completed an international, multi-centered, randomized controlled trial (RCT) of adult patients who presented to the emergency department with undifferentiated non-traumatic hypotension or shock (i.e. without a clearly evident etiology). The secondary outcomes reported here, from this international multi-centre randomized controlled trial, are consistent with the previously reported findings that outcomes were similar for ED patients with undifferentiated shock independent of whether or not they received a PoCUS protocol. In this randomized controlled trial, we did not find any clinically meaningful difference in physiological or biochemical resuscitation markers with or without the use of a point of care ultrasound protocol in the resuscitation of undifferentiated hypotensive emergency department patients. The authors acknowledge the clinical staff at all participating sites for their help in identifying patients for this study and for their participation in performing the required ultrasonographic examinations and clinical assessments; the advice and monitoring provided by Horizon Health Network Research Ethics Board; and Jerome Hoffman, MD, and members of the International Federation for Emergency Medicine Ultrasound Interest Group for their advice and review of the study. [DOI] [PubMed] [Google Scholar:%20an%20approach%20by%20emergency%20physicians%20for%20the%20use%20of%20ultrasound%20in%20patients%20with%20undifferentiated%20hypotension&volume=26&publication_year=2009&pages=87-91&pmid=19164614&doi=10.1136/emj.2007.056242&)].
+
+--- FUENTE WEB ---
+Título: Ultrasound Guidelines: Emergency, Point-of-Care, and Clinical Ultrasound Guidelines in Medicine
+URL: https://www.annemergmed.com/article/S0196-0644(23)00432-8/pdf
+Score: 0.70799106
+
+Texto:
+Ultrasound Guidelines: Emergency, Point-of-Care, and Clinical Ultrasound Guidelines in Medicine - Annals of Emergency Medicine. Ultrasound Guidelines: Emergency, Point-of-Care, and Clinical Ultrasound Guidelines in Medicine. **The role of ultrasound in the emergency department evaluation of the acutely painful pediatric hip**. **An education innovation to improve point-of-care ultrasound skills in senior emergency medicine residents: a mandatory advanced rotation**. ..., Correlation of OSCE performance and point-of-care ultrasound scan numbers among a cohort of emergency medicine residents. **Building point-of-care ultrasound capacity in rural emergency departments: An educational innovation**. **A review of lawsuits related to point-of-care emergency ultrasound applications**. **Early screening for aortic dissection with point-of-care ultrasound by emergency physicians**. **Timely diagnosis of pneumoperitoneum by point-of-care ultrasound in the emergency department: a case series**. **Diagnostic accuracy of point-of-care ultrasound for intussusception in children presenting to the emergency department: a systematic review and meta-analysis**. **Point-of-care ultrasound could streamline the emergency department workflow of clinically nonspecific intussusception**. **Feasibility of point-of-care ultrasound for diagnosing hypertrophic pyloric stenosis in the emergency department**. **Emergency department point-of-care ultrasound in out-of-hospital and in-ED cardiac arrest**. **Comparison of 2-point and 3-point point-of-care ultrasound techniques for deep vein thrombosis at the emergency department: A meta-analysis**. **Emergency physician-performed ultrasound to diagnose cholelithiasis: a systematic review**. **Use of point-of-care ultrasound in long bone fractures: a systematic review and meta-analysis**. **Utility of point-of-care musculoskeletal ultrasound in the evaluation of emergency department musculoskeletal pathology**. **Pyogenic flexor tenosynovitis by point-of-care ultrasound in the emergency department**. **Point-of-care ocular ultrasound for the diagnosis of retinal detachment: a systematic review and meta-analysis**. **Accuracy of point-of-care ultrasound by pediatric emergency physicians for testicular torsion**. **Emergency department ultrasound for the detection of B-lines in the early diagnosis of acute decompensated heart failure: a systematic review and meta-analysis**. **Lung ultrasound in diagnosing pneumonia in the emergency department: a systematic review and meta-analysis**. **Role of point-of-care ultrasound study in early disposition of patients with undifferentiated acute dyspnea in emergency department: a multi-center prospective study**. **Randomized controlled clinical trial of point-of-care, limited ultrasonography for trauma in the emergency department: the first sonography outcomes assessment program trial**. **The accuracy and prognostic value of point-of-care ultrasound for nephrolithiasis in the emergency department: a systematic review and meta-analysis**.
+
+--- FUENTE WEB ---
+Título: POCUS Use in Shock Resuscitation: Evidence for Patient and System-Level Benefits - REBEL EM - Emergency Medicine Blog
+URL: https://rebelem.com/pocus-use-in-shock-resuscitation
+Score: 0.7004242
+
+Texto:
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2019/01/rebelEM-lightbg.png?fit=800%2C186&ssl=1)
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2025/11/POCUS-Use-in-Shock-Cover-Final-scaled.jpg?fit=900%2C506&ssl=1)
+
+# POCUS Use in Shock Resuscitation: Evidence for Patient and System-Level Benefits
+
+## 🧭 REBEL Rundown
+
+### 🗝️ Key Points
+
+#### 📝 Introduction
+
+Shock is a life threatening condition that requires rapid resuscitation, and targeted treatment. Due to its complex nature, shock management poses many challenges for physicians in the acute care setting, more specifically, in the emergency department (ED). Point-of-care-ultrasound (POCUS) has emerged as a promising diagnostic and therapeutic clinical tool in this context, allowing ED physicians to assess hemodynamics and guide treatment interventions in real-time at the bedside.
+
+As POCUS becomes increasingly integrated in critical care and emergent care settings, understanding its impact on real-time guidance and management of treatment and on patient outcomes is of growing importance. POCUS as a clinical tool is already widely used for procedural guidance and focused assessments (i.e using FAST exams for identification of pericardial effusions, pneumothoraces or hypovolemia in trauma).
+
+The appeal of POCUS lies in its non-invasive nature and immediate availability at the bedside to allow physicians to make critical decisions without the need for radiation exposure. This study is a systematic review and meta-analysis that evaluates the impact of POCUS-guided resuscitation on both patient-centered outcomes which include mortality, lactate clearance and organ support, as well as hospital-centered outcomes, including ICU utilization and diagnostic resource use.
+
+#### 🧾 Paper
+
+Basmaji J, Arntfield R, Desai K, et al. The impact of point-of-care ultrasound-guided resuscitation on clinical outcomes in patients with shock: A systematic review and meta-analysis\*. *Critical Care Medicine*. 2024;52(11):1661-1673. **PMID:** [**39298556**](https://pubmed.ncbi.nlm.nih.gov/39298556/)
+
+#### 🔙Previously Covered and Related Content:
+
+#### ⚙️ What They Did
+
+What is the therapeutic impact of point-of-care ultrasound (POCUS) for changing physician management, resuscitative therapies and diagnostic tests and clinical outcomes in patients with shock?
+
+|  |  |
+| --- | --- |
+| **Inclusion Criteria:**   * Adult patients over the age of 18 years old with the following:   + Shock or systolic hypotension, typically defined as a systolic blood pressure less than 100 mm Hg,   + Undergoing resuscitation in the ICU or emergency department. | **Exclusion Criteria**:   * Scoping reviews * Systematic reviews * Meta-analyses * Animal or experimental studies * Non-research articles * Studies without a control group * Those not using POCUS as part of resuscitation strategy |
+
+**Inclusion Criteria:**
+
+**Exclusion Criteria**:
+
+|  |  |
+| --- | --- |
+| **Intervention:**   * The POCUS-guided resuscitation, in which bedside ultrasound was performed by trained clinicians to assess cardiovascular, pulmonary, and vascular status, with findings immediately integrated into clinical decision-making to guide fluid administration, vasoactive therapy, and other diagnostic or therapeutic interventions. | **Control:**   * The comparison group consisted of patients receiving usual care or resuscitation without POCUS guidance, relying instead on standard clinical assessment, vital signs, laboratory tests, and conventional imaging when indicated. |
+
+**Intervention:**
+
+**Control:**
+
+|  |  |  |
+| --- | --- | --- |
+| **Primary Outcome:**   * Whether POCUS changed any of the following:   + IV fluid administration   + Inotrope and vasopressor initiation or escalation   + Ordering of diagnostic tests such as echocardiography or CT scans | **Secondary Outcomes:**   * Sought to determine if POCUS altered the following:   + IV fluids administered at 6, 24, and 72 hours   + Use of inotropes or vasopressors   + Number of diagnostic imaging studies performed | **Safety and hospital-centered Outcomes:**   * 28-day mortality * Lactate clearance at 6 and 24 hours * Incidence of acute kidney injury * Need for organ support therapies such as mechanical ventilation, renal replacement therapy, and vasoactive medications * ICU and hospital admission rates and overall length of stay |
+
+**Primary Outcome:**
+
+**Secondary Outcomes:**
+
+**Safety and hospital-centered Outcomes:**
+
+#### 📈 Results
+
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2025/11/POCUS-Use-in-Shock-Results.jpg?resize=900%2C506&ssl=1)
+
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2025/11/POCUS-Use-in-Shock-Results.jpg?resize=900%2C506&ssl=1)
+
+#### 💥 Critical Results
+
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2025/11/POCUS-Use-in-Shock-Critical-Results.jpg?resize=900%2C455&ssl=1)
+
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2025/11/POCUS-Use-in-Shock-Critical-Results.jpg?resize=900%2C455&ssl=1)
+
+#### 💪🏽 Strengths
+
+#### ⚠️ Limitations
+
+#### 🗣️ Discussion
+
+###### Clinical Effectiveness and Impact
+
+###### Operator Competency and Standardization
+
+###### Precision and Generalizability
+
+###### Cost, Value, and Implementation
+
+###### Moving Toward Standard of Care
+
+#### 📘 Author's Conclusion
+
+*“POCUS-guided resuscitation in shock may yield important patient and health system benefits. Due to lack of sufficient evidence, we were unable to explore how the thresholds of operator competency, frequency, and timing of POCUS scans impact patient outcomes.”*
+
+#### 💬 Our Conclusion
+
+This systematic review and meta-analysis provides evidence that POCUS-guided resuscitation in adult patients with shock offers both meaningful clinical and health system benefits to improve patient outcomes. POCUS appears to be a tool to improve markers of shock resolution such as lactate clearance, and likely reduces 28-day mortality, duration of vasoactive medication, need for renal replacement therapy, and without use of invasive therapi
+
+--- FUENTE WEB ---
+Título: Does Point of Care Ultrasound Improve Resuscitation Markers in Undifferentiated Hypotension? An International Randomized Controlled Trial From The Sonography in Hypotension and Cardiac Arrest in the Emergency Department (SHoC-ED) Series - PMC
+URL: https://pmc.ncbi.nlm.nih.gov/articles/pmid/32968565
+Score: 0.68874115
+
+Texto:
+Point of Care Ultrasound (PoCUS) protocols are commonly used to guide resuscitation for patients with undifferentiated hypotension, yet there is a paucity of evidence for any outcome benefit. Adult patients presenting to six emergency departments (ED) in Canada and South Africa with undifferentiated hypotension (systolic blood pressure (SBP) <100mmHg or a Shock Index >1.0) were randomized to receive a PoCUS protocol or standard care (control). We found no meaningful difference in physiological and biochemical resuscitation markers with or without the use of a PoCUS protocol in the resuscitation of undifferentiated hypotensive ED patients. We previously reported the outcomes for mortality and length of stay measures from an international randomized controlled trial for patients presenting to the emergency department (ED) with undifferentiated non-traumatic hypotension or shock who received treatment with or without point of care ultrasound (PoCUS) [1]. While PoCUS has been shown to assist in the assessment of fluid status, to improve early diagnosis, as well as in finding potential causes of hypotension [3,6,7], there are no prospective comparative studies looking at changes in key resuscitation markers in this patient population. The Shock Index (SI) improved by a similar degree during initial treatment in the control and PoCUS groups (mean reduction in Control 0.39, 95% CI 0.34 to 0.44 vs. The secondary outcomes reported here, from this international multi-centre randomized controlled trial, are consistent with the previously reported findings that outcomes were similar for ED patients with undifferentiated shock independent of whether or not they received a PoCUS protocol. In this randomized controlled trial, we did not find any clinically meaningful difference in physiological or biochemical resuscitation markers with or without the use of a point of care ultrasound protocol in the resuscitation of undifferentiated hypotensive emergency department patients. The authors acknowledge the clinical staff at all participating sites for their help in identifying patients for this study and for their participation in performing the required ultrasonographic examinations and clinical assessments; the advice and monitoring provided by Horizon Health Network Research Ethics Board; and Jerome Hoffman, MD, and members of the International Federation for Emergency Medicine Ultrasound Interest Group for their advice and review of the study.
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada

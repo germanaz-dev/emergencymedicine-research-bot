@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "selected_topic": {
-    "id": "acute_coronary_syndrome_troponin",
-    "title": "high sensitivity troponin in acute coronary syndrome",
-    "axis": "cardiovascular",
-    "priority": 10,
+    "id": "pocus_shock",
+    "title": "point of care ultrasound in undifferentiated shock",
+    "axis": "pocus_procedures",
+    "priority": 9,
     "review_interval_days": 120,
     "keywords": [
-      "acute coronary syndrome",
-      "high sensitivity troponin",
-      "emergency department"
+      "POCUS",
+      "shock",
+      "emergency medicine"
     ]
   },
-  "score": 125.0,
-  "exploration": false,
+  "score": 119.25,
+  "exploration": true,
   "reason": {
-    "priority_score": 100,
-    "recency_score": 2.0,
+    "priority_score": 90,
+    "recency_score": 6.25,
     "axis_score": 23.0,
     "alert_score": 0,
     "last_axis_penalty": false,
@@ -24,34 +24,34 @@
   },
   "top_5": [
     {
-      "id": "acute_coronary_syndrome_troponin",
-      "title": "high sensitivity troponin in acute coronary syndrome",
-      "axis": "cardiovascular",
-      "score": 125.0
+      "id": "shock_undifferentiated",
+      "title": "undifferentiated shock in emergency medicine",
+      "axis": "critical_care",
+      "score": 125.5
     },
     {
       "id": "sepsis_early_recognition",
       "title": "sepsis early recognition in the emergency department",
       "axis": "infectious",
-      "score": 124.75
-    },
-    {
-      "id": "pulmonary_embolism_rv",
-      "title": "right ventricular dysfunction in pulmonary embolism",
-      "axis": "cardiovascular",
-      "score": 124.25
+      "score": 125.0
     },
     {
       "id": "stroke_thrombectomy_selection",
       "title": "acute ischemic stroke thrombectomy selection",
       "axis": "neurology",
-      "score": 122.75
+      "score": 123.0
     },
     {
       "id": "pocus_shock",
       "title": "point of care ultrasound in undifferentiated shock",
       "axis": "pocus_procedures",
-      "score": 119.0
+      "score": 119.25
+    },
+    {
+      "id": "dyspnea_ed",
+      "title": "acute dyspnea in the emergency department",
+      "axis": "cardinal_symptoms",
+      "score": 118.5
     }
   ]
 }

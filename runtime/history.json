@@ -50,8 +50,8 @@
     "axis": "cardinal_symptoms"
   },
   "pocus_shock": {
-    "last_seen": "2026-08-12",
-    "times_reviewed": 1,
+    "last_seen": "2026-09-06",
+    "times_reviewed": 2,
     "axis": "pocus_procedures"
   }
 }
