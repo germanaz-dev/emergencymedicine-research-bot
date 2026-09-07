@@ -1,0 +1,824 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: acute ischemic stroke thrombectomy selection
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Anti-amyloid treatment in Alzheimer disease: updated implications for patients with cerebral amyloid angiopathy and other cerebrovascular conditions.
+Revista: Frontiers in neurology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42688139
+DOI: 10.1002/trc2.70014
+URL: https://pubmed.ncbi.nlm.nih.gov/42688139/
+
+Abstract:
+Anti-amyloid treatment (AAT) with monoclonal antibodies represents a major therapeutic advance in early Alzheimer disease (AD), but its introduction has important and underappreciated implications for vascular neurology. Because many patients with AD also have cerebral amyloid angiopathy and other cerebrovascular pathology, AAT influences stroke diagnosis, acute reperfusion therapy, and long-term antithrombotic management. Clinical trials of lecanemab and donanemab enrolled highly selected patients with minimal baseline cerebrovascular pathology, limiting generalizability to real-world populations with prevalent vascular comorbidity. Amyloid-related imaging abnormalities, particularly vasogenic edema and microhemorrhages, constitute a central safety concern and may clinically mimic acute ischemic stroke, complicating emergency decision-making and increasing the risk of inappropriate intravenous thrombolysis (IVT). Emerging reports of intracerebral hemorrhage following IVT in treated patients underscore the need for revised acute stroke pathways and support consideration of mechanical thrombectomy when otherwise indicated, although AAT-specific safety data are lacking. Beyond the hyperacute phase of stroke, concomitant use of anticoagulants or dual antiplatelet therapy raises unresolved questions regarding hemorrhagic risk, particularly in patients with atrial fibrillation or those requiring complex antithrombotic regimens. Alternative strategies, including left atrial appendage closure, may be considered in selected patients, although evidence in AAT recipients remains limited. As AAT enters routine practice, multidisciplinary collaboration, dedicated imaging protocols, and prospective safety registries will be essential to integrate disease-modifying AD treatment with safe and effective cerebrovascular care.
+
+--- PAPER PUBMED ---
+Título: Adjuvant neuroprotective therapies for acute ischemic stroke in the reperfusion era: a comparative narrative review of clinical evidence for edaravone, edaravone-dexborneol, and butylphthalide.
+Revista: Frontiers in neurology
+Fecha: 2026
+Tipo: Journal Article, Review, Comparative Study
+PMID: 42656240
+DOI: 10.1021/acs.molpharmaceut.3c00103
+URL: https://pubmed.ncbi.nlm.nih.gov/42656240/
+
+Abstract:
+Reperfusion therapies, including intravenous thrombolysis and endovascular treatment (EVT), are central to acute ischemic stroke (AIS) management; however, ischemia-reperfusion injury may limit recovery despite successful recanalization. This structured narrative review compares the clinical evidence, safety signals, and mechanistic literature for edaravone, butylphthalide (NBP), and the fixed-dose combination edaravone-dexborneol (EDB) as adjunctive neuroprotective approaches. The evidence base is heterogeneous with respect to population, background reperfusion treatment, outcome timing, and geographical setting. In TASTE-2, EDB administered before EVT was associated with a modest increase in 90-day functional independence versus placebo (55.0% vs. 49.6%, p = 0.05), without an apparent safety signal; bridging alteplase was permitted in a subset of participants. In the BAST trial, NBP improved the prespecified 90-day functional outcome versus placebo among patients receiving intravenous thrombolysis and/or EVT (56.7% vs. 44.0%). Observational studies and meta-analyses provide supportive but non-confirmatory evidence for edaravone. Network meta-analyses generate relative rankings at individual endpoints, but indirect comparisons and differing outcome networks preclude definitive between-agent selection. Mechanistic studies indicate overlapping antioxidant, anti-inflammatory, mitochondrial, and neurovascular effects rather than exclusive pathway regulation. Biomarker and imaging approaches, including exploratory GFAP and UCH-L1 measurements, are promising research tools but are not yet validated for treatment selection in AIS. Accordingly, these agents should be regarded as candidates for further evidence-informed adjunctive use; future trials are needed to define reproducible patient-selection and treatment-timing strategies.
+
+--- PAPER PUBMED ---
+Título: Acute Ischemic Stroke in 2026: From Time to Penumbra-An Updated Narrative Review of Reperfusion Strategies with a Latin American Implementation Perspective.
+Revista: Journal of clinical medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42652900
+DOI: 10.3390/biomedicines11102617
+URL: https://pubmed.ncbi.nlm.nih.gov/42652900/
+
+Abstract:
+Background/Objective: The management of acute ischemic stroke (AIS) has evolved from rigid time-based treatment paradigms toward tissue-based selection guided by advanced neuroimaging, thereby expanding eligibility for reperfusion therapies. To provide an updated narrative review of acute ischemic stroke (AIS) classification and management, with emphasis on extended therapeutic windows for intravenous thrombolysis (IVT) and endovascular therapy (EVT), bridging strategies, posterior circulation stroke, and implementation challenges in Latin America and other resource-constrained settings. Methods: A structured narrative review was conducted using the PubMed/MEDLINE, Embase, Scopus, and LILACS databases, covering the period from 2013 to 2025. Results: Sixty-three studies were selected from 412 records and categorized into etiologic classification, extended-window thrombolysis, EVT and bridging therapy, and posterior circulation stroke. Current evidence supports imaging-guided IVT beyond 4.5 h and EVT up to 24 h in selected patients with salvageable brain tissue, including some individuals with large infarct cores. Recent trials also support EVT for basilar artery occlusion. Tenecteplase offers practical workflow advantages in many centers, particularly where transfer delays and limited access to advanced imaging constrain timely reperfusion decisions. Conclusions: Contemporary AIS management is increasingly guided by pathophysiology and imaging rather than strict time thresholds. However, improving outcomes in middle- and low-income settings requires the implementation of adapted clinical algorithms, strengthening of stroke care networks, and optimization of referral pathways.
+
+--- PAPER PUBMED ---
+Título: Carotid Free-Floating Thrombus: A Case Series, Narrative Review, and Proposal for Biology-Guided Treatment Selection.
+Revista: Medical sciences (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review, Case Reports
+PMID: 42646591
+DOI: 10.1016/j.jstrokecerebrovasdis.2018.11.004
+URL: https://pubmed.ncbi.nlm.nih.gov/42646591/
+
+Abstract:
+Background: Carotid free-floating thrombus (CFFT) is an uncommon but clinically significant cause of transient ischemic attack and ischemic stroke, carrying a substantial risk of recurrent cerebral embolization. Despite advances in vascular imaging, the optimal management of CFFT remains controversial because available recommendations are largely based on retrospective studies, case series, and expert opinion. The present study reports a single-center experience with CFFT and provides an updated narrative review of current diagnostic and therapeutic strategies, with particular attention to the timing of intervention. Methods: A retrospective review of patients diagnosed with CFFT and managed at our institution over a 20-year period was performed. Clinical presentation, imaging findings, treatment strategy, and outcomes were analyzed. In parallel, a narrative review of the contemporary literature was conducted to summarize current evidence regarding medical management, carotid endarterectomy, endovascular techniques, hybrid approaches, and emerging concepts related to thrombus composition and maturation. Results: Five patients with symptomatic CFFT were identified. Four patients underwent carotid thromboendarterectomy, whereas one patient was managed medically with anticoagulation and antiplatelet therapy, resulting in complete thrombus resolution. Two patients experienced neurological deterioration while receiving initial anticoagulation and subsequently required urgent surgical intervention. No postoperative strokes occurred after carotid endarterectomy. Review of the literature confirmed that anticoagulation remains the cornerstone of initial therapy and achieves thrombus resolution in a substantial proportion of patients. However, recurrent neurological events continue to occur under medical treatment, while the indications and timing of invasive intervention remain poorly defined. Recent advances in high-resolution magnetic resonance imaging and optical coherence tomography suggest that thrombus age and composition may become important determinants of future treatment selection. Conclusions: CFFT represents a rare but potentially unstable vascular condition for which high-quality evidence is still lacking. Initial anticoagulation remains the most widely accepted treatment strategy, while carotid endarterectomy, endovascular thrombectomy, carotid artery stenting, and hybrid procedures may be appropriate in selected patients. Future management algorithms may ultimately move beyond a one-size-fits-all approach by incorporating thrombus biology, imaging characteristics, and individual patient risk profiles. Although this concept remains preliminary, advances in thrombus characterization may provide the foundation for more personalized treatment strategies as further clinical evidence becomes available.
+
+--- PAPER PUBMED ---
+Título: The Imaging Compass: Navigating Reperfusion in Acute Ischemic Stroke.
+Revista: Journal of magnetic resonance imaging : JMRI
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42642837
+DOI: 10.1002/jmri.70517
+URL: https://pubmed.ncbi.nlm.nih.gov/42642837/
+
+Abstract:
+The management of acute ischemic stroke has shifted from rigid time-based protocols to imaging-driven, tissue-based reperfusion strategies. Non-contrast CT and CT angiography remain the indispensable frontline for rapid triage, particularly in community and low-resource settings. However, magnetic resonance imaging (MRI) provides unique biological information that complements CT-based assessment: Diffusion-weighted imaging (DWI) detects cellular ischemia within minutes without contrast; DWI-fluid-attenuated inversion recovery (FLAIR) mismatch serves as a tissue clock for unknown-onset stroke; susceptibility-weighted imaging (SWI) aids thrombus characterization; and MRI resolves the posterior fossa without beam-hardening artifact. Low-field portable MRI further extends these capabilities to the bedside where conventional scanners are unavailable. This review examines four convergent trends within this transition: expanding thrombectomy to large-core infarction, extending thrombolysis through tissue-based selection, advancing recanalization in posterior-circulation stroke while defining boundaries for medium- and distal-vessel occlusions, and simplifying imaging workflows through fast MRI protocols, quantitative CT biomarkers, and artificial intelligence (AI). Landmark trials have established that treatment benefit is determined by tissue viability rather than clock time, while recent negative trials define critical boundaries beyond which intervention may cause harm. We critically appraise how CT and MRI are integrated hierarchically across these scenarios, and how emerging fast MRI and quantitative biomarkers may reshape future selection paradigms. EVIDENCE LEVEL: 3-4. TECHNICAL EFFICACY: 3.
+
+--- PAPER PUBMED ---
+Título: Endovascular thrombectomy for acute ischemic stroke: evolving patient selection, procedural strategies, and adjunctive therapies.
+Revista: Frontiers in neurology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42614727
+DOI: 10.1016/S0140-6736(24)02809-5
+URL: https://pubmed.ncbi.nlm.nih.gov/42614727/
+
+Abstract:
+Endovascular thrombectomy (EVT) has transformed the treatment of acute ischemic stroke caused by large-vessel occlusion; however, its expanding indications require increasingly precise patient selection and procedural execution. This mini-review summarizes contemporary issues in EVT that go beyond the original early-window anterior-circulation paradigm. Current evidence supports the use of EVT for selected anterior-circulation large-vessel occlusion, late-window stroke, large-core infarction, and basilar artery occlusion, while more marginal scenarios-including a very low Alberta Stroke Program Early CT Score (ASPECTS), minor stroke with large-vessel occlusion, presentations beyond 24 h, prestroke disability, and medium-vessel occlusion-require individualized assessment. Recent randomized trials have tempered enthusiasm for routine thrombectomy in medium-vessel occlusion, emphasizing the need to distinguish technical accessibility from meaningful clinical benefit, particularly when eloquent brain regions are involved. Procedural strategy has also shifted from simple recanalization toward high-quality, tissue-effective reperfusion, with attention to the access route, device selection, first-pass effect, reperfusion grade, tandem lesions, intracranial atherosclerotic disease, anesthesia, antithrombotic use, and blood-pressure management. Adjunctive therapies, especially intra-arterial thrombolysis after successful, incomplete, or failed reperfusion, remain promising but should be employed selectively rather than as a routine practice. Overall, the future of EVT lies in disciplined precision: selecting patients for whom reperfusion is likely to be beneficial, optimizing procedural quality, and developing adjunctive strategies that convert angiographic success into durable functional recovery.
+
+--- PAPER PUBMED ---
+Título: Efficacy and safety of magnetic resonance imaging- vs. computed tomography-guided reperfusion in acute ischemic stroke: a systematic review and meta-analysis.
+Revista: Frontiers in neurology
+Fecha: 2026
+Tipo: Journal Article, Systematic Review, Meta-Analysis, Comparative Study
+PMID: 42609327
+DOI: 10.1186/s12874-015-0091-1
+URL: https://pubmed.ncbi.nlm.nih.gov/42609327/
+
+Abstract:
+Acute ischemic stroke (AIS) is a leading cause of death and disability. Timely reperfusion improves outcomes, but optimal patient selection depends on neuroimaging; CT is fast and widely available, whereas MRI offers greater precision in identifying salvageable brain tissue. This systematic review (SR) and meta-analysis evaluates the comparative effectiveness of MRI-guided reperfusion (MRI-R) vs. CT-guided reperfusion (CT-R) in adult AIS. We conducted a PRISMA-compliant SR and searched PubMed, Embase, Cochrane Library, Web of Science, CINAHL and Google Scholar for English or Spanish studies comparing MRI-R vs. CT-R in adult AIS. Randomized trials, cohort, and case-control designs were included. Primary outcome was mortality; secondary outcomes were 90-day functional independence modified Rankin Scale (mRS) 0-2) and symptomatic intracranial hemorrhage (sICH). Data were pooled with a random-effects model; risk of bias was assessed using Cochrane RoB 2.0 and ROBINS-I tools. From 11,578 records, 13 studies (27,313 patients) met inclusion criteria. Meta-analysis of 11 studies (27, 197 patients) showed MRI-R was associated with increased 90-day mRS ≤2 (RR 1.28, 95 % CI 1.06-1.55; p = 0.01; I2 = 82.6 %), reduced mortality (RR 0.72, 95 % CI 0.62-0.84; p = 0.002; I2 = 0 %) and lowered sICH (RR 0.59, 95 % CI 0.45-0.78; p = 0.002; I2 = 7.6 %) compared with CT-R. Subgroup analyses by CT comparator type (NCCT-only or multimodal CT) and reperfusion strategy (IVT, MT, or both) for successful reperfusion and 90-day functional independence showed no statistically significant differences between groups. MRI-R was associated with improved functional outcomes, reduced mortality and lower sICH rates than CT-guided strategies. However, these findings should not be interpreted as definitive superiority given the high heterogeneity in functional outcomes, baseline patient characteristic differences between imaging groups, and detected publication bias. CT remains essential for rapid hyperacute assessment, while in well-equipped centers, MRI can improve patient selection through detailed tissue characterization, provided this does not delay reperfusion and patients have no contraindications. Further, prospective, randomized studies are needed to confirm these findings. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251165578, CRD420251165578.
+
+--- PAPER PUBMED ---
+Título: Intraarterial Thrombolysis: Past, Present, Future.
+Revista: Stroke
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42605679
+DOI: 10.1161/STROKEAHA.126.052342
+URL: https://pubmed.ncbi.nlm.nih.gov/42605679/
+
+Abstract:
+Suboptimal clinical outcomes are common after ischemic stroke with large vessel occlusion despite current reperfusion treatment with intravenous thrombolysis and mechanical thrombectomy. Targeting residual distal arterial and microvascular occlusions with intraarterial thrombolysis has recently gained substantial interest as an adjunct to improve cerebral tissue perfusion. While recent trials provide promise in selected patients with anterior-circulation stroke, further high-quality, large-scale studies and pooled individual-patient analyses are needed. This review summarizes the evolving role of intraarterial thrombolysis over the past 3 decades and projects potential developments.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: New Stroke Guidelines Extend Thrombectomy to 24 Hours
+URL: https://www.medscape.com/viewarticle/891786
+Score: 0.76888984
+
+Texto:
+![](https://www.medscape.com/mspx/tr.gif?e=nsps)
+
+Medscape Editions
+
+![](https://img.medscapestatic.com/pi/logos/mscp-logo.png "Medscape Logo")
+
+Medscape Editions
+
+No Results
+
+No Results
+
+# New Stroke Guidelines Extend Thrombectomy to 24 Hours
+
+Pauline Anderson
+
+January 25, 2018
+
+LOS ANGELES — New guidelines for the management of acute stroke include selection criteria for patients to receive mechanical endovascular thrombectomy up to 24 hours after their stroke.
+
+The guidelines are timely because there has been "a sweeping change" in the management of acute stroke since the last guidelines were released, guideline writing committee chair, William J. Powers, MD, H. Houston Merritt Distinguished Professor and Chair, Department of Neurology, University of North Carolina at Chapel Hill, told *Medscape Medical News.*
+
+"In 2013, there were no data, no good clinical trial data, that anybody benefited from this procedure, and now there is."
+
+The new guidelines were released here at the International Stroke Conference (ISC) 2018 and [published online](https://stroke.ahajournals.org/content/early/2018/01/23/STR.0000000000000158) January 24 in *Stroke*. The document was endorsed by the American Association of Neurological Surgeons, the Congress of Neurological Surgeons, and the Society for Academic Emergency Medicine.
+
+In 2015, the American Heart Association/American Stroke Association (AHA/ASA) issued a [Focused Update](https://www.medscape.com/viewarticle/847211) of the 2013 guidelines for the early management of patients with acute ischemic stroke. Among other things, the evidence-based guidelines covered the selection of eligible patients for endovascular therapy with a stent retriever (mechanical thrombectomy) within 6 hours from the onset of a stroke.
+
+However, since those guidelines were published, two additional studies have suggested that some patients can benefit from the procedure after 6 hours — possibly up to 24 hours following a stroke.
+
+One of these studies — DEFUSE-3 — was presented at this meeting and [published simultaneously](https://www.nejm.org/doi/full/10.1056/NEJMoa1713973) in the *New England Journal of Medicine* (*NEJM*) just hours before release the updated guidelines. Guideline authors had the chance to review the manuscript for this trial in advance and include the information in their updated guideline.
+
+"When you talk about up-to-date guidelines, it doesn't get any more up-to-date than this," Dr Powers said.
+
+One of the selection criteria for mechanical thrombectomy is having a large clot in one of the large vessels at the base of the brain. "It's not every stroke; it has to be a large clot," said Dr Powers, that typically cause more severe strokes.
+
+According to the updated guidelines, patients should be considered for thrombectomy in under 6 hours after stroke onset if they meet this criterion and these other criteria:
+
+ Prestroke modified Rankin Scale (mRS) score of 0 to 1;
+
+ Causative occlusion of the internal carotid artery or middle cerebral artery segment 1 (M1);
+
+ Age over 18 years;
+
+ National Institutes of Health Stroke Scale score of 6 or greater; and
+
+ Alberta Stroke Program Early CT Score of 6 or greater.
+
+What's different from previous recommendations is that patients who are ineligible for intravenous (IV) tissue plasminogen activator (tPA) may now be selected for mechanical thrombectomy within 6 hours.
+
+This new recommendation is a level 1A.
+
+In light of the new results from DEFUSE-3, and a second study called [DAWN](https://www.medscape.com/viewarticle/888830), published January 4 also in *NEJM*, the new guidelines recommend thrombectomy in eligible patients 6 to 16 hours after a stroke (another level 1A recommendation).
+
+And on the basis of the DAWN results, the procedure is "reasonable" in patients 16 to 24 hours after a stroke (level IIa-B-R).
+
+Dr Powers explained that to garner a level 1A recommendation, two studies are needed. Both DAWN and DEFUSE-3 covered patients for up to 16 hours, but only DAWN covered patients from 16 to 24 hours.
+
+To be eligible for the mechanical clot removal procedure up to 24 hours after a stroke, patients need to meet clear criteria, essentially inclusion criteria for the DAWN trial. "There are certain computed tomography or MRI findings that need to be satisfied," said Dr Powers.
+
+It's not clear how many patients would benefit from the recommendation extending the time frame for mechanical thrombectomy eligibility to 24 hours, he said.
+
+### **Care Plan**
+
+In light of the broadening selection criteria for this procedure, the new guidelines also recommend that hospitals set up a relevant plan of care.
+
+"We know that this procedure can never be available at every hospital in the country," said Dr Powers. "So it's now really, really important for hospitals in the various regions to start coming up with a system of care."
+
+Such a system would include initially sending patients with symptoms to the closest hospital where staff can determine whether they're having a stroke and whether they're a candidate for IV tPA and, if so, administer it.
+
+But hospitals also need to identify potential candidates for mechanical thrombectomy "and to get them to some place that can do it fast," said Dr Powers.
+
+An increasing number of centers across the country can do this, he added. "There are more and more every day."
+
+The Joint Commission, in collaboration with the AHA/ASA, now offers the Thrombectomy-Capable Stroke Center (TSC) certification program. This new level of stroke certification identifies hospitals that meet rigorous standards for performing mechanical endovascular thrombectomy.
+
+This is the fourth level of stroke center certification offered by the Joint Commission and the AHA/ASA; additional certifications include Acute Stroke Ready, Primary Stroke and Comprehensive Stroke.
+
+### **Intense Training**
+
+The mechanical thrombectomy procedure requires highly skilled professionals, be they radiologists, neurologists, or neurosurgeo
+
+--- FUENTE WEB ---
+Título: 5. Acute Ischemic Stroke Treatment - Canadian Stroke Best Practices
+URL: https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment
+Score: 0.71758664
+
+Texto:
+![Home, Heart & Stroke logo](/public/images/bp-main-logo-en.svg)
+
+# 5. Acute Ischemic Stroke Treatment
+
+7th Edition UPDATE – December 2022 & Endovascular Thrombectomy Interim Update 2025
+
+7th Edition UPDATE – December 2022 & Endovascular Thrombectomy Interim Update 2025
+
+###### Notes
+
+*Treatment benefits from revascularization decrease over time, and 1.9 million brain cells die every minute following stroke onset (Saver, 2006); therefore, all patients with stroke **should be treated as quickly as possible** to maximize the potential for the best outcomes. The new extended time windows should not be interpreted to mean that time to treatment should be slowed in any way.*
+
+*Acute stroke treatment is shifting from a time-based to a tissue-based paradigm as emerging evidence suggests that the speed of stroke progression differs between individuals and beneficial treatment may be offered beyond standard time windows. Using time as the sole criterion to select patients for thrombolysis and endovascular thrombectomy (EVT) may lead to missed opportunities for treatment. Nevertheless, “time is brain” remains a reality, and delays in stroke diagnosis and treatment are associated with worse outcomes” ([Desai and Smith, Cardiovascular Disease and Stroke, 2013](https://link.springer.com/article/10.1007/s11883-013-0337-5#auth-Jamsheed_A_-Desai)).*
+
+###### Recommendations and/or Clinical Considerations
+
+###### 5.1 Patient Selection for Acute Ischemic Stroke Treatments
+
+**Section 5.1 Clinical Considerations**
+
+###### 5.2 (REVISED FOR 2022) Intravenous Thrombolysis Administration
+
+*For patients with symptomatic ICH following IV thrombolysis refer to section 5.6.*
+
+**Section 5.2 Clinical Considerations**
+
+###### 5.3 Stroke While Already in Hospital
+
+###### 
+
+###### 5.4 (NEW FOR 2025) Endovascular Thrombectomy for Acute Ischemic Stroke, Interim Update 2025
+
+***(NEW 2025)** Emerging evidence has led to an interim review of the existing 2022 Canadian Stroke Best Practice Recommendations (CSBPR) for Acute Stroke Management, 7th edition, recommendations for endovascular treatment of acute ischemic stroke (section 5.4). The updated 2025 recommendations in section 5.4 supersede the endovascular thrombectomy recommendations included in the 2022 publication of the CSBPR acute stroke management module. These changes include: updating section 5.4, and removal of boxes: 4B, 4C, 5C.*
+
+**5.4.1. Endovascular Thrombectomy Selection Criteria and Management**
+
+**5.4.1 Clinical Considerations**
+
+**5.4.2 Sedation for Endovascular Interventions**
+
+###### 5.5 Seizure Management
+
+###### 5.6 (NEW FOR 2022) Emergency Management of Thrombolysis-Associated Hemorrhage
+
+*Note: Section 5.6 applies to patients experiencing a cerebral or systemic hemorrhage following administration of intravenous thrombolysis. Refer to [CSBPR guidelines on Management of Intracerebral Hemorrhage](https://www.strokebestpractices.ca/recommendations/management-of-intracerebral-hemorrhage) for additional information.*
+
+**5.6.1 Intracranial Hemorrhage**
+
+**5.6.2 Extracranial (Systemic) Hemorrhage Management**
+
+*Note: For systemic hemorrhage, follow local protocol for management guidance.*
+
+**Section 5.6 Clinical Considerations**
+
+Meta-analyses of randomized controlled trials (RCTs) of intravenous alteplase for acute ischemic stroke have shown the treatment can reduce the risk of disability and death, despite a small risk of serious bleeding. The widest time window for alteplase administration after stroke onset remains imprecisely defined, but currently available data show clear evidence of benefit when given up to 4.5 hours after the onset of symptoms. There remains a strong inverse relationship between treatment delay and clinical outcome; therefore, eligible patients should be treated as soon as possible.
+
+Endovascular therapy (EVT) has been demonstrated to reduce disability and reduce mortality following acute ischemic stroke. Initially, EVT was limited to individuals with anterior circulation large vessel occlusion (LVO), small infarct core (ASPECTS ≥6), moderately disabling strokes and treatment within a narrow time window (typically up to 6 hours from symptom onset). The number needed to treat to reduce disability by at least one point on mRS at 90 days for one patient has been reported to be as low as 2.6 (3). (Goyal et al. 2016) More recently the use of EVT has been expanded to include patients with late onset stroke, mild stroke, infarcts in the posterior circulation and large core infarcts (ASPECTs 2-5), enabling more patients to benefit from this life-saving therapy.
+
+People with lived experience expressed the importance of having conversations with loved ones before health changes occur. Without these conversations, it can be difficult to know what the person would want. Some individuals shared that those conversations, even around desire to be involved in trials and/or experimental treatments, can be helpful to have in advance of changes in health status. Similarly, people with lived experience stated the importance of sharing personal values and preferences with the healthcare team, to help with treatment decisions.
+
+(Note: DAWN trial criteria: To obtain mRS of 0-2 at 90 days (49% vs. 13%=NNT of 2.8); HERMES 2016 meta-analysis to obtain mRS score of 0-2 at 90 days (46% vs. 26.5%=NNT of 5.1).
+
+To ensure people experiencing a stroke receive timely stroke assessments, interventions and management, interdisciplinary teams need to have the infrastructure and resources required. These may include the following components established at a systems level.
+
+**System Indicators:**
+
+**Process indicators:**
+
+**Patient-oriented outcome and experience indicators:**
+
+***Measurement Notes***
+
+*Resources and tools listed below that are external to Heart & Stroke and the Canadian Stroke Best Practice Recommendations may be useful resources for stroke care. However, their inclusion is not an actual or implied endorsement by the Canadian Stroke Best Practices writi
+
+--- FUENTE WEB ---
+Título: 2026 Acute Ischemic Stroke Guideline Series: New Guidance for Healthcare Professionals - Professional Heart Daily | American Heart Association
+URL: https://professional.heart.org/en/science-news/video-series-ais
+Score: 0.70944256
+
+Texto:
+![American Heart Association - Professional Heart Daily](/-/media/Project/PHD/Logos/Professional_Heart_Daily_header_logo.png?h=100&w=500&sc_lang=en&hash=6D6AE00C3E6D27C89DDCC77F0B046A56)
+![X formerly known as Twitter](/en/-/media/Feature/Navigation/Social/x_aha.svg?h=54&iar=0&mw=1910&w=54&sc_lang=en)
+![YouTube](/en/-/media/Feature/Navigation/Social/youtube-gray.svg?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![Facebook](/en/-/media/Feature/Navigation/Social/facebook-gray.svg?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![Instagram](/en/-/media/Feature/Navigation/Social/instagram-gray.svg?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![Tik Tok](/en/-/media/Feature/Social/Tiktok_grey.png?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![LinkedIn](/en/-/media/Feature/Navigation/Social/linkedin-gray.svg?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![Pinterest](/en/-/media/Feature/Navigation/Social/pinterest-gray.svg?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+
+# 2026 Acute Ischemic Stroke Guideline Series: New Guidance for Healthcare Professionals
+
+Acute ischemic stroke care continues to evolve rapidly, with new evidence reshaping prehospital triage, imaging, reperfusion strategies, and team-based care across the lifespan. This four-part video series features authors of the 2026 American Heart Association Acute Ischemic Stroke Guideline highlighting practice-changing updates for emergency medicine clinicians, neurointerventionalists, imaging specialists, nurses, stroke coordinators, and pediatric stroke teams.
+
+Across the series, experts review expanded indications for thrombolysis and thrombectomy, updated neuroimaging paradigms, system-level readiness, and—for the first time—guideline recommendations for the acute management of pediatric ischemic stroke. Each video focuses on practical implications for clinical decision-making and institutional preparedness across diverse care settings.
+
+![Coauthors Kori S. Zachrison, MD, MSc, FAHA, Tracy E. Madsen, MD, MCTR, PhD, FAHA, and Opeolu Adeoye, MD, MS, FAHA](/-/media/PHD-Images/Video-Thumbnails/a/AIS-video-series/AIS_series_Zachrison_Madsen_Odeoye_750x500.jpg?h=500&w=750&sc_lang=en&hash=A33F8D9E891A75AD8F7A8476656011C5)
+![Coauthors Thabele M. Leslie-Mazwi, MD and Ashutosh P. Jadhav, MD, PhD, FAHA ](/-/media/PHD-Images/Video-Thumbnails/a/AIS-video-series/AIS_series_LezlieMazwi_Jadvad_750x500.jpg?h=500&w=750&sc_lang=en&hash=5ABE1891F10FF8096D085EAF937ABFD0)
+
+## 2026 Acute Ischemic Stroke Guideline | New Guidance for Emergency Medicine
+
+## 2026 Acute Ischemic Stroke Guideline | New Guidance for Neurointerventions and Imaging
+
+![Coauthors Brenda Johnson, DNP and Mary Rodgers, DHA, MS, RN](/-/media/PHD-Images/Video-Thumbnails/a/AIS-video-series/AIS_series_Johnson_Rogers_750x500.jpg?h=290&w=580&sc_lang=en&hash=5886846FF5391319A632A6D37A2C681A)
+![Coauthors Nester Gonzalez, MD, and Heather J. Fullerton, MD, MAS,](/-/media/PHD-Images/Video-Thumbnails/a/AIS-video-series/AISseriesGonzalezFullerton750x500.jpg?h=290&w=580&sc_lang=en&hash=277F07379240BB862D8877EA6158E6C9)
+
+## 2026 Acute Ischemic Stroke Guideline | New Guidance for Nurses and Stroke Coordinators
+
+## 2026 Acute Ischemic Stroke Guideline | New Guidance for Pediatric Stroke
+
+![American Heart Association](/en/-/media/Images/Logos/Global-Do-No-Edit/Header/AHA_Full.svg?h=256&iar=0&mw=1910&w=426&sc_lang=en)
+
+## Contact Us
+
+**National Center**  
+7272 Greenville Ave.  
+Dallas, TX 75231  
+  
+**Customer Service**  
+1-800-242-8721  
+[Contact Us](https://www.heart.org/en/about-us/contact-us)  
+**Hours**  
+Monday - Friday: 7 a.m. - 7 p.m. CT  
+Saturday: 9 a.m. - 5 p.m. CT  
+Closed on Sundays
+
+## About Us
+
+## Get Involved
+
+## Our Sites
+
+![X formerly known as Twitter](/en/-/media/Feature/Navigation/Social/x_aha.svg?h=54&iar=0&mw=1910&w=54&sc_lang=en)
+![YouTube](/en/-/media/Feature/Navigation/Social/youtube-gray.svg?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![Facebook](/en/-/media/Feature/Navigation/Social/facebook-gray.svg?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![Instagram](/en/-/media/Feature/Navigation/Social/instagram-gray.svg?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![Tik Tok](/en/-/media/Feature/Social/Tiktok_grey.png?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![LinkedIn](/en/-/media/Feature/Navigation/Social/linkedin-gray.svg?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![Pinterest](/en/-/media/Feature/Navigation/Social/pinterest-gray.svg?h=52&iar=0&mw=1910&w=52&sc_lang=en)
+![National Health Council Standards of Excellence Certification Program page for Standards of Excellence](/en/-/media/Images/Logos/Global-Do-No-Edit/Footer/nhc_optimized.png?h=50&iar=0&mw=1910&w=49&sc_lang=en)
+![Better Business Bureau page for American Heart Association](/en/-/media/Images/Logos/Global-Do-No-Edit/Footer/Better_Business_Bureau_logo.png?h=60&iar=0&mw=1910&w=45&sc_lang=en)
+![Charity Navigator Home](/en/-/media/Images/Logos/Global-Do-No-Edit/Footer/Charity_Navigator_logo_120.jpg?h=60&iar=0&mw=1910&w=120&sc_lang=en)
+![Secured by Sectigo page for SSL certificates](/en/-/media/Images/Logos/Global-Do-No-Edit/Footer/sectigo_trust_seal_140w.png?h=54&iar=0&mw=1910&w=140&sc_lang=en)
+
+©2026 American Heart Association, Inc. All rights reserved. Unauthorized use prohibited.  
+The American Heart Association is a qualified 501(c)(3) tax-exempt organization. Tax ID Number: 13-5613797  
+\*Red Dress™ DHHS | Go Red for Women® & National Wear Red Day® are trademarks of American Heart Association, Inc.
+
+## Speed Bump
+
+![American Heart Association](/-/media/Project/PHD/Logos/AHALogofullredblk2x.png?h=152&w=280&sc_lang=en&hash=93404F61C16DE7258DC232C81939D154)
+
+--- FUENTE WEB ---
+Título: Initial diagnosis and management of acute ischemic stroke: updates and future directions
+URL: https://www.ceemjournal.org/journal/view.php?doi=10.15441%2Fceem.25.241
+Score: 0.70336664
+
+Texto:
+[Skip to main navigation](#gnb)
+
+* [![](/image/logo_ic.png)](https://emergency.or.kr/)
+* [E-Submission](https://submit.ceemjournal.org/ "E-Submission (opens in a new window)")
+* [Contact us](/about/contact.php)
+
+![OPEN ACCESS](/image/header_open_access.gif)
+
+[ABOUT](/)
+
+* [HOME](https://www.ceemjournal.org/)
+* [ABOUT](/about/)
+  + [Aims and scope](/about/index.php "/about/index.php (New windows open)")
+  + [About the journal](/about/about.php "/about/about.php (New windows open)")
+  + [About the society](https://www.emergency.or.kr/eng/history "https://www.emergency.or.kr/eng/history (New windows open)")
+  + [Editorial board](/about/editorial.php "/about/editorial.php (New windows open)")
+  + [Editorial team](/about/managing_team.php "/about/managing_team.php (New windows open)")
+  + [Best practice](/about/best_practice.php "/about/best_practice.php (New windows open)")
+  + [Open access](/about/open_access.php "/about/open_access.php (New windows open)")
+  + [Contact us](/about/contact.php "/about/contact.php (New windows open)")
+* [BROWSE ARTICLES](/articles/archive.php)
+  + [All issues](/articles/archive.php)
+  + [Ahead-of print articles](/articles/print.php)
+  + [Current issue](/articles/current.php)
+  + [Topics](/articles/topic.php)
+  + [Article types](/articles/category.php)
+  + [Featured articles](/articles/featured.php)
+  + [Most read articles](/articles/mostread.php)
+  + [Most cited articles](/articles/mostcited.php)
+  + [Search](/articles/search.php)
+  + [Metrics](/articles/metrics.php)
+  + [CEEM 2019 Abstract book](/articles/icem.php)
+* [FOR CONTRIBUTORS](/authors/authors.php)
+  + [Instructions to authors](/authors/authors.php)
+  + [Research and publication ethics](/authors/ethics.php)
+  + [E-submission](https://submit.ceemjournal.org/)
+  + [Checklist](/authors/checklist.php)
+  + [Article processing charge](/authors/processing_charge.php)
+
+[ABOUT](/about/)
+
+* [Aims and scope](/about/index.php)
+* [About the journal](/about/about.php)
+* [About the society](https://www.emergency.or.kr/eng/history)
+* [Editorial board](/about/editorial.php)
+* [Editorial team](/about/managing_team.php)
+* [Best practice](/about/best_practice.php)
+* [Open access](/about/open_access.php)
+* [Contact us](/about/contact.php)
+
+[BROWSE ARTICLES](/articles/archive.php)
+
+* [All issues](/articles/archive.php)
+* [Ahead-of print articles](/articles/print.php)
+* [Current issue](/articles/current.php)
+* [Topics](/articles/topic.php)
+* [Article types](/articles/category.php)
+* [Featured articles](/articles/featured.php)
+* [Most read articles](/articles/mostread.php)
+* [Most cited articles](/articles/mostcited.php)
+* [Search](/articles/search.php)
+* [Metrics](/articles/metrics.php)
+* [CEEM 2019 Abstract book](/articles/icem.php)
+
+[FOR CONTRIBUTORS](/authors/authors.php)
+
+* [Instructions to authors](/authors/authors.php)
+* [Research and publication ethics](/authors/ethics.php)
+* [E-submission](https://submit.ceemjournal.org/)
+* [Checklist](/authors/checklist.php)
+* [Article processing charge](/authors/processing_charge.php)
+
+## Articles
+
+## Page Path
+
+* [HOME](/)
+* [Clin Exp Emerg Med](/articles/archive.php)
+* [Volume 13(1); 2026](/articles/current.php?vol=13&no=1)
+* Article
+
+Review Article
+
+## Initial diagnosis and management of acute ischemic stroke: updates and future directions
+
+[Sang Hee Ha](/articles/search_result.php?term_type=authors&term=Sang Hee Ha)1,\*[![orcid](/image/orcid.png)](http://orcid.org/0000-0002-2926-2368 "http://orcid.org/0000-0002-2926-2368"), [Sujin Koo](/articles/search_result.php?term_type=authors&term=Sujin Koo)2,\*[![orcid](/image/orcid.png)](http://orcid.org/0000-0002-4770-0587 "http://orcid.org/0000-0002-4770-0587"), [Seung Min Kim](/articles/search_result.php?term_type=authors&term=Seung Min Kim)3, [Jae Young Park](/articles/search_result.php?term_type=authors&term=Jae Young Park)4, [Seung Eun Lee](/articles/search_result.php?term_type=authors&term=Seung Eun Lee)4, [Bum Joon Kim](/articles/search_result.php?term_type=authors&term=Bum Joon Kim)4[![orcid](/image/orcid.png)](http://orcid.org/0000-0002-3278-3252 "http://orcid.org/0000-0002-3278-3252")
+
+Clinical and Experimental Emergency Medicine 2026;13(1):5-12.   
+Published online: January 14, 2026
+
+DOI: [https://doi.org/10.15441/ceem.25.241](https://doi.org/10.15441/ceem.25.241 "DOI (Opens in a new window)")
+
+![](https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg)
+
+* [Author information](#)
+* [About this article](#)
+* [Copyright and License information](#)
+
+1Department of Neurology, Gachon University Gil Medical Center, Incheon, Korea![](/image/flag/kr.gif)
+
+2Department of Emergency Medical Technology, Doowon Technical University, Paju, Korea![](/image/flag/kr.gif)
+
+3Department of Neurology, Veterans Health Service Medical Center, Seoul, Korea![](/image/flag/kr.gif)
+
+4Department of Neurology, Asan Medical Center, Seoul, Korea![](/image/flag/kr.gif)
+
+Correspondence to: Bum Joon Kim ([medicj80@hanmail.net](mailto:medicj80@hanmail.net))
+
+Sang Hee Ha and Sujin Koo contributed equally to this study as co-first authors.
+
+• Received: October 7, 2025   • Revised: October 29, 2025   • Accepted: November 5, 2025
+
+© 2026 The Korean Society of Emergency Medicine
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (<http://creativecommons.org/licenses/by-nc/4.0/>).
+
+* 3,841 Views
+* 188  Download
+* [1](https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=m2pi2024&SrcAuth=WosAPI&KeyUT=WOS:001735863400001&DestLinkType=CitingArticles&DestApp=WOS "Web of Science") Web of Science
+* [1](/journal/view.php?number=644&view=citations "Citations to this article as recorded by Crossref") Crossref
+
+[prev](./view.php?number=654) [next](./view.php?number=616)
+
+### Full Article
+
+* [Full Article](#)
+* [Figure & Table](#)
+* [Reference](#)
+* [Citations](#)
+* [Metrics](#)
+
+Download PDF ![Download PDF](../image/icon_download.png "Download PDF (Opens in a new window)"
+
+--- FUENTE WEB ---
+Título: A new DAWN for extended window thrombectomy in ischemic stroke: an editorial on the DAWN trial - Lin - Journal of Emergency and Critical Care Medicine
+URL: https://jeccm.amegroups.org/article/view/4044/html
+Score: 0.7001783
+
+Texto:
+Have a website account?[Log In](https://jeccm.amegroups.org/login) or[Register](https://jeccm.amegroups.org/user/register) for exclusive website content.
+
+[![](//cdn.amegroups.cn/journals/aoj/public/journals/32/homeHeaderTitleImage_en_US.jpg/w1400?v=VV20260905)](https://jeccm.amegroups.org/ "Journal of Emergency and Critical Care Medicine")
+
+* [Home](https://jeccm.amegroups.org/index) /
+* [Vol 2 (January 2018)](https://jeccm.amegroups.org/issue/view/254)  /
+* A new DAWN for extended window thrombectomy in ischemic stroke: an editorial on the DAWN trial
+
+A new DAWN for extended window thrombectomy in ischemic stroke: an editorial on the DAWN trial
+
+![](https://cdn.amegroups.cn/static/mirror/crossmark/widget/v2.0/CROSSMARK_Color_horizontal.svg)
+
+Editorial
+
+# A new DAWN for extended window thrombectomy in ischemic stroke: an editorial on the DAWN trial
+
+Chen Lin, Muhammad Mansour Ali Adham Mansour
+
+Department of Neurology, Northwestern University, IL, USA
+
+*Correspondence to:* Chen Lin. Department of Neurology Northwestern University, 633 Clark St, Evanston, IL 60208, USA. Email: chen.lin1@Northwestern.edu.
+
+*Comment on:* [Nogueira RG, Jadhav AP, Haussen DC, *et al*. Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between De cit and Infarct. N Engl J Med 2018;378:11-21.](http://www.ncbi.nlm.nih.gov/pubmed/29129157)
+
+---
+
+Received: 18 December 2017; Accepted: 21 December 2017; Published: 21 January 2018.
+
+doi: 10.21037/jeccm.2017.12.10
+
+---
+
+Stroke is one of the leading causes of long-term disability in the United States and around the world ([1](#B1)). Most of all strokes are ischemic, in which the brain’s blood supply is obstructed. In the majority of stroke survivors greater than 65 years old, this can significantly impact their independence and mobility ([1](#B1)). Clinical trials in stroke have been designed to reduce mortality and morbidity in populations at high risk. Patients arriving at a hospital within 3–4.5 h of their symptom onset can qualify for acute thrombolysis which leads to improved function after a stroke ([2](#B2)). Considered the gold standard in acute stroke therapy, IV-alteplase is the only FDA-approved treatment for ischemic strokes, but needs to be used within a limited therapeutic time window.
+
+This limited treatment window has led to interest in endovascular therapy to extend the treatment window for acute ischemic stroke. In 2015, five randomized clinical trials searched for efficacy of mechanical thrombectomy in patients with acute stroke caused large vessel occlusion in the anterior circulation ([3](#B3)). Their findings demonstrated that critical imaging analysis, workflow modification, and newer generation thrombectomy devices were beneficial in treatment of ischemic stroke using endovascular treatment over standard medical care. These trials changed guidelines that endovascular treatment is a highly effective therapy across all subgroups if performed within 6 hours of stroke presentation. Of the 5 trials, only 2 had therapy windows beyond 6 h. The REVASCAT trial recruited eligible patients within 8 h after the onset of symptoms ([4](#B4)). Results showed thrombectomy within 8 h of onset, reduced the severity of disability and higher rates of functional independence. However, over 87.4% of their treatment groups were performed within 6 h. The ESCAPE trial enrolled up to 12 h after symptom onset with a small infarct core. Their median time from stroke onset to treatment reperfusion was about 4 h ([5](#B5)). Despite these two trials, there was insufficient evidence that endovascular therapy window beyond 6 h had significant treatment effect to limit disability.
+
+The DWI or CTP Assessment with Clinical Mismatch in the Triage of Wake-Up and Late Presenting Strokes Undergoing Neurointervention with Trevo (DAWN) trial was designed to answer two lingering questions: (I) the unclear benefit of endovascular treatment beyond 6 h and (II) how to carefully select for patients based on a clinical-radiologic mismatch to salvage with reperfusion therapy ([6](#B6)). The DAWN clinical trial is an international, randomized controlled research study investigating the benefits of thrombectomy 6–24 h after stroke onset. Instead of looking at penumbral volume or only stroke lesion burden, DAWN investigators selected patients based on a clinical-radiologic mismatch. Patients were selected based on three groups. The first was ≥80 years old, National Institutes of Health Stroke Scale (NIHSS) ≥10, and core volume infarct <21 cc. The second group was <80 years old, NIHSS ≥10, and core infarct volume <31 cc. Finally, the last group was <80 years old, NIHSS >20, and core infarct volume of 31–51 cc. Patients meeting these criteria could then be randomized 1:1 to either thrombectomy or medical control therapy. DAWN was conducted across 26 centers in Europe, Australia, the US, and Canada. The study enrolled a total of 206 patients from September 2014 through February 2017. To qualify as a participating center, ≥40 mechanical thrombectomy procedures had to be performed annually at the centers. Dedicated stroke or neurointensive care units would also be required to admit enrolled patients. Local institute guidelines directed medical care if patients did not qualify for thrombectomy. Patients were followed for 90 days and the primary efficacy endpoint was assessed via utility-weighted modified Rankin Scale (mRS) and dichotomized mRS. The dichotomized mRS was originally a secondary outcome, but the investigators were asked by the FDA to change to a primary outcome. Choosing utility-weighted mRS for disability after stroke over traditional mRS was meant to address some concerns over limitations of power with the traditional mRS. Utility-weighted mRS is theoretically thought to capture better treatment effects and maintain statistical power while improving scale interpretability then when analyzed ordinally ([7](#B7)). The median baseline NIHSS score in their cohort was 17 for both groups
+
+--- FUENTE WEB ---
+Título: Neuroimaging in Patient Selection for Thrombectomy, From the AJR Special Series on Emergency Radiology
+URL: https://ajronline.org/doi/10.2214/AJR.22.28608
+Score: 0.6964752
+
+Texto:
+[Skip to main content](https://ajronline.org/doi/10.2214/AJR.22.28608#afterNav-taa)
+
+[![Image 1: logo](https://ajronline.org/specs/products/arrs/releasedAssets/images/AJR_header_logo-da68a167e92bdfb60613852777830599.svg) # American Journal of Roentgenology](https://ajronline.org/)
+
+[](https://ajronline.org/doi/10.2214/AJR.22.28608 "Search")
+
+Search American Journal of Roentgenology  
+
+Search
+
+[Advanced search](https://ajronline.org/search/advanced)
+
+*   [Shopping cart with 0 item](https://ajronline.org/action/showCart?FlowID=1 "Cart")  
+*   
+[Login | Register](https://ajronline.org/doi/10.2214/AJR.22.28608# "Login | Register")
+
+    *   [Individual Login](https://ajronline.org/action/ssostart?idp=https%3A%2F%2Farrs.atsservices.net%2FSAML%2Fexportmetadata.aspx&redirectUri=https%3A%2F%2Fajronline.org%2Fdoi%2F10.2214%2FAJR.22.28608)
+    *   [Institutional Login](https://ajronline.org/action/ssostart?uri=https%3A%2F%2Fajronline.org%2Fdoi%2F10.2214%2FAJR.22.28608)
+
+[Skip main navigation](https://ajronline.org/doi/10.2214/AJR.22.28608#afterNav-kdj)
+
+Close Drawer Menu Open Drawer Menu[Menu](https://ajronline.org/doi/10.2214/AJR.22.28608#)
+*   [Articles & Issues](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [New Articles](https://ajronline.org/toc/ajr/0/0)
+    *   [Issue in Progress](https://ajronline.org/toc/iip)
+    *   [Latest Issue](https://ajronline.org/toc/ajr/current)
+    *   [All Issues](https://ajronline.org/loi/ajr)
+    *   [Editor’s Choice (Free)](https://ajronline.org/editorschoice)
+    *   [Special Series Reviews](https://ajronline.org/specialseries)
+    *   [Articles with Credit](https://www.arrs.org/ajrarticles)
+    *   [Best of _AJR_](https://ajronline.org/bestofajr)
+    *   [Top 10 Lists](https://ajronline.org/top10lists)
+
+*   [Collections](https://ajronline.org/page/collections)
+    *   [Artificial Intelligence / Machine Learning](https://ajronline.org/topic/article-collection/ai1)
+    *   [Best Practices](https://ajronline.org/topic/article-collection/bp)
+    *   [Diversity, Equity, & Inclusion](https://ajronline.org/topic/article-collection/dei1)
+    *   [Editor's Notebook](https://ajronline.org/topic/article-collection/en1)
+    *   [Emergency Radiology](https://ajronline.org/topic/article-collection/er)
+    *   [Expert Panel Narrative Reviews](https://ajronline.org/topic/article-collection/epnr1)
+    *   [Generative AI / Large Language Models](https://ajronline.org/topic/article-collection/ai2)
+    *   [Global Reading Room](https://ajronline.org/topic/article-collection/grr1)
+    *   [Articles with Study Guides](https://ajronline.org/topic/article-collection/jc1)
+    *   [Photon-Counting Detector CT](https://ajronline.org/topic/article-collection/pcd1)
+    *   [Point/Counterpoint](https://ajronline.org/topic/article-collection/pcp1)
+    *   [Sustainability](https://ajronline.org/topic/article-collection/sus1)
+    *   [Workforce](https://ajronline.org/topic/article-collection/wf01)
+
+*   [Information](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [About _AJR_](https://ajronline.org/aboutajr)
+    *   [Editorial Board](https://ajronline.org/editorialboard)
+    *   [Frequently Asked Questions](https://ajronline.org/faq)
+    *   [Subscriptions](https://ajronline.org/subscriptions)
+    *   [Membership](https://www.arrs.org/ARRSLIVE/Membership)
+    *   [Permissions](http://www.arrs.org/ajrpermission)
+    *   [Institutional Admins](https://ajronline.org/action/showPreferences?menuTab=licenses)
+    *   [_AJR_ Alerts Sign Up](https://ajronline.org/alerts)
+
+*   [Authors](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [Author Guidelines](https://ajronline.org/authorguidelines)
+    *   [Original Research Guide](https://ajronline.org/originalresearchguide)
+    *   [_AJR_ Abbreviation List](https://ajronline.org/abbreviationlist)
+    *   [Submit Manuscript](https://www.editorialmanager.com/ajr/default.aspx)
+
+*   [Reviewers](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [Reviewer Guide](https://ajronline.org/reviewerguide)
+    *   [Reviewer Spotlight](https://ajronline.org/reviewerspotlight)
+    *   [Lifetime Awards](https://ajronline.org/lifetimeawards)
+
+*   [Multimedia](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [Visual Abstracts](https://ajronline.org/visualabstracts)
+    *   [_AJR_ Podcast Series](https://ajronline.libsyn.com/category/AJR+Podcast+Series)
+    *   [_AJR_ Conversations](https://ajronline.libsyn.com/category/AJR+Conversations)
+    *   [Trainee Podcasts](https://ajronline.libsyn.com/category/Trainee+Podcasts)
+    *   [_AJR_ This Month](https://ajronline.org/ajrthismonth)
+    *   [X/Twitter](https://twitter.com/ajr_radiology)
+    *   [Bluesky](https://bsky.app/profile/ajrradiology.bsky.social)
+    *   [YouTube](https://www.youtube.com/channel/UCfFAYezkLMxJGMgIJLN0Dpg/)
+    *   [Facebook](https://www.facebook.com/AmericanRoentgenRaySociety/)
+    *   [Instagram](https://www.instagram.com/arrs_radiology/)
+    *   [_AJR_ Global](https://ajronline.org/ajrglobal)
+    *   [Multimedia Archive](https://ajronline.org/archivemultimedia)
+    *   [Podcast Archive](https://ajronline.org/podcastarchive)
+
+*   [Sections](https://ajronline.org/doi/10.2214/AJR.22.28608)
+    *   [Evidence Synthesis & Decision Analysis](https://ajronline.org/action/doSearch?ConceptID=102098)
+    *   [Breast Imaging](https://ajronline.org/action/doSearch?ConceptID=102095)
+    *   [Cardiothoracic Imaging](https://ajronline.org/action/doSearch?ConceptID=102097)
+    *   [Gastrointestinal Imaging](https://ajronline.org/action/doSearch?ConceptID=102096)
+    *   [Genitourinary Imaging](https://ajronline.org/action/doSearch?ConceptID=102101)
+    *   [Interventional Radiology](https://ajronline.org/action/doSearch?ConceptID=102103)
+    *   [Musculoskeletal Imaging](https://ajronline.org/action/doSearch?ConceptID=102102)
+    *   [Neuroradiology/Head & Neck Imaging](https://ajronline.org/action/doSearch?ConceptID=102100)
+    *   [Nuclear Medicine](https://ajronline.org/acti
+
+--- FUENTE WEB ---
+Título: Advances in mechanical thrombectomy for acute ischaemic stroke
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10414072
+Score: 0.6937432
+
+Texto:
+[Skip to main content](https://pmc.ncbi.nlm.nih.gov/articles/PMC10414072#main-content)
+
+![Image 1](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+![Image 5: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)Search 
+
+![Image 6](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/person.svg)Log in![Image 7](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_less.svg)![Image 8](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/expand_more.svg)
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 9: Close](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons/close.svg) Search  ![Image 10: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+ Log in 
+
+[](https://pmc.ncbi.nlm.nih.gov/ "Home")
+
+![Image 11: PMC search open icon](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/search.svg)![Image 12: PMC search close ison](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/close.svg)
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 13: Search](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/a2b04810/var/data/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://pmc.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://pmc.ncbi.nlm.nih.gov/about/userguide/)
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://pmc.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://pmc.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 14: BMJ Medicine logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-bmjmed.png)
+
+BMJ Med
+
+. 2023 Aug 9;2(1):e000407. doi: [10.1136/bmjmed-2022-000407](https://doi.org/10.1136/bmjmed-2022-000407)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22BMJ%20Med%22[jour])
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22BMJ%20Med%22[jour])
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22BMJ%20Med%22[Title%20Abbreviation])
+*   [Add to search](https://pmc.ncbi.nlm.nih.gov/articles/PMC10414072?term=%22BMJ%20Med%22[jour])
+
+# Advances in mechanical thrombectomy for acute ischaemic stroke
+
+[Oishik Raha](https://pubmed.ncbi.nlm.nih.gov/?term=%22Raha%20O%22[Author])
+
+### Oishik Raha
+
+1 London
+
+ Find articles by [Oishik Raha](https://pubmed.ncbi.nlm.nih.gov/?term=%22Raha%20O%22[Author])
+
+1, [Charles Hall](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hall%20C%22[Author])
+
+### Charles Hall
+
+2 London
+
+ Find articles by [Charles Hall](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hall%20C%22[Author])
+
+2, [Abid Malik](https://pubmed.ncbi.nlm.nih.gov/?term=%22Malik%20A%22[Author])
+
+### Abid Malik
+
+1 London
+
+ Find articles by [Abid Malik](https://pubmed.ncbi.nlm.nih.gov/?term=%22Malik%20A%22[Author])
+
+1, [Lucio D'Anna](https://pubmed.ncbi.nlm.nih.gov/?term=%22D%27Anna%20L%22[Author])
+
+### Lucio D'Anna
+
+1 London
+
+3 London
+
+ Find articles by [Lucio D'Anna](https://pubmed.ncbi.nlm.nih.gov/?term=%22D%27Anna%20L%22[Author])
+
+1 3, [Kyriakos Lobotesis](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lobotesis%20K%22[Author])
+
+### Kyriakos Lobotesis
+
+2 London
+
+3 London
+
+ Find articles by [Kyriakos Lobotesis](https://pubmed.ncbi.nlm.nih.gov/?term=%22Lobotesis%20K%22[Author])
+
+2 3, [Joseph Kwan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kwan%20J%22[Author])
+
+### Joseph Kwan
+
+1 London
+
+3 London
+
+ Find articles by [Joseph Kwan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Kwan%20J%22[Author])
+
+1 3, [Soma Banerjee](https://pubmed.ncbi.nlm.nih.gov/?term=%22Banerjee%20S%22[Author])
+
+### Soma Banerjee
+
+1 London
+
+3 London
+
+ Find articles by [Soma Banerjee](https://pubmed.ncbi.nlm.nih.gov/?term=%22Banerjee%20S%22[Author])
+
+1 3
+
+*   Author information
+*   Article notes
+*   Copyright and License information
+
+1 London
+
+2 London
+
+3 London
+
+✉
+Correspondence to Dr Soma Banerjee, Imperial Stroke Centre, Imperial College Healthcare NHS Trust, London W2 1NY, UK; soma.banerjee@nhs.net
+
+Received 2022 Dec 13; Accepted 2023 May 25; Collection date 2023.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.
+
+This is an open ac
+
+--- FUENTE WEB ---
+Título: Emergency thrombectomy for acute ischaemic stroke - HKMJ |
+URL: https://www.hkmj.org/abstracts/v24n1/73.htm
+Score: 0.6917478
+
+Texto:
+In this article, we review the current evidence and international guidelines, thrombectomy has been internationally regarded as the new standard of care for
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
