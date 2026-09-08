@@ -1,0 +1,440 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: undifferentiated shock in emergency medicine
+
+PAPERS RECUPERADOS DE PUBMED:
+No se recuperaron resultados relevantes de PubMed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Ultrasound in the diagnosis and therapeutic management in undifferentiated shock patients in the emergency department
+URL: https://discoveryjournals.org/medicalscience/current_issue/v28/n153/e143ms3470.htm
+Score: 0.6439794
+
+Texto:
+# Medical Science. # Volume 28, Issue 153, November 2024. # Ultrasound in the diagnosis and therapeutic management in undifferentiated shock patients in the emergency department. ## Mazi Mohammed Alanazi1♦, Johara Mohammed Alkhamash2, Ammar Hassan Alalawi3. ### 1Head of Emergency Medicine Research Unit, Emergency Medicine, Emergency Department, First Health Cluster, Riyadh, Saudi Arabia 2Saudi Board Emergency Resident, Emergency Department, Prince Mohammed Bin Abdulaziz Hospital, Second Health Cluster, Riyadh, Saudi Arabia 3Saudi Board Emergency Medicine Resident, First Health Cluster, Riyadh, Saudi Arabia. #### ♦Corresponding Author Head of Emergency Medicine Research Unit, Emergency Medicine, Emergency Department, First Health Cluster, Riyadh, Saudi Arabia. ##### ABSTRACT. Background: It is advised that circulatory failure be diagnosed and treated as soon as possible. We conducted a thorough analysis to assess POCUS's value in diagnosing shock in adult emergency department patients experiencing circulatory failure. Method: PubMed, Cochrane, Embase, and Google Scholar were the electronic databases we examined for publications published between 2018 and 2023. In addition to prospective and retrospective observational studies, we used data from randomized controlled trials reporting the POCUS diagnostic value in patients with shock in the emergency room. Result: In this systematic review, 761 patients from 7 papers were included. Research was carried out in Egypt, the United States, India, France, South Africa, and North America. With the exception of one research that was done in a general ward, all of the studies were carried out in emergency rooms. Multi-organ POCUS and TAPSE measurement are included in the ultrasound methodology. Clinical diagnosis, computed tomography angiography, and echocardiography conducted by cardiologists served as reference standards. Conclusion: POCUS has demonstrated high sensitivity and favorable likelihood ratio in identifying the etiology of shock, especially obstructive shock, in the studies included in this review. Keywords: Ultrasound, therapeutic management, emergency department, shock, hypotension. ###### Medical Science, 2024, 28, e143ms3470. ###### **PDF**. ###### DOI:. ### Published: 30 November 2024. This article is licensed under a Creative Commons Attribution License 4.0 (CC BY 4.0).
+
+--- FUENTE WEB ---
+Título: The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion | International Journal of Emergency Medicine | Springer Nature Link
+URL: https://intjem.biomedcentral.com/articles/10.1186/s12245-024-00660-y
+Score: 0.6334335
+
+Texto:
+Advertisement
+
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/12245/article&sz=728x90&pos=top&articleid=s12245-024-00660-y)
+![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
+
+# The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion
+
+You have full access to this [open access](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research) article
+
+![](https://media.springernature.com/w72/springer-static/cover-hires/journal/12245?as=webp)
+
+44k Accesses
+
+11 Citations
+
+232 
+Altmetric
+
+[Explore all metrics](/article/10.1186/s12245-024-00660-y/metrics)
+
+## Abstract
+
+Acute circulatory shock is a life-threatening emergency requiring an efficient and timely management plan, which varies according to shock etiology and pathophysiology. Specific guidelines have been developed for each type of shock; however, there is a need for a clear timeline to promptly implement initial life-saving interventions during the early phase of shock recognition and management. A simple, easily memorable bundle of interventions could facilitate standardized management with clear targets and specified timeline. The authors propose the “MINUTES” acronym which summarizes essential interventions which should be performed within the first 30 min following shock recognition. All the interventions in the MINUTES bundle are suitable for any patient with undifferentiated shock. In addition to the acronym, we suggest a timeline for each step, balancing the feasibility and urgency of each intervention. The MINUTES acronym includes seven sequential steps which should be performed in the first 30 min following shock recognition: **M**aintain “ABCs”, **IN**fuse vasopressors and/or fluids (to support hemodynamic/perfusion) and **IN**vestigate with simple blood tests, **U**ltrasound to detect the type of shock, **T**reat the underlying **E**tiology, and **S**tabilize organ perfusion.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-981-95-0179-3?as=webp)
+
+### [Approach to Shock in the ICU](https://link.springer.com/10.1007/978-981-95-0179-3_61?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-319-98497-1?as=webp)
+
+### [Management of Shock](https://link.springer.com/10.1007/978-3-319-98497-1_175?fromPaywallRec=false)
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs00134-022-06928-2/MediaObjects/134_2022_6928_Fig1_HTML.png)
+
+### [Machine-learning-derived sepsis bundle of care](https://link.springer.com/10.1007/s00134-022-06928-2?fromPaywallRec=false)
+
+### Explore related subjects
+
+## Background
+
+Acute circulatory shock is a life-threatening and highly time-sensitive emergency [[1](/article/10.1186/s12245-024-00660-y#ref-CR1 "Brunauer A, Koköfer A, Bataar O, Gradwohl-Matis I, Dankl D, Dünser MW. The arterial blood pressure associated with terminal cardiovascular collapse in critically ill patients: a retrospective cohort study. Crit Care. 2014;18:719. 
+                  https://doi.org/10.1186/s13054-014-0719-2
+                  
+                ")]. For its acute nature, circulatory shock is usually managed by frontline physicians, who are, sometimes, of limited knowledge and experience. Moreover, they may work in limited resource settings. Hence, having a clear, timely, easily memorizable approach may facilitate their performance and finally improve patient’s management.
+
+According to the type of shock, clinical guidelines have been developed and are regularly updated to optimize patient’s management. Once the specific diagnosis of shock has been made, evidence-based management for each type (e.g., septic, hemorrhagic, cardiogenic shock) is well established by international guidelines [[2](#ref-CR2 "Evans L, Rhodes A, Alhazzani W, Antonelli M, Coopersmith CM, French C, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive Care Med. 2021;47:1181–247. 
+                  https://doi.org/10.1007/s00134-021-06506-y
+                  
+                "),[3](#ref-CR3 "ACC/AHA Joint Committee. Management of Heart Failure Guideline Hub. 2022 AHA ACC HFSA Guideline for the management of heart failure. J Am Coll Cardiol. 2022;79:1–167. 
+                  https://doi.org/10.1016/j.jacc.2021.12.012
+                  
+                . 
+                  https://www.jacc.org/doi/pdf/
+                  
+                "),[4](#ref-CR4 "Kietaibl S, Ahmed A, Afshari A, Albaladejo P, Aldecoa C, Barauskas G et al. Management of severe peri-operative bleeding: Guidelines from the European Society of Anaesthesiology and Intensive Care: Second update 2022. 2023."),[5](#ref-CR5 "Konstantinides SV, Meyer G, Becattini C, Bueno H, Geersing G-J, Harjola V-P, et al. 2019 ESC guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): the Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of. Eur Respir J. 2019;54. 
+                  https://doi.org/10.1183/13993003.01647-2019
+                  
+                "),[6](/article/10.1186/s12245-024-00660-y#ref-CR6 "Rossaint R, Afshari A, Bouillon B, Cerny V, Cimpoesu D, Curry N, et al. The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition. Crit Care. 2023;27:1–45. 
+                  https://doi.org/10.1186/s13054-023-04327-7
+                  
+                ")]. However, it is critical to minimize the time between shock recognition and initiation of shock- or disease-specific therapies. Currently, specific recommendations for the management of shock due to any etiology in the initial few minutes are lacking.
+
+All physicians, e
+
+--- FUENTE WEB ---
+Título: Undifferentiated Shock – Diagnosis and Treatment : Emergency Care BC
+URL: https://emergencycarebc.ca/clinical_resource/clinical-summary/undifferentiated-shock-diagnosis-and-treatment
+Score: 0.6141863
+
+Texto:
+[![Logo](https://emergencycarebc.ca/wp-content/themes/emn/images/logo_ecbc.svg)](https://emergencycarebc.ca)
+
+MenuBack
+
+# POINT-OF-CARE EMERGENCY CLINICAL SUMMARY
+
+## Member Login
+
+![close-x-white](https://emergencycarebc.ca/wp-content/themes/emn/images/icons/icon-exit.svg)
+
+You must be a logged in member to see the content you clicked on.
+
+[![](https://emergencycarebc.ca/wp-content/themes/emn/images/global-symbols/reply-icon.svg)
+
+Go back](javascript:history.back();)
+
+## INDEX
+
+[![Logo](https://emergencycarebc.ca/wp-content/themes/emn/images/logo.svg)](https://emergencycarebc.ca)
+
+## Undifferentiated Shock – Diagnosis and Treatment
+
+Cardinal Presentations / Presenting Problems, Critical Care / Resuscitation
+
+Last Reviewed on Feb 17, 2022
+
+Read Disclaimer
+
+By  [Samantha Jang-Stewart](#),Kevin Choi
+
+## Context
+
+* Shock is a state of acute cardiocirculatory failure resulting in end-organ hypoxia and dysfunction.
+* Promptly recognizing and treating shock is important as it is associated with high mortality
+* Shock has many etiologies and is the final common pathway of death.
+* Approach to undifferentiated shock requires simultaneous resuscitation and investigation.
+
+![](https://www.bcemergencynetwork.ca/wp-content/uploads/2022/12/table-shock.jpg)
+
+Table 1 Categories of shock
+
+## Diagnostic Process
+
+Approach to undifferentiated shock
+
+1. Recognize shock.
+
+* No single clinical finding or investigation can rule in or rule out shock. Diagnosis is based on a combination of clinical findings.
+* Shock is commonly associated with hypotension, but it can also occur with normal blood pressure.
+* Shock red flags
+  + Ill appearance.
+  + Altered mental status.
+  + HR > 100, MAP < 65, SBP < 90, shock index (SI) > 0.8.
+  + RR > 20.
+  + Urine output < 0.5 ml/kg/h.
+  + Skin – cool peripheries, mottling, urticaria.
+  + Lactate > 4 mM/L or arterial base deficit < -4mEq/L.
+
+1. Primary survey (ABCDE)
+
+* **Airway**: assess airway patency.
+* **Breathing**: assess oxygenation and ventilation.
+  + Consider the need for intubation and mechanical ventilation. Minimize induction agents to avoid hemodynamic collapse.
+* **Circulation**: assess pulse, BP, telemetry, signs of obvious bleeding.
+  + Obtain large bore peripheral IV access. Obtain intraosseous access if peripheral IV access is difficult. Do not delay resuscitation for central line access.
+* **Disability**: assess for level of consciousness and signs of spinal cord injury.
+* **Exposure:** assess skin for urticaria, angioedema (signs of anaphylaxis).
+* **Rule out conditions requiring immediate intervention**: tension pneumothorax, massive hemothorax, cardiac tamponade, MI, significant arrhythmias, massive PE, anaphylaxis, hypovolemia.
+
+1. Initiate empiric resuscitation unless the cause of shock is clear and is rapidly reversed.
+
+* Fluid resuscitation.
+  + Fluid challenge with 300-500 ml of a crystalloid solution over 20-30 min. Repeat according to fluid responsiveness based on changes in BP, HR, urine output.
+  + Be cautious with excessive fluid administration, especially if suspecting cardiogenic shock or massive PE.
+  + Colloids like albumin are theoretically better intravascular volume expanders but there is no evidence of mortality benefit over crystalloids.
+
+* Consider vasoactive agents if hypotension persists (MAP <65) despite fluid resuscitation.
+  + Typical first line agent is norepinephrine with initial dose of 0.2 mcg/kg/min. Norepinephrine can initially be given through peripheral IV until central line access is available.
+  + Vasopressin and epinephrine infusions can be used as second-line agents for severe cases of shock.
+* Consider the use of inotropes if suspecting cardiogenic shock. Dobutamine is commonly used as a first line agent.
+* Start broad-spectrum antibiotics if suspecting sepsis. Early antibiotic therapy improves outcomes in sepsis.
+* Consider empiric corticosteroids for chronic steroid users or shock refractory to vasopressors and fluid resuscitation. Options include dexamethasone 6 mg IV or hydrocortisone 100 mg IV.
+* Sodium bicarbonate therapy for severe metabolic acidosis is commonly used but there is no evidence of mortality benefit.
+
+1. Secondary survey focused on determining the cause of shock.
+
+* History: trauma, infection, immunosuppression, corticosteroid use, exposure to allergen, chest pain, toxic ingestions.
+* Head to toe examination.
+* Point of care ultrasound (FAST, RUSH).
+  + Recent systematic review suggests ultrasound measurement of IVC is not a reliable indicator of volume status.
+* Suggested initial investigations.
+  + Blood tests: ABG, lactate, CBC, serum chemistry, LFT, troponin, BNP, coagulation studies.
+  + ECG – ACS.
+  + CXR – heart failure or pneumonia.
+  + CT scan depending on working differential.
+* Consider placing arterial line and/or central line.
+
+1. Reassess indicators of adequate hemodynamic support.
+
+* MAP > 65 with clinical signs of adequate tissue perfusion (mental status, skin appearance, urine output).
+* Decreasing serial lactate measurements.
+
+6. Transition to ICU.
+
+## Quality Of Evidence*?*
+
+![](https://emergencycarebc.ca/wp-content/themes/emn/images/global-symbols/close-x-white.svg)
+
+### High
+
+We are highly confident that the true effect lies close to that of the estimate of the effect. There is a wide range of studies included in the analyses with no major limitations, there is little variation between studies, and the summary estimate has a narrow confidence interval.
+
+### Moderate
+
+We consider that the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different. There are only a few studies and some have limitations but not major flaws, there are some variations between studies, or the confidence interval of the summary estimate is wide.
+
+### Low
+
+When the true effect may be substantially different from the estimate of the effect. The studies have major flaws, there is important variations between studies, of the confidence in
+
+--- FUENTE WEB ---
+Título: REBEL Cast Ep58 - Would you be SHoC-ED if POCUS did not Improve Clinical Outcomes in Patients with Undifferentiated Shock? - REBEL EM - Emergency Medicine Blog
+URL: https://rebelem.com/rebel-cast-ep58-would-you-be-shoc-ed-if-pocus-did-not-improve-clinical-outcomes-in-patients-with-undifferentiated-shock
+Score: 0.5321097
+
+Texto:
+[Skip to content](#content "Skip to content")
+
+[![](https://i0.wp.com/rebelem.com/wp-content/uploads/2019/01/rebelEM-lightbg.png?fit=800%2C186&ssl=1)](https://rebelem.com)
+
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2018/08/Screen-Shot-2018-07-20-at-1.29.49-PM.png?fit=900%2C504&ssl=1)
+
+# REBEL Cast Ep58 – Would you be SHoC-ED if POCUS did not Improve Clinical Outcomes in Patients with Undifferentiated Shock?
+
+* [Written by Salim Rezaie](https://rebelem.com/author/srrezaie/)
+* REBEL Cast
+* Medical Category:  [Resuscitation](https://rebelem.com/medical-category/resuscitation/)
+* [Resuscitation](https://rebelem.com/tag/resuscitation/), [SHoC-ED](https://rebelem.com/tag/shoc-ed/)
+
+**![](https://i0.wp.com/rebelem.com/wp-content/uploads/2018/08/Screen-Shot-2018-07-20-at-1.29.49-PM.png?resize=300%2C168&ssl=1)Background:**POCUS has been touted as the stethoscope 2.0, a true game changer in patient care.  There is no patient population that this statement should hold more true for, than in patients with undifferentiated shock (SBP <100mmHg or SI > 1). Everyone has a story about how ultrasound changed their management or even saved a patient’s life. Unfortunately, the plural of anecdote is not data.  To date, there have not been any prospective randomized controlled trials examining POCUS outcomes on survival in this population.  Enter the Sonography in Hypotension and Cardiac Arrest in the Emergency Department (SHoC-ED) trial.
+
+## REBEL Cast Episode 58 – Would you be SHoC-ED if POCUS did not Improve Clinical Outcomes in Patients with Undifferentiated Shock?
+
+[Click here for Direct Download of Podcast](http://traffic.libsyn.com/rebelcast/FINAL_REBEL_Cast_Ep57_-_Would_you_be_SHoC-ED_if_POCUS_did_not_Improve_Clinical_Outcomes_in_Patients_with_Undifferentiated_Shock-.mp3)
+
+**What They Did:** This was an international, multicenter, randomized controlled trial from 6 centers (3 centers in North America and 3 centers in South Africa) of patients with undifferentiated hypotension (SBP <100mmHg or Shock Index > 1) in the ED randomized to an early POCUS protocol + standard care vs standard care without POCUS evaluating survival and clinical outcomes.
+
+### **POCUS Protocols Used (Combination of):**
+
+* Abdominal and Cardiac Evaluation with sonography in Shock (ACES)
+* Rapid Ultrasound for Shock and Hypotension (RUSH)
+
+### **Outcomes:**
+
+* Primary: Survival at 30d or hospital discharge
+* Secondary:
+  + Initial treatment (inotrope and IV fluid administration)
+  + Investigations (rates of CT use)
+  + Admissions (Hospital and ICU)
+  + Length of stay (Hospital and ICU)
+
+### **Inclusion:**
+
+* Sustained SBP <100mmHg
+* Shock index > 1.0 + SBP < 120mmHg
+* ≥19 years of age
+
+### **Exclusion:**
+
+* Pregnant
+* Necessity of cardiopulmonary resuscitation or other advanced cardiac life support interventions (i.e. defibrillation, emergency pacing, insertion of ventricular assist device)
+* History of significant trauma in the past 24 hours
+* 12 lead ECG diagnostic of acute myocardial infarction
+* Obvious cause for hypotension or shock
+* Previously known diagnosis from another hospital (for transferred patients)
+* A vagal episode as cause of hypotension
+* Low blood pressure considered to be non-pathologic (normal variant or other)
+
+### **Results:**
+
+* Follow up completed for 270 out of 273 patients
+  + Most common category of shock = non-cardiogenic (87.6%)
+  + Most common diagnosis = occult sepsis (52%)
+* Survival at 30d or Hospital Discharge:
+  + Early POCUS + Standard Care: 76.5%
+  + Standard Care Without POCUS: 76.1%
+  + 95% CI: -10.2% – 11%
+* Survival at 30d or Hospital Discharge in North America:
+  + Early POCUS + Standard Care: 85.4%
+  + Standard Care Without POCUS: 81.8%
+  + 95% CI -8.1% – 15.3%
+* Survival at 30d or Hospital Discharge in South Africa:
+  + Early POCUS + Standard Care: 59.6%
+  + Standard Care Without POCUS: 65.2%
+  + 95% CI: -15.2% – 26.0%
+* No differences in rates of CT scanning, inotrope use, intravenous fluid use, ICU admissions, or total length of stay
+
+### **Strengths:**
+
+* This study asks an important clinical question about the use of POCUS in shock patients and evaluates patient oriented outcomes
+* Several North American investigating physicians visited South Africa, and vice versa, to confirm that competency standards were comparable at all locations
+* Categories of shock and diagnoses were established by independent chart review by 2 clinicians, blinded to the initial sonographer, POCUS findings, initial and revised diagnoses
+* Baseline demographics and vital signs were similar between groups
+
+### **Limitations:**
+
+* Exclusion of “clear cause of shock.” Would have been useful information to know how many times there was a “clear cause” and then POCUS changed that diagnosis
+* This was a convenience sample of eligible patients only when appropriately trained staff were immediately available in the ED. As we have discussed before on the blog, the issue with convenience sampling is that the sample represented in the study is not representative of an entire population.  How do we know that the patients not enrolled that would have been eligible would not have altered the results of the study?
+* The definition of sustained hypotension of <100mmHg is not clear from the paper.Is this 2 minutes, 5 minutes, 30 minutes, etc?
+* POCUS scans were performed within the first 60 minutes of the patient visit, and all findings were recorded immediately after each step. In both groups physicians performed a secondary clinical assessment and recorded their revised impressions at 60 minutes. POCUS is typically done within minutes of arrival in clinical practice, so 60 minutes of the wrong treatment is not going to result in beneficial outcomes.
+* Although the physicians using POCUS are trained in POCUS at the 6 different sites there was no inter-observer evaluation to see if what was read on the ultrasound would be read by someone else the same way
+* This was a very small study. A huge issue with this study
+
+--- FUENTE WEB ---
+Título: THIRD bedside ultrasound protocol for rapid diagnosis of undifferentiated shock: a prospective observational study - PubMed
+URL: https://pubmed.ncbi.nlm.nih.gov/36171145
+Score: 0.52597815
+
+Texto:
+## Save citation to file. ## Email citation. Go to My NCBI account settings to confirm your email and then refresh this page. # THIRD bedside ultrasound protocol for rapid diagnosis of undifferentiated shock: a prospective observational study. * 1 Department of Emergency Medicine, Clinical Medical College of Yangzhou University, Northern Jiangsu People's Hospital, Yangzhou, China. * 2 Accident and Emergency Medicine Academic Unit, Prince of Wales Hospital, The Chinese University of Hong Kong, Hong Kong. * 3 Department of Emergency Medicine, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences, Beijing, China. # THIRD bedside ultrasound protocol for rapid diagnosis of undifferentiated shock: a prospective observational study. * 1 Department of Emergency Medicine, Clinical Medical College of Yangzhou University, Northern Jiangsu People's Hospital, Yangzhou, China. * 2 Accident and Emergency Medicine Academic Unit, Prince of Wales Hospital, The Chinese University of Hong Kong, Hong Kong. * 3 Department of Emergency Medicine, Peking Union Medical College Hospital, Chinese Academy of Medical Sciences, Beijing, China. **Introduction:** It is clinically challenging to differentiate the pathophysiological types of shock in emergency situations. Here, we evaluated the ability of a novel bedside ultrasound protocol (Tamponade/tension pneumothorax, Heart, Inferior vena cava, Respiratory system, Deep venous thrombosis/aorta dissection [THIRD]) to predict types of shock in the emergency department. **Methods:** An emergency physician performed the THIRD protocol on all patients with shock who were admitted to the emergency department. The kappa index, sensitivity, specificity, positive predictive value, and negative predictive value were calculated for the initial diagnostic impression provided by the THIRD protocol, compared with each patient's final diagnosis. For hypovolaemic, cardiogenic, distributive, and obstructive types of shock, the sensitivities of the THIRD protocol were 100%, 100%, 93%, and 100%, respectively; the sensitivity for a 'mixed' shock aetiology was 86%. The negative predictive value of the THIRD protocol for all five types of shock was ≥96%. **Conclusion:** Initial diagnostic judgements determined using the THIRD protocol showed favourable agreement with the final diagnosis in patients who presented with undifferentiated shock. The THIRD protocol has great potential for use as a bedside approach that can guide the rapid management of undifferentiated shock in emergency settings, particularly for patients with obstructive, hypovolaemic, or cardiogenic shock.
+
+--- FUENTE WEB ---
+Título: The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion | International Journal of Emergency Medicine | Springer Nature Link
+URL: https://link.springer.com/article/10.1186/s12245-024-00660-y
+Score: 0.5021246
+
+Texto:
+Title: The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion | International Journal of Emergency Medicine | Springer Nature Link
+The MINUTES acronym includes seven sequential steps which should be performed in the first 30 min following shock recognition: **M**aintain “ABCs”, **IN**fuse vasopressors and/or fluids (to support hemodynamic/perfusion) and **IN**vestigate with simple blood tests, **U**ltrasound to detect the type of shock, **T**reat the underlying **E**tiology, and **S**tabilize organ perfusion. Once the specific diagnosis of shock has been made, evidence-based management for each type (e.g., septic, hemorrhagic, cardiogenic shock) is well established by international guidelines [2,3,4,5: the Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of. The initial management of patients with undifferentiated shock needs a clear timeline with a pragmatic approach focusing on both the urgency of the interventions as well as the feasibility of such interventions within given time frames. For example, emergency physicians, intensivists, and anesthesiologists who care for patients with undifferentiated shock face the challenge of balancing two key priorities: (1) the need to treat the underlying cause of shock (etiological management); and (2) the need to rapidly restore organ perfusion (pathophysiological management) [8]. Restoration of adequate arterial blood pressure levels to ensure vital organ perfusion using vasopressors and/or fluids, as well as performing simple tests like an electrocardiogram or a VBG should be the essential subsequent steps before implementing point-of-care ultrasound to identify the type of shock. Though fluid infusion is the first line of therapy in the initial management of shock when fluid deficit is clear, growing evidence suggests that it is safe to initiate vasopressors early in patients with septic shock in order to maintain tissue perfusion and improve venous return [13, 14]. Ultrasound has several key advantages which favor its use as an initial and principal point-of-care diagnostic tool in the primary management of patients with undifferentiated shock. The acronym includes the following components: **M**aintain “ABCs”, **IN**fuse vasopressors and/or fluids and **IN**vestigate simple blood tests, **U**ltrasound (point-of care) to detect the type of shock, **T**reat the underlying **E**tiology, and **S**tabilize systemic organ perfusion. *et al.* The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion.
+
+--- FUENTE WEB ---
+Título: Emergency Medicine Guidelines & Clinical Guidelines for Emergency Medicine - Guideline Central
+URL: https://www.guidelinecentral.com/guidelines/specialty/emergency_medicine
+Score: 0.48689327
+
+Texto:
+Title: Emergency Medicine Guidelines & Clinical Guidelines for Emergency Medicine - Guideline Central
+# Emergency Medicine Guidelines. Search our library of *Emergency Medicine* clinical guidelines. Management of Blunt Thoracic Aortic Injury. Clinical Criteria for the Definition of Refractory Septic Shock. European Society of Intensive Care MedicineSociety of Critical Care Medicine. Surviving Sepsis Campaign International Guidelines for the Management of Sepsis and Septic Shock in Children 2026. European Society of Intensive Care MedicineSociety of Critical Care Medicine. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026. European Society of Intensive Care MedicineSociety of Critical Care Medicine. Management of Community-Acquired Pneumonia in Infants and Children Older Than 3 Months of Age. Infectious Diseases Society of AmericaPediatric Infectious Diseases Society. Evaluation and Management of Acute Pulmonary Embolism in Adults. American College of CardiologyAmerican Heart Association. Management of Penetrating Traumatic Brain Injury. Emergency Management of Critical Bleeding in Patients with Immune Thrombocytopenia. Early Management of Patients With Acute Ischemic Stroke. American Heart AssociationAmerican Stroke Association. Laboratory Testing for Drugs of Misuse to Support the Emergency Department. Association for Diagnostics & Laboratory Medicine. **You rely on Guideline Central for transparency**. Guideline Central and select third party use “cookies” on this website to enhance the user experience. This technology helps us gather statistical and analytical information to optimize the relevant content for you. The user also has the option to opt-out which may have an effect on the browsing experience.
+
+--- FUENTE WEB ---
+Título: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+URL: https://www.saem.org/publications/academic-emergency-medicine/grace/grace-2
+Score: 0.4864541
+
+Texto:
+[![Society for Academic Emergency Medicine Logo | SAEM](/images/default-source/siteimages/logos/logo-2.png?sfvrsn=74156739_4 "Society for Academic Emergency Medicine Logo | SAEM")](/home)
+
+Visit us on [Twitter](https://twitter.com/saemonline) [LinkedIn](https://www.linkedin.com/company/society-for-academic-emergency-medicine) [Facebook](https://www.facebook.com/SAEMonline) [YouTube](https://www.youtube.com/channel/UCFyc9y4eYZ-e5gtO3xAS19w) [Instagram](https://www.instagram.com/saemonline)
+
+* [Join/Renew](/join)
+* [Careers](/careers) 
+  + [Academic Career Guide](/careers/saem-2019-academic-career-guide)
+  + [Medical Education Portfolio](/careers/medical-education-portfolio)
+  + [EM Job Link](/careers/job-board)
+
+Profile
+
+* [Logout](/publications/grace/grace-2/SignOut/)
+
+[Login](https://www.saem.org/list-pages/account/login?redirect_uri=%2fpublications%2fgrace%2fgrace-2)
+
+* [GRACE-1 Recurrent, Low-Risk Chest Pain](/publications/grace/grace-1)
+* [GRACE-2 Recurrent, Low-Risk Abdominal Pain](/publications/grace/grace-2)
+* [GRACE-3 Acute Dizziness & Vertigo](/publications/grace/grace-3)
+* [GRACE-4 Alcohol Use Disorder & Cannabinoid Hyperemesis Syndrome](/publications/grace/grace-4)
+
+# GRACE-2
+
+[Home](/)   /  [Publications](/publications)   /  [GRACE](/publications/grace)   /  GRACE-2
+
+![GRACE w tag logo](/images/default-source/logos/grace-w-tag-logo.png?sfvrsn=80a3730d_0 "GRACE w tag logo")
+
+The SAEM GRACE program addresses the best practices for the care of the most common chief complaints that can be seen on the tracking board of any emergency department in the country, based upon research and expert consensus. These guidelines are designed with de-implementation as a guiding principle to reasonably reduce wasteful testing, provide explicit criteria to reduce foreseeable risk, and define sensible and prudent medical care.
+
+#### [GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14495)
+
+Abdominal pain has consistently remained the most frequent chief complaint in United States emergency departments (EDs) from 2009 to 2018. The evaluation of acute abdominal pain requires substantial ED resources, including imaging, laboratory studies, nursing care, time, and patient care space. Despite the intensity of diagnostic testing, most patients presenting with abdominal pain do not receive a specific diagnosis in the ED and are discharged.
+
+National data on ED presentations for recurrent abdominal pain are limited. Little guidance is available to emergency physicians evaluating and treating patients with recurrent and undifferentiated abdominal pain. Without guidelines for care, variance in practice could result in lower quality care, including risks of over- or under-testing, misdiagnosis, adverse effects of over- or under-treatment, higher costs, greater length of stay, and lower patient satisfaction.
+
+The purpose of the second Guideline for Reasonable and Appropriate Care in the Emergency Department (GRACE-2) is to provide an evidence-based, patient-centric approach for clinicians in their evaluation and management of adult patients with low-risk, recurrent, undifferentiated abdominal pain in the ED.   
+  
+The GRACE-2 panel reached the following recommendations:
+
+1. If a prior negative computed tomography of the abdomen and pelvis (CTAP) has been performed within 12 months, there is insufficient evidence to accurately identify populations in whom repeat CTAP imaging can be safely avoided or routinely recommended.
+2. If CTAP with IV contrast is negative, the panel suggests against ultrasound unless there is concern for pelvic or biliary pathology.
+3. The panel suggests screening for depression and/or anxiety may be performed during the ED evaluation.
+4. The panel suggests using an opioid-minimizing strategy for pain control.
+
+##### Read the full article:  [GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14495)
+
+##### Podcast: [GRACE-2 Podcast on The Skeptics Guide to Emergency Medicine](https://thesgem.com/2022/05/sgem367-grace2-low-risk-recurrent-abdominal-pain/)
+
+![GRACE-2 Abdominal Pain DRAFT](/images/default-source/aem/grace-2-infographic-v2.png?sfvrsn=ec55d574_2 "GRACE-2 Abdominal Pain")
+
+#### Guideline Infographics
+
+* [GRACE-2: Abdominal Pain Recommendations Summary](/images/default-source/aem/grace-abdo-pain-summary-final-challen.png?sfvrsn=c9afc275_2)
+* [GRACE-2: Abdominal Pain Infographic](/images/default-source/aem/grace-2-infographic-v2.png?sfvrsn=ec55d574_2)
+
+#### Patient Information Handout
+
+* [GRACE-2 Patient Education Handout](/docs/default-source/default-document-library/grace-2_patient_education_final.pdf?sfvrsn=f2cd0d6e_2 "GRACE-2 Patient Education Handout")
+
+#### Related Articles
+
+* [Repeated computed tomography in recurrent abdominal pain: An evidence synthesis for guidelines for reasonable and appropriate care in the emergency department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14427)
+* [Depression and anxiety screening in emergency department patients with recurrent abdominal pain: An evidence synthesis for a clinical practice guideline](https://onlinelibrary.wiley.com/doi/10.1111/acem.14394)
+* [A Candle in the Dark: The Role of Indirect Evidence in Emergency Medicine Clinical Practice Guidelines](https://onlinelibrary.wiley.com/doi/abs/10.1111/acem.14494)
+
+#### Press Release
+
+* [SAEM publishes new guideline for low-risk, recurrent abdominal pain in the emergency department](https://www.eurekalert.org/news-releases/951756)
+
+#### 
+
+#### Other GRACE Guidelines
+
+[GRACE-1: Recurrent, Low-Risk Chest Pain in the ED](https://www.saem.org/publications/academic-emergency-medicine/grace/grace-1)
+
+[GRACE-3: Acute Dizziness in the ED](/publications/grace/grace-3)
+
+[GRACE-4: Alcohol Use Disorder and Cannabis Hyperemesis Management in the Emergency Department](/publications/grace/grace-4)
+
+GRACE-5: Syncope (2025)
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
