@@ -1,0 +1,377 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: right ventricular dysfunction in pulmonary embolism
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Pulmonary Embolism-A Century of Progress.
+Revista: ANZ journal of surgery
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42706008
+DOI: 10.1111/ans.70957
+URL: https://pubmed.ncbi.nlm.nih.gov/42706008/
+
+Abstract:
+This narrative review covers a century of progress in the diagnosis, prevention, and treatment of pulmonary embolism (PE). Although the classic clinical presentation of PE was already well described, in the first half of the 20th century additional diagnostic support was limited to signs on a chest radiograph and evidence of right heart strain on ECG. From the 1960's, imaging accuracy improved through the introduction of pulmonary angiography (1963), ventilation perfusion scans (1964), CT (1978), and today's gold standard, CT Pulmonary Angiography (1990's). Echocardiographic signs of right ventricular dysfunction and pulmonary hypertension were described to help determine the physiological severity of PE. Prophylaxis reduces the risk of venous thromboembolism (VTE) by 55%-70%. Heparin began to be used to prevent and treat PE from the 1930s, replaced by enoxaparin from 1993. In patients not suitable for anticoagulation, vena cava ligation and open clips were replaced by endovascularly-placed filters (now retrievable) from the 1970s. Despite the first successful pulmonary embolectomy in 1924, subsequent success with massive PE was rare until embolectomy could be performed with the support of cardiopulmonary by-pass in the 1960's. Today, catheter-based thrombolysis or mechanical thrombectomy delivered by interventional radiology are the first choice for haemodynamically compromised patients. Pulmonary Embolism Response Teams (PERT) rapidly assess acute PE presentations to determine the optimal treatment based on patient risk. Enoxaparin is prescribed for lower risk cases, whilst Direct Oral Anticoagulants have largely replaced warfarin as the ambulant oral treatment of choice to prevent recurrent VTE.
+
+--- PAPER PUBMED ---
+Título: Role of ECMO and percutaneous mechanical thrombectomy in the management of acute pulmonary embolism.
+Revista: Frontiers in cardiovascular medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42694286
+DOI: 10.4103/aca.aca_79_22
+URL: https://pubmed.ncbi.nlm.nih.gov/42694286/
+
+Abstract:
+Interventional treatment for hemodynamically unstable pulmonary embolism (PE) is now common due to the fact that unstable PE carries a significant 30-day mortality. Unstable PE is characterized by acute right ventricular failure, hypotension, and hypoxia, leading to cardiovascular collapse and cardiac arrest. Implementation of veno-arterial extracorporeal membrane oxygenation (VA-ECMO) acutely provides oxygenation support to improve hypoxia and offload the right ventricular (RV) pressure in the belief that rapid reduction of hypoxia and right ventricular (RV) pressure will provide a window for intervention. There are two strategies for using VA-ECMO during percutaneous pulmonary mechanical thrombectomy: VA-ECMO-assisted mechanical thrombectomy and mechanical thrombectomy with standby VA-ECMO. While the application of VA-ECMO in percutaneous mechanical thrombectomy is usually short-term, providers must be cognizant that it can be associated with substantial multisystem morbidity due to a systemic inflammatory response, hemorrhagic stroke, renal dysfunction, and bleeding, and these factors will impact outcomes. The evolving paradigm positions VA-ECMO combined with percutaneous pulmonary mechanical thrombectomy as the preferred combination for the high-risk PE patients (acute right ventricular failure, refractory shock, and cardiac arrest), while percutaneous pulmonary mechanical thrombectomy alone with standby VA-ECMO suffices for most intermediate PE patients.
+
+--- PAPER PUBMED ---
+Título: Spontaneous ST-Segment Elevation in Right Precordial Leads Following Cardiac Arrest: Literature Review and Management Proposal for Ruling out Brugada Syndrome.
+Revista: Cardiovascular drugs and therapy
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42640381
+DOI: 10.1016/j.resuscitation.2008.09.017
+URL: https://pubmed.ncbi.nlm.nih.gov/42640381/
+
+Abstract:
+Electrocardiogram (ECG) evaluation after return of spontaneous circulation (ROSC) represents a crucial step in the diagnostic work-up of sudden cardiac death (SCD) survivors. Among ECG patterns, the Brugada syndrome (BrS) type 1 morphology, characterized by coved ST-segment elevation in right precordial leads, requires a prompt differential diagnosis, as it may reflect either a true BrS, or a BrS phenocopy, or yet an acquired sodium channel dysfunction. This focused narrative review provides an analysis of Brugada-like ECG patterns occurring in the post-ROSC setting, summarizing the pathophysiological mechanisms, diagnostic criteria, and distinctive features of each potential etiology. BrS is an inherited arrhythmogenic disorder associated with an increased risk of ventricular arrhythmias and SCD. Conversely, Brugada phenocopies are transient Brugada-like ECG patterns triggered by reversible conditions, including ischemia, pulmonary embolism, pneumothorax, hypothermia, electrolyte and metabolic disturbances, myocardial or pericardial inflammation, or intracranial hemorrhage. A diagnostic algorithm is proposed to guide clinicians through rapid evaluation, prioritizing the exclusion of life-threatening and reversible causes before considering primary electrical disorders. Early recognition and targeted management of these entities are fundamental, as prompt correction of the underlying condition often leads to complete ECG normalization, avoiding misdiagnosis. Understanding the spectrum of Brugada mimics is essential for improving diagnostic accuracy and optimizing therapeutic strategies in the acute management of post-cardiac arrest patients.
+
+--- PAPER PUBMED ---
+Título: Catheter-Based Therapies for Intermediate-High Risk Pulmonary Embolism: A Protocol for a Systematic Review With Bayesian Pairwise and Network Meta-Analyses.
+Revista: Acta anaesthesiologica Scandinavica
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42469156
+DOI: 10.1056/NEJMoa1208410
+URL: https://pubmed.ncbi.nlm.nih.gov/42469156/
+
+Abstract:
+Intermediate-high risk pulmonary embolism (PE) represents a clinically challenging subgroup of acute PE, characterized by right ventricular dysfunction and increased risk of hemodynamic deterioration despite treatment with anticoagulation therapy. Although systemic thrombolysis may provide more rapid reperfusion, its use is limited by an increased risk of major bleeding. Catheter-based treatment strategies have emerged as potential alternatives, but their comparative efficacy and safety remain uncertain. To assess the benefits and harms of catheter-based treatment strategies compared with contemporary control regimens, including standard anticoagulation with or without systemic thrombolysis, in patients with intermediate-high risk PE. This protocol outlines a systematic review with Bayesian pairwise meta-analysis and network meta-analysis of randomized clinical trials evaluating catheter-based therapies for hospitalized patients with intermediate-high risk PE. Eligible interventions include catheter-directed thrombolysis, ultrasound-assisted thrombolysis, and catheter-based embolectomy. Comparators may include standard anticoagulation alone or in combination with systemic thrombolysis or other active control regimens reflecting standard of care. Searches will be conducted in relevant databases, supplemented by trial registries. Two reviewers will independently screen studies, extract data, and assess risk of bias using the Cochrane Risk of Bias 2 tool. Bayesian pairwise meta-analyses and network meta-analysis will be performed using weakly informative priors to synthesize direct and indirect evidence across interventions. Results will be reported as posterior effect estimates with 95% credible intervals. The primary outcome will be all-cause mortality. Secondary and exploratory outcomes include major bleeding as defined according to the criteria of the International Society on Thrombosis and Haemostasis within 7 days, hospital length of stay, and change in RV/LV ratio within 48 h. GRADE assessments will be performed where applicable. This review will synthesize direct and indirect randomized evidence on catheter-based treatment strategies for intermediate-high risk PE. The findings may help clarify the role of these interventions in contemporary management, inform future guideline recommendations, and identify persistent evidence gaps requiring further large-scale randomized trials.
+
+--- PAPER PUBMED ---
+Título: Pulmonary embolism consensus.
+Revista: Archivos de cardiologia de Mexico
+Fecha: 2026
+Tipo: Journal Article, Consensus Statement
+PMID: 42447143
+DOI: 10.24875/ACM.M26000101
+URL: https://pubmed.ncbi.nlm.nih.gov/42447143/
+
+Abstract:
+Pulmonary embolism (PE) remains a major cause of cardiovascular morbidity and mortality. Despite significant advances in diagnosis and treatment, important challenges persist in the early identification of patients at risk of clinical deterioration and in the integration of clinical, imaging, and biomarker data for more accurate risk stratification. A multidisciplinary panel of experts reviewed the available scientific evidence, including international guidelines, randomized clinical trials, observational studies, and contemporary registries. Recommendations were developed through a structured consensus process, with particular emphasis on areas of uncertainty or ongoing evolution in clinical practice. This document updates recommendations on the diagnosis, risk stratification, anticoagulation, reperfusion therapies, and follow-up of patients with acute PE. A key focus is the concept of dynamic risk assessment, recognizing that clinical status may change significantly during the first hours and days after diagnosis. As an innovative proposal, the Integrated Cardiorespiratory Involvement System (SIAC) is introduced as a complementary framework that integrates hemodynamic parameters, right ventricular dysfunction, gas exchange impairment, biomarker profile, and clinical evolution. SIAC is designed to enhance traditional risk stratification models by enabling serial bedside reassessment and facilitating early identification of patients at risk of clinical deterioration and adverse outcomes. Modern management of acute PE requires a comprehensive and dynamic approach. This consensus integrates current evidence and proposes SIAC as a complementary tool to improve prognostic assessment and support more individualized therapeutic decision-making. El embolismo pulmonar (EP) continúa siendo una causa importante de morbimortalidad cardiovascular. A pesar de los avances diagnósticos y terapéuticos, persisten desafíos en la identificación temprana de pacientes con riesgo de deterioro clínico y en la integración de variables clínicas, de imagen y biomarcadores para una estratificación pronóstica más precisa. Un panel multidisciplinario de expertos revisó la evidencia científica disponible, incluyendo guías internacionales, ensayos clínicos, estudios observacionales y registros contemporáneos. Las recomendaciones fueron elaboradas mediante consenso estructurado, con énfasis en aspectos controvertidos o en evolución. El documento actualiza las recomendaciones para el diagnóstico, la estratificación del riesgo, la anticoagulación, las terapias de reperfusión y el seguimiento de los pacientes con EP aguda. Se destaca la necesidad de una evaluación dinámica del riesgo, considerando que la condición clínica puede modificarse durante las primeras horas y días posteriores al diagnóstico. Como propuesta innovadora, se introduce el Sistema Integrado de Afectación Cardiorrespiratoria (SIAC), una herramienta que integra parámetros hemodinámicos, disfunción ventricular derecha, alteraciones del intercambio gaseoso, biomarcadores y evolución clínica para complementar los modelos tradicionales de estratificación. El SIAC permite una reevaluación seriada del paciente y facilita la identificación precoz de quienes presentan riesgo de progresión clínica o eventos adversos. El manejo moderno del EP requiere una aproximación integral y dinámica. Este consenso reúne la evidencia actual y propone el SIAC como una estrategia complementaria para optimizar la evaluación pronóstica y apoyar una toma de decisiones terapéuticas más individualizada.
+
+--- PAPER PUBMED ---
+Título: The Right Ventricle in Cardiac Critical Care: Pathophysiology, Evaluation and Management.
+Revista: Medicina (Kaunas, Lithuania)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42356083
+DOI: 10.1016/j.echo.2022.12.022
+URL: https://pubmed.ncbi.nlm.nih.gov/42356083/
+
+Abstract:
+The right ventricle (RV) is a primary determinant of outcomes in cardiac critical care. RV dysfunction independently predicts morbidity and mortality in conditions such as acute coronary syndromes, pulmonary embolism, and cardiogenic shock. This review synthesizes RV evaluation and management by integrating physiologic principles with bedside diagnostic and therapeutic strategies. The RV is exceptionally sensitive to acute afterload increases due to its adaptation to low-pressure pulmonary circulation. Evaluation utilizes a multimodal approach combining echocardiography, invasive hemodynamics, and specifically the pulmonary artery pulsatility index and central venous pressure/pulmonary capillary wedge pressure (CVP/PCWP) ratio and biomarkers. Management focuses on three pillars: individualized preload optimization, afterload reduction via selective pulmonary vasodilators, and contractility augmentation with inotropes. For refractory cases, mechanical circulatory support options like Impella RP, ProtekDuo, and VA-ECMO provide critical bridges to recovery or transplantation.
+
+--- PAPER PUBMED ---
+Título: Review of Interventional Options and Surgical Techniques in the Management of Acute Pulmonary Embolism.
+Revista: The Journal of surgical research
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42349359
+DOI: 10.1016/j.jss.2026.05.055
+URL: https://pubmed.ncbi.nlm.nih.gov/42349359/
+
+Abstract:
+Acute massive pulmonary embolism (PE) represents a potentially lethal condition causing acute right ventricular heart dysfunction and cardiogenic shock. We aim to provide an overview of interventional and surgical options for PE management, with a focus on surgical techniques and outcomes. This was a narrative review so a systematic literature search was not performed. Catheter-directed thrombolysis and catheter-directed mechanical thrombectomy have demonstrated improved outcomes in several recent trials compared to medical management alone for higher risk PE. Surgical pulmonary embolectomy techniques have also evolved greatly over the years. Both in-hospital and short-term outcomes after surgical management show significant improvement from historical data that have limited the widespread acceptance of surgical management for acute PE. Veno-arterial extracorporeal membrane oxygenation has also emerged as a potential strategy to bridge high risk patients to definitive therapies. Surgical pulmonary embolectomy has gained popularity in recent years for PE management, with evolving techniques and improving outcomes compared to historical data. A thorough understanding of interventional and surgical techniques and options, combined with a multidisciplinary approach to care, are crucial to ensure timely and effective management of patients with acute PE.
+
+--- PAPER PUBMED ---
+Título: The Utility of Extracorporeal Membrane Oxygenation in the Setting of Chronic Thromboembolic Pulmonary Hypertension.
+Revista: Medical sciences (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42346812
+DOI: 10.1536/ihj.14-257
+URL: https://pubmed.ncbi.nlm.nih.gov/42346812/
+
+Abstract:
+Chronic thromboembolic pulmonary hypertension (CTEPH) is a progressive disease that occurs due to fibrotic remodeling of the pulmonary vessels. This leads to increased pressure overload onto the right ventricle, resulting in complications such as heart failure. Pulmonary endarterectomy (PEA) remains the gold standard of treatment for CTEPH, yet many patients experience life-threatening perioperative complications, including refractory right ventricular failure, reperfusion pulmonary edema, and endobronchial hemorrhage. Extracorporeal membrane oxygenation (ECMO) has been used as a form of mechanical circulatory support to aid recovery in patients with perioperative complications in the context of CTEPH. This review identifies preoperative risk factors, including pulmonary vascular resistance, high body mass index, and elevated neutrophil-to-lymphocyte ratios. It also identifies differences in ECMO configuration, with veno-arterial ECMO preferred for hemodynamic instability and veno-venous ECMO for respiratory failure. Finally, we posit that, based on contemporary literature, the implementation of early ECMO in decompensated patients may be associated with reduced hospital mortality, and in those who survive beget excellent mid-term survival.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: [PDF] A Narrative Review of Right Heart Dysfunction in Pulmonary Embolism
+URL: https://www.cureus.com/articles/428524-a-narrative-review-of-right-heart-dysfunction-in-pulmonary-embolism-current-insights-and-clinical-perspectives.pdf
+Score: 0.98138225
+
+Texto:
+Review began 10/14/2025 Review ended 03/10/2026 Published 03/12/2026 © Copyright 2026 Ilyas et al. This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+DOI: 10.7759/cureus.105115 A Narrative Review of Right Heart Dysfunction in Pulmonary Embolism: Current Insights and Clinical Perspectives Rida Ilyas , Sana Masood , Ambreen Fatima 1. Gastroenterology, South Tees NHS Foundation Trust-James Cook University Hospital, Middlesbrough, GBR 2.
+General Internal Medicine, South Tees NHS Foundation Trust-James Cook University Hospital, Middlesbrough, GBR 3.
+Community Medicine, Shalamar Medical and Dental College, Lahore, PAK Corresponding author: Ambreen Fatima, ambreenf54@gmail.com Abstract Pulmonary embolism (PE) often presents with non-specific symptoms that make the diagnosis challenging, but the identification of right heart strain (RHS) can help determine the disease severity. Therefore, timely identification and diagnosis of RHS in patients with pulmonary embolisms is critical for accurate risk categorization and appropriate management. The review mainly concentrates on acute pulmonary embolism and right‑heart strain assessment, risk stratification, and management using European Society of Cardiology (ESC) 2019 guidelines developed in collaboration with the European Respiratory Society (ERS).
+Right‑heart strain is diagnosed by imaging signs such as right‑ventricular dilation, interventricular septal flattening, McConnell’s sign, TAPSE<16mm, or an RV/LV ratio>1 on CTPA, together with elevated biomarkers (NT‑proBNP, troponinI, and MPV). These biochemical markers are chosen because they rise with right‑ventricular overload or injury.
+The aim of this study is to identify a literature gap in the diagnosis of RHS in the context of PE. Various biochemical markers and imaging modalities to diagnose RHS with PE are assessed. Despite the available tools, the current diagnostic approaches remain limited due to the absence of standardized measurement techniques and guidelines for right heart strain assessment on CTPA and echocardiography. Standardization of the assessment of right heart structure and function should be established, as this significantly impacts patient management. This study invites the researchers and international collaboration to set guidelines for the diagnosis of right heart strain in the context of pulmonary embolism to improve patient management and outcomes. This will also help to reduce mortality worldwide.
+A narrative review of existing studies, imaging techniques, and blood test markers was conducted to highlight existing gaps and call for future guidelines. A literature search was conducted using the Google Scholar database for articles published from 2000 to the most recent ones. Keywords included 'pulmonary embolism,' 'right ventricular dysfunction,' 'right heart strain,' 'thromboembolism,' 'deep venous thrombosis,' 'CT pulmonary angiogram,' 'echocardiography,' and 'anticoagulation.' No limitations were placed on the search to maximize inclusion of relevant literature. Duplicates and non-English articles were excluded.
+Categories: Cardiology, Internal Medicine, Pulmonology Keywords: anti-coagulation, ctpa, deep venous thrombosis, echocardiography, pulmonary embolism, right heart strain, risk stratification, thromboembolism Introduction And Background Pulmonary embolism (PE) is described as a blockage of one or more branches of the pulmonary arterial system by a thrombus. This thrombus typically originates from deep venous thrombosis (DVT) of the lower limbs. If pulmonary embolism is not treated in time, it may lead to right ventricular disorders due to chronic thromboembolic pulmonary hypertension (CTEPH) [1]. CTEPH is defined as a chronic complication of PE due to persistent pulmonary hypertension secondary to obstruction, even after six months of anticoagulation [2]. Right ventricular (RV) dysfunction refers to impaired systolic performance of the right ventricle. This impairment causes reduced right ventricular filling and diminished ventricular flow output [3]. It leads to increased pulmonary vascular resistance and eventually, right ventricular failure. This advanced stage is characterized by hemodynamic instability and reduced cardiac output [4]. Right heart strain (RHS) refers to acute imaging or biochemical evidence of RV pressure overload in the setting of PE. Acute pulmonary embolism (PE) is a major cause of morbidity and mortality in the United States and Europe, accounting for 100,000 and 300,000 deaths annually, respectively. Massive PE, characterized by systemic hypotension or cardiogenic shock, is associated with an in-hospital mortality of 25-50%. Whereas submassive PE, characterized by RV dysfunction without hypotension, has an in-hospital mortality rate of 3-15% [5]. PE and DVT survivors face a higher chance of death, which can persist for as long as 30 years after diagnosis. Also, the cumulative incidence of CTEPH has previously been estimated to be 2.2% 10 years after VTE [6]. Patients can present with various clinical manifestations, including syncope in 5-13%. First 1 2 3 Open Access Review Article How to cite this article Ilyas R, Masood S, Fatima A (March 12, 2026) A Narrative Review of Right Heart Dysfunction in Pulmonary Embolism: Current Insights and Clinical Perspectives. Cureus 18(3): e105115. DOI 10.7759/cureus.105115 reported in the 1970s, syncope was associated with evidence of right ventricular (RV) strain on electrocardiograms [7]. According to Heidinger et al., right ventricular (RV) systolic dysfunction is associated with increased short-term mortality in patients with PE [8].
+An important risk factor for PE is deep venous thrombosis (DVT). Pulmonary emboli originate when clots are dislodged from the deep veins, most commonly from the calf veins, 
+
+--- FUENTE WEB ---
+Título: Pulmonary Embolism and Right Ventricular Dysfunction: Mechanism and Management
+URL: https://www.cureus.com/articles/297399-pulmonary-embolism-and-right-ventricular-dysfunction-mechanism-and-management
+Score: 0.9697281
+
+Texto:
+## Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See our [privacy policy](https://www.cureus.com/privacy) for more information on the use of your personal data.
+
+Manage preferences for further information and to change your choices.
+
+Accept all cookies Reject optional cookies
+
+*   [Home](https://www.cureus.com/)
+*   Specialties![Image 1](https://public.cureus.com/new-nav-bar/nav-right-arrow.png)  
+
+    ![Image 2](https://public.cureus.com/new-nav-bar/nav-left-arrow-blue.png)Specialties 
+    
+
+#### Browse
+
+    *   [![Image 3](https://public.cureus.com/new-nav-bar/article-icon.png)Articles](https://www.cureus.com/articles)
+    *   [![Image 4](https://public.cureus.com/new-nav-bar/poster-icon.png)Posters](https://www.cureus.com/posters)
+    *   [![Image 5](https://public.cureus.com/new-nav-bar/abstract-icon.png)Abstracts](https://www.cureus.com/abstracts)
+    *   [![Image 6](https://public.cureus.com/new-nav-bar/new-tag-mobile.png)![Image 7](https://public.cureus.com/new-nav-bar/collections-blue.png)Cureus Collections](https://www.cureus.com/collections)
+
+    
+#### Specialties
+
+    
+        *   [![Image 8](https://public.cureus.com/new-nav-bar/specialties-tab/allergy_immunology.png)Allergy / Immunology](https://allergy_immunology.cureus.com/)
+        *   [![Image 9](https://public.cureus.com/new-nav-bar/specialties-tab/anatomy.png)Anatomy](https://anatomy.cureus.com/)
+        *   [![Image 10](https://public.cureus.com/new-nav-bar/specialties-tab/anesthesiology.png)Anesthesiology](https://anesthesiology.cureus.com/)
+        *   [![Image 11](https://public.cureus.com/new-nav-bar/specialties-tab/cardiac_thoracic_vascular_surgery.png)Cardiac / Thoracic / Vascular Surgery](https://cardiac_thoracic_vascular_surgery.cureus.com/)
+        *   [![Image 12](https://public.cureus.com/new-nav-bar/specialties-tab/cardiology.png)Cardiology](https://cardiology.cureus.com/)
+        *   [![Image 13](https://public.cureus.com/new-nav-bar/specialties-tab/dentistry.png)Dentistry](https://dentistry.cureus.com/)
+        *   [![Image 14](https://public.cureus.com/new-nav-bar/specialties-tab/dermatology.png)Dermatology](https://dermatology.cureus.com/)
+        *   [![Image 15](https://public.cureus.com/new-nav-bar/specialties-tab/emergency_medicine.png)Emergency Medicine](https://emergency_medicine.cureus.com/)
+        *   [![Image 16](https://public.cureus.com/new-nav-bar/specialties-tab/endocrinology_diabetes_metabolism.png)Endocrinology / Diabetes / Metabolism](https://endocrinology_diabetes_metabolism.cureus.com/)
+        *   [![Image 17](https://public.cureus.com/new-nav-bar/specialties-tab/environmental_health.png)Environmental Health](https://environmental_health.cureus.com/)
+        *   [![Image 18](https://public.cureus.com/new-nav-bar/specialties-tab/epidemiology_public_health.png)Epidemiology / Public Health](https://epidemiology_public_health.cureus.com/)
+        *   [![Image 19](https://public.cureus.com/new-nav-bar/specialties-tab/family_general_practice.png)Family / General Practice](https://family_general_practice.cureus.com/)
+        *   [![Image 20](https://public.cureus.com/new-nav-bar/specialties-tab/forensic_medicine.png)Forensic Medicine](https://cureus.com/forensic_medicine)
+        *   [![Image 21](https://public.cureus.com/new-nav-bar/specialties-tab/gastroenterology.png)Gastroenterology](https://gastroenterology.cureus.com/)
+        *   [![Image 22](https://public.cureus.com/new-nav-bar/specialties-tab/general_surgery.png)General Surgery](https://general_surgery.cureus.com/)
+        *   [![Image 23](https://public.cureus.com/new-nav-bar/specialties-tab/genetics.png)Genetics](https://cureus.com/genetics)
+        *   [![Image 24](https://public.cureus.com/new-nav-bar/specialties-tab/geriatrics.png)Geriatrics](https://cureus.com/geriatrics)
+        *   [![Image 25](https://public.cureus.com/new-nav-bar/specialties-tab/healthcare_technology.png)Healthcare Technology](https://healthcare_technology.cureus.com/)
+        *   [![Image 26](https://public.cureus.com/new-nav-bar/specialties-tab/health_policy.png)Health Policy](https://health_policy.cureus.com/)
+        *   [![Image 27](https://public.cureus.com/new-nav-bar/specialties-tab/hematology.png)Hematology](https://hematology.cureus.com/)
+        *   [![Image 28](https://public.cureus.com/new-nav-bar/specialties-tab/hiv_aids.png)HIV / AIDS](https://cureus.com/hiv_aids)
+        *   [![Image 29](https://public.cureus.com/new-nav-bar/specialties-tab/infectious_disease.png)Infectious Disease](https://infectious_disease.cureus.com/)
+        *   [![Image 30](https://public.cureus.com/new-nav-bar/specialties-tab/integrative_complementary_medicine.png)Integrative / Complementary Medicine](https://cureus.com/integrative_complementary_medicine)
+        *   [![Image 31](https://public.cureus.com/new-nav-bar/specialties-tab/internal_medicine.png)Internal Medicine](https://internal_medicine.cureus.com/)
+        *   [![Image 32](https://public.cureus.com/new-nav-bar/specialties-tab/medical_education.png)Medical Education](https://cureus.com/medical_education)
+        *   [![Image 33](https://public.cureus.com/new-nav-bar/specialties-tab/medical_physics.png)Medical Physics](https://cureus.com/medical_physics)
+        *   [![Image 34](https://public.cureus.com/new-nav-bar/specialties-tab/medical_simulation.png)Medical Simulation](https://cureus.com/medical_simulation)
+        *   [![Image 35](https://public.cureus.com/new-nav-bar/specialties-tab/nephrology.png)Nephrology](https://nep
+
+--- FUENTE WEB ---
+Título: HOME-PE2 : Home Treatment Versus Hospitalization in Patients With Acute Pulmonary Embolism, no Clinical Severity Criteria, and Either Right Ventricular Dysfunction or Elevated Troponin: a Randomized Controlled Trial
+URL: https://ctv.veeva.com/study/home-pe2-home-treatment-versus-hospitalization-in-patients-with-acute-pulmonary-embolism-no-clini
+Score: 0.92709976
+
+Texto:
+Search CTV
+
+Search for a location
+
+# HOME-PE2 : Home Treatment Versus Hospitalization in Patients With Acute Pulmonary Embolism, no Clinical Severity Criteria, and Either Right Ventricular Dysfunction or Elevated Troponin: a Randomized Controlled Trial
+
+University Hospital, Angers
+
+Status
+
+Conditions
+
+Treatments
+
+Study type
+
+Funder types
+
+Identifiers
+
+## Details and patient eligibility
+
+About
+
+This study (HOME-PE2) is a multicenter, randomized controlled trial comparing home treatment versus hospitalization in patients with acute pulmonary embolism (PE) who have no clinical severity criteria according to the Hestia rule but present either right ventricular dysfunction or elevated cardiac troponin levels.
+
+While outpatient management is considered safe for low-risk PE patients, the optimal management of patients without clinical severity but with signs of right ventricular strain or myocardial injury remains uncertain, and current guidelines are inconsistent. As a result, most of these patients are still hospitalized despite limited evidence supporting this approach.
+
+The primary objective is to assess whether home treatment is non-inferior to hospitalization in terms of safety, defined by the 7-day rate of adverse events according to the EARTH consensus. Secondary objectives include evaluation of net clinical benefit, quality of life, functional status, and healthcare resource utilization, as well as exploration of sex-related differences and cost-effectiveness.
+
+A total of 568 adult patients with confirmed PE will be randomized (1:1) to either home treatment with early discharge or standard hospitalization. Patients will be followed for 90 days.
+
+Full description
+
+PE is a common and potentially life-threatening condition with a wide spectrum of clinical severity. In recent years, outpatient management has been demonstrated to be safe and effective in selected low-risk patients, particularly those without hemodynamic instability or significant comorbidities. Risk stratification tools such as the Hestia rule are widely used to identify patients eligible for home treatment based on clinical criteria.
+
+However, uncertainty remains regarding the optimal management of patients who, despite having no clinical severity criteria according to the Hestia rule, present signs of right ventricular dysfunction (RVD) on imaging or elevated cardiac troponin levels. These markers are associated with an increased risk of adverse outcomes in some populations and are used in certain guidelines to classify patients as intermediate risk, often leading to hospitalization. In contrast, other recommendations do not require systematic cardiac assessment in clinically stable patients and support outpatient care in the absence of clinical severity criteria. As a result, clinical practice remains heterogeneous, and hospitalization is still frequently preferred in this subgroup despite limited prospective evidence.
+
+The HOME-PE2 study is designed to address this gap by comparing two commonly used management strategies-home treatment and hospitalization-in this specific population. The trial aims to determine whether outpatient management is non-inferior to hospitalization in terms of short-term safety, while also evaluating broader patient-centered and health system outcomes.
+
+HOME-PE2 is an international, multicenter, open-label, randomized controlled trial with blinded adjudication of clinical outcomes. Eligible adult patients presenting to the emergency department with objectively confirmed acute PE will be assessed for clinical severity using the Hestia rule. Patients without clinical criteria requiring hospitalization but with either RVD on imaging or elevated cardiac troponin levels will be randomized in a 1:1 ratio to either home treatment or hospitalization. Randomization will be stratified by country and by the qualifying cardiac abnormality.
+
+Patients allocated to the home treatment group will be discharged early after inclusion, according to predefined timelines consistent with outpatient management. Patients assigned to the hospitalization group will receive standard inpatient care according to local practice. In both groups, anticoagulant therapy will be initiated and managed according to current guidelines and local protocols.
+
+The study incorporates pragmatic features, including the comparison of usual care management strategies and flexibility in anticoagulation treatment according to local practice, thereby enhancing the generalizability of the findings to real-world clinical settings.
+
+All patients will receive structured follow-up over a 90-day period. Clinical follow-up will include scheduled assessments shortly after inclusion and at later time points, either through in-person visits aligned with routine care or via telephone contact. In addition, patient-reported outcomes will be collected longitudinally using validated instruments assessing health-related quality of life and functional status. Data on healthcare utilization, including hospital readmissions and length of stay, will also be collected.
+
+An independent clinical events committee, blinded to treatment allocation, will adjudicate all suspected outcome events based on predefined criteria to ensure consistency and reliability of endpoint assessment.
+
+Beyond safety, the study will evaluate the overall net clinical benefit of home treatment compared with hospitalization, integrating multiple clinically relevant outcomes in a hierarchical framework. It will also assess the impact of management strategy on patient-reported outcomes, including quality of life and functional recovery, as well as healthcare resource use.
+
+In addition, exploratory analyses will examine the influence of sex and living conditions on outcomes, in order to better understand potential differences in the feasibility and impact of outpatient care. A health-economic evaluation will be conducted to compare cost-utility and to estimate the potential budget impact of impl
+
+--- FUENTE WEB ---
+Título: pulmonary embolism intervention Archives - REBEL EM - Emergency Medicine Blog
+URL: https://rebelem.com/tag/pulmonary-embolism-intervention
+Score: 0.92617035
+
+Texto:
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2019/01/rebelEM-lightbg.png?fit=800%2C186&ssl=1)
+
+## Archive
+
+# Tag: pulmonary embolism intervention
+
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2026/05/HI-PEITHO-Cover-1-scaled.jpg?fit=900%2C506&ssl=1)
+
+## [HI-PEITHO Trial: Ultrasound-facilitated, Catheter Directed Fibrinolysis for PE](https://rebelem.com/hipeitho/)
+
+In patients with intermediate-risk pulmonary embolism (PE), does ultrasound-facilitated, catheter-directed fibrinolysis (US-CDT) plus anticoagulation improve clinical outcomes compared to anticoagulation alone?
+
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2026/01/peerless-trial-saddle-pe-clot-pulmonary-artery.jpg?fit=900%2C606&ssl=1)
+
+## [The PEERLESS Trial: Large-Bore Mechanical Thrombectomy Versus Catheter-Directed Thrombolysis in Intermediate-Risk PE](https://rebelem.com/peerless-trial-mechanical-trombectomy-vs-cdt-intermediate-risk-pe/)
+
+The optimal treatment strategy for intermediate-risk (submassive) pulmonary embolism remains controversial. These patients are not in shock, but they have right ventricular (RV) dysfunction and myocardial injury, which are associated with higher risk for clinical decompensation and adverse outcomes.
+
+![rebelSWAG-lightbg](https://i0.wp.com/rebelem.com/wp-content/uploads/2019/01/rebelSWAG-lightbg.png?fit=678%2C250&ssl=1)
+![gsep-logo-1](https://i0.wp.com/rebelem.com/wp-content/uploads/2019/01/gsep-logo-1.jpg?fit=296%2C105&ssl=1)
+
+Sponsored
+
+![](https://i0.wp.com/rebelem.com/wp-content/uploads/2021/08/creativecommons.jpg?fit=300%2C106&ssl=1)
+
+#### REBEL EM is licensed under a
+
+[Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US).
+
+© 2022 REBEL EM. All rights reserved. | [Disclaimer](/disclaimer/) | Website by [Innov8 Place](https://innov8.place/).
+
+--- FUENTE WEB ---
+Título: Right Ventricular “Bubble Time” to Identify Patients With Right Ventricular Dysfunction - Annals of Emergency Medicine
+URL: https://www.annemergmed.com/article/S0196-0644(24)00095-7/abstract
+Score: 0.9234544
+
+Texto:
+# Right Ventricular “Bubble Time” to Identify Patients With Right Ventricular Dysfunction. *Data sharing statement*: The limited dataset is available upon request from the date of article publication by contacting Dr. Allison Cohen at acohen20@northwell.edu and after executing a data sharing agreement between parties involved. We propose a novel method of evaluating right ventricular (RV) dysfunction in the emergency department (ED) using RV “bubble time”—the duration of time bubbles from a saline solution flush are visualized in the RV on echocardiography. The objective was to identify the optimal cutoff value for RV bubble time that differentiates patients with RV dysfunction and report on its diagnostic test characteristics. The optimal cutoff value of RV bubble time for identifying patients with RV dysfunction was 40 or more seconds, with a sensitivity of 0.97 (95% CI 0.93 to 1.00) and specificity of 0.87 (95% CI 0.82 to 0.93). **Diagnosis of acute heart failure in the emergency department: an evidence-based review**. **Contemporary management of acute right ventricular failure: a statement from the Heart Failure Association and the working group on pulmonary circulation and right ventricular function of the European Society of Cardiology**. **Right ventricular dysfunction in acute heart failure from emergency department to discharge: predictors and clinical implications**. *Am J Emerg Med.* 2022; **52**:25-33. **Right ventricular dysfunction and its contribution to morbidity and mortality in left ventricular heart failure**. **Diagnostic accuracy of right ventricular dysfunction markers in normotensive emergency department patients with acute pulmonary embolism**. **Pulmonary hypertension and right ventricular failure in emergency medicine**. **Regional right ventricular dysfunction detected by echocardiography in acute pulmonary embolism**. **Disturbed right ventricular ejection pattern as a new Doppler echocardiographic sign of acute pulmonary embolism**. **Analysis of the 60/60 sign and other right ventricular parameters by 2D transthoracic echocardiography as adjuncts to diagnosis of acute pulmonary embolism**. **Pathophysiology of right ventricular failure in acute pulmonary embolism and chronic thromboembolic pulmonary hypertension: a pictorial essay for the interventional radiologist**. **Accuracy of emergency physician-performed limited echocardiography for right ventricular strain**. *Am J Emerg Med.* 2014; **32**:371-374. *J Emerg Med.* 2023; **64**:328-337. **Emergency physicians are able to detect right ventricular dilation with good agreement compared to cardiology**.
+
+--- FUENTE WEB ---
+Título: Pulmonary Hypertension and Right Ventricular Failure in ...
+URL: https://www.semanticscholar.org/paper/Pulmonary-Hypertension-and-Right-Ventricular-in-Wilcox-Kabrhel/47d58674a7de4d0e422f38f2544f81a0f24322a2
+Score: 0.90295243
+
+Texto:
+* DOI:10.1016/j.annemergmed.2015.07.525 # Pulmonary Hypertension and Right Ventricular Failure in Emergency Medicine. title={Pulmonary Hypertension and Right Ventricular Failure in Emergency Medicine.}, Wilcox and Christopher Kabrhel and Richard N Channick}, journal={Annals of emergency medicine}, * Published in Annals of Emergency Medicine 1 December 2015 ## Figures and Tables from this paper ## 56 Citations ### Right heart failure: A narrative review for emergency clinicians. The American journal of emergency medicine ### Pulmonary Arterial Hypertension Emergency Complications and Evaluation Archer‐ChickoTraci HoustenStephanie J Harris Nolley This work reviews common ED presentations of patients with PAH such as cardiac arrest/sudden death, right ventricular failure, syncope, hypoxemic respiratory failure, arrhythmias, hemoptysis, pulmonary embolism, chest pain/left main compression syndrome, infection, and considerations for PAH medication administration. The American journal of emergency medicine ### High rate of isolated right ventricular dysfunction in patients with non‐significant CT pulmonary angiography The American journal of emergency medicine ### ECMO and Right Ventricular Failure: Review of the Literature Journal of intensive care medicine Mechanical circulatory support (MCS) is needed to maintain systemic and RV perfusion when medical therapies are insufficient, and extracorporeal membrane oxygenation (ECMO) appears to be the most efficient and effective modality for isolated RV failure. ## 73 References ### Intensive care unit management of patients with severe pulmonary hypertension and right heart failure. ### Right ventricular heart failure from pulmonary embolism: key distinctions from chronic pulmonary hypertension. Journal of the American College of Cardiology ### Pulmonary vascular and right ventricular dysfunction in adult critical care: current and emerging options for management: a systematic literature review Although some recommendations can be made to guide the critical care management of pulmonary vascular and right ventricular dysfunction, within the limitations of this review and the GRADE methodology, the quality of the evidence base is generally low, and further high-quality research is needed. ### Pulmonary Hypertension, Hemoptysis and an Echocardiographic Finding of a Ventricular Septal Defect The western journal of emergency medicine In this case, a VSD with left-to-right shunt was diagnosed on EUS, simultaneously with right ventricular strain, underscoring the need for aggressive treatment of the patient’s pulmonary disease due to the ominous possibility for the future development of Eisenmenger complex.
+
+--- FUENTE WEB ---
+Título: Fibrinolysis for pulmonary embolism may prevent hemodynamic collapse [PEITHO trial] | 2 Minute Medicine
+URL: https://www.2minutemedicine.com/fibrinolysis-for-pulmonary-embolism-may-prevent-hemodynamic-collapse-peitho-trial
+Score: 0.90295243
+
+Texto:
+![2 Minute Medicine](https://www.2minutemedicine.com/wp-content/uploads/2023/11/newAsset-3@0.2x.webp)
+
+No products in the cart.
+
+![2 Minute Medicine](https://www.2minutemedicine.com/wp-content/uploads/2023/11/newAsset-3@0.2x.webp)
+![2 Minute Medicine](https://www.2minutemedicine.com/wp-content/uploads/2015/06/cropped-Favicon-Logo-big-e1434924846398.png)
+
+# Fibrinolysis for pulmonary embolism may prevent hemodynamic collapse [PEITHO trial]
+
+![Fibrinolysis for pulmonary embolism may prevent hemodynamic collapse [PEITHO trial]](https://www.2minutemedicine.com/wp-content/themes/jnews/assets/img/jeg-empty.png)
+
+Image: CC/Heilman
+
+**1. Fibrinolysis in addition to standard anticoagulation reduced hemodynamic decompensation, but did not affect overall mortality, in patients with intermediate-risk pulmonary embolism.**
+
+**2. Fibrinolysis was associated with greater risk of bleeding and stroke.**
+
+**Evidence Rating Level: 1 (Excellent)**
+
+**Study Rundown:** A pulmonary embolism (PE) that causes persistent hypotension is considered a massive PE. Those that do not meet this criterion are considered submassive. At present, fibrinolytic therapy is only indicated for massive PE. This trial investigates whether fibrinolytic therapy is appropriate for cases of submassive PE where there is evidence of right ventricular dysfunction and myocardial injury – what the authors call intermediate-risk pulmonary embolism. Fibrinolysis in this setting has been a controversial subject and this is the largest trial to address this question thus far.
+
+The primary outcome in this trial was a composite of hemodynamic decompensation and death from any cause within 7 days of randomization. The results show that fibrinolysis in addition to standard anticoagulation reduced the primary outcome by about 50%. However, fibrinolysis primarily reduced the incidence of hemodynamic decompensation. There was no difference in overall mortality between the two groups either at 7 or 30 days. Death was an infrequent event in both groups, suggesting that the placebo group strategy of standard anticoagulation followed by fibrinolysis in the event of hemodynamic collapse could be a valid approach to management of these patients. Fibrinolysis was associated with a significant increase in the incidence of major extracranial bleeding and stroke.
+
+### RELATED REPORTS
+
+### [#VisualAbstract: Reduced-Dose Apixaban was Noninferior to Full-Dose for Cancer-Associated Venous Thromboembolism](https://www.2minutemedicine.com/visualabstract-reduced-dose-apixaban-was-noninferior-to-full-dose-for-cancer-associated-venous-thromboembolism/)
+
+### [Discharge rates in American emergency departments unchanged for pulmonary embolism](https://www.2minutemedicine.com/discharge-rates-in-american-emergency-departments-unchanged-for-pulmonary-embolism/)
+
+### [Testosterone-replacement therapy noninferior to placebo for preventing cardiovascular events](https://www.2minutemedicine.com/testosterone-replacement-therapy-noninferior-to-placebo-for-reducing-cardiovascular-events/)
+
+[Click to read the study, published today in NEJM](http://www.nejm.org/media/doi/full/10.1056/NEJMoa1302097)
+
+[Click to read the accompanying editorial in the NEJM](http://www.nejm.org/media/doi/full/10.1056/NEJMe1401025)
+
+Relevant Reading: [Prognostic value of right ventricular dysfunction in patients with haemodynamically stable pulmonary embolism: a systematic review](http://eurheartj.oxfordjournals.org/content/29/12/1569.full)
+
+**In-Depth [randomized controlled trial]:** A total of 1006 patients from multiple countries were randomized to standard anticoagulation with heparin plus a one-time bolus of either the fibrinolytic, tenecteplase or a bolus of placebo. These were patients with intermediate-risk PE based on CT and/or echocardiography findings consistent with right ventricular dysfunction, plus evidence of myocardial injury confirmed by increased troponin levels.
+
+The primary composite outcome of hemodynamic deterioration or death within 7 days was significantly lower in the fibrinolysis group (2.6% vs. 5.6%, P=0.02). Death within 7 days was not significantly different between the two groups (1.2% vs. 1.8%, P=0.42). There was a lower incidence of hemodynamic decompensation in the fibrinolysis group (1.6% vs. 5.0%, P=0.002).
+
+There was a significantly higher incidence of bleeding and stroke in the fibrinolysis group in the first 7 days: major extracranial bleeding (6.3% vs. 1.2%, P<0.001); minor bleeding (32.6% vs. 8.6%); major bleeding (11.5% vs. 2.4%); stroke (2.4% vs. 0.2%, P=0.003). There was a similar incidence of serious adverse events within the first 30 days after randomization (10.9% vs. 11.8%, P=0.63).
+
+More from this author: [Early risk factor for progression of cystic fibrosis identified](https://www.2minutemedicine.com/early-risk-factor-for-progression-of-cystic-fibrosis-identified/), [Gut microbes implicated in stroke and heart attacks: new dietary link](https://www.2minutemedicine.com/gut-microbes-affect-cardiovascular-risk-through-a-new-dietary-link/), [New leukemia mutation offers therapeutic targets](https://www.2minutemedicine.com/newly-identified-leukemia-mutation-offers-therapeutic-targets/), [Childhood ADHD associated with increased risk of suicide](https://www.2minutemedicine.com/childhood-adhd-associated-with-increased-risk-of-suicide-and-psychiatric-disorders-physician-comment/), [A marker of aggressive liver cancer and potential therapeutic target identified](https://www.2minutemedicine.com/a-marker-of-aggressive-liver-cancer-and-potential-therapeutic-target-identified/) 
+
+©2012-2014 2minutemedicine.com. All rights reserved. No works may be reproduced without expressed written consent from 2minutemedicine.com. Disclaimer: We present factual information directly from peer reviewed medical journals. No post should be construed as medical advice and is not intended as such by the authors, editors, staff or by 2minutemedicine.com. PLEASE SEE A HEALTHCARE PROVIDER IN 
+
+--- FUENTE WEB ---
+Título: What is the role of epoprostenol (prostacyclin) in treating pulmonary embolism with right ventricular dysfunction or pulmonary hypertension?
+URL: https://droracle.ai/articles/364173/what-is-the-role-of-epoprostenol-prostacyclin-in-treating
+Score: 0.89947516
+
+Texto:
+Title: What is the role of epoprostenol (prostacyclin) in treating pulmonary embolism with right ventricular dysfunction or pulmonary hypertension?
+# What is the role of epoprostenol (prostacyclin) in treating pulmonary embolism with right ventricular dysfunction or pulmonary hypertension? Your choice helps us use language that's most understandable for you. # Epoprostenol in Pulmonary Embolism with Right Ventricular Dysfunction or Pulmonary Hypertension. **Epoprostenol is not recommended as a standard treatment for acute pulmonary embolism with right ventricular dysfunction or pulmonary hypertension, as there is insufficient evidence supporting its efficacy in this specific condition.** 1. ### Acute Pulmonary Embolism. ### Chronic Thromboembolic Pulmonary Hypertension (CTEPH). While not indicated for acute PE, epoprostenol may have a role in selected cases of chronic thromboembolic pulmonary hypertension:. If epoprostenol is considered in specialized settings for pulmonary hypertension:. ## Clinical Perspective. Epoprostenol has established efficacy in other forms of pulmonary hypertension:. For acute pulmonary embolism with right ventricular dysfunction, current evidence does not support the use of epoprostenol. Management should focus on established treatments including anticoagulation, careful fluid management, and appropriate vasopressor/inotropic support when needed. Epoprostenol should be reserved for specific pulmonary hypertension conditions where evidence supports its use, such as WHO Group 1 PAH or selected cases of inoperable CTEPH, and should be managed by specialists experienced in pulmonary hypertension treatment. No effect of epoprostenol on right ventricular diameter in patients with acute pulmonary embolism: a randomized controlled trial. Dr.Oracle Medical Advisory Board & Editors, 2025. Continuous intravenous epoprostenol for chronic thromboembolic pulmonary hypertension. Epoprostenol in chronic thromboembolic pulmonary hypertension with distal lesions. Italian heart journal : official journal of the Italian Federation of Cardiology, 2004. Official FDA Drug Label For epoprostenol (IV). ### Related Questions. #### Professional Medical Disclaimer. This information is intended for healthcare professionals. Any medical decision-making should rely on clinical judgment and independently verified information. The content provided herein does not replace professional discretion and should be considered supplementary to established clinical guidelines. Healthcare providers should verify all information against primary literature and current practice standards before application in patient care. Dr.Oracle assumes no liability for clinical decisions based on this content. ### Have a follow-up question? Our Medical A.I. is used by practicing medical doctors at top research institutions around the world. Ask any follow up question and get world-class guideline-backed answers instantly.
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada

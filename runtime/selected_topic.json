@@ -1,22 +1,22 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "selected_topic": {
-    "id": "sepsis_early_recognition",
-    "title": "sepsis early recognition in the emergency department",
-    "axis": "infectious",
+    "id": "pulmonary_embolism_rv",
+    "title": "right ventricular dysfunction in pulmonary embolism",
+    "axis": "cardiovascular",
     "priority": 10,
-    "review_interval_days": 120,
+    "review_interval_days": 180,
     "keywords": [
-      "sepsis",
-      "early recognition",
-      "emergency department"
+      "pulmonary embolism",
+      "right ventricular dysfunction",
+      "risk stratification"
     ]
   },
-  "score": 126.0,
+  "score": 125.75,
   "exploration": false,
   "reason": {
     "priority_score": 100,
-    "recency_score": 3.0,
+    "recency_score": 2.75,
     "axis_score": 23.0,
     "alert_score": 0,
     "last_axis_penalty": false,
@@ -24,34 +24,34 @@
   },
   "top_5": [
     {
-      "id": "sepsis_early_recognition",
-      "title": "sepsis early recognition in the emergency department",
-      "axis": "infectious",
-      "score": 126.0
-    },
-    {
       "id": "pulmonary_embolism_rv",
       "title": "right ventricular dysfunction in pulmonary embolism",
       "axis": "cardiovascular",
-      "score": 125.5
+      "score": 125.75
     },
     {
       "id": "shock_undifferentiated",
       "title": "undifferentiated shock in emergency medicine",
       "axis": "critical_care",
-      "score": 125.5
+      "score": 125.75
     },
     {
       "id": "acute_coronary_syndrome_troponin",
       "title": "high sensitivity troponin in acute coronary syndrome",
       "axis": "cardiovascular",
-      "score": 124.25
+      "score": 124.5
     },
     {
       "id": "stroke_thrombectomy_selection",
       "title": "acute ischemic stroke thrombectomy selection",
       "axis": "neurology",
-      "score": 122.75
+      "score": 123.0
+    },
+    {
+      "id": "dyspnea_ed",
+      "title": "acute dyspnea in the emergency department",
+      "axis": "cardinal_symptoms",
+      "score": 119.75
     }
   ]
 }
