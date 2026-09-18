@@ -40,8 +40,8 @@
     "axis": "respiratory"
   },
   "delirium_elderly": {
-    "last_seen": "2026-08-10",
-    "times_reviewed": 1,
+    "last_seen": "2026-09-18",
+    "times_reviewed": 2,
     "axis": "vulnerable_populations"
   },
   "dyspnea_ed": {
