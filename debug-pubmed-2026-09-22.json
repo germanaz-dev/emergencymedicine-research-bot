@@ -1,0 +1,106 @@
+[
+  {
+    "pmid": "42670727",
+    "title": "Artificial Intelligence in Echocardiography for Acute Coronary Syndromes: Current Evidence and Integration With Electrocardiography and Biomarkers.",
+    "journal": "Echocardiography (Mount Kisco, N.Y.)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1111/echo.70610",
+    "abstract": "Early diagnosis of acute coronary syndromes (ACS) remains challenging because electrical, mechanical, and biochemical manifestations of myocardial ischemia evolve at different stages of the ischemic cascade. Although electrocardiography (ECG), cardiac biomarkers, and echocardiography are routinely used in clinical practice, these diagnostic modalities are commonly interpreted independently, potentially delaying recognition of myocardial ischemia. Recent advances in artificial intelligence (AI) offer new opportunities to improve diagnostic accuracy through multimodal integration, with echocardiography serving as the central imaging modality. AI-enhanced echocardiography, integrated with electrocardiographic findings, cardiac biomarkers, and clinical information, may improve the early diagnosis, risk stratification, and clinical management of patients with suspected ACS compared with conventional sequential diagnostic approaches. A comprehensive narrative review of contemporary literature was performed to evaluate current evidence regarding AI applications in echocardiography and their integration with ECG and cardiac biomarkers for the diagnosis of ACS. Published studies addressing automated image acquisition, chamber quantification, myocardial deformation analysis, regional wall-motion assessment, multimodal machine-learning models, explainable AI, and clinical implementation were critically reviewed and synthesized. AI has substantially expanded the capabilities of echocardiography by enabling automated image interpretation, quantitative assessment of ventricular function, myocardial strain analysis, and detection of regional wall-motion abnormalities with high reproducibility. When integrated with ECG, serial high-sensitivity cardiac troponin measurements, and clinical variables, multimodal AI systems demonstrate the potential to improve diagnostic accuracy, facilitate earlier identification of myocardial ischemia, reduce diagnostic uncertainty, and support individualized clinical decision-making. Nevertheless, widespread implementation requires prospective multicenter validation, standardized imaging protocols, explainable algorithms, regulatory oversight, and seamless integration into clinical workflows. AI-enhanced echocardiography represents a promising step toward precision cardiovascular imaging and may become the central imaging component of future multimodal diagnostic pathways for patients with suspected ACS. Integration of structural, functional, electrical, biochemical, and clinical information through AI-supported decision systems has the potential to improve diagnostic performance and optimize emergency cardiovascular care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42670727/"
+  },
+  {
+    "pmid": "42663357",
+    "title": "Fifth Universal Definition of Myocardial Infarction (2026).",
+    "journal": "Journal of the American College of Cardiology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1016/j.jacc.2026.07.025",
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42663357/"
+  },
+  {
+    "pmid": "42653098",
+    "title": "Growth Differentiation Factor-15 in Acute Coronary Syndromes: Prognostic Value and Barriers to Clinical Implementation.",
+    "journal": "International journal of molecular sciences",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1007/s11239-024-03019-5",
+    "abstract": "High-sensitivity cardiac troponin has made the diagnosis of myocardial infarction (MI) faster and more precise, but it does not measure the broader biological vulnerability that often determines the outcome after an acute coronary syndrome (ACS). Growth differentiation factor-15 (GDF-15) is induced by ischemic stress, inflammation, oxidative injury, renal dysfunction, metabolic disease, and ageing. This biology explains its appeal in ACS, but also its diagnostic limitation: GDF-15 is not cardiac-specific and should not be used as an alternative to electrocardiography and high-sensitivity troponin algorithms for early MI diagnosis. Its better supported role is prognostic. Across emergency department chest pain cohorts, non-ST elevation MI, ST elevation MI, post-ACS trial populations, and serial biomarker studies, higher GDF-15 concentrations are most consistently associated with all-cause mortality, cardiovascular mortality, heart failure, and major bleeding, while associations with recurrent ischemic events alone are less specific. The key unresolved issue is incremental clinical value. GDF-15 may improve discrimination and reclassification beyond clinical predictors, troponin, natriuretic peptides, renal function and GRACE or GRACE 2.0 in selected settings, but statistical association is not equivalent to clinical utility. Its possible role in bleeding risk estimation and antithrombotic benefit-risk assessment is clinically important, especially after the PLATO biomarker analyses, yet routine GDF-15-guided dual antiplatelet therapy decisions remain unsupported. Future implementation requires validated thresholds, calibration, decision curve evidence, health economic evaluation, and trials in which GDF-15-guided management changes care and improves outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42653098/"
+  },
+  {
+    "pmid": "42645864",
+    "title": "Contemporary Management of Acute Coronary Syndromes in the Cardiac Intensive Care Unit: From Rapid Diagnosis to Early Secondary Prevention.",
+    "journal": "Journal of cardiovascular development and disease",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1038/s41591-022-01686-6",
+    "abstract": "Management of acute coronary syndromes (ACS) in the cardiac intensive care unit (CICU) requires rapid diagnosis, timely reperfusion or invasive assessment, appropriate antithrombotic therapy, and early recognition of haemodynamic, electrical, and mechanical complications. This narrative review examines contemporary evidence across ST-segment elevation and non-ST-segment elevation presentations, with emphasis on decisions during hospitalisation and early secondary prevention. High-sensitivity cardiac troponin algorithms support accelerated assessment of suspected non-ST-segment elevation ACS, whereas next-generation assays require further implementation validation. Twelve-month dual antiplatelet therapy remains the default after ACS in patients without high bleeding risk; abbreviated regimens, de-escalation, cangrelor, and combined antiplatelet-anticoagulant treatment are selective strategies. Contemporary care also includes risk-based invasive timing, complete revascularisation in suitable haemodynamically stable patients, culprit-lesion-only initial PCI in cardiogenic shock, and individualised management of frailty and renal impairment. High-intensity statin therapy, with early ezetimibe when needed, is guideline-supported. Early PCSK9 inhibition and low-dose colchicine are selective strategies, whereas SGLT2 inhibitors and GLP-1RAs are established for specific comorbid indications. hs-cTnT Gen 6 and AI-assisted tools remain evidence-evolving, while multiomics and targeted anti-inflammatory therapies remain investigational. Clear separation of guideline-supported, selective, evidence-evolving, and investigational approaches is essential for clinically appropriate ACS care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42645864/"
+  },
+  {
+    "pmid": "42626118",
+    "title": "Clinical characteristics and diagnostic challenges of non-ST-segment elevation acute coronary syndrome patients with normal electrocardiograms: a review.",
+    "journal": "Frontiers in cardiovascular medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1177/2048872620929148",
+    "abstract": "Non-ST-segment elevation acute coronary syndrome (NSTE-ACS) represents a major subtype of acute coronary syndrome (ACS). A clinically relevant but often overlooked subgroup of patients presents with typical ischemic symptoms despite a normal initial 12-lead electrocardiogram (ECG), creating real diagnostic difficulty. This narrative review synthesizes current evidence across several domains: epidemiology, pathophysiology, clinical presentation, diagnostic evaluation, and management of NSTE-ACS patients with normal ECGs. A structured literature search of PubMed, Web of Science, and the China National Knowledge Infrastructure (CNKI) databases, with emphasis on prospective cohort studies, registries, systematic reviews, meta-analyses, and current European Society of Cardiology (ESC) and American College of Cardiology/American Heart Association (ACC/AHA) guideline recommendations. Depending on the definition of \"normal ECG\" and study population, approximately 1%-8% of confirmed NSTE-ACS patients present with a normal initial ECG. These patients frequently exhibit single-vessel disease, non-obstructive coronary artery disease, or alternative mechanisms such as coronary vasospasm and microvascular dysfunction. High-sensitivity cardiac troponin (hs-cTn) assays using rapid 0/1-h or 0/2-h algorithms constitute the diagnostic cornerstone, while coronary computed tomography angiography (CCTA) provides valuable anatomical assessment, particularly in low-to-intermediate-risk patients. This review presents an integrated diagnostic algorithm, critically evaluates the complementary roles of multimodality imaging techniques, and discusses future directions including artificial intelligence-assisted ECG interpretation and wearable monitoring technologies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42626118/"
+  },
+  {
+    "pmid": "42620386",
+    "title": "Cardiac Troponin Elevation Beyond Type 1 Myocardial Infarction: A Systematic Review of Prognostic Significance and Cardiovascular Risk Stratification.",
+    "journal": "Cureus",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.7759/cureus.112972",
+    "abstract": "Cardiac troponin elevation is central to the diagnosis of myocardial injury, but its clinical interpretation remains challenging when type 1 myocardial infarction is absent. This systematic review evaluated the clinical and prognostic significance of elevated cardiac troponin in adults without type 1 myocardial infarction, with particular emphasis on type 2 myocardial infarction, critical illness-related myocardial injury, suspected acute coronary syndrome populations with minor myocardial injury, and acute or chronic heart failure-related myocardial injury. A systematic search of PubMed/MEDLINE, Scopus, and Web of Science identified six eligible clinical studies. The included evidence comprised prospective and retrospective cohort studies, secondary biomarker analyses of randomized trials, and trial-derived heart failure cohorts. Across heterogeneous clinical settings, troponin elevation was consistently associated with adverse outcomes, including all-cause mortality, cardiovascular mortality, heart failure hospitalization, cardiovascular death or heart failure rehospitalization, and greater clinical severity. In type 2 myocardial infarction and critical illness, troponin elevation identified high-risk patients despite the absence of classic plaque-rupture acute coronary syndrome. In heart failure populations, troponin appeared to function as a dynamic marker of myocardial stress, residual risk, and treatment-responsive injury. High-sensitivity assays further suggest that troponin may convey prognostic information across a continuum rather than only above binary diagnostic thresholds. These findings support a phenotype-based approach in which troponin elevation outside type 1 myocardial infarction is interpreted according to mechanism, clinical context, biomarker trajectory, and follow-up needs. Although current evidence does not define a uniform treatment pathway, it indicates that troponin-positive patients without type 1 myocardial infarction should not be considered low risk solely because acute coronary syndrome has been excluded. Future prospective studies should determine which troponin-positive phenotypes benefit most from structured cardiovascular reassessment, targeted investigation, and post-discharge surveillance.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42620386/"
+  },
+  {
+    "pmid": "42589588",
+    "title": "Cardiac Myosin-Binding Protein C in Suspected Acute Coronary Syndrome: From Sarcomeric Injury Biology to Decision-Grade Risk Stratification.",
+    "journal": "International journal of molecular sciences",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1373/clinchem.2018.287342",
+    "abstract": "Cardiac myosin-binding protein C (cMyBP-C) is a cardiac-restricted sarcomeric protein; after cardiomyocyte injury, circulating intact cMyBP-C and/or cMyBP-C fragments, collectively referred to here as the cMyC biomarker signal, appear rapidly in blood. In suspected acute coronary syndrome (ACS), its most important potential role is not as another marker of injury but as a decision-enhancing biomarker beyond symptoms, electrocardiography, cardiac troponin T and I concentrations measured with high-sensitivity assays (hs-cTnT and hs-cTnI), time from pain onset, and pre-test probability. This narrative review separates three clinical tasks frequently conflated in the biomarker literature: diagnosis of acute myocardial infarction, emergency-department triage, and prediction of short-term or post-infarction risk. We integrate cMyBP-C sarcomeric architecture, N-terminal regulatory biology, phosphorylation, proteolysis, circulating fragments, assay epitopes, analytical stability, diagnostic algorithms, point-of-care testing, ST-segment elevation myocardial infarction reperfusion biology, and major confounders including renal dysfunction, heart failure, age, sex, and chronic ventricular remodeling. Current evidence supports further evaluation of cMyC as an adjunct in early presenters and accelerated diagnostic pathways. However, diagnostic safety and efficacy have not been consistently reproduced across platforms and populations, and external validation-particularly of rule-out performance-remains insufficient for routine clinical use. Recurrent injury assessment and post-infarction risk phenotyping remain promising but incompletely validated applications. Before guideline adoption, cMyC needs phenotype-specific, multicenter implementation trials demonstrating incremental net benefit, cost-effectiveness, and patient-level safety compared with contemporary hs-cTnT- and hs-cTnI-based clinical decision algorithms.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42589588/"
+  },
+  {
+    "pmid": "42582111",
+    "title": "Circulating exosomal miRNA in acute coronary syndrome: mechanisms, clinical relevance and future directions.",
+    "journal": "Frontiers in molecular biosciences",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1038/nrc2543",
+    "abstract": "Despite significant advances in diagnosis and treatment, Acute Coronary Syndrome (ACS) remains one of the leading causes of morbidity and mortality globally. It comprises ST-elevation myocardial infarction, non-ST-elevation myocardial infarction, and unstable angina, caused by complex mechanisms such as plaque rupture, thrombosis, erosion, and microvascular dysfunction. The development of high-sensitivity cardiac troponins has greatly improved the early detection of ACS. However, concerns remain about specificity, timing, and prognostic accuracy. Exosomal miRNAs (ExomiRs) show promise as minimally invasive biomarkers, aiding precise cell communication and protecting encapsulated miRNAs from degradation. During ischemic injury, ExomiRs released from cardiomyocytes act early, often before troponin elevation, and are involved in processes such as inflammation, apoptosis, angiogenesis, fibrosis, and ventricular remodelling. Specific ExomiR signatures have different roles in prognosis, subtype discrimination, and early ACS diagnosis. Future therapeutic potential may include advancements in translational strategies, such as antagomir-based miRNA modulation. Furthermore, the clinical adoption of these biomarkers, despite challenges such as pre-analytical variability, differences across study cohorts, a lack of standardised isolation protocols, and the need for large-scale validation, will significantly improve the sensitivity, specificity, and accuracy of predicting ACS.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42582111/"
+  }
+]

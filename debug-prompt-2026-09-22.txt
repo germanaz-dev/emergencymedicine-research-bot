@@ -1,0 +1,567 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: high sensitivity troponin in acute coronary syndrome
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Artificial Intelligence in Echocardiography for Acute Coronary Syndromes: Current Evidence and Integration With Electrocardiography and Biomarkers.
+Revista: Echocardiography (Mount Kisco, N.Y.)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42670727
+DOI: 10.1111/echo.70610
+URL: https://pubmed.ncbi.nlm.nih.gov/42670727/
+
+Abstract:
+Early diagnosis of acute coronary syndromes (ACS) remains challenging because electrical, mechanical, and biochemical manifestations of myocardial ischemia evolve at different stages of the ischemic cascade. Although electrocardiography (ECG), cardiac biomarkers, and echocardiography are routinely used in clinical practice, these diagnostic modalities are commonly interpreted independently, potentially delaying recognition of myocardial ischemia. Recent advances in artificial intelligence (AI) offer new opportunities to improve diagnostic accuracy through multimodal integration, with echocardiography serving as the central imaging modality. AI-enhanced echocardiography, integrated with electrocardiographic findings, cardiac biomarkers, and clinical information, may improve the early diagnosis, risk stratification, and clinical management of patients with suspected ACS compared with conventional sequential diagnostic approaches. A comprehensive narrative review of contemporary literature was performed to evaluate current evidence regarding AI applications in echocardiography and their integration with ECG and cardiac biomarkers for the diagnosis of ACS. Published studies addressing automated image acquisition, chamber quantification, myocardial deformation analysis, regional wall-motion assessment, multimodal machine-learning models, explainable AI, and clinical implementation were critically reviewed and synthesized. AI has substantially expanded the capabilities of echocardiography by enabling automated image interpretation, quantitative assessment of ventricular function, myocardial strain analysis, and detection of regional wall-motion abnormalities with high reproducibility. When integrated with ECG, serial high-sensitivity cardiac troponin measurements, and clinical variables, multimodal AI systems demonstrate the potential to improve diagnostic accuracy, facilitate earlier identification of myocardial ischemia, reduce diagnostic uncertainty, and support individualized clinical decision-making. Nevertheless, widespread implementation requires prospective multicenter validation, standardized imaging protocols, explainable algorithms, regulatory oversight, and seamless integration into clinical workflows. AI-enhanced echocardiography represents a promising step toward precision cardiovascular imaging and may become the central imaging component of future multimodal diagnostic pathways for patients with suspected ACS. Integration of structural, functional, electrical, biochemical, and clinical information through AI-supported decision systems has the potential to improve diagnostic performance and optimize emergency cardiovascular care.
+
+--- PAPER PUBMED ---
+Título: Fifth Universal Definition of Myocardial Infarction (2026).
+Revista: Journal of the American College of Cardiology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42663357
+DOI: 10.1016/j.jacc.2026.07.025
+URL: https://pubmed.ncbi.nlm.nih.gov/42663357/
+
+Abstract:
+Abstract no disponible.
+
+--- PAPER PUBMED ---
+Título: Growth Differentiation Factor-15 in Acute Coronary Syndromes: Prognostic Value and Barriers to Clinical Implementation.
+Revista: International journal of molecular sciences
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42653098
+DOI: 10.1007/s11239-024-03019-5
+URL: https://pubmed.ncbi.nlm.nih.gov/42653098/
+
+Abstract:
+High-sensitivity cardiac troponin has made the diagnosis of myocardial infarction (MI) faster and more precise, but it does not measure the broader biological vulnerability that often determines the outcome after an acute coronary syndrome (ACS). Growth differentiation factor-15 (GDF-15) is induced by ischemic stress, inflammation, oxidative injury, renal dysfunction, metabolic disease, and ageing. This biology explains its appeal in ACS, but also its diagnostic limitation: GDF-15 is not cardiac-specific and should not be used as an alternative to electrocardiography and high-sensitivity troponin algorithms for early MI diagnosis. Its better supported role is prognostic. Across emergency department chest pain cohorts, non-ST elevation MI, ST elevation MI, post-ACS trial populations, and serial biomarker studies, higher GDF-15 concentrations are most consistently associated with all-cause mortality, cardiovascular mortality, heart failure, and major bleeding, while associations with recurrent ischemic events alone are less specific. The key unresolved issue is incremental clinical value. GDF-15 may improve discrimination and reclassification beyond clinical predictors, troponin, natriuretic peptides, renal function and GRACE or GRACE 2.0 in selected settings, but statistical association is not equivalent to clinical utility. Its possible role in bleeding risk estimation and antithrombotic benefit-risk assessment is clinically important, especially after the PLATO biomarker analyses, yet routine GDF-15-guided dual antiplatelet therapy decisions remain unsupported. Future implementation requires validated thresholds, calibration, decision curve evidence, health economic evaluation, and trials in which GDF-15-guided management changes care and improves outcomes.
+
+--- PAPER PUBMED ---
+Título: Contemporary Management of Acute Coronary Syndromes in the Cardiac Intensive Care Unit: From Rapid Diagnosis to Early Secondary Prevention.
+Revista: Journal of cardiovascular development and disease
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42645864
+DOI: 10.1038/s41591-022-01686-6
+URL: https://pubmed.ncbi.nlm.nih.gov/42645864/
+
+Abstract:
+Management of acute coronary syndromes (ACS) in the cardiac intensive care unit (CICU) requires rapid diagnosis, timely reperfusion or invasive assessment, appropriate antithrombotic therapy, and early recognition of haemodynamic, electrical, and mechanical complications. This narrative review examines contemporary evidence across ST-segment elevation and non-ST-segment elevation presentations, with emphasis on decisions during hospitalisation and early secondary prevention. High-sensitivity cardiac troponin algorithms support accelerated assessment of suspected non-ST-segment elevation ACS, whereas next-generation assays require further implementation validation. Twelve-month dual antiplatelet therapy remains the default after ACS in patients without high bleeding risk; abbreviated regimens, de-escalation, cangrelor, and combined antiplatelet-anticoagulant treatment are selective strategies. Contemporary care also includes risk-based invasive timing, complete revascularisation in suitable haemodynamically stable patients, culprit-lesion-only initial PCI in cardiogenic shock, and individualised management of frailty and renal impairment. High-intensity statin therapy, with early ezetimibe when needed, is guideline-supported. Early PCSK9 inhibition and low-dose colchicine are selective strategies, whereas SGLT2 inhibitors and GLP-1RAs are established for specific comorbid indications. hs-cTnT Gen 6 and AI-assisted tools remain evidence-evolving, while multiomics and targeted anti-inflammatory therapies remain investigational. Clear separation of guideline-supported, selective, evidence-evolving, and investigational approaches is essential for clinically appropriate ACS care.
+
+--- PAPER PUBMED ---
+Título: Clinical characteristics and diagnostic challenges of non-ST-segment elevation acute coronary syndrome patients with normal electrocardiograms: a review.
+Revista: Frontiers in cardiovascular medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42626118
+DOI: 10.1177/2048872620929148
+URL: https://pubmed.ncbi.nlm.nih.gov/42626118/
+
+Abstract:
+Non-ST-segment elevation acute coronary syndrome (NSTE-ACS) represents a major subtype of acute coronary syndrome (ACS). A clinically relevant but often overlooked subgroup of patients presents with typical ischemic symptoms despite a normal initial 12-lead electrocardiogram (ECG), creating real diagnostic difficulty. This narrative review synthesizes current evidence across several domains: epidemiology, pathophysiology, clinical presentation, diagnostic evaluation, and management of NSTE-ACS patients with normal ECGs. A structured literature search of PubMed, Web of Science, and the China National Knowledge Infrastructure (CNKI) databases, with emphasis on prospective cohort studies, registries, systematic reviews, meta-analyses, and current European Society of Cardiology (ESC) and American College of Cardiology/American Heart Association (ACC/AHA) guideline recommendations. Depending on the definition of "normal ECG" and study population, approximately 1%-8% of confirmed NSTE-ACS patients present with a normal initial ECG. These patients frequently exhibit single-vessel disease, non-obstructive coronary artery disease, or alternative mechanisms such as coronary vasospasm and microvascular dysfunction. High-sensitivity cardiac troponin (hs-cTn) assays using rapid 0/1-h or 0/2-h algorithms constitute the diagnostic cornerstone, while coronary computed tomography angiography (CCTA) provides valuable anatomical assessment, particularly in low-to-intermediate-risk patients. This review presents an integrated diagnostic algorithm, critically evaluates the complementary roles of multimodality imaging techniques, and discusses future directions including artificial intelligence-assisted ECG interpretation and wearable monitoring technologies.
+
+--- PAPER PUBMED ---
+Título: Cardiac Troponin Elevation Beyond Type 1 Myocardial Infarction: A Systematic Review of Prognostic Significance and Cardiovascular Risk Stratification.
+Revista: Cureus
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42620386
+DOI: 10.7759/cureus.112972
+URL: https://pubmed.ncbi.nlm.nih.gov/42620386/
+
+Abstract:
+Cardiac troponin elevation is central to the diagnosis of myocardial injury, but its clinical interpretation remains challenging when type 1 myocardial infarction is absent. This systematic review evaluated the clinical and prognostic significance of elevated cardiac troponin in adults without type 1 myocardial infarction, with particular emphasis on type 2 myocardial infarction, critical illness-related myocardial injury, suspected acute coronary syndrome populations with minor myocardial injury, and acute or chronic heart failure-related myocardial injury. A systematic search of PubMed/MEDLINE, Scopus, and Web of Science identified six eligible clinical studies. The included evidence comprised prospective and retrospective cohort studies, secondary biomarker analyses of randomized trials, and trial-derived heart failure cohorts. Across heterogeneous clinical settings, troponin elevation was consistently associated with adverse outcomes, including all-cause mortality, cardiovascular mortality, heart failure hospitalization, cardiovascular death or heart failure rehospitalization, and greater clinical severity. In type 2 myocardial infarction and critical illness, troponin elevation identified high-risk patients despite the absence of classic plaque-rupture acute coronary syndrome. In heart failure populations, troponin appeared to function as a dynamic marker of myocardial stress, residual risk, and treatment-responsive injury. High-sensitivity assays further suggest that troponin may convey prognostic information across a continuum rather than only above binary diagnostic thresholds. These findings support a phenotype-based approach in which troponin elevation outside type 1 myocardial infarction is interpreted according to mechanism, clinical context, biomarker trajectory, and follow-up needs. Although current evidence does not define a uniform treatment pathway, it indicates that troponin-positive patients without type 1 myocardial infarction should not be considered low risk solely because acute coronary syndrome has been excluded. Future prospective studies should determine which troponin-positive phenotypes benefit most from structured cardiovascular reassessment, targeted investigation, and post-discharge surveillance.
+
+--- PAPER PUBMED ---
+Título: Cardiac Myosin-Binding Protein C in Suspected Acute Coronary Syndrome: From Sarcomeric Injury Biology to Decision-Grade Risk Stratification.
+Revista: International journal of molecular sciences
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42589588
+DOI: 10.1373/clinchem.2018.287342
+URL: https://pubmed.ncbi.nlm.nih.gov/42589588/
+
+Abstract:
+Cardiac myosin-binding protein C (cMyBP-C) is a cardiac-restricted sarcomeric protein; after cardiomyocyte injury, circulating intact cMyBP-C and/or cMyBP-C fragments, collectively referred to here as the cMyC biomarker signal, appear rapidly in blood. In suspected acute coronary syndrome (ACS), its most important potential role is not as another marker of injury but as a decision-enhancing biomarker beyond symptoms, electrocardiography, cardiac troponin T and I concentrations measured with high-sensitivity assays (hs-cTnT and hs-cTnI), time from pain onset, and pre-test probability. This narrative review separates three clinical tasks frequently conflated in the biomarker literature: diagnosis of acute myocardial infarction, emergency-department triage, and prediction of short-term or post-infarction risk. We integrate cMyBP-C sarcomeric architecture, N-terminal regulatory biology, phosphorylation, proteolysis, circulating fragments, assay epitopes, analytical stability, diagnostic algorithms, point-of-care testing, ST-segment elevation myocardial infarction reperfusion biology, and major confounders including renal dysfunction, heart failure, age, sex, and chronic ventricular remodeling. Current evidence supports further evaluation of cMyC as an adjunct in early presenters and accelerated diagnostic pathways. However, diagnostic safety and efficacy have not been consistently reproduced across platforms and populations, and external validation-particularly of rule-out performance-remains insufficient for routine clinical use. Recurrent injury assessment and post-infarction risk phenotyping remain promising but incompletely validated applications. Before guideline adoption, cMyC needs phenotype-specific, multicenter implementation trials demonstrating incremental net benefit, cost-effectiveness, and patient-level safety compared with contemporary hs-cTnT- and hs-cTnI-based clinical decision algorithms.
+
+--- PAPER PUBMED ---
+Título: Circulating exosomal miRNA in acute coronary syndrome: mechanisms, clinical relevance and future directions.
+Revista: Frontiers in molecular biosciences
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42582111
+DOI: 10.1038/nrc2543
+URL: https://pubmed.ncbi.nlm.nih.gov/42582111/
+
+Abstract:
+Despite significant advances in diagnosis and treatment, Acute Coronary Syndrome (ACS) remains one of the leading causes of morbidity and mortality globally. It comprises ST-elevation myocardial infarction, non-ST-elevation myocardial infarction, and unstable angina, caused by complex mechanisms such as plaque rupture, thrombosis, erosion, and microvascular dysfunction. The development of high-sensitivity cardiac troponins has greatly improved the early detection of ACS. However, concerns remain about specificity, timing, and prognostic accuracy. Exosomal miRNAs (ExomiRs) show promise as minimally invasive biomarkers, aiding precise cell communication and protecting encapsulated miRNAs from degradation. During ischemic injury, ExomiRs released from cardiomyocytes act early, often before troponin elevation, and are involved in processes such as inflammation, apoptosis, angiogenesis, fibrosis, and ventricular remodelling. Specific ExomiR signatures have different roles in prognosis, subtype discrimination, and early ACS diagnosis. Future therapeutic potential may include advancements in translational strategies, such as antagomir-based miRNA modulation. Furthermore, the clinical adoption of these biomarkers, despite challenges such as pre-analytical variability, differences across study cohorts, a lack of standardised isolation protocols, and the need for large-scale validation, will significantly improve the sensitivity, specificity, and accuracy of predicting ACS.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: acute coronary syndrome – GlobalRPH
+URL: https://globalrph.com/tag/acute-coronary-syndrome/feed
+Score: 0.85509074
+
+Texto:
+Title: acute coronary syndrome – GlobalRPH
+acute coronary syndrome – GlobalRPH https://globalrph.com A GlobalRPH Medical Calculators Site Thu, 16 Oct 2025 21:17:18 +0000 en-US  hourly   1   High-Sensitivity Troponin Testing: The End of Unnecessary Chest Pain Admissions? https://globalrph.com/2025/10/high-sensitivity-troponin-testing-the-end-of-unnecessary-chest-pain-admissions/ https://globalrph.com/2025/10/high-sensitivity-troponin-testing-the-end-of-unnecessary-chest-pain-admissions/#respond Thu, 16 Oct 2025 21:17:18 +0000 https://globalrph.com/? Introduction The introduction of high-sensitivity cardiac troponin (hs-cTn) assays has fundamentally transformed the evaluation and management of patients presenting with chest pain in the emergency department (ED). Troponin testing has long been a cornerstone of acute coronary syndrome (ACS) assessment, but the transition from conventional to... ## High-Sensitivity Troponin Testing: The End of Unnecessary Chest Pain Admissions? The introduction of high-sensitivity cardiac troponin (hs-cTn) assays has fundamentally transformed the evaluation and management of patients presenting with chest pain in the emergency department (ED). Troponin testing has long been a cornerstone of acute coronary syndrome (ACS) assessment, but the transition from conventional to high-sensitivity assays represents a major advancement in diagnostic accuracy, workflow efficiency, and patient outcomes. Evidence from studies involving more than 32,000 emergency department visits demonstrates that the use of high-sensitivity cardiac troponin I (hs-cTnI) testing is associated with a significant reduction in hospital admissions. Implementation of hs-cTnI resulted in an absolute decrease of 5.6% in admissions compared with traditional troponin assays, which translates to approximately five fewer chest pain admissions per week across just three emergency departments. These findings underscore the potential of hs-cTn testing to alleviate overcrowding in emergency departments while maintaining diagnostic precision and patient safety. Emergency departments using hs-cTn have reported shorter median lengths of stay—6.0 hours compared with 6.6 hours using conventional assays—and higher discharge rates (87.5% versus 85.3%). These improvements reflect the ability of hs-cTn to accelerate clinical decision-making, facilitate earlier rule-out or rule-in of myocardial injury, and optimize patient flow through the emergency care pathway. The 2021 American Heart Association (AHA) and American College of Cardiology (ACC) guidelines for the evaluation and diagnosis of acute chest pain formally recognize high-sensitivity troponin as the preferred biomarker for assessing myocardial injury. This review explores how high-sensitivity troponin testing is redefining the evaluation of chest pain in modern emergency medicine. **Keywords:** high-sensitivity troponin, chest pain, acute coronary syndrome, emergency department, diagnostic algorithm, clinical outcomes.
+
+--- FUENTE WEB ---
+Título: At the forefront of Acute Coronary Syndrome management in ED
+URL: https://cardiothinklab.com/at-the-forefront-of-acute-coronary-syndrome-management-in-ed
+Score: 0.8259413
+
+Texto:
+Title: At the forefront of Acute Coronary Syndrome management in ED
+Home/Cardiology CME/CE Webinar/At the forefront of Acute Coronary Syndrome management in ED. # At the forefront of Acute Coronary Syndrome management in ED. Dr Lee Chien-Chang Deputy Director of Intelligent Healthcare and Professor of Emergency Medicine, National Taiwan University Hospital, Taiwan  Dr Cynthia Papendick. Dr Cynthia Papendick Associate Professor of Adelaide Medical School and Emergency Physician, Royal Adelaide Hospital, Australia. MALAYSIAN COLLEGE OF EMERGENCY PHYSICIANS. TAIWAN SOCIETY OF EMERGENCY MEDICINE. NATIONAL HEART ASSOCIATION OF MALAYSIA. ### Agenda. Acute Coronary Syndrome mortality remains high. There is a need for rapid, accurate and safe diagnosis specifically in the Emergency Department (ED) setting. The hs Tn Webinar aims to highlight the value of the high-sensitivity cardiac troponin (hs-cTn) 0-hour/1-hour algorithm in effectively triaging patients presenting with suspected AMI to the ED to either rule-out or rule-in classifications. Hear from Dr Chien-Chang Lee, an Associate Professor of Emergency Medicine at the National Taiwan University in Taiwan and Dr Cynthia Papendick, Emergency Physician, Emergency Department of Royal Adelaide Hospital in Australia on their experience in implementation and the new evidence (including latest ESC 2020 guidelines) on the use of hs-cTn 0h/1h algorithm in the ED. #### TIME. #### TOPIC. #### MODERATOR / SPEAKERS. * hs Tn 0h/1h algorithm in ED-New Evidence Updates. * How to differentiate myocardial injury and infarction in cases of Sepsis, AMI, Renal Failure in the ED. High-Sensitivity Troponin in Clinical Practice: Successful implementation and ESC 2020 guideline updates. The information contained in Cardio ThinkLab is intended for healthcare professionals only. Click **"OK"** if you are a healthcare professional. Want to receive the latest updates?
+
+--- FUENTE WEB ---
+Título: Conversation - High Sensitivity Troponin - EB Medicine
+URL: https://foamed.ebmedicine.net/podcast/conversation-high-sensitivity-troponin
+Score: 0.8184036
+
+Texto:
+Title: Conversation - High Sensitivity Troponin - EB Medicine
+* Return To EB Medicine Home. # Conversation – High Sensitivity Troponin. Take a deeper dive into our peer-reviewed emergency medicine content with the EMplify podcast. Join hosts Sam Ashoo, MD and T.R. Eckler, MD for educational, conversational reviews of current evidence guaranteed to help you make your best clinical decisions. Each high-yield episode gives you practical, time-tested guidance from practicing emergency medicine clinicians and subject-matter experts. In this episode of **EMplify: Conversation**, Sam Ashoo, MD and TR Eckler, MD discuss high sensitivity troponin testing and clinical pathways. * Which troponin assay are you currently using and what are its limits of detection? repeat in 1 hr (European standard), repeat in 3 hours (depending on chest pain onset), or just admit if the HEAR(T) score is high? * What does one negative troponin on presentation mean? * Anand A, et al; HiSTORIC Investigators†. High-Sensitivity Cardiac Troponin on Presentation to Rule Out Myocardial Infarction: A Stepped-Wedge Cluster Randomized Controlled Trial. doi: 10.1161/CIRCULATIONAHA.120.052380. Association of High-Sensitivity Cardiac Troponin I Concentration With Cardiac Outcomes in Patients With Suspected Acute Coronary Syndrome. Multi-centre evaluation of recent troponin assays for the diagnosis of NSTEMI. Pract Lab Med. 2018 Feb 26;11:23-32. doi: 10.1016/j.plabm.2018.02.003. Time to Implement the European Society of Cardiology 0/1-Hour Algorithm. doi: 10.1016/j.annemergmed.2020.05.038. doi: 10.1161/JAHA.120.019678. Application of High-Sensitivity Troponin in Suspected Myocardial Infarction. RACE-IT – Rapid Acute Coronary Syndrome Exclusion using the Beckman Coulter Access high-sensitivity cardiac troponin I: A stepped-wedge cluster randomized trial. 2021 Apr 23;22:100773. doi: 10.1016/j.conctc.2021.100773. Sam Ashoo, MD, FACEP,  is board certified in emergency medicine and clinical informatics. He serves as EB Medicine’s editor-in-chief of interactive clinical pathways and FOAMEd blog, and host of EB Medicine’s EMplify podcast. ### Share this:. * Share on Facebook (Opens in new window) Facebook. * Share on X (Opens in new window) X. * Share on LinkedIn (Opens in new window) LinkedIn. * Email a link to a friend (Opens in new window) Email. * Share on Pinterest (Opens in new window) Pinterest. * Share on Reddit (Opens in new window) Reddit. * Share on Tumblr (Opens in new window) Tumblr. * Share on Telegram (Opens in new window) Telegram. * Share on WhatsApp (Opens in new window) WhatsApp.
+
+--- FUENTE WEB ---
+Título: | High-Sensitivity Troponin in the Diagnosis of Acute Coronary ...
+URL: https://www.aafp.org/pubs/afp/issues/2024/1000/diagnostic-tests-acute-coronary-syndrome.pdf
+Score: 0.8131201
+
+Texto:
+Numerous high-sensitivity cardiac troponin (hs-cTn) assays for acute myocardial infarction (MI) are available.1,2 These assays differ in their limits of detection, precision, and repeatability.3 The American College of Cardiology and American Heart Association guidelines endorse the 99th percentile upper reference limit for detecting myocardial injury to diagnose acute MI using hs-cTn.4 Evidence of myocardial injury with cardiac symptoms, new electrocardiogram changes, loss of viable myocardium per imaging, or evidence of coronary thrombus on angiography meets diagnostic criteria for acute MI.5 There is no standard cutoff value for hs-cTn. Abnormal values are based on a reference population for individual assays. High-sensitivity troponin: a review on characteristics, assessment, and clinical implications. Emergency department cardiac risk stratification with high-sensitivity vs conventional troponin HEART pathway. High-sensitivity troponin assays: evidence, indications, and reasonable use. *J Am Heart Assoc.* 2014;3(1):e000403. High-sensitivity cardiac troponin and the 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guidelines for the evaluation and diagnosis of acute chest pain. Domienik-Karłowicz J, Kupczyńska K, Michalski B, et al. High-sensitivity cardiac troponin T compared with standard troponin T testing on emergency department admission: how much does it add in everyday clinical practice?. *J Am Heart Assoc.* 2013;2(3):e000204. Association of high-sensitivity cardiac troponin I concentration with cardiac outcomes in patients with suspected acute coronary syndrome [published correction appears in *JAMA*. Myocardial infarction risk stratification with a single measurement of high-sensitivity troponin I. Application of high-sensitivity troponin in suspected myocardial infarction. McCord J, Hana A, Cook B, et al. The role of cardiac testing with the 0/1-hour high-sensitivity cardiac troponin algorithm evaluating for acute myocardial infarction. *Am Heart J.* 2021;233:68-77. Tomaszewski CA, Nestler D, Shah KH, et al.; American College of Emergency Physicians Clinical Policies Subcommittee (Writing Committee) on Suspected Non–ST-Elevation Acute Coronary Syndromes. High-sensitivity troponin T testing: consequences on daily clinical practice and effects on diagnosis of myocardial infarction. Comparison of conventional and high-sensitivity troponin in patients with chest pain: a collaborative meta-analysis. *Am Heart J.* 2015;169(1):6-16.e6. Ganguli I, Cui J, Thakore N, et al. Downstream cascades of care following high-sensitivity troponin test implementation. Impact of high-sensitivity cardiac troponin on use of coronary angiography, cardiac stress testing, and time to discharge in suspected acute myocardial infarction. Chuang MA, Gnanamanickam ES, Karnon J, et al.
+
+--- FUENTE WEB ---
+Título: Clinical Use of High-Sensitivity Cardiac Troponin in Patients With Suspected Myocardial Infarction
+URL: https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718
+Score: 0.79542017
+
+Texto:
+[Skip to main content](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#afterNav-2dc)
+
+[![Image 1: JACC Journals](https://www.jacc.org/pb-assets/images/site-home/header-logo-redesign-1751041131223.svg)](https://www.jacc.org/)
+
+[Skip main navigation](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#afterNav-xex)
+
+*   [Journals](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718)
+    *   [JACC](https://www.jacc.org/journal/jacc)
+    *   [JACC: Advances](https://www.jacc.org/journal/jacc-advances)
+    *   [JACC: Asia](https://www.jacc.org/journal/jacc-asia)
+    *   [JACC: Basic to Translational Science](https://www.jacc.org/journal/basic-translational)
+    *   [JACC: CardioOncology](https://www.jacc.org/journal/cardio-oncology)
+    *   [JACC: Cardiovascular Imaging](https://www.jacc.org/journal/imaging)
+    *   [JACC: Cardiovascular Interventions](https://www.jacc.org/journal/interventions)
+    *   [JACC: Case Reports](https://www.jacc.org/journal/case-reports)
+    *   [JACC: Clinical Electrophysiology](https://www.jacc.org/journal/electrophysiology)
+    *   [JACC: Heart Failure](https://www.jacc.org/journal/heart-failure)
+
+*   [Topics](https://www.jacc.org/topics)
+    *   [Topics by Journal](https://www.jacc.org/topics?tabActivePane=topics-by-journal)
+    *   [Collections](https://www.jacc.org/topics?tabActivePane=collections)
+    *   [All Topics](https://www.jacc.org/topics?tabActivePane=all-topics)
+
+*   [Guidelines](https://www.jacc.org/guidelines)
+*   [Events](https://www.jacc.org/events)
+*   [Author Center](https://www.jacc.org/author-center)
+*   [Multimedia](https://www.jacc.org/multimedia)
+*    
+
+[Search](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#)
+
+Search
+
+Quick Search anywhere
+
+Enter Search Terms Search
+
+*   [Shopping cart with 0 item](https://www.jacc.org/action/showCart?FlowID=1 "Cart") 
+*       *   [Sign In](https://www.jacc.org/action/ssostart?idp=AccIdentityProvider&redirectUri=/doi/10.1016/j.jacc.2017.07.718&uri=%2Fdoi%2F10.1016%2Fj.jacc.2017.07.718 "Sign in or Create Account")[](https://www.jacc.org/action/ssostart?idp=AccIdentityProvider&redirectUri=/doi/10.1016/j.jacc.2017.07.718&uri=%2Fdoi%2F10.1016%2Fj.jacc.2017.07.718) 
+
+*   [JACC](https://www.jacc.org/journal/jacc)
+*   [Current Issue](https://www.jacc.org/toc/jacc/current)
+*   [Just Accepted](https://www.jacc.org/toc/jacc/0/0)
+*   [Archives](https://www.jacc.org/loi/jacc)
+*   [Submit](https://www.jaccsubmit.org/cgi-bin/main.plex)
+
+*   [Guidelines](https://www.jacc.org/guidelines)
+*   [Author Center](https://www.jacc.org/author-center)
+*   [Topics](https://www.jacc.org/topics)
+    *   [Topics by Journal](https://www.jacc.org/topics?tabActivePane=topics-by-journal)
+    *   [Collections](https://www.jacc.org/topics?tabActivePane=collections)
+    *   [All Topics](https://www.jacc.org/topics?tabActivePane=all-topics)
+
+*   ### JACC Family of Journals
+
+    *   [JACC](https://www.jacc.org/journal/jacc)
+    *   [JACC: Advances](https://www.jacc.org/journal/jacc-advances)
+    *   [JACC: Asia](https://www.jacc.org/journal/jacc-asia)
+    *   [JACC Basic Transational Science](https://www.jacc.org/journal/basic-translational)
+    *   [JACC: CardioOncology](https://www.jacc.org/journal/cardio-oncology)
+    *   [JACC Cardiovascular Imaging](https://www.jacc.org/journal/imaging)
+    *   [JACC Cardiovascular Interventions](https://www.jacc.org/journal/interventions)
+    *   [JACC: Case Reports](https://www.jacc.org/journal/case-reports)
+    *   [JACC: Clinical Electrophysiology](https://www.jacc.org/journal/electrophysiology)
+    *   [JACC: Heart Failure](https://www.jacc.org/journal/heart-failure)
+
+*   [Conferences](https://www.jacc.org/events)
+*   [Simultaneous Publications](https://www.jacc.org/events/conferences/simultaneous-publications)
+*   [CME/MOC](https://www.jacc.org/cme-moc)
+*   [Multimedia](https://www.jacc.org/multimedia)
+*   [About](https://www.jacc.org/about)
+    *   [Journal Subscribe](https://www.jacc.org/subscribe)
+    *   [Newsletter/Email](https://www.jacc.org/alerts)
+    *   [FAQs](https://www.jacc.org/help)
+    *   [Contact Us](https://www.jacc.org/contact-us)
+
+*   [ACC.org](https://www.acc.org/)
+*    
+
+[JACC Journals](https://www.jacc.org/) › [JACC](https://www.jacc.org/journal/jacc) › [Archives](https://www.jacc.org/loi/jacc) › [Vol. 70 No. 8](https://www.jacc.org/toc/jacc/70/8)
+
+Free access
+
+State-of-the-Art Review
+
+14 August 2017
+
+Share on
+*   [](https://www.jacc.org/#facebook "facebook")
+*   [](https://www.jacc.org/#x "x")
+*   [](https://www.jacc.org/#linkedin "linkedin")
+*   [](https://www.jacc.org/#email "email")
+*   [](https://www.jacc.org/#wechat "wechat")
+*   [](https://www.jacc.org/#bluesky "bluesky")
+
+# Clinical Use of High-Sensitivity Cardiac Troponin in Patients With Suspected Myocardial Infarction
+
+Authors: [Raphael Twerenbold, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au1), [Jasper Boeddinghaus, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au2), [Thomas Nestelberger, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au3), [Karin Wildi, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au4), [Maria Rubini Gimenez, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au5), [Patrick Badertscher, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au6), and [Christian Mueller, MD](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#au7)[christian.mueller@usb.ch](mailto:christian.mueller@usb.ch)[Authors Info & Affiliations](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#tab-contributors)
+
+Publication: JACC
+
+Volume 70, Number 8
+
+[15,291 228](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718# "Metrics")
+
+### Metrics
+
+#### Total Downloads 15,291
+
+#### Total Citations 228
+
+[](https://www.jacc.org/doi/10.1016/podcast-jacc-70-8-7 "Listen to Podcast")
+
+[](https://www.jacc.org/doi/10.1016/j.jacc.2017.07.718#tab-citations "View Citations")
+
+[PDF](https://www.jacc.org/doi/epdf/10.1016/j.jacc.2017.07.718 "View PDF")
+
+Contents
+*   [Abstract](https:/
+
+--- FUENTE WEB ---
+Título: High-Sensitivity Troponin in the Evaluation of Patients With Acute Coronary Syndrome
+URL: https://meddatax.com/clinical-trials/NCT01852123
+Score: 0.7746691
+
+Texto:
+Title: High-Sensitivity Troponin in the Evaluation of Patients With Acute Coronary Syndrome
+# High-Sensitivity Troponin in the Evaluation of Patients With Acute Coronary Syndrome. NCT01852123  ·  Status: COMPLETED  ·  Phase: NA  ·  Type: INTERVENTIONAL  ·  Enrollment: 48282. In patients with chest pain the diagnosis of a heart attack (myocardial infarction) is made where there is evidence of heart muscle damage using a blood test to measure the heart muscle protein troponin. A new a more sensitive troponin test may help us to identify patients with myocardial infarction more easily. The investigators propose to evaluate whether use of a novel high-sensitivity troponin test to lower the threshold for diagnosis of myocardial infarction is appropriate. In ten secondary and tertiary care hospitals across Scotland, the investigators will undertake a stepped wedge cluster randomized controlled trial of the implementation of a novel high-sensitivity troponin test. This will establish whether the introduction of this high-sensitivity troponin test into routine clinical practice is beneficial to patient management and outcomes. A subset of patients will be asked to give consent for inclusion into a sub-study that will permit storage of blood samples and will require the completion of a survey during the index admission and after 6 and 12 months of follow up. :   High-sensitivity troponin I assay. NCT03005158 · Status: COMPLETED · Phase: NA. * ### Use of Abbott High Sensitivity Troponin I Assay In Acute Coronary Syndromes. * Point of Care Evaluation of High-sensitivity Cardiac Troponin. * Evaluation of hsTnI in the Management of Patients With Chest Pain in the Emergency Department. * Pre-hOspital Evaluation of Chest Pain Patients With sUspected Non ST-segment eLevation myocARdial Infarction Using the HEART-score With a Troponin Point-of-care Test. * Use of High Sensitivity Cardiac Troponin in Ruling Out Emergency Patients with Acute Myocardial Injury and Infarction. * Clinical and Economic Outcomes of High Sensitivity Troponin for no ST Elevation Myocardial Infarction in Patients With Chest Pain in Emergency Departments in Italy-An Observational Study. * Clinical Study to Validate the Use of a New Point of Care Troponin I Test. * High-Sensitivity Troponin T and Coronary Computed Tomography Angiography for Rapid Diagnosis of Emergency Chest Pain. * Assessing Chest Pain Using Point-of-Care High-Sensitivity Troponin I in the Emergency Department.
+
+--- FUENTE WEB ---
+Título: High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome | AFP
+URL: https://www.aafp.org/pubs/afp/issues/2024/1000/diagnostic-tests-acute-coronary-syndrome.html
+Score: 0.7576693
+
+Texto:
+[![American Family Physician logo.](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1779209772/american_family_physician_navigation_desktop.svg)](/afp)
+
+A publication from[![AAFP logo](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1753724394/aafp_logo_tri029.png)](https://www.aafp.org)
+
+Related websites
+
+* [AAFP.org](/)
+* [FPM Journal](/fpm)
+* [FP Esssentials](/fpe)
+
+* [Issues](/afp/2026)
+* [AFP by Topic](/afp/topics)
+* [Blog](/afp/afp-community-blog)
+* [CME Quiz](https://www.aafp.org/assessment/listing/1/)
+
+* [Issues](#)
+
+
+  Issues
+  + [Current Issue](/afp/2026/0900)
+  + [2026](/afp/2026)
+  + [2025](/afp/2025)
+  + [2024](/afp/2024)
+  + [2023](/afp/2023)
+  + [2022](/afp/2022)
+  + [2021](/afp/2021)
+  + [2020](/afp/2020)
+  + [2019](/afp/2019)
+  + [2018](/afp/2018)
+  + [2017](/afp/2017)
+  + [2016](/afp/2016)
+  + [2015](/afp/2015)
+  + [2014](/afp/2014)
+  + [2013](/afp/2013)
+  + [2012](/afp/2012)
+  + [2011](/afp/2011)
+  + [2010](/afp/2010)
+  + [2009](/afp/2009)
+  + [2008](/afp/2008)
+  + [2007](/afp/2007)
+  + [2006](/afp/2006)
+  + [2005](/afp/2005)
+  + [2004](/afp/2004)
+  + [2003](/afp/2003)
+  + [2002](/afp/2002)
+  + [2001](/afp/2001)
+  + [2000](/afp/2000)
+  + [1999](/afp/1999)
+  + [1998](/afp/1998)
+* [AFP By Topic](#)
+
+
+  AFP By Topic
+  + [Anemia](/afp/topics/anemia)
+  + [Asthma](/afp/topics/asthma)
+  + [COVID-19](/afp/topics/covid-19)
+  + [Diabetes](/afp/topics/diabetes-type-2)
+  + [Heart Failure](/afp/topics/heart-failure)
+  + [Hyperlipidemia](/afp/topics/hyperlipidemia)
+  + [Hypertension](/afp/topics/hypertension)
+  + [Musculoskeletal Care](/afp/topics/musculoskeletal-care)
+  + [Skin Conditions](/afp/topics/skin-conditions)
+  + [More Topics](/afp/topics)
+* [Collections](#)
+
+
+  Collections
+  + [Go To Collections](/afp/collections)
+  + [AFP Departments](/afp/collections/departments)
+  + [Patient Handouts](/afp/collections/patient-handouts)
+  + [Algorithms](/afp/collections/algorithms)
+* [CME Quiz](#)
+
+
+  CME Quiz
+  + [Latest AFP CME Quiz](https://www.aafp.org/assessment/take/21034/introduction/c)
+  + [All AFP CME Quizzes](https://www.aafp.org/assessment/listing/1/)
+* [Blog](#)
+
+
+  Blog
+  + [AFP Community Blog](/afp/afp-community-blog)
+* [Multimedia](#)
+
+
+  Multimedia
+  + [AFP Podcast](/afp/podcasts-videos/afp-podcast)
+  + [Revista Médica AFP Podcast](/afp/podcasts-videos/revista-medica-afp-podcast)
+  + [AAFP Audio](https://apps.apple.com/in/app/aafp-audio/id6738368202)
+  + [Video Collection](/afp/multimedia/afp-videos)
+  + [AFP Podcast Interviews And Videos](/afp/multimedia/afp-podcast-interviews-and-videos)
+* [Subscribe](#)
+
+
+  Subscribe
+  + [Rates](/afp/subscribe)
+  + [Manage Subscription](/afp/subscribe/subscription-management)
+  + [Institutional Subscription](/afp/subscribe/institutional-subscriptions-site-license)
+  + [AFP By Email](/afp/subscribe/by-email)
+
+[Subscribe](/afp/subscribe)
+
+Related websites
+
+* [AAFP.org](/)
+* [FPM Journal](/fpm)
+* [FP Esssentials](/fpe)
+
+Login / Create account
+
+Log in
+
+Sign in to the website to make the most of your experience. When you log in, you can:
+
+* View your purchased CME
+* See what events you’ve registered for
+* Update your profile
+* Access exclusive content
+
+[Log in](https://www.aafp.org/cgi-bin/lg.pl)
+
+Create a website account
+
+Having a free website account offers several benefits:
+
+* More targeted content
+* An account dashboard with recommended content
+* Ability to purchase Journal articles and issues, CME, or events
+
+[Create account](https://www.aafp.org/ams/account/site/create-account)
+
+Join AAFP
+
+AAFP informs and advocates for family physicians throughout their careers. Join for access to:
+
+* Unlimited AFP, FPM, and FP Essentials articles
+* Membership forums to connect with other members
+* Tools to take and report CME
+
+[Become a member](/membership/join)
+
+[Close & return](/#)
+
+My account
+
+* [Dashboard](https://www.aafp.org/ams/account/portal/dashboard)
+* [CME](https://www.aafp.org/ams/account/portal/cme)
+* [Journal subscriptions](https://www.aafp.org/ams/account/portal/journals)
+* [Payments & donations](https://www.aafp.org/ams/account/portal/payments)
+* [Profile](https://www.aafp.org/ams/account/portal/profile)
+
+* [Log out](https://www.aafp.org/cgi-bin/logout.pl)
+
+My account
+
+* [Dashboard](https://www.aafp.org/ams/account/portal/dashboard)
+* [CME](https://www.aafp.org/ams/account/portal/cme)
+* [Journal subscriptions](https://www.aafp.org/ams/account/portal/journals)
+* [Payments & donations](https://www.aafp.org/ams/account/portal/payments)
+* [Profile](https://www.aafp.org/ams/account/portal/profile)
+
+* [Log out](https://www.aafp.org/cgi-bin/logout.pl)
+
+
+
+[Previous article
+
+Pet Therapy as a Treatment for Anxiety](/afp/2024/1000/fpin-hda-pet-therapy-anxiety)
+
+[Oct 2024](/afp/2024/1000)
+
+[Next article
+
+Patient-Centered Contraceptive Counseling: A Reproductive Justice–Informed Shift to Shared Decision-Making](/afp/2024/1000/curbside-contraceptive-counseling)
+
+[Diagnostic Tests](/tag/collection/afp-departments/diagnostic-tests?f-publication-facet=AFP&sortCriteria=%40publication_date+descending)
+
+# High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome
+
+Michael T. Partin, MD
+
+Nathan J. Hemerly, DO
+
+Karl T. Clebak, MD, MHA
+
+American Family Physician. 2024;110(4):425-427.
+
+Author disclosure: No relevant financial relationships.
+
+![](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773005016/Journals/Automation/AFP/2024/1000/p425-ut1-jpg.jpg)
+
+| **Test** | **Indication** | **Population[\*](#afp20241000p425-tfn1)** | **Cost[†](#afp20241000p425-tfn2)** |
+| --- | --- | --- | --- |
+| High-sensitivity cardiac troponin assay | Ruling in or out acute coronary syndrome | Patients presenting to an emergency department with cardiac symptoms suggestive of acute coronary syndrome | $390.75 |
+
+\*—Primarily studied in adult populations.
+
+†—Cost per laboratory draw according to the Centers for Medicare and Medicaid Services Clinical Laboratory Fee Schedule.[16](#afp20241000p425-b16)
+
+Numerous high-sensitivity cardiac troponin (hs-cTn) assa
+
+--- FUENTE WEB ---
+Título: How high-sensitivity Troponin T is reshaping ACS diagnosis and ED efficiency
+URL: https://diagnostics.roche.com/global/en/cardialogue/article/hs-troponin-t-acs-diagnosis.html
+Score: 0.7440808
+
+Texto:
+[Jump To Content](#main-content-wrapper)
+
+You appear to be using incognito/private browsing mode or an ad blocker, which may adversely affect your experience on the site. Please disable any ad blockers and view the site in non-private mode.
+
+[Geo Redirect](javascript:void(0)) 
+
+View this page on your local website.
+
+For localized information and support, would you like to switch to your country-specific website for {0}?
+
+[Switch to local site](#)  Stay on Global site
+
+[News](/global/en/news-listing.html)   [Events](/global/en/events.html)   [Contact](/global/en/contact-forms/contact-us-support.html)  |  [Login to navify® portal  Login to navify® portal   Log in](javascript:void(0))   [default](javascript:void(0);)   [Location selector    Global / English    Global / English](javascript:void(0))   [Search  Search](javascript:void(0))
+
+* [Products](/global/en/products/product-category.html)  
+
+  + [Solutions](/global/en/products/product-category/lab-type.html) 
+    - [Blood screening](/global/en/products/product-category/lab-type/blood-screening.html) 
+      * [Nucleic acid testing (NAT)](/global/en/products/product-category/lab-type/blood-screening/nucleic-acid-nat-testing.html)
+      * [Serology](/global/en/products/product-category/lab-type/blood-screening/serology-analyzers-instruments.html)
+    - [Core lab](/global/en/products/product-category/lab-type/core-lab.html) 
+      * [Automation](/global/en/products/product-category/lab-type/core-lab/lab-automation.html)
+      * [Clinical chemistry and immunoassay](/global/en/products/product-category/lab-type/core-lab/clinical-chemistry-immunoassay.html)
+      * [Clinical mass spectrometry](/global/en/products/product-category/lab-type/core-lab/mass-spectrometry.html)
+      * [Coagulation](/global/en/products/product-category/lab-type/core-lab/coagulation.html)
+      * [Digital solutions core lab](/global/en/products/product-category/lab-type/core-lab/digital-solutions.html)
+      * [Urinalysis](/global/en/products/product-category/lab-type/core-lab/urinalysis.html)
+      * [Core lab Research Use Only products](/global/en/products/product-category/lab-type/core-lab/core-lab-ruo-products.html)
+    - [Molecular lab](/global/en/products/product-category/lab-type/molecular-lab.html) 
+      * [Centralized testing](/global/en/products/product-category/lab-type/molecular-lab/centralized-lab-testing.html)
+      * [Research and lab developed solutions](/global/en/products/product-category/lab-type/molecular-lab/research-laboratory-developed-testing-solutions.html)
+      * [Syndromic testing](/global/en/products/product-category/lab-type/molecular-lab/syndromic-testing.html)
+      * [Digital solutions molecular lab](/global/en/products/product-category/lab-type/molecular-lab/digital-solutions.html)
+    - [Pathology lab](/global/en/products/product-category/lab-type/pathology-lab.html) 
+      * [Systems](/global/en/products/product-category/lab-type/pathology-lab/automated-slide-staining-systems.html)
+      * [Workflow, integration and connectivity](/global/en/products/product-category/lab-type/pathology-lab/workflow-integration-connectivity-solutions.html)
+      * [Assays and detection](/global/en/products/product-category/lab-type/pathology-lab/ihc-ish-assays-detection.html)
+      * [Companion diagnostics](/global/en/products/product-category/lab-type/pathology-lab/companion-diagnostics-cdx.html)
+      * [Digital pathology](/global/en/products/product-category/lab-type/pathology-lab/digital-pathology.html)
+      * [Tissue research](/global/en/products/product-category/lab-type/pathology-lab/discovery-tissue-research.html)
+    - [Point of Care](/global/en/products/product-category/lab-type/point-of-care-testing-poct.html) 
+      * [Bloodgas and electrolytes](/global/en/products/product-category/lab-type/point-of-care-testing-poct/blood-gas-electrolytes.html)
+      * [Clinical chemistry and immunoassay](/global/en/products/product-category/lab-type/point-of-care-testing-poct/poc-clinical-chemistry-immunoassay.html)
+      * [Coagulation](/global/en/products/product-category/lab-type/point-of-care-testing-poct/coagulation-testing.html)
+      * [Digital solutions Point of Care](/global/en/products/product-category/lab-type/point-of-care-testing-poct/digital-solutions.html)
+      * [Hospital glucose](/global/en/products/product-category/lab-type/point-of-care-testing-poct/blood-glucose-testing.html)
+      * [Molecular Point of Care](/global/en/products/product-category/lab-type/point-of-care-testing-poct/poc-molecular-diagnostics.html)
+      * [Urinalysis](/global/en/products/product-category/lab-type/point-of-care-testing-poct/urinalysis.html)
+    - [Digital solutions](/global/en/products/product-category/lab-type/digital-solutions.html)
+    - [Sequencing](/global/en/products/product-category/lab-type/sequencing.html) 
+      * [NGS library preparation](/global/en/products/product-category/lab-type/sequencing/ngs-library-prep.html)
+      * [NGS target enrichment](/global/en/products/product-category/lab-type/sequencing/ngs-target-enrichment.html)
+      * [Sample prep automation](/global/en/products/product-category/lab-type/sequencing/ngs-sample-prep-automation.html)
+      * [NGS platform](/global/en/products/product-category/lab-type/sequencing/ngs-next-generation-sequencing-platform.html)
+      * [NGS data analysis](/global/en/products/product-category/lab-type/sequencing/ngs-data-analysis.html)
+      * [NGS assays](/global/en/products/product-category/lab-type/sequencing/ngs-assays.html)
+      * [NGS applications and workflows](/global/en/products/product-category/lab-type/sequencing/ngs-applications.html)
+  + [Health topics](/global/en/products/product-category/health-topic.html) 
+    - [Cardiometabolic diseases](/global/en/products/product-category/health-topic/cardiometabolic-diseases.html) 
+      * [Heart failure](/global/en/products/product-category/health-topic/cardiometabolic-diseases/heart-failure.html)
+      * [Coronary artery disease](/global/
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada

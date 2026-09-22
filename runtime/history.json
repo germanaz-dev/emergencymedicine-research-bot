@@ -25,8 +25,8 @@
     "axis": "critical_care"
   },
   "acute_coronary_syndrome_troponin": {
-    "last_seen": "2026-09-13",
-    "times_reviewed": 5,
+    "last_seen": "2026-09-22",
+    "times_reviewed": 6,
     "axis": "cardiovascular"
   },
   "sepsis_early_recognition": {
