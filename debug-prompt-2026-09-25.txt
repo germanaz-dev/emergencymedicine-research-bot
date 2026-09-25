@@ -1,0 +1,230 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: undifferentiated shock in emergency medicine
+
+PAPERS RECUPERADOS DE PUBMED:
+No se recuperaron resultados relevantes de PubMed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Shock - Emergency Medicine Clinics
+URL: https://www.emed.theclinics.com/article/S0733-8627(14)00058-3/pdf
+Score: 0.51105833
+
+Texto:
+This article describes a systematic approach to the eval- uation and management of the ED patient with undifferentiated shock, with attention to rapidly
+
+--- FUENTE WEB ---
+Título: Clinical and Experimental Emergency Medicine
+URL: https://www.ceemjournal.org/articles/search_result.php?term_type=authors&term=Vicki+E.+Noble
+Score: 0.49582586
+
+Texto:
+... Undifferentiated Shock Igor Barjaktarevic, William E. Toppen, Scott Hu, Elizabeth Aquije Montoya, Stephanie Ong, Russell Buhr, Ian J. David, Tisha Wang
+
+--- FUENTE WEB ---
+Título: Sepsis management in low-resource settings at BASE 2026
+URL: https://www.facebook.com/ahmed.mukhtar.550868/posts/shock-management-in-low-resource-settingsdr-mohamed-elguindydr-ahmed-lotfy-dr-mo/2251678502282195
+Score: 0.40063268
+
+Texto:
+Undifferentiated shock assessment and treatment strategies ... Practical approach to managing undifferentiated shock in emergency medicine.
+
+--- FUENTE WEB ---
+Título: Validation of the echoSHOCK protocol for diagnosing the cause of ...
+URL: https://turkjemergmed.com/full-text-pdf/918
+Score: 0.39852408
+
+Texto:
+OBJECTIVES: Nontraumatic undifferentiated shock is difficult to manage in the emergency department due to unclear causes, lack of history, and
+
+--- FUENTE WEB ---
+Título: Pre-hospital and emergency department point-of-care ultrasound in cardiovascular emergencies: a scoping review - Jubouri - Cardiovascular Diagnosis and Therapy
+URL: https://cdt.amegroups.org/article/view/155345/html
+Score: 0.39522812
+
+Texto:
+Have a website account?[Log In](https://cdt.amegroups.org/login) or[Register](https://cdt.amegroups.org/user/register) for exclusive website content.
+
+[![](https://cdn.amegroups.cn/static/image/1cbb3f9e7b5678f5aef57fa513441595/1cbb3f9e7b5678f5aef57fa513441595.png/w1400)](https://cdt.amegroups.org/ "Cardiovascular Diagnosis and Therapy")
+
+* [Home](https://cdt.amegroups.org/index) /
+* [Vol 16, No 3 (June 18, 2026)](https://cdt.amegroups.org/issue/view/1591)  /
+* Pre-hospital and emergency department point-of-care ultrasound in cardiovascular emergencies: a scoping review
+
+Pre-hospital and emergency department point-of-care ultrasound in cardiovascular emergencies: a scoping review
+
+![](https://cdn.amegroups.cn/static/mirror/crossmark/widget/v2.0/CROSSMARK_Color_horizontal.svg)
+
+Review Article
+
+# Pre-hospital and emergency department point-of-care ultrasound in cardiovascular emergencies: a scoping review
+
+Matti Jubouri1# [![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6725-6164), Rohan Chikhal2#, Fatima Kayali3, Luca Tin Yau Cheung4, Mohamed Refaie5, Wael I. Awad6,7, Ian M. Williams8, Damian M. Bailey7, Mohamad Bashir7
+
+1Queen Elizabeth Hospital, University Hospitals Birmingham, Birmingham, UK; 2Hull Royal Infirmary, Hull University Teaching Hospitals NHS Trust, Hull, UK; 3Royal Liverpool University Hospital, University Hospitals of Liverpool, Liverpool, UK; 4Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK; 5Department of General Surgery, Glan Clwyd Hospital, Rhyl, Wales, UK; 6Department of Cardiothoracic Surgery, Barts Heart Centre, St Bartholomew’s Hospital, London, UK; 7Neurovascular Research Laboratory, Faculty of Life Sciences and Education, University of South Wales, Pontypridd, UK; 8Department of Vascular Surgery, University Hospital of Wales, Cardiff, UK
+
+*Contributions:* (I) Conception and design: M Jubouri, M Bashir; (II) Administrative support: M Jubouri, R Chikhal; (III) Provision of study materials or patients: M Jubouri, R Chikhal, M Bashir; (IV) Collection and assembly of data: M Jubouri, R Chikhal, F Kayali; (V) Data analysis and interpretation: M Jubouri, F Kayali; (VI) Manuscript writing: All authors; (VII) Final approval of manuscript: All authors.
+
+#These authors contributed equally to this work as co-first authors.
+
+*Correspondence to:* Mohamad Bashir, MD, PhD. Professor of Cardiovascular Surgery, Neurovascular Research Laboratory, Faculty of Life Sciences and Education, University of South Wales, Cemetery Rd, Pontypridd CF37 4BD, UK. Email: Mohamad.bashir@southwales.ac.uk.
+
+---
+
+**Background:** Point-of-care ultrasound (POCUS) is integral to emergency department (ED) and pre-hospital medicine, yet evidence comparing its diagnostic and operational performance across environments remains fragmented, especially in cardiovascular emergencies. This review aimed to evaluate and compare the diagnostic performance, workflow impact, and clinical influence of POCUS for six major cardiovascular emergencies across pre-hospital and ED settings, while examining the effects of operator training, device technology, and governance structures.
+
+**Methods:** A structured scoping review search was conducted using multiple electronic databases to identify adult studies evaluating pre-hospital or ED POCUS in cardiac arrest, cardiac tamponade, acute heart failure, shock, pneumothorax, and aortic dissection. Eligible designs included randomised, prospective, and observational studies reporting diagnostic accuracy, process efficiency, management impact, or outcomes. Data were synthesised comparatively rather than pooled.
+
+**Results:** ED POCUS demonstrated high diagnostic accuracy (typically >85–90%) and shortened time to diagnosis or intervention by 30–70 minutes in acute heart failure, pneumothorax, tamponade, and dissection representing meaningful process improvements. However, as seen in conditions like undifferentiated shock, these process gains do not consistently translate into improved patient-centred outcomes such as survival or reduced hospital length of stay. Pre-hospital POCUS achieved adequate views in 70–90% of cases and frequently changed triage or destination decisions (10–50%), though mortality effects were neutral across studies with follow-up data. Cardiac-arrest POCUS provided strong prognostic value but required disciplined choreography to avoid interrupting compressions. Device miniaturisation and brief targeted training enabled field feasibility, while structured curricula, image archiving, and quality assurance (QA) underpinned safety and accuracy.
+
+**Conclusions:** POCUS consistently improves diagnostic efficiency and decision-making in both ED and pre-hospital settings. However, evidence that these gains translate into improved patient-centred outcomes remains limited. Future research should focus on protocolised POCUS pathways integrated with governance structures and system-level responses.
+
+**Keywords:** Point-of-care ultrasound (POCUS); pre-hospital; cardiovascular emergencies; ultrasound
+
+---
+
+Submitted Dec 10, 2025. Accepted for publication Mar 31, 2026. Published online Jun 15, 2026.
+
+doi: 10.21037/cdt-2025-1-646
+
+---
+
+## Highlight box
+
+**Key findings**
+
+• Emergency department (ED) point-of-care ultrasound (POCUS) demonstrates high diagnostic accuracy (>85–90%) for cardiovascular emergencies, reducing time to diagnosis and intervention by 30–70 minutes.
+
+• Pre-hospital POCUS achieves adequate views in 70–90% of cases and changes triage or destination decisions in 10–50%, confirming its value as a field decision-making tool.
+
+• Despite these process improvements, they do not consistently translate into improved patient-centred outcomes such as survival.
+
+• Success depends on disciplined implementation: structured training, defined protocol scope, and robust governance with image archiving and quality assurance (QA).
+
+**What is known and what is new?
+
+--- FUENTE WEB ---
+Título: Winter 2026 | Volume 9, Issue 1 - AAEM
+URL: https://www.aaem.org/get-involved/sections/eus/resources/pocus-report/winter-2026-volume-9-issue-1
+Score: 0.3795169
+
+Texto:
+[![AAEM](https://www.aaem.org/wp-content/uploads/2022/12/logo.png)](/)
+
+ 
+
+
+# Winter 2026 | Volume 9, Issue 1
+
+* [Education](https://www.aaem.org/education/)
+  + [Events](https://www.aaem.org/education/events/)
+    - [Recommended Events](https://www.aaem.org/education/events/recommended/)
+    - [About Joint CME Providership with AAEM](https://www.aaem.org/education/events/apply-joint-cme/)
+  + [Online Education](https://www.aaem.org/education/aaem-online/)
+    - [AAEM CME Online](https://www.aaem.org/education/aaem-online/)
+    - [Collaborative Education](https://www.aaem.org/collaborative-education/)
+  + [EM Advocacy Summit](https://www.aaem.org/emaes/)
+  + [Scientific Assembly](https://www.aaem.org/aaem27/)
+    - [Speaker Development Group](https://www.aaem.org/education/speaker-development-group/)
+    - [Claim CME for AAEM26](https://www.aaem.org/aaem26/education/cme-information/)
+    - [Claim CME for AAEM25](https://www.aaem.org/aaem25/)
+  + [Certifying Exam Review Course](https://www.aaem.org/certifying-exam-review-course/)
+    - [Become an Examiner](https://www.aaem.org/education/oral-boards/volunteer/)
+  + [Qualifying Exam Review Course](https://www.aaem.org/education/qualifying-exam/)
+  + [ED Operations Certificate Course (EDOCC)](https://www.aaem.org/education/edocc/)
+  + [Leadership Academy](https://www.aaem.org/education/leadership-academy/)
+  + [Claim CME for Past Events](https://www.aaem.org/education/cme/)
+* [Publications](https://www.aaem.org/publications/)
+  + [The AAEM Action Report](https://www.aaem.org/the-aaem-action-report/)
+  + [Statements](/statements/)
+  + [Key Issues](https://www.aaem.org/publications/key-issues/)
+  + [Common Sense](https://www.aaem.org/publications/common-sense/)
+    - [Common Sense Submissions](https://www.aaem.org/publications/common-sense/submissions/)
+    - [Common Sense Advertising](https://issuu.com/aaeminfo/docs/2026_aaem_media_kit/4)
+  + [Journal of Emergency Medicine](https://www.aaem.org/publications/jem/)
+  + [Western Journal of Emergency Medicine](https://www.aaem.org/publications/westjem/)
+    - [WestJEM Advertising](https://issuu.com/aaeminfo/docs/2026_aaem_media_kit/10)
+  + [Podcasts](https://www.aaem.org/publications/podcasts/)
+  + [News](/news)
+  + [Insights](https://multibriefs.com/briefs/AAEM/)
+    - [Insights Advertising](https://issuu.com/aaeminfo/docs/2026_aaem_media_kit/6)
+  + [AAEM Book Store](https://www.aaem.org/publications/book-store/)
+  + [Toolkits](https://www.aaem.org/publications/toolkits/)
+  + [Advertise with AAEM](https://issuu.com/aaeminfo/docs/2026_aaem_media_kit)
+* [Get Involved](https://www.aaem.org/get-involved/)
+  + [Advocacy](https://www.aaem.org/get-involved/advocacy/)
+  + [Council Structure](https://www.aaem.org/wp-content/uploads/2026/06/Council-Strucutre-Slide-new.pdf)
+  + [Chapter Divisions](https://www.aaem.org/get-involved/chapter-divisions/)
+  + [Committees](/committees/)
+  + [Sections](https://www.aaem.org/get-involved/sections/)
+  + [Special Interest Groups](https://www.aaem.org/get-involved/interest-groups/)
+* [Membership](https://www.aaem.org/aaem-membership/)
+  + [Join or Renew](https://www.aaem.org/aaem-membership/)
+  + [Benefits](https://www.aaem.org/membership/benefits/)
+  + [Group Membership](https://www.aaem.org/membership/emergency-medicine-group-membership/)
+  + [Membership Justification Toolkit](https://www.aaem.org/membership-justification-toolkit/)
+  + [AAEM Merchandise](https://aaemstore.com/shop/home/)
+* [Corporatization of Medicine](https://www.aaem.org/the-corporate-practice-of-medicine-protecting-patient-care-and-physician-autonomy/)
+  + [Envision Lawsuit](https://www.aaem.org/envision-lawsuit/)
+  + [Oregon CPOM Fight](https://www.aaem.org/oregon-physician-autonomy-fight/)
+  + [Press Coverage](https://www.aaem.org/envision-lawsuit/press-coverage/)
+  + [Support the AAEM Foundation](https://www.aaem.org/donate/aaem-foundation/)
+* [About AAEM](https://www.aaem.org/about-us/)
+  + [Bylaws](https://www.aaem.org/wp-content/uploads/2026/05/BYLAWS-Approved-04.12.2026.pdf)
+  + [Leadership](https://www.aaem.org/about-us/leadership/)
+    - [AAEM Past Presidents](https://www.aaem.org/about-us/leadership/aaem-past-presidents/)
+  + [Residency Visits](https://www.aaem.org/about-us/leadership/residency-visits/)
+  + [The AAEM Awards](https://www.aaem.org/about-us/awards/)
+  + [Code of Ethics](https://www.aaem.org/about-us/code-of-ethics/)
+  + [Affiliates](https://www.aaem.org/about-us/affiliates/)
+    - [AAEM/RSA](https://www.aaemrsa.org/)
+    - [AAEM-PG](https://www.aaemphysiciangroup.com/)
+    - [AAEM Foundation](https://www.aaem.org/donate/aaem-foundation/)
+    - [AAEM PAC](https://www.aaem.org/donate/pac/)
+  + [Certificate of Workplace Fairness](https://www.aaem.org/membership/benefits/certificate-of-workplace-fairness/)
+  + [Collaborating Organizations](https://www.aaem.org/about-us/collaborating-organizations/)
+  + [Equipment Sponsor Prospectus](https://www.aaem.org/wp-content/uploads/2026/07/Equipment-Spons-Pro-v4.pdf)
+
+### Welcome from EUS-AAEM
+
+The [Emergency Ultrasound Section of the American Academy of Emergency Medicine](https://www.aaem.org/get-involved/sections/eus/) (EUS-AAEM) was founded to foster the professional development of its members and to educate them regarding point-of-care ultrasound. This group will serve as a venue for collaboration among medical students, residents and practitioners who are interested in point-of-care ultrasound. The purpose of our group is to augment the knowledge and expertise of all emergency medicine specialists and to advocate for patient safety and quality care by endorsing bedside ultrasound. Membership is not limited to fellowship trained physicians. All emergency medicine practitioners passionate about ultrasound are welcome to join and participate.
+
+We are proud to publish our e-newsletter with original contributions from many of our members. We encourage all members to submit for future editions. Topics include but are not limited to educ
+
+--- FUENTE WEB ---
+Título: Clinical Practice in Emergency Medicine: Evidence-Based Textbook ...
+URL: https://www.amazon.com/Clinical-Practice-Emergency-Medicine-Evidence-Based/dp/B0GYKGHLJQ
+Score: 0.26444548
+
+Texto:
+Evidence-based emergency medicine textbook covering resuscitation protocols, airway management, trauma care, toxicology, and procedural skills to build clinical
+
+--- FUENTE WEB ---
+Título: The emergency management of the patient presenting with shock
+URL: https://acutemedjournal.co.uk/the-emergency-management-of-the-patient-presenting-with-shock
+Score: 0.2324151
+
+Texto:
+Shock may not be the commonest scenario encountered within the average clinical take, but unless rapidly recognised and managed appropriately, it carries an
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
