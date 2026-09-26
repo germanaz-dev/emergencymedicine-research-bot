@@ -1,0 +1,108 @@
+[
+  {
+    "pmid": "42793178",
+    "title": "Beyond Recanalization: Neurovascular Unit Protection and Precision Adjunctive Therapy for Ischemic Stroke in the Reperfusion Era.",
+    "journal": "Biomolecules",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.3390/biom16091346",
+    "abstract": "Intravenous thrombolysis and endovascular thrombectomy (EVT) have increased large-vessel recanalization in acute ischemic stroke, yet macrovascular reopening does not ensure tissue reperfusion or functional recovery. Microvascular no-reflow, blood-brain barrier failure, oxidative injury, thromboinflammation, edema, and hemorrhagic transformation sustain a recanalization-to-recovery gap. Classical neuroprotection failed because of mismatches in models, timing, brain exposure, patient selection, and endpoints, and because ischemic injury was reduced to a single neuronal pathway. Cerebroprotection in the reperfusion era should target the neurovascular unit: delaying penumbral collapse before recanalization, limiting oxidative and vascular injury during thrombectomy, and restoring microcirculatory and barrier function afterwards. Recent trials show a differentiated landscape. ESCAPE-NEXT and RODIN were neutral; TASTE-2 suggested a borderline overall effect and imaging-defined heterogeneity for edaravone dexborneol; BAST supported potential benefit from butylphthalide; and the positive EMPHASIS trial contrasted with neutral EVT-specific MIST-A findings for minocycline. We organize mechanisms and interventions along the macrovascular recanalization-tissue reperfusion-neurovascular-unit preservation-functional recovery continuum, stratify evidence across pharmacological, physiological, delivery, natural-product, and cell/extracellular-vesicle strategies, and propose a precision framework integrating tissue and target windows, reperfusion status, and measurable treatment response. Next-generation trials should combine target engagement, imaging enrichment, prespecified biomarker interactions, and adaptive designs. Current evidence supports redesigning cerebroprotection, not adopting any candidate as a universal adjunct to reperfusion.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42793178/"
+  },
+  {
+    "pmid": "42746244",
+    "title": "No-reflow in acute ischemic stroke: mechanisms, measurements, and molecular markers.",
+    "journal": "Frontiers in neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1038/82168",
+    "abstract": "No-reflow is a critical microvascular phenomenon in acute ischemic stroke in which patients fail to achieve adequate tissue reperfusion despite successful recanalization of a large vessel occlusion. It affects at least 25% of patients after reperfusion and results from persistent microvascular dysfunction that prevents restoration of normal blood flow to ischemic tissue, leading to ongoing injury. This paper synthesizes historical, mechanistic, diagnostic, and therapeutic perspectives on the no-reflow phenomenon to clarify its pathophysiology and highlight gaps limiting clinical translation. A narrative review was conducted using foundational experimental studies and contemporary clinical literature. Evidence was organized into mechanistic domains, measurement modalities, and therapeutic strategies, integrating molecular, imaging, and neurointerventional findings. No-reflow arises from interacting mechanisms, including microvascular occlusions from embolic fragments, platelet aggregation, erythrocyte/fibrin deposition, and leukocyte plugging, where neutrophils can lodge within capillaries and impede flow. Vascular remodeling driven by endothelial dysfunction, oxidative stress, necroptosis, microglial activation, and pericyte constriction further compromises perfusion, while cytotoxic edema produces microvessel compression. Measurement remains inconsistent due to the absence of standardized diagnostic criteria, with current tools ranging from TICI-based angiographic assessments to perfusion imaging and molecular biomarkers. Emerging therapies target distal embolization, microvascular thrombosis, vasoconstriction, inflammation, and ischemic conditioning, while selective hypothermia shows promise in experimental models. No-reflow phenomenon is a multifactorial barrier to functional recovery after stroke, and its clinical impact is amplified by diagnostic ambiguity. Advancing real-time measurement tools and mechanism-based therapies is essential to improving outcomes after recanalization.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42746244/"
+  },
+  {
+    "pmid": "42729340",
+    "title": "Ischemic stroke in Peru: a scoping review of trends, outcomes, and evidence gaps.",
+    "journal": "Frontiers in epidemiology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "doi": "10.1007/s40256-016-0163-6",
+    "abstract": "Peru faces a growing mismatch between the increasing burden of ischemic stroke and the health system's capacity to respond. We aimed to systematically map the primary research literature on ischemic stroke in Peru using a socio-ecological framework, characterize the current evidence base, quantify key epidemiological outcomes, and identify critical knowledge gaps to inform a national research agenda. We conducted a scoping review using the SPIDER framework and searched four databases through April 2025. We included original primary studies of Peruvian participants of any age with ischemic stroke, including observational, interventional, qualitative designs, and case reports. Study selection and data extraction were performed in duplicate. Findings were narratively synthesized across socio-ecological levels (individual, interpersonal, organizational, community, and policy/environmental). Key epidemiological outcomes were pooled using random-effects meta-analyses. Of 1210 records, 119 studies were included (131,424 participants), with 75% conducted in Lima. Ischemic stroke represented 62% of all stroke cases; 44% were women. Overall mortality was 12%. Large-vessel atherosclerosis (27%) and cardioembolic (24%) were common etiologies, but undetermined causes remained the highest (30%). The pooled thrombolysis rate was 2.9%, with no reported access to mechanical thrombectomy in observational studies. Qualitative studies identified barriers to timely care, poor guideline adherence, caregiver burden, and centralization of services. Quality-improvement efforts showed limited impact. Community prevention and digital innovations were tested in small pilots without scale-up. Policy-level evaluation was scarce. Research regarding stroke in Peru has increased but remains geographically centralized and structurally misaligned with the national burden. Major gaps persist in diagnostic capacity, implementation research, rehabilitation, caregiver support, and policy evaluation. A nationally coordinated and regional distributed research and system-level strengthening of the stroke program are urgently needed. (https://doi.org/10.17605/OSF.IO/7WYX8).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42729340/"
+  },
+  {
+    "pmid": "42727034",
+    "title": "Extending the Treatment Window for Intravenous Thrombolysis in Acute Ischemic Stroke: An Updated Systematic Review and Meta-Analysis.",
+    "journal": "Neurology. Clinical practice",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "doi": "10.2174/1871527315666161213110104",
+    "abstract": "Intravenous thrombolysis (IVT) is the standard treatment for acute ischemic stroke within 4.5 hours of onset. However, imaging-based selection may extend the treatment window. This systematic review and meta-analysis evaluated the efficacy and safety of IVT administered beyond 4.5 hours after stroke onset or last known well (LKW) in patients selected based on imaging findings. A comprehensive search of PubMed, Scopus, and Cochrane Library was performed to identify randomized controlled trials comparing IVT with alteplase or tenecteplase (TNK) administered >4.5 hours after stroke onset/LKW vs standard care. Primary outcomes were 3-month excellent (modified Rankin Scale [mRS] 0-1) functional outcome and symptomatic intracranial hemorrhage (sICH). Secondary outcomes included good (mRS 0-2) functional outcome, recanalization, and 3-month mortality. Pooled odds ratios (ORs) with 95% confidence intervals (CIs) were calculated using random-effects models. Subgroup analysis assessed differences between alteplase and TNK. Fourteen studies involving 4,944 patients were included. The mean age was 69.8 years, 58.2% were male, the median National Institutes of Health Stroke Scale score was 9, and 12.3% received preplanned endovascular thrombectomy (EVT). A total of 2,492 patients received IVT in an extended time window (4.5-24 hours). Compared with standard care, extended IVT was associated with higher odds of achieving an excellent functional outcome (OR: 1.43 [95% CI 1.25-1.63]), a good functional outcome (OR: 1.25 [95% CI 1.11-1.40]), and recanalization (OR: 3.28 [95% CI 2.09-5.16]). There was no difference in 3-month mortality (OR: 1.21 [95% CI 0.95-1.53]). However, IVT increased the risk of sICH (OR: 2.51 [95% CI 1.47-4.28]). Sensitivity analysis excluding patients who received EVT showed no impact on the outcomes. TNK exhibited similar efficacy to alteplase but showed potentially lower odds of sICH (OR: 1.96, 95% CI 1.06-3.64) compared with alteplase (OR: 5.29, 95% CI 1.80-15.57); however, the subgroup difference was not significant (p = 0.11). Among patients selected based on imaging, 4.5-24 hours after stroke onset/LKW, IVT improves outcomes despite an increased risk of sICH. TNK showed similar efficacy to alteplase, with a possible lower risk of sICH; however, direct comparisons in future trials are needed.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42727034/"
+  },
+  {
+    "pmid": "42726319",
+    "title": "Stent retrievers for acute ischemic stroke: technological advances, clinical applications, and future perspectives.",
+    "journal": "Journal of neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.3174/ajnr.A9247",
+    "abstract": "Acute ischemic stroke caused by large vessel occlusion remains a leading cause of death and disability despite established reperfusion therapies. Although stent retriever-based thrombectomy has become the standard of care, outcomes are still constrained in complex occlusions and anatomically challenging cases. This review summarizes and critically appraises recent advances in stent retriever technology, thrombectomy techniques, and evidence expansion in acute ischemic stroke. Device development has progressed from first-generation retrieval systems to self-expanding stent retrievers and recent integrated retrieval-protection platforms, leading to improved clot engagement, higher first-pass reperfusion, and reduced distal embolization. Parallel refinements in procedural strategies including combined aspiration catheters, balloon guide catheters, and dual-stent techniques have enhanced recanalization efficiency and procedural control. Clinical evidence has extended thrombectomy indications beyond conventional time windows to include posterior circulation occlusion, large infarct cores, and selected medium/distal vessel occlusions under imaging-guided selection. Advances in thrombus characterization, biomaterials, surface engineering, and territory-specific devices are further enabling more tailored mechanical approaches. Nevertheless, fibrin-rich resistant thrombi, embolic complications, vascular injury, and limited high-level evidence for emerging devices remain unresolved challenges. Ongoing integration of engineering innovation and clinical data is expected to support more individualized and safer thrombectomy strategies with improved functional outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42726319/"
+  },
+  {
+    "pmid": "42688139",
+    "title": "Anti-amyloid treatment in Alzheimer disease: updated implications for patients with cerebral amyloid angiopathy and other cerebrovascular conditions.",
+    "journal": "Frontiers in neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1002/trc2.70014",
+    "abstract": "Anti-amyloid treatment (AAT) with monoclonal antibodies represents a major therapeutic advance in early Alzheimer disease (AD), but its introduction has important and underappreciated implications for vascular neurology. Because many patients with AD also have cerebral amyloid angiopathy and other cerebrovascular pathology, AAT influences stroke diagnosis, acute reperfusion therapy, and long-term antithrombotic management. Clinical trials of lecanemab and donanemab enrolled highly selected patients with minimal baseline cerebrovascular pathology, limiting generalizability to real-world populations with prevalent vascular comorbidity. Amyloid-related imaging abnormalities, particularly vasogenic edema and microhemorrhages, constitute a central safety concern and may clinically mimic acute ischemic stroke, complicating emergency decision-making and increasing the risk of inappropriate intravenous thrombolysis (IVT). Emerging reports of intracerebral hemorrhage following IVT in treated patients underscore the need for revised acute stroke pathways and support consideration of mechanical thrombectomy when otherwise indicated, although AAT-specific safety data are lacking. Beyond the hyperacute phase of stroke, concomitant use of anticoagulants or dual antiplatelet therapy raises unresolved questions regarding hemorrhagic risk, particularly in patients with atrial fibrillation or those requiring complex antithrombotic regimens. Alternative strategies, including left atrial appendage closure, may be considered in selected patients, although evidence in AAT recipients remains limited. As AAT enters routine practice, multidisciplinary collaboration, dedicated imaging protocols, and prospective safety registries will be essential to integrate disease-modifying AD treatment with safe and effective cerebrovascular care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42688139/"
+  },
+  {
+    "pmid": "42656240",
+    "title": "Adjuvant neuroprotective therapies for acute ischemic stroke in the reperfusion era: a comparative narrative review of clinical evidence for edaravone, edaravone-dexborneol, and butylphthalide.",
+    "journal": "Frontiers in neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "Comparative Study"
+    ],
+    "doi": "10.1021/acs.molpharmaceut.3c00103",
+    "abstract": "Reperfusion therapies, including intravenous thrombolysis and endovascular treatment (EVT), are central to acute ischemic stroke (AIS) management; however, ischemia-reperfusion injury may limit recovery despite successful recanalization. This structured narrative review compares the clinical evidence, safety signals, and mechanistic literature for edaravone, butylphthalide (NBP), and the fixed-dose combination edaravone-dexborneol (EDB) as adjunctive neuroprotective approaches. The evidence base is heterogeneous with respect to population, background reperfusion treatment, outcome timing, and geographical setting. In TASTE-2, EDB administered before EVT was associated with a modest increase in 90-day functional independence versus placebo (55.0% vs. 49.6%, p = 0.05), without an apparent safety signal; bridging alteplase was permitted in a subset of participants. In the BAST trial, NBP improved the prespecified 90-day functional outcome versus placebo among patients receiving intravenous thrombolysis and/or EVT (56.7% vs. 44.0%). Observational studies and meta-analyses provide supportive but non-confirmatory evidence for edaravone. Network meta-analyses generate relative rankings at individual endpoints, but indirect comparisons and differing outcome networks preclude definitive between-agent selection. Mechanistic studies indicate overlapping antioxidant, anti-inflammatory, mitochondrial, and neurovascular effects rather than exclusive pathway regulation. Biomarker and imaging approaches, including exploratory GFAP and UCH-L1 measurements, are promising research tools but are not yet validated for treatment selection in AIS. Accordingly, these agents should be regarded as candidates for further evidence-informed adjunctive use; future trials are needed to define reproducible patient-selection and treatment-timing strategies.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42656240/"
+  },
+  {
+    "pmid": "42652900",
+    "title": "Acute Ischemic Stroke in 2026: From Time to Penumbra-An Updated Narrative Review of Reperfusion Strategies with a Latin American Implementation Perspective.",
+    "journal": "Journal of clinical medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.3390/biomedicines11102617",
+    "abstract": "Background/Objective: The management of acute ischemic stroke (AIS) has evolved from rigid time-based treatment paradigms toward tissue-based selection guided by advanced neuroimaging, thereby expanding eligibility for reperfusion therapies. To provide an updated narrative review of acute ischemic stroke (AIS) classification and management, with emphasis on extended therapeutic windows for intravenous thrombolysis (IVT) and endovascular therapy (EVT), bridging strategies, posterior circulation stroke, and implementation challenges in Latin America and other resource-constrained settings. Methods: A structured narrative review was conducted using the PubMed/MEDLINE, Embase, Scopus, and LILACS databases, covering the period from 2013 to 2025. Results: Sixty-three studies were selected from 412 records and categorized into etiologic classification, extended-window thrombolysis, EVT and bridging therapy, and posterior circulation stroke. Current evidence supports imaging-guided IVT beyond 4.5 h and EVT up to 24 h in selected patients with salvageable brain tissue, including some individuals with large infarct cores. Recent trials also support EVT for basilar artery occlusion. Tenecteplase offers practical workflow advantages in many centers, particularly where transfer delays and limited access to advanced imaging constrain timely reperfusion decisions. Conclusions: Contemporary AIS management is increasingly guided by pathophysiology and imaging rather than strict time thresholds. However, improving outcomes in middle- and low-income settings requires the implementation of adapted clinical algorithms, strengthening of stroke care networks, and optimization of referral pathways.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42652900/"
+  }
+]
