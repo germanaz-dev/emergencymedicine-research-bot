@@ -1,0 +1,1009 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: COPD exacerbation emergency department management
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: High-Flow Nasal Oxygen Versus Conventional Oxygen Therapy and Non-Invasive Ventilation for Acute Respiratory Failure in the Emergency Department: A Systematic Review and Meta-Analysis.
+Revista: Emergency medicine Australasia : EMA
+Fecha: 2026
+Tipo: Journal Article, Meta-Analysis, Systematic Review
+PMID: 42728228
+DOI: 10.1056/nejmoa1503326
+URL: https://pubmed.ncbi.nlm.nih.gov/42728228/
+
+Abstract:
+This systematic review and meta-analysis compares the use of high-flow nasal oxygen (HFNO) with conventional oxygen therapy (COT) and non-invasive ventilation (NIV) in the management of acute respiratory failure (ARF) in the emergency department (ED). A comprehensive search of relevant sources was undertaken. Randomised controlled trials (RCTs) assessing adult patients (≥ 18 years) treated in the ED for ARF and comparing HFNO to COT/NIV were included. The primary outcome was the need for endotracheal intubation and mechanical ventilation (IMV). Secondary outcomes included physiological and biochemical parameters, ICU admission, hospital length of stay, dyspnoea scores and mortality. A total of 17 RCTs (1955 patients) were included. There was a significant reduction in IMV favouring the HFNO group compared to COT and NIV (RR 0.64, 95% CI 0.47-0.88). HFNO showed significant improvements in RR, SpO2, PaO2 and Modified Borg Dyspnoea Scale. Subgroup analysis showed reduced rates of IMV with HFNO compared to COT (RR 0.61, 95% CI 0.41-0.91), but not compared to NIV (RR 0.69, 95% CI 0.42-1.14). HFNO additionally showed a reduction of IMV compared to NIV and COT in undifferentiated patients (RR 0.61, 95% CI 0.41-0.93), but not in exacerbations of COPD or acute heart failure. Ten of the 17 studies had at least some concern for risk of bias, with several analyses having notable heterogeneity. HFNO showed a significant reduction in rates of IMV, improvement in peripheral oxygen saturations, PaO2, respiratory rate and patient dyspnoea scores compared to COT and NIV.
+
+--- PAPER PUBMED ---
+Título: Prehospital airway and ventilatory management: a collaborative and narrative review.
+Revista: Intensive care medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42390593
+DOI: 10.1177/00031348221146955
+URL: https://pubmed.ncbi.nlm.nih.gov/42390593/
+
+Abstract:
+Prehospital airway and ventilatory management is a frequent, high-stakes and technically demanding component of emergency care. Environmental constraints, limited resources, and variable provider experience make it particularly challenging, and prehospital care systems differ substantially across countries, from paramedic-based to physician-led models, contributing to heterogeneity in clinical practices and patient outcomes. In this narrative review, we discuss evidence-based best practice, including indications, timing, physiological optimization, procedural conduct, and post-intubation management of prehospital tracheal intubation or non-invasive ventilation and high-flow nasal oxygen. Tracheal intubation remains the definitive airway management strategy when performed for appropriate indications by adequately trained providers. Indications span major trauma, traumatic brain injury, out-of-hospital cardiac arrest, and comatose patients, though its role in comatose poisoned patients is increasingly questioned. Physiology optimization before intubation is a critical and frequently underappreciated determinant of outcome, encompassing preoxygenation with non-invasive positive pressure ventilation, bag-valve-mask ventilation between induction and laryngoscopy, and careful sedative selection to limit peri-intubation hemodynamic compromise. When intubation fails, a structured escalation strategy including videolaryngoscopy, supraglottic airway devices, and emergency front-of-neck access must be rehearsed and immediately available. In out-of-hospital cardiac arrest, supraglottic airways represent a valid primary alternative with equivalent neurological survival and faster placement. Non-invasive ventilation (primarily CPAP and BiPAP) has a well-established role in acute cardiogenic pulmonary edema and COPD exacerbations, reducing intubation rates and mortality. High-flow nasal oxygen is an emerging modality with strong in-hospital evidence, but prehospital data remain extremely limited and logistical constraints restrict its routine use. Non-invasive support must never delay intubation when clinical deterioration demands it. Specific contexts require tailored adaptations: altitude physiology in helicopter transport, obesity-specific positioning, cervical spine precautions in neurological injury, comfort-focused strategies in palliative patients, and proactive stabilization before prolonged transport. Evidence gaps remain, particularly regarding prehospital high-flow nasal oxygen.
+
+--- PAPER PUBMED ---
+Título: The importance of symptoms in bronchiectasis.
+Revista: European respiratory review : an official journal of the European Respiratory Society
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42342265
+DOI: 10.1183/23120541.01087-2024
+URL: https://pubmed.ncbi.nlm.nih.gov/42342265/
+
+Abstract:
+Bronchiectasis is a chronic respiratory disease characterised by irreversible bronchial dilatation, persistent airway inflammation and recurrent infections. Symptoms, particularly cough, sputum production and dyspnoea, are the most immediate and patient-relevant expression of the disease, linking clinical presentation, airway biology and outcomes. While asthma and COPD management algorithms already integrate symptom burden into therapeutic decision-making, bronchiectasis care has historically relied on exacerbation history to guide preventive interventions. Over the past decade, an expanding body of evidence has demonstrated that daily symptoms mirror current infection and inflammation, profoundly impact quality of life, and predict future exacerbations. Comparative analyses across chronic lung diseases further highlight the central role of symptom monitoring in defining disease activity and risk. The updated European Respiratory Society guidelines translate this evidence into clinical practice, marking a paradigm shift from an exacerbation-driven to a symptom-centred and treatable-traits model. This review synthesises clinical, biological and therapeutic insights linking symptoms to bronchiectasis pathophysiology, disease activity and treatment response. We discuss how airway clearance, mucoactive therapy, antibiotics, pulmonary rehabilitation and targeted anti-inflammatory strategies, including dipeptidyl peptidase-1 inhibition, can address specific symptom profiles. We also mention the role of comorbidities and psychosocial management, establishing symptoms as the cornerstone of a holistic, multidimensional care approach. Recognising symptoms as both biomarkers of activity and therapeutic targets represents a major step toward precision medicine in bronchiectasis, aligning clinical management with patient experience and the biological drivers of disease.
+
+--- PAPER PUBMED ---
+Título: Unburdening healthcare systems through telenursing in chronic respiratory disease management: a systematic review.
+Revista: Frontiers in digital health
+Fecha: 2026
+Tipo: Journal Article, Systematic Review
+PMID: 42255281
+DOI: 10.2196/jmir.3951
+URL: https://pubmed.ncbi.nlm.nih.gov/42255281/
+
+Abstract:
+Chronic respiratory diseases represent a major cause of morbidity/mortality and healthcare expenditure due to disease exacerbations, emergency department (ED) presentations, hospitalizations, and length of stay (LOS). This systematic review primarily aimed to evaluate the impact on the healthcare system of telenursing vs. traditional nursing care in the management of adults (≥18 years) with chronic respiratory diseases; secondarily, on treatment adherence, acceptability, and satisfaction. Electronic (PubMed, Scopus, Web of Science) and manual searches were performed until April 6, 2025, following PRISMA statement (PROSPERO CRD420251175395). Data were qualitatively synthesized; studies included were judged using dedicated tools. 39 studies including 4,340 patients (2,731 telenursing vs. 1,609 comparison), 3,231 with COPD and 888 with asthma, were included. Telenursing reduced exacerbation rates per patient: means 1.2 in telenursing vs. 0.9 in the comparison group at six months and 2.1 vs. 5.8 at twelve months. ED presentations remained similar (1.2 at twelve months in both groups). Hospital admissions were lower with telenursing (0.65 vs. 0.8 at six months; 0.7 vs. 1.25 at twelve months). LOS showed minimal differences (5.2 vs. 5.7 days at six months; 9.1 vs. 9.2 days at twelve months). Telenursing potentially slightly unburdens healthcare systems, reducing exacerbation and hospitalization rates, but did not shorten LOS once patients required inpatient care. This lack of consistency across all outcomes may suggest that telenursing may have a prevention/early detection role for clinical exacerbations, but may have limited influence on the clinical course once hospitalization becomes necessary. Further studies with standardized assessment methods are needed to evaluate treatment adherence, acceptability, and satisfaction. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251175395, PROSPERO CRD420251175395.
+
+--- PAPER PUBMED ---
+Título: Acute and Subacute Cough.
+Revista: Otolaryngologic clinics of North America
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42203564
+DOI: 10.1016/j.otc.2026.03.012
+URL: https://pubmed.ncbi.nlm.nih.gov/42203564/
+
+Abstract:
+Cough is one of the most common reasons for health care visits. This article seeks to illustrate the classification, appropriate workup, and management of acute and subacute cough. It highlights etiologies such as bronchitis, pneumonia, and exacerbation of heart failure and asthma. There is an emphasis placed on potentially life-threatening pathologies associated with cough and how to appropriate triage cough severity in an emergency setting. The pathophysiology of cough and how it may lead to severe barotraumatic complications such as pneumothorax and Mallory Weiss tears is discussed.
+
+--- PAPER PUBMED ---
+Título: Peak Expiratory flow Rate for Emergency Department Management of Acute Asthma Exacerbation: A Randomized Controlled Trial Pilot Study.
+Revista: The Journal of emergency medicine
+Fecha: 2026
+Tipo: Journal Article, Randomized Controlled Trial
+PMID: 42166902
+DOI: 10.1016/j.jemermed.2026.02.029
+URL: https://pubmed.ncbi.nlm.nih.gov/42166902/
+
+Abstract:
+Peak expiratory flow rate (PEFR) is used to assess asthma severity, and guidelines recommend serial PEFR measurements to guide management. However, the evidence behind this practice is limited. To compare outcomes between PEFR-guided and non-PEFR-guided emergency department (ED) care for acute asthma exacerbations. This randomized, unblinded, two-arm study compared PEFR-guided therapy with symptom-guided therapy in ED patients aged 16 to 55 years presenting with acute asthma without chronic obstructive pulmonary disease (COPD). Patients were enrolled within 15 min of their first nebulizer treatment. PEFR was measured at baseline and every 30 min until symptom resolution, discharge, or admission. Clinicians in the PEFR-guided group received PEFR values with guideline-based recommendations, while clinicians in the non-PEFR-guided group were blinded to PEFR values. The primary outcome was the proportion of patients with none or mild asthma symptoms by 150 min after enrollment. The secondary outcome was hospitalization. A total of 210 patients were enrolled (101 PEFR-guided; 109 non-PEFR-guided). Symptom control by 150 min occurred in 73 (72%) vs. 78 (72%) patients (95% CI, -11% to 13%). Hospitalization was similar: 17 (17%) in the PEFR group vs. 13 (12%) in the non-PEFR group (95% CI, -5% to 14%). Subgroup hospitalization results by percent-predicted PEFR were comparable. There was no difference in nebulized medication use. In this randomized trial, PEFR-guided care did not improve symptom control, reduce resource utilization, or affect disposition compared with symptom-guided care. These findings suggest limited benefit of PEFR use in ED asthma management. Larger, multicenter studies are needed before informing practice changes.
+
+--- PAPER PUBMED ---
+Título: Dupilumab in chronic obstructive pulmonary disease: a pooled analysis of emergency department visits, hospital admissions, and systemic corticosteroid use.
+Revista: American journal of respiratory and critical care medicine
+Fecha: 2026
+Tipo: Journal Article, Clinical Trial, Phase III, Randomized Controlled Trial
+PMID: 42153327
+DOI: 10.1186/s12931-020-01431-y
+URL: https://pubmed.ncbi.nlm.nih.gov/42153327/
+
+Abstract:
+In chronic obstructive pulmonary disease (COPD), exacerbations drive morbidity, healthcare resource utilization, and mortality. Hospitalization and emergency department (ED) visits reflect acute clinical instability. Systemic corticosteroids are usually prescribed for exacerbations, but cumulative exposure is a concern. To evaluate the effect of dupilumab on ED visits/hospital admissions and systemic corticosteroid use in patients experiencing exacerbations. BOREAS and NOTUS, two phase 3, randomized, double-blind, placebo-controlled trials, enrolled patients (40-85 years) with COPD, moderate-to-severe airflow limitation, and type 2 inflammation (screening blood eosinophil count ≥300 cells/µL). Patients received dupilumab 300 mg (N = 938) or placebo (N = 936) for 52 weeks. Systemic corticosteroid use and annualized rate and time to first ED visit/hospital admission were assessed. Dupilumab versus placebo reduced ED visits/hospital admissions of any duration by 38% (rate ratio, 0.62 [95% CI, 0.43-0.90]; P = .0121), delayed time to first event, and reduced risk of a first event by 45% (hazard ratio, 0.55 [95% CI, 0.38-0.78]; P = .0010). Compared with placebo, systemic corticosteroid use was reduced in patients treated with dupilumab who experienced severe exacerbations by 42% (rate ratio, 0.58 [95% CI, 0.38-0.89]; P = .0126) and moderate exacerbations by 28% (rate ratio, 0.72 [95% CI, 0.60-0.87]; P = .0005). Dupilumab reduced ED visits/hospital admissions of any duration. Patients who experienced moderate and/or severe exacerbations required fewer systemic corticosteroids with dupilumab compared with placebo. ClinicalTrials.gov (NCT03930732, NCT04456673).
+
+--- PAPER PUBMED ---
+Título: Prehospital treatment modalities for acute exacerbation of chronic obstructive pulmonary disease: a scoping review.
+Revista: BMC emergency medicine
+Fecha: 2026
+Tipo: Journal Article, Scoping Review
+PMID: 41963821
+DOI: 10.1001/jama.2024.26244
+URL: https://pubmed.ncbi.nlm.nih.gov/41963821/
+
+Abstract:
+BACKGROUND: Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) is a frequent reason for emergency calls and carries substantial short- and long-term mortality. Prehospital management is widely used but variably supported by evidence. STUDY OBJECTIVE: To systematically identify and map prehospital interventions for AECOPD and describe the breadth and characteristics of the existing evidence, with the aim of informing future research priorities and prehospital care planning. METHODS: PubMed and Embase were searched through January 2025 following PRISMA-ScR standards. Two reviewers independently screened and charted studies, with third-reviewer consensus. Eligible studies addressed prehospital interventions for confirmed or suspected AECOPD. No formal quality appraisal was performed. The protocol was preregistered on OSF ( https://doi.org/10.17605/OSF.IO/CZNG8 ). RESULTS: Among 2,591 records, 34 studies were included (28 primary and 6 secondary). Most primary evidence was observational, and only about two-thirds of studies enrolled confirmed AECOPD populations. Controlled oxygen therapy (n = 8) was associated with lower observed mortality and fewer adverse physiological outcomes compared with liberal oxygen delivery, informed by one cluster randomized trial and several observational studies. CPAP (n = 7) and NIV (n = 7) consistently improved short-term physiological parameters. Randomized evidence for patient-centered outcomes remains limited, as all CPAP/NIV trials were small, enrolled mixed respiratory failure populations, or both. Evidence for dexamethasone, air-driven nebulizers, point-of-care ultrasound, and hyperoxemia harms was sparse and largely observational. CONCLUSION: Controlled oxygen therapy has the largest prehospital evidence base, and titrated oxygen targeting SpO₂ 88–92% is associated with more favorable physiological profiles and lower observed mortality than liberal oxygen delivery, although certainty is limited without formal quality appraisal. CPAP and NIV improve short-term physiology, but effects on patient-centered outcomes remain uncertain. Evidence for other interventions is minimal, and substantial knowledge gaps remain.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Evaluation of the quality of emergency department management for patients with chronic obstructive pulmonary disease
+URL: https://ceemjournal.org/journal/view.php?number=553
+Score: 0.7803451
+
+Texto:
+[Skip to main navigation](#gnb)
+
+* [![](/image/logo_ic.png)](https://emergency.or.kr/)
+* [E-Submission](https://submit.ceemjournal.org/ "E-Submission (opens in a new window)")
+* [Contact us](/about/contact.php)
+
+![OPEN ACCESS](/image/header_open_access.gif)
+
+[ABOUT](/)
+
+* [HOME](https://www.ceemjournal.org/)
+* [ABOUT](/about/)
+  + [Aims and scope](/about/index.php "/about/index.php (New windows open)")
+  + [About the journal](/about/about.php "/about/about.php (New windows open)")
+  + [About the society](https://www.emergency.or.kr/eng/history "https://www.emergency.or.kr/eng/history (New windows open)")
+  + [Editorial board](/about/editorial.php "/about/editorial.php (New windows open)")
+  + [Editorial team](/about/managing_team.php "/about/managing_team.php (New windows open)")
+  + [Best practice](/about/best_practice.php "/about/best_practice.php (New windows open)")
+  + [Open access](/about/open_access.php "/about/open_access.php (New windows open)")
+  + [Contact us](/about/contact.php "/about/contact.php (New windows open)")
+* [BROWSE ARTICLES](/articles/archive.php)
+  + [All issues](/articles/archive.php)
+  + [Ahead-of print articles](/articles/print.php)
+  + [Current issue](/articles/current.php)
+  + [Topics](/articles/topic.php)
+  + [Article types](/articles/category.php)
+  + [Featured articles](/articles/featured.php)
+  + [Most read articles](/articles/mostread.php)
+  + [Most cited articles](/articles/mostcited.php)
+  + [Search](/articles/search.php)
+  + [Metrics](/articles/metrics.php)
+  + [CEEM 2019 Abstract book](/articles/icem.php)
+* [FOR CONTRIBUTORS](/authors/authors.php)
+  + [Instructions to authors](/authors/authors.php)
+  + [Research and publication ethics](/authors/ethics.php)
+  + [E-submission](https://submit.ceemjournal.org/)
+  + [Checklist](/authors/checklist.php)
+  + [Article processing charge](/authors/processing_charge.php)
+
+[ABOUT](/about/)
+
+* [Aims and scope](/about/index.php)
+* [About the journal](/about/about.php)
+* [About the society](https://www.emergency.or.kr/eng/history)
+* [Editorial board](/about/editorial.php)
+* [Editorial team](/about/managing_team.php)
+* [Best practice](/about/best_practice.php)
+* [Open access](/about/open_access.php)
+* [Contact us](/about/contact.php)
+
+[BROWSE ARTICLES](/articles/archive.php)
+
+* [All issues](/articles/archive.php)
+* [Ahead-of print articles](/articles/print.php)
+* [Current issue](/articles/current.php)
+* [Topics](/articles/topic.php)
+* [Article types](/articles/category.php)
+* [Featured articles](/articles/featured.php)
+* [Most read articles](/articles/mostread.php)
+* [Most cited articles](/articles/mostcited.php)
+* [Search](/articles/search.php)
+* [Metrics](/articles/metrics.php)
+* [CEEM 2019 Abstract book](/articles/icem.php)
+
+[FOR CONTRIBUTORS](/authors/authors.php)
+
+* [Instructions to authors](/authors/authors.php)
+* [Research and publication ethics](/authors/ethics.php)
+* [E-submission](https://submit.ceemjournal.org/)
+* [Checklist](/authors/checklist.php)
+* [Article processing charge](/authors/processing_charge.php)
+
+## Articles
+
+## Page Path
+
+* [HOME](/)
+* [Clin Exp Emerg Med](/articles/archive.php)
+* [Volume 11(3); 2024](/articles/current.php?vol=11&no=3)
+* Article
+
+Original Article
+
+## Evaluation of the quality of emergency department management for patients with chronic obstructive pulmonary disease
+
+[Pascale J. King](/articles/search_result.php?term_type=authors&term=Pascale J. King)1, [Lana Ramic](/articles/search_result.php?term_type=authors&term=Lana Ramic)2, [Janet Wilson](/articles/search_result.php?term_type=authors&term=Janet Wilson)2, [Shawn Aaron](/articles/search_result.php?term_type=authors&term=Shawn Aaron)3[![orcid](/image/orcid.png)](http://orcid.org/0000-0002-4762-3542 "http://orcid.org/0000-0002-4762-3542"), [Ian G. Stiell](/articles/search_result.php?term_type=authors&term=Ian G. Stiell)4[![orcid](/image/orcid.png)](http://orcid.org/0000-0002-2583-6408 "http://orcid.org/0000-0002-2583-6408")
+
+Clinical and Experimental Emergency Medicine 2024;11(3):268-275.   
+Published online: May 23, 2024
+
+DOI: [https://doi.org/10.15441/ceem.24.197](https://doi.org/10.15441/ceem.24.197 "DOI (Opens in a new window)")
+
+![](https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg)
+
+* [Author information](#)
+* [About this article](#)
+* [Copyright and License information](#)
+
+1Department of Emergency Medicine, University of Ottawa, Ottawa, ON, Canada![](/image/flag/ca.gif)
+
+2Faculty of Medicine, University of Ottawa, Ottawa, ON, Canada![](/image/flag/ca.gif)
+
+3Department of Medicine, Ottawa Hospital Research Institute, University of Ottawa, Ottawa, ON, Canada![](/image/flag/ca.gif)
+
+4Department of Emergency Medicine, Ottawa Hospital Research Institute, University of Ottawa, Ottawa, ON, Canada![](/image/flag/ca.gif)
+
+Correspondence to: Ian G. Stiell Department of Emergency Medicine, Ottawa Hospital Research Institute, University of Ottawa, 501 Smyth Box 511, Ottawa, ON K1H 8L6, Canada Email: [istiell@ohri.ca](mailto:istiell@ohri.ca)
+
+• Received: February 5, 2024   • Revised: April 15, 2024   • Accepted: April 16, 2024
+
+Copyright © 2024 The Korean Society of Emergency Medicine
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (<http://creativecommons.org/licenses/by-nc/4.0/>).
+
+* 8,234 Views
+* 120  Download
+* [3](https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=m2pi2024&SrcAuth=WosAPI&KeyUT=WOS:001327707700005&DestLinkType=CitingArticles&DestApp=WOS "Web of Science") Web of Science
+* [3](/journal/view.php?number=553&view=citations "Citations to this article as recorded by Crossref") Crossref
+* [3](http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=85206269025) Scopus
+
+[prev](./view.php?number=568) [next](./view.php?number=548)
+
+### Full Article
+
+* [Full Article](#)
+* [Figure & Table](#)
+* [Reference](#)
+* [Citations](#)
+* [Metrics](#)
+
+Download PDF ![Download PDF](../image/icon_download.png "D
+
+--- FUENTE WEB ---
+Título: Pharmacologic Management of COPD Exacerbations: A Clinical Practice Guideline from the AAFP | AFP
+URL: https://www.aafp.org/afp/2021/0700/od1
+Score: 0.77650476
+
+Texto:
+![American Family Physician logo.](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1779209772/american_family_physician_navigation_desktop.svg)
+![AAFP logo](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1753724394/aafp_logo_tri029.png)
+
+Sign in to the website to make the most of your experience. When you log in, you can:
+
+Having a free website account offers several benefits:
+
+AAFP informs and advocates for family physicians throughout their careers. Join for access to:
+
+# Pharmacologic Management of COPD Exacerbations: A Clinical Practice Guideline from the AAFP
+
+American Family Physician. 2021;104(1):online.
+
+Author disclosure: No relevant financial affiliations.
+
+**Related Practice Guideline:** [Treatment of Chronic Obstructive Pulmonary Disease Exacerbations: Guidelines from the American Academy of Family Physicians](/afp/2021/0700/p100)
+
+**Related Implementing AHRQ Effective Health Care Reviews:** [Therapies for COPD Exacerbations in Adults](/afp/2020/0501/p557)
+
+**Purpose:** To review the evidence and provide clinical recommendations for the management of acute exacerbations of chronic obstructive pulmonary disease (COPD).
+
+**Methods:** This guideline is based on a systematic review of randomized controlled trials from database inception to January 2, 2019. The target audience for the guideline includes all primary care clinicians, and the target patient population includes adults who are experiencing acute exacerbations of COPD. This guideline was developed using a modified version of the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system, a transparent approach to evaluating the certainty of the evidence and determining the strength of recommendations.
+
+**Recommendation 1:** The American Academy of Family Physicians (AAFP) recommends that clinicians prescribe antibiotics for adults with acute exacerbations of COPD to improve clinical cure and reduce clinical failure (weak recommendation, moderate quality of evidence). Choice of antibiotic should be based on patient preferences and history because there is insufficient evidence to support a preferential recommendation.
+
+**Recommendation 2:** The AAFP recommends that clinicians prescribe corticosteroids for adults with acute exacerbations of COPD to reduce clinical failure (weak recommendation, low quality of evidence). There is insufficient evidence to guide the dose, route of administration, or duration of treatment.
+
+**Good Practice Point:** Short-acting bronchodilators are routinely used to improve symptoms in patients with acute exacerbations of COPD (ungraded).
+
+## Guideline Scope and Purpose
+
+The purpose of this guideline is to provide primary care– relevant recommendations for the management of acute exacerbations of chronic obstructive pulmonary disease (COPD). The target audience includes family physicians and other primary care clinicians. The target patient population is adults with acute exacerbations of COPD.
+
+## Introduction
+
+COPD is characterized by airflow limitation and chronic respiratory symptoms, including cough and shortness of breath. It affects around 15 million people in the United States and costs more than $32 billion annually.[1](#afp20210701p103a-b1),[2](#afp20210701p103a-b2) Chronic lower respiratory tract diseases, including COPD, are the fourth leading cause of death in the United States and the third leading cause of death worldwide.[3](#afp20210701p103a-b3),[4](#afp20210701p103a-b4) Patients with COPD are at risk of acute exacerbations of symptoms resulting in the need for additional treatment. Acute exacerbations of COPD are generally characterized by increased dyspnea, increased frequency and severity of cough, and potentially increased sputum.[5](#afp20210701p103a-b5) Patients experiencing acute exacerbations of COPD are at increased risk of mortality and morbidity, lower quality of life, increased hospital admissions, and a progressive decline in lung function.[6](#afp20210701p103a-b6)–[13](#afp20210701p103a-b13)
+
+The goals for management of acute exacerbations of COPD include symptom resolution and recovery from the exacerbation episode via improving airflow and gas exchange in addition to reducing lung inflammation. Prevention or reduction of severity of subsequent exacerbation episodes is also a goal for many management and prevention strategies. Typical interventions used for the management of COPD exacerbations include corticosteroids, systemic antibiotics, inhaled bronchodilators, and supplemental oxygen. Surprisingly, there is limited evidence for many of these treatments in this population.[14](#afp20210701p103a-b14) Recently, the role of mucolytics and aminophyllines has been studied based on their mechanism of action to aid in thinning and clearing of mucus and improving dyspnea, respectively.[15](#afp20210701p103a-b15),[16](#afp20210701p103a-b16)
+
+Several nonpharmacologic treatments have also been assessed for management and/or prevention of COPD exacerbations, including pulmonary rehabilitation programs, chest physiotherapy, and nutritional supplements. Chest physiotherapy includes the use of breathing techniques, vibration/percussion of the chest, and autogenic drainage (using breathing to loosen mucus). Vitamin D and omega-3 fatty acid supplements have also been highlighted as potential therapies for the prevention and management of acute exacerbations of COPD.[14](#afp20210701p103a-b14)
+
+Although much of the literature centers on inpatient treatment of patients with acute exacerbations of COPD, most U.S. patients with COPD are managed by primary care physicians.[17](#afp20210701p103a-b17) Appropriate coordination of care between subspecialists and primary care physicians is important for prevention and management of acute exacerbations of COPD.
+
+## Methods
+
+### SYSTEMATIC REVIEW
+
+In 2019, the Agency for Healthcare Research and Quality (AHRQ) published comparative effectiveness review no. 221, Pharmacologic and Nonpharmacologic Therapies in A
+
+--- FUENTE WEB ---
+Título: COPD exacerbations: Management - UpToDate
+URL: https://www.uptodate.com/contents/copd-exacerbations-management
+Score: 0.7548612
+
+Texto:
+[![Image 1: Wolters Kluwer](blob:http://localhost/05fd769993c8b11c48609c2b47f8de28)![Image 2: UpToDate](https://www.uptodate.com/app/assets/utd-logo-CA6-ErWD.svg)](https://www.uptodate.com/contents/search)
+
+[](https://www.uptodate.com/contents/search)
+
+*   [Subscribe](https://store.uptodate.com/)
+*   [Sign in](https://www.uptodate.com/login)
+*   
+[English](https://www.uptodate.com/contents/copd-exacerbations-management)
+
+    *   [Deutsch](https://www.uptodate.com/contents/copd-exacerbations-management#)
+    *   [Español](https://www.uptodate.com/contents/copd-exacerbations-management#)
+    *   [日本語](https://www.uptodate.com/contents/copd-exacerbations-management#)
+    *   [Português](https://www.uptodate.com/contents/copd-exacerbations-management#)
+
+*   [Why UpToDate?](https://www.wolterskluwer.com/en/solutions/uptodate/clinical-decision-support)
+*   [Product](https://www.wolterskluwer.com/en/solutions/uptodate)
+*   [Expert AI](https://www.wolterskluwer.com/en/solutions/uptodate/ai-clinical-decision-support)
+*   [Editorial](https://www.wolterskluwer.com/en/solutions/uptodate/about/editorial-process)
+*   [Subscription Options](https://www.wolterskluwer.com/en/solutions/uptodate/subscribe)
+
+How can UpToDate help you?**Select the option** that best describes you
+
+*   [Medical Professional](https://www.wolterskluwer.com/en/solutions/uptodate/professional-preview-individuals)
+*   [Resident, Fellow, or Student](https://www.wolterskluwer.com/en/solutions/uptodate/professional-preview-individuals)
+*   [Hospital or Institution](https://www.wolterskluwer.com/en/solutions/uptodate/who-we-help/hospitals-health-systems)
+*   [Group Practice](https://www.wolterskluwer.com/en/solutions/uptodate/who-we-help/individuals/groups)
+
+[Subscribe](https://store.uptodate.com/)
+
+COPD exacerbations: Management
+
+*   [View Topic](https://www.uptodate.com/contents/copd-exacerbations-management)
+*   [](https://www.uptodate.com/contents/copd-exacerbations-management)
+*   [](https://www.uptodate.com/contents/copd-exacerbations-management)
+*    
+*   [](https://www.uptodate.com/contents/copd-exacerbations-management/print)
+*   [Share](https://www.uptodate.com/contents/copd-exacerbations-management) 
+*   [](https://www.uptodate.com/contents/copd-exacerbations-management)
+*   
+[](javascript:void(0))Font Size
+    *   [Small](javascript:void(0))
+    *   [Normal](javascript:void(0))
+    *   [Large](javascript:void(0))
+
+*   Bookmark 
+*   
+Rate 
+
+Selecting a rating will open a feedback form
+
+*    [Feedback](https://www.uptodate.com/contents/copd-exacerbations-management) 
+*   [Tools](https://www.uptodate.com/contents/copd-exacerbations-management)
+
+Formulary drug information for this topic
+
+No drug references linked in this topic.
+
+*   [Find in topic](https://www.uptodate.com/contents/copd-exacerbations-management)
+*   [Formulary](https://www.uptodate.com/contents/copd-exacerbations-management)
+*   [Print](https://www.uptodate.com/contents/copd-exacerbations-management/print)
+*   [Share](https://www.uptodate.com/contents/copd-exacerbations-management) 
+*    [Feedback](https://www.uptodate.com/contents/copd-exacerbations-management) 
+*   [Reflect on credits for CME](https://www.uptodate.com/contents/copd-exacerbations-management)
+*   
+[](javascript:void(0))Font Size
+    *   [Small](javascript:void(0))
+    *   [Normal](javascript:void(0))
+    *   [Large](javascript:void(0))
+
+## Outline
+
+*   [SUMMARY AND RECOMMENDATIONS](https://www.uptodate.com/contents/copd-exacerbations-management#H22)
+*   [INTRODUCTION AND DEFINITION](https://www.uptodate.com/contents/copd-exacerbations-management#H1)
+*   [INITIAL APPROACH](https://www.uptodate.com/contents/copd-exacerbations-management#H1614247962)
+    *   [Confirm diagnosis and evaluate for alternative cardiopulmonary conditions](https://www.uptodate.com/contents/copd-exacerbations-management#H1821611033)
+    *   [Triage to inpatient versus outpatient care](https://www.uptodate.com/contents/copd-exacerbations-management#H199603161)
+        *   [- Patients with moderate to severe symptoms, or comorbidities](https://www.uptodate.com/contents/copd-exacerbations-management#H3821753786)
+        *   [- Patients with mild symptoms or favorable response to treatment](https://www.uptodate.com/contents/copd-exacerbations-management#H584959571)
+
+*   [OUTPATIENT (HOME OR OFFICE) MANAGEMENT OF COPD EXACERBATIONS](https://www.uptodate.com/contents/copd-exacerbations-management#H542686680)
+    *   [Determine exacerbation severity (outpatient)](https://www.uptodate.com/contents/copd-exacerbations-management#H4169420923)
+    *   [All patients](https://www.uptodate.com/contents/copd-exacerbations-management#H1885441536)
+        *   [- Initiate short-acting bronchodilators (outpatient)](https://www.uptodate.com/contents/copd-exacerbations-management#H542686732)
+        *   [- Continue long-acting bronchodilators](https://www.uptodate.com/contents/copd-exacerbations-management#H2341188309)
+        *   [- Test for influenza and SARS-CoV-2](https://www.uptodate.com/contents/copd-exacerbations-management#H2340410660)
+        *   [- Adjunctive care](https://www.uptodate.com/contents/copd-exacerbations-management#H566699643)
+        *   [- Monitoring](https://www.uptodate.com/contents/copd-exacerbations-management#H2789605070)
+
+    *   [Patients with moderate severity exacerbations](https://www.uptodate.com/contents/copd-exacerbations-management#H2006772961)
+        *   [- Glucocorticoids (outpatient)](https://www.uptodate.com/contents/copd-exacerbations-management#H542686982)
+
+    *   [Patients with ≥2 cardinal exacerbation symptoms](https://www.uptodate.com/contents/copd-exacerbations-management#H718082215)
+        *   [- Antibiotics (outpatient)](https://www.uptodate.com/contents/copd-exacerbations-management#H3994963638)
+
+*   [EMERGENCY DEPARTMENT AND HOSPITAL MANAGEMENT](https://www.uptodate.com/contents/copd-exacerbations-management#H542687361)
+    *   [Classify exacerbation severity (inpatient)](https://www.upt
+
+--- FUENTE WEB ---
+Título: European, American Societies Provide Guidelines for Managing COPD Exacerbations | AJMC
+URL: https://www.ajmc.com/view/european-american-societies-provide-guidelines-for-managing-copd-exacerbations
+Score: 0.6952351
+
+Texto:
+        
+
+[![Logo Image](/logo.webp)](/)
+
+[Subscribe](/subscribe)
+
+* News
+* [Watch](/watch)
+* Journals
+* Conferences
+* [Events](/events)
+* Resources
+* [CE](/continuing-education)
+* About AJMC
+* [Subscribe](/subscribe)
+
+* [Biosimilars](/compendium/biosimilars)
+* [Cardiorenalmetabolic](/compendium/cardiorenalmetabolic)
+  + [Cardiomyopathy](/compendium/cardiomyopathy)
+  + [Cardiovascular](/compendium/cardiovascular)
+  + [Chronic Kidney Disease](/compendium/ckd)
+  + [Diabetes](/compendium/diabetes)
+  + [Heart Failure](/compendium/heart-failure)
+  + [Type 1 Diabetes](/compendium/type1diabetes)
+* [Dermatology](/compendium/dermatology)
+  + [Alopecia](/compendium/alopecia)
+  + [Atopic Dermatitis](/compendium/atopic-dermatitis)
+  + [Chronic Hand Eczema](/compendium/chronic-hand-eczema)
+  + [Psoriasis](/compendium/psoriasis)
+* [Gastroenterology](/compendium/gastroenterology)
+* [Hematology](/compendium/hematology)
+  + [ALL/AML](/compendium/all)
+  + [CLL/SLL](/compendium/cll)
+  + [GVHD](/compendium/gvhd)
+  + [Hemophilia](/compendium/hemophilia)
+  + [Mantle Cell Lymphoma](/compendium/mantle-cell-lymphoma)
+  + [Multiple Myeloma](/compendium/multiple-myeloma)
+  + [Myelodysplastic Syndromes](/compendium/myelodysplastic-syndromes)
+  + [Myeloproliferative Neoplasms](/compendium/mpn)
+  + [Non-Hodgkin Lymphoma](/compendium/nhl)
+  + [Rare Blood](/compendium/rareblood)
+* [Hepatology](/compendium/hepatology)
+  + [Hepatitis](/compendium/hepatitis)
+  + [Liver](/compendium/liver-cancer)
+  + [MASH](/compendium/mash)
+* [Immunology](/compendium/immunology)
+  + [Allergy](/compendium/allergy)
+  + [Autoimmune](/compendium/autoimmune)
+  + [Inflammation](/compendium/inflammation)
+  + [Lupus](/compendium/lupus)
+  + [Myasthenia Gravis](/compendium/myasthenia-gravis)
+  + [Rheumatoid Arthritis](/compendium/rheumatoid-arthritis)
+* [Infectious Disease](/compendium/infectious-disease)
+  + [COVID-19](/compendium/covid-19)
+  + [HIV](/compendium/hiv)
+  + [RSV](/compendium/rsv)
+  + [Vaccines](/compendium/vaccines)
+* [Mental Health](/compendium/mental-health)
+  + [Major Depressive Disorder](/compendium/mdd)
+  + [Sleep](/compendium/sleep)
+* [Neurology](/compendium/neurology)
+  + [Duchenne Muscular Dystrophy](/compendium/dmd)
+  + [Epilepsy](/compendium/epilepsy)
+  + [Multiple Sclerosis](/compendium/multiple-sclerosis)
+  + [Parkinson Disease](/compendium/parkinson)
+* [Obesity](/compendium/obesity)
+* [Oncology](/compendium/oncology)
+  + [Breast Cancer](/compendium/breast-cancer)
+  + [Cholangiocarcinoma](/compendium/cholangiocarcinoma)
+  + [Colorectal Cancer](/compendium/colorectal-cancer)
+  + [Immuno-Oncology](/compendium/immuno-oncology)
+  + [Liver Cancer](/compendium/liver-cancer)
+  + [Non–Small Cell Lung Cancer](/compendium/nsclc)
+  + [Ovarian Cancer](/compendium/ovarian-cancer)
+  + [Prostate Cancer](/compendium/prostate-cancer)
+  + [Skin Cancer](/compendium/skincancer)
+  + [Small Cell Lung Cancer](/compendium/lung-cancer)
+  + [Soft Tissue Sarcoma](/compendium/soft-tissue-sarcoma)
+* [Ophthalmology](/compendium/ophthalmology)
+* [Pulmonology](/compendium/pulmonology)
+  + [COPD](/compendium/copd)
+  + [Pulmonary Arterial Hypertension](/compendium/pah)
+* [Rare Disease](/compendium/raredisease)
+  + [Spinal Muscular Atrophy](/compendium/sma)
+* [Respiratory](/compendium/respiratory)
+  + [Asthma](/compendium/asthma)
+  + [Bronchiectasis](/compendium/bronchiectasis)
+  + [Pulmonary Fibrosis](/compendium/pulmonary-fibrosis)
+* [Rheumatology](/compendium/rheumatology)
+  + [Sjögren Disease](/compendium/sjogren-disease)
+* [Urology](/compendium/urology)
+  + [Overactive Bladder](/compendium/overactive-bladder)
+* [Women's Health](/compendium/womens-health)
+  + [Endometriosis](/compendium/endometriosis)
+  + [Reproductive Health](/compendium/reproductive-health)
+
+* [Biosimilars](/compendium/biosimilars)
+* [Bispecifics Network](/compendium/bispecifics-network)
+* [Center on Health Equity & Access](/topic/center-on-health-equity-and-access)
+* [Digital Health](/compendium/digital-health)
+* [Dosing & Delivery Innovations](/dosing-and-delivery-innovations)
+* [Formulary](/formulary)
+* [Gene Therapy](/compendium/gene-therapy)
+* [Guidelines](/guidelines)
+* [Health Care Administration](/)
+  + [Employers](/compendium/employers)
+  + [Medicare](/compendium/medicare)
+  + [Reimbursement](/compendium/reimbursement)
+* [Health Care Cost](/topic/healthcare-cost)
+* [Health Care Delivery](/topic/healthcare-delivery)
+* [Insurance](/topic/insurance)
+* [Policy](/topic/policy)
+* [Population Health](/compendium/population)
+* [Product Approvals and Launches](/approvals-launches)
+* [Technology](/topic/technology)
+* [Value-Based Care](/topic/value-based-care)
+
+Spotlight - 
+
+[Free In-Person Regional Events Focused on Oncology and Population Health](https://ivbm.ajmc.com)
+
+Advertisement
+
+|Articles|April 16, 2017
+
+# European, American Societies Provide Guidelines for Managing COPD Exacerbations
+
+Author(s)[*Laura Joszt, MA*](/authors/laura-joszt)
+
+The European Respiratory Society and the American Thoracic Society have conducted a comprehensive review of evidence of managing exacerbations of chronic obstructive pulmonary disease in order to create a guideline of clinical recommendations.
+
+Advertisement
+
+The European Respiratory Society and the American Thoracic Society have conducted a comprehensive review of evidence on managing exacerbations of chronic obstructive pulmonary disease (COPD) in order to create a guideline of clinical recommendations. The guideline was [published in the *European Respiratory Journal*](http://erj.ersjournals.com/content/49/3/1600791).
+
+The Task Force appraised evidence from clinical trials that was relevant to the 6 questions it wanted to develop treatment recommendations for.
+
+“These guidelines provide the basis for rational decisions in the treatment of COPD exacerbations,” the authors wrote.
+
+*1. Should oral corticosteroids be used to treat ambulatory patients who are having COPD exacerbation?*
+
+Recommendation: A short course of 14 days or fewer of oral c
+
+--- FUENTE WEB ---
+Título: Management of patients with COPD in the emergency department and treatment compliance with clinical guideline recommendations at discharge
+URL: https://www.sciencedirect.com/science/article/pii/S0147956326000798
+Score: 0.6907474
+
+Texto:
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S0147956326000798#screen-reader-main-content)[Skip to article](https://www.sciencedirect.com/science/article/pii/S0147956326000798#screen-reader-main-title)
+
+[![Image 2: Elsevier logo](https://www.sciencedirect.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://www.sciencedirect.com/)
+
+*   [Journals & Books](https://www.sciencedirect.com/browse/journals-and-books)
+
+*   Help   
+*   [Search](https://www.sciencedirect.com/search) 
+
+[My account](https://www.sciencedirect.com/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0147956326000798&from=globalheader)
+
+[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0147956326000798)
+
+*   [View**PDF**](https://www.sciencedirect.com/science/article/pii/S0147956326000798/pdfft?md5=670553a3c5d40007c507be99c723f443&pid=1-s2.0-S0147956326000798-main.pdf)
+*   Download full issue
+
+Search ScienceDirect 
+
+[![Image 3: Elsevier](https://www.sciencedirect.com/us-east-1/prod/08bcf77e921828c5a59334cdb2949dd973632719/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/heart-and-lung "Go to Heart & Lung on ScienceDirect")
+
+## [Heart & Lung](https://www.sciencedirect.com/journal/heart-and-lung "Go to Heart & Lung on ScienceDirect")
+
+[Volume 79](https://www.sciencedirect.com/journal/heart-and-lung/vol/79/suppl/C "Go to table of contents for this volume/issue"), September–October 2026, 102795
+
+[![Image 4: Heart & Lung](https://ars.els-cdn.com/content/image/1-s2.0-S0147956326X20015-cov150h.gif)](https://www.sciencedirect.com/journal/heart-and-lung/vol/79/suppl/C)
+
+# Management of patients with COPD in the emergency department and treatment compliance with clinical guideline recommendations at discharge
+
+Author links open overlay panel Mónica Sachi Martínez Mihara a b, Isabel Pérez Pañart a, María Sánchez Salamero a, Eva Campos Picontó a, Sara Patricia Canales Villa a, Víctor Latorre c, Daniel Sáenz Abad a b d
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+
+[https://doi.org/10.1016/j.hrtlng.2026.102795](https://doi.org/10.1016/j.hrtlng.2026.102795 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0147956326000798&orderBeanReset=true)View accessibility information
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+
+Open access
+
+## Highlights
+
+*   •COPD exacerbations lead to visiting the emergency department (ED). 
+*   •GOLD and GesEPOC Guidelines recommend inhaled triple therapy (TT) for COPD exacerbations. 
+*   •A high proportion of patients with COPD did not receive inhaled TT after discharge from ED. 
+*   •TT prescription at discharge was not aligned with the GesEPOC clinical Guidelines. 
+*   •Optimization of the management of patients with COPD and exacerbations is needed. 
+
+## Abstract
+
+### Background
+
+Chronic obstructive pulmonary disease (COPD) exacerbations are a frequent cause of emergency department visits and are associated with high morbidity, mortality, and healthcare costs. These visits represent an opportunity to optimize patient management and align treatment with guideline recommendations, particularly regarding inhaled triple therapy.
+
+### Objectives
+
+To describe the clinical characteristics and management of COPD patients in the emergency department and to identify factors associated with inhaled triple therapy prescription at discharge.
+
+### Methods
+
+Retrospective observational study including patients aged >18 years attended at the emergency department of the Hospital Clínico Universitario (Zaragoza, Spain) between July and December 2022, with a diagnosis of COPD exacerbation at discharge. Demographic, clinical, laboratory, and therapeutic variables were analyzed. Logistic regression identified independent predictors of inhaled triple therapy prescription at discharge.
+
+### Results
+
+A total of 227 patients were included (mean age: 74.4 years; 70.9% male). Most (93.4%) had a prior COPD diagnosis, and 41.0% were already on maintenance inhaled triple therapy. At discharge, inhaled triple therapy was prescribed in 53.8% of the cases. Independent variables associated with triple therapy prescription included prior use of inhaled triple therapy (odds ratio [OR]:9.4), long-term home oxygen therapy (OR:4.3), and influenza vaccination (OR:3.1). Six months after discharge, 36.0% of patients required hospital admission for COPD exacerbation.
+
+### Conclusions
+
+One-third of COPD patients discharged from the emergency department do not receive guideline-recommended inhaled triple therapy. Interventions aimed at standardizing and optimizing emergency department management are needed to improve adherence to clinical guidelines and improve patient outcomes.
+
+*   [Previous article in issue](https://www.sciencedirect.com/science/article/pii/S0147956326000737)
+*   [Next article in issue](https://www.sciencedirect.com/science/article/pii/S0147956326000865)
+
+## Keywords
+
+Chronic obstructive pulmonary disease
+
+Exacerbation
+
+Therapy
+
+Emergency department
+
+## Abbreviations
+
+CEICA
+
+Comité Ético de Investigación Clínica de Aragón (Clinical Research Ethics Committee)
+
+CI
+
+Confidence interval
+
+COPD
+
+Chronic obstructive pulmonary disease
+
+COVID-19
+
+Coronavirus disease
+
+ED
+
+Emergency Department
+
+FEV1
+
+Forced expiratory volume in one second
+
+FVC
+
+Forced vital capacity
+
+GesEPOC
+
+Guía Española de la EPOC (Spanish COPD Guidelines)
+
+GOLD
+
+Global Initiative for Chronic Obstructive Lung Disease
+
+ICS
+
+Inhaled corticosteroids
+
+ICU
+
+Intensive care unit
+
+IQR
+
+Interquartile range
+
+LABA
+
+Long-acting beta-agonist
+
+LAMA
+
+Long-acting muscarinic antagonist
+
+mMRC
+
+Modified Medical Research Council
+
+NIV
+
+Non-invasive ventilation
+
+OCS
+
+Oral corticosteroids
+
+OR
+
+Odds ratio
+
+PCR
+
+Polymerase chain reaction
+
+RSV
+
+Respiratory syncytial virus
+
+SABA
+
+Short-acting beta-agonist
+
+SAMA
+
+Short-acting muscarinic antagonist
+
+SD
+
+St
+
+--- FUENTE WEB ---
+Título: Diagnosis and Management of Acute Exacerbations of Chronic Obstructive Pulmonary Disease | EB Medicine
+URL: https://www.ebmedicine.net/topics/respiratory/copd-exacerbation-management
+Score: 0.6882385
+
+Texto:
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![Click to search](/template_images/_ebm_icon_search.png)](#_ebm_global_topBar_searchMin)
+
+[![navigation bar background](/template_images/_icon_bars_trans.png)](#)
+
+[Browse Topics](/topics) [Earn CME Credits](/cme) [FOAMed](https://foamed.ebmedicine.net/) [Pathways](/pathways) [About](/About) [Contact](/contact.php)
+[Log In](/login.php)
+
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![](/template_images/_icon_grid_trans.png) **Store**](#) 
+
+[Emergency Medicine Practice](/EMPinfo) [Pediatric Emergency Medicine Practice](/PEMPinfo) [Evidence-Based Urgent Care](/urgent-care-CME) [Savings & Upgrades](/subscribe) [Courses](/store/Courses-and-LLSAs) [LLSA Study Guides](/LLSA) [Stroke CME](/store/stroke) [Trauma CME](/store/trauma) [State-Required CME](/CME-Requirements ) [View All Products](/store)
+
+[![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png) 678-366-7933](tel:1-678-366-7933)[![Click to check your cart](/template_images/_ebm_cart_icon.png)0](/store.php?paction=viewCart)[**Log In**](/login.php) [**Subscribe**](/subscribe)
+
+* [Browse Topics](/topics)
+* [Earn CME Credits](#)
+
+  [Stroke](/cme/stroke) [Cardiac](/cme/cardiovascular) [Trauma](/cme/trauma) [Pediatric Trauma](/cme.php?paction=setFilterOpts&sortBy=publication_date+DESC&resultsPerPg=25&available_to=all_cme&products%5B%5D=pemp&categories%5B%5D=Trauma) [Urgent Care](/CME/evidence-based-urgent-care) [All CME Tests](/cme)
+* [FOAMed](https://foamed.ebmedicine.net/)
+* [Pathways](/pathways)
+* [About](/About)
+* [Contact](/contact.php)
+
+* [**Resources For**](#)
+
+  [Emergency Clinicians](/emergency-clinicians) [Urgent Care Clinicians](/urgent-care-clinicians) [Emergency PAs & NPs](/apc) [Residents](/Residents) [Groups & Hospitals](/Groups)
+
+[Home](/) > [All Topics](/topics) > Diagnosis and Management of Acute Exacerbations of Chronic Obstructive Pulmonary Disease
+
+![](/publicationImages/EMP-Heading.png "Emergency Medicine Practice")
+
+# Diagnosis and Management of Acute Exacerbations of Chronic Obstructive Pulmonary Disease
+
+|  |
+| --- |
+|  |
+
+[**Log in**](/login.php)
+
+[**Subscribe**](/subscribe)
+
+[**Free Sample**](javascript:void(0);)
+
+![](/template_images/New-TOC-desktop-icon.png)![](/template_images/New-TOC-mobile-icon.png)
+
+Table of Contents![](/template_images/icon-close.png)
+
+About This Issue
+
+## As more and more patients present to the ED with symptoms that suggest an acute exacerbation of COPD –worsening dyspnea, cough and sputum production  – emergency clinicians can improve patient comfort and possibly mitigate morbidity and mortality with the right testing and treatment interventions:
+
+## COPD is a clinical diagnosis, but some tests can exclude comorbid conditions
+
+## When to give antibiotics and when to culture
+
+## The SpO2 range to aim for
+
+## ECG findings typical of COPD
+
+## The role of ultrasound
+
+## Oxygen, bronchodilators, corticosteroids, and antibiotics: which ones, and how much?
+
+## Reviewing noninvasive ventilation and intubation options
+
+Table of Contents
+
+1. [Abstract](#Abstract)
+2. [Case Presentations](#Case-Presentations)
+3. [Introduction](#Introduction)
+4. [Selected Abbreviations](#Selected-Abbreviations)
+5. [Critical Appraisal of the Literature](#Critical-Appraisal-of-the-Literature)
+6. Definition
+7. Epidemiology, Etiology, and Pathophysiology
+   1. Epidemiology of COPD
+   2. Etiology of Acute Exacerbation of COPD
+   3. Pathophysiology of COPD
+8. Differential Diagnosis
+9. Prehospital Care
+10. Emergency Department Evaluation
+    1. History
+    2. Physical Examination
+11. Diagnostic Studies
+    1. Laboratory Testing and Arterial Blood Gas Sampling
+    2. Chest Imaging
+    3. Electrocardiogram
+    4. Serum Cardiac Biomarkers
+    5. Microbiologic Evaluation
+    6. Point-of-Care Ultrasound
+    7. Other Tests
+12. Treatment
+    1. Supplemental Oxygen
+    2. Bronchodilators
+    3. Corticosteroids
+    4. Antibiotics
+    5. Magnesium Sulfate
+    6. Methylxanthines
+    7. Noninvasive Positive-Pressure Ventilation
+    8. Mechanical Ventilation
+    9. High-Flow Nasal Cannula
+13. Controversies and Cutting Edge
+    1. Biomarkers
+    2. Heliox
+    3. Capnography
+14. Disposition
+    1. Outpatient Versus Inpatient Care
+    2. Management for Patients Going Home
+15. Summary
+16. [Risk Management Pitfalls in Managing Acute Exacerbation of COPD](#Risk-Management)
+17. Time- and Cost-Effective Strategies
+18. Case Conclusions
+19. Clinical Pathways
+    1. Clinical Pathway For Diagnostic Evaluation of Acute Exacerbation of COPD
+    2. Clinical Pathway For Management of Acute Exacerbation of COPD
+20. Tables and Figures
+    1. [Table 1. Model of Symptom Risk Evaluation of COPD](#Table-1)
+    2. Table 2. Differential Diagnosis of Acute Exacerbation of COPD
+    3. Table 3. Summary of Diagnostic Testing in Patients With Acute Exacerbation of COPD
+    4. Table 4. Arrhythmias Related to COPD
+    5. Table 5. Electrocardiogram Abnormalities Related to COPD
+    6. Table 6. Antibiotics to Consider for the Treatment of Acute Exacerbation of COPD
+    7. Table 7. Exclusion Criteria for Noninvasive Positive-Pressure Ventilation and Indications for Intubation
+    8. Table 8. Ventilator Setting Recommendations Post Intubation
+    9. Table 9. Factors Associated With Risk of Death From COPD Exacerbation
+    10. Table 10. Indications for Hospital Admission
+    11. Figure 1. Saber-Sheath Trachea on Computed Tomography
+    12. Figure 2. Electrocardiogram of Multifocal Atrial Tachycardia
+    13. Figure 3. Electrocardiogram of Right Ventricular Hypertrophy
+    14. Figure 4. End-Tidal Capnography Tracings
+21. [References](#References)
+
+### Abstract
+
+Acute exacerbation of chronic obstructive pulmonary disease (COPD) is a clinical diagnosis that is based on changes in dyspnea, cough, and/or sputum production in a COPD patient; however, patients presenting with an acute exacerbation may be undiagnosed or have a variety of comorbid conditions t
+
+--- FUENTE WEB ---
+Título: Full article: Update on the pharmacological treatment of chronic obstructive pulmonary disease
+URL: https://www.tandfonline.com/doi/full/10.1080/14656566.2024.2409322
+Score: 0.6633424
+
+Texto:
+[Skip to Main Content](https://www.tandfonline.com/doi/full/10.1080/14656566.2024.2409322#top-content-scroll "Skip to Main Content")
+
+[![Image 1: ISPOR Europe 2026. 8-11 November. Vienna, Austria. Register Now.](//:0)](https://www.tandfonline.com/action/clickThrough?id=113367&url=https%3A%2F%2Fwww.ispor.org%2Fconferences-education%2Fconferences%2Fupcoming-conferences%2Fispor-europe-2026%3Futm_medium%3Ddigital_ad%26utm_source%3Djme%26utm_campaign%3Dispor_europe_2026%26utm_content%3Dmedia_partner_web_digital_ad_728x90gif_register&loc=%2Fdoi%2Ffull%2F10.1080%2F14656566.2024.2409322&pubId=58527239&placeholderId=1073&productId=3930)
+
+[![Image 2: Taylor and Francis Online homepage](https://www.tandfonline.com/pb-assets/Global/TFO-logo-new-1716484961953.svg)](https://www.tandfonline.com/ "Taylor and Francis Online homepage")
+
+*   Journals
+
+Close Journals Menu
+
+Browse all journals
+
+    *   [Browse all journals A-Z](https://www.tandfonline.com/action/showPublications?pubType=journal&ejf=on)
+    *   [Open access journals](https://www.tandfonline.com/openaccess/openjournals)
+    *   [Open Select (hybrid) journals](https://www.tandfonline.com/openaccess/openselect)
+
+Browse all books
+
+    *   [Explore Taylor & Francis eBooks](https://www.taylorfrancis.com/)
+
+Publish
+
+    *   [Find a journal](https://www.tandfonline.com/action/showPublications?pubType=journal&ejf=on)
+    *   [Search calls for papers](https://authorservices.taylorandfrancis.com/call-for-papers/)
+    *   [Journal Suggester](https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/)
+    *   [Open access publishing](https://www.tandfonline.com/openaccess)
+    *   [Find guidance on Author Services](https://authorservices.taylorandfrancis.com/)
+
+Browse by subject
+
+    *   [Area Studies](https://www.tandfonline.com/subjects/area-studies)
+    *   [Arts](https://www.tandfonline.com/subjects/arts)
+    *   [Behavioral Sciences](https://www.tandfonline.com/subjects/behavioral-sciences)
+    *   [Bioscience](https://www.tandfonline.com/subjects/bioscience)
+    *   [Built Environment](https://www.tandfonline.com/subjects/built-environment)
+    *   [Communication Studies](https://www.tandfonline.com/subjects/communication-studies)
+    *   [Computer Science](https://www.tandfonline.com/subjects/computer-science)
+    *   [Earth Sciences](https://www.tandfonline.com/subjects/earth-sciences)
+    *   [Economics, Finance, Business & Industry](https://www.tandfonline.com/subjects/economics-finance-business-industry)
+    *   [Education](https://www.tandfonline.com/subjects/education)
+    *   [Engineering & Technology](https://www.tandfonline.com/subjects/engineering-and-technology)
+    *   [Environment & Agriculture](https://www.tandfonline.com/subjects/environment-and-agriculture)
+    *   [Environment and Sustainability](https://www.tandfonline.com/subjects/environment-and-sustainability)
+    *   [Food Science & Technology](https://www.tandfonline.com/subjects/food-science-and-technology)
+    *   [Geography](https://www.tandfonline.com/subjects/geography)
+
+    *   [Global Development](https://www.tandfonline.com/subjects/global-development)
+    *   [Health and Social Care](https://www.tandfonline.com/subjects/health-and-social-care)
+    *   [Humanities](https://www.tandfonline.com/subjects/humanities)
+    *   [Information Science](https://www.tandfonline.com/subjects/information-science)
+    *   [Language & Literature](https://www.tandfonline.com/subjects/language-and-literature)
+    *   [Law](https://www.tandfonline.com/subjects/law)
+    *   [Mathematics & Statistics](https://www.tandfonline.com/subjects/mathematics-and-statistics)
+    *   [Medicine, Dentistry, Nursing & Allied Health](https://www.tandfonline.com/subjects/medicine-dentistry-nursing-and-allied-health)
+    *   [Museum and Heritage Studies](https://www.tandfonline.com/subjects/museum-and-heritage-studies)
+    *   [Physical Sciences](https://www.tandfonline.com/subjects/physical-sciences)
+    *   [Politics & International Relations](https://www.tandfonline.com/subjects/politics-and-international-relations)
+    *   [Social Sciences](https://www.tandfonline.com/subjects/social-sciences)
+    *   [Sports and Leisure](https://www.tandfonline.com/subjects/sports-and-leisure)
+    *   [Tourism, Hospitality and Events](https://www.tandfonline.com/subjects/tourism-hospitality-and-events)
+    *   [Urban Studies](https://www.tandfonline.com/subjects/urban-studies)
+
+*   Search Close Search Menu 
+*   Publish
+
+    *   [Why publish with us?](https://www.tandfonline.com/why-publish-with-us)
+    *   [Find a journal](https://www.tandfonline.com/action/showPublications?pubType=journal&ejf=on)
+    *   [Search calls for papers](https://authorservices.taylorandfrancis.com/call-for-papers/)
+    *   [Journal Suggester](https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/)
+    *   [Step-by-step guide](https://authorservices.taylorandfrancis.com/publishing-your-research/)
+    *   [Open access publishing](https://www.tandfonline.com/openaccess)
+
+We're here to help
+
+Find guidance on [Author Services](https://authorservices.taylorandfrancis.com/)
+
+[Login](https://www.tandfonline.com/action/showLogin?uri=%2Fdoi%2Ffull%2F10.1080%2F14656566.2024.2409322)|[Register](https://www.tandfonline.com/action/registration?redirectUri=%2F)
+
+Log in or Register
+*   [Login](https://www.tandfonline.com/action/showLogin?uri=%2Fdoi%2Ffull%2F10.1080%2F14656566.2024.2409322)
+*   [Register](https://www.tandfonline.com/action/registration?redirectUri=%2F)
+
+[Cart Add to Cart](https://www.tandfonline.com/action/showCart?FlowID=1)
+
+Search, Browse, or Publish Close Menu
+
+*   Search Close search 
+*   Journals
+
+    *   Browse by subject
+
+        *   Social Sciences & Humanities
+
+            *   [Area Studies](https://www.tandfonline.com/subjects/area-studies)
+            *   [Arts](https://www.tandfonline.com/subjects/arts)
+            *   [Communicat
+
+--- FUENTE WEB ---
+Título: 2021 Guideline for the Management of COPD Exacerbations
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8593424
+Score: 0.6557114
+
+Texto:
+by NÖ Doğan · 2021 · Cited by 37 — COPD exacerbations usually present to emergency departments, guideline that evaluates the management of COPD exacerbations according to the
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada

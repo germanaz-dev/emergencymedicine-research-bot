@@ -35,8 +35,8 @@
     "axis": "infectious"
   },
   "copd_exacerbation": {
-    "last_seen": "2026-08-09",
-    "times_reviewed": 1,
+    "last_seen": "2026-10-05",
+    "times_reviewed": 2,
     "axis": "respiratory"
   },
   "delirium_elderly": {
