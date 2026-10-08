@@ -5,8 +5,8 @@
     "axis": "systems_safety"
   },
   "pulmonary_embolism_rv": {
-    "last_seen": "2026-09-27",
-    "times_reviewed": 7,
+    "last_seen": "2026-10-08",
+    "times_reviewed": 8,
     "axis": "cardiovascular"
   },
   "stroke_thrombectomy_selection": {
