@@ -1,0 +1,226 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: undifferentiated shock in emergency medicine
+
+PAPERS RECUPERADOS DE PUBMED:
+No se recuperaron resultados relevantes de PubMed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Guideline of the Week - by Emergency Medicine Update
+URL: https://diarmaidmcmenamin.substack.com/p/guideline-of-the-week-010
+Score: 0.7125728
+
+Texto:
+Title: Guideline of the Week - by Emergency Medicine Update
+# Guideline of the Week. ### Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026 — SCCM/ESICM (March 2026). The bag of 0.9% saline. The qSOFA score on the whiteboard. The three-hour antibiotic target on every sepsis proforma. The Surviving Sepsis Campaign just told us to reconsider all of it. Published March 2026, the SSC’s latest adult guidelines are the most substantial update since 2021 — 129 statements, 46 of them brand new, published simultaneously in Intensive Care Medicine and Critical Care Medicine and endorsed by 24 professional societies. The 2021 SSC guidelines moved away from rigid bundle targets, but five years of new evidence in fluid strategy, antibiotic optimisation, vasopressor timing, and screening tool performance had accumulated — applied inconsistently. Areas that stayed soft in 2021 — balanced crystalloids, prolonged beta-lactam infusions, peripheral vasopressor initiation — have been re-examined and, where evidence supports it, upgraded. ## New Guideline or Update? This is a major update, not a new document. The headline changes: balanced crystalloids are now recommended over 0.9% saline; prolonged beta-lactam infusions are now a recommendation rather than a suggestion; NEWS or NEWS2 is formally endorsed over qSOFA for screening; peripheral vasopressors are explicitly supported; antibiotic timing is stratified by severity; and MAP targets are age-stratified for the first time. For adults with sepsis or septic shock, balanced crystalloids (Hartmann’s, Plasma-Lyte) are now formally recommended over 0.9% saline. The SMART trial sepsis subgroup showed 31.2% vs 26.3% in-hospital mortality in favour of balanced crystalloids. This deliberately moves away from a blanket one-hour target for all patients — a change designed to reduce empiric over-prescribing in undifferentiated presentations. The BLING III trial was neutral on 90-day mortality but showed improved clinical cure; a subsequent meta-analysis confirmed a mortality benefit. An initial MAP target of 60–65 mmHg is now suggested over the standard ≥65 mmHg in older patients with septic shock. The 65 trial showed no increase in 90-day mortality with permissive hypotension in this group, with lower vasopressor doses and no additional adverse events. *Based on Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026 — Evans et al., Intensive Care Medicine / Critical Care Medicine, March 2026.
+
+--- FUENTE WEB ---
+Título: GRACE-2 Abdominal Pain - Emergency Medicine Clinical Practice Guideline | SAEM
+URL: https://www.saem.org/publications/academic-emergency-medicine/grace/grace-2
+Score: 0.4864541
+
+Texto:
+[![Society for Academic Emergency Medicine Logo | SAEM](/images/default-source/siteimages/logos/logo-2.png?sfvrsn=74156739_4 "Society for Academic Emergency Medicine Logo | SAEM")](/home)
+
+Visit us on [Twitter](https://twitter.com/saemonline) [LinkedIn](https://www.linkedin.com/company/society-for-academic-emergency-medicine) [Facebook](https://www.facebook.com/SAEMonline) [YouTube](https://www.youtube.com/channel/UCFyc9y4eYZ-e5gtO3xAS19w) [Instagram](https://www.instagram.com/saemonline)
+
+* [Join/Renew](/join)
+* [Careers](/careers) 
+  + [Academic Career Guide](/careers/saem-2019-academic-career-guide)
+  + [Medical Education Portfolio](/careers/medical-education-portfolio)
+  + [EM Job Link](/careers/job-board)
+
+Profile
+
+* [Logout](/publications/grace/grace-2/SignOut/)
+
+[Login](https://www.saem.org/list-pages/account/login?redirect_uri=%2fpublications%2fgrace%2fgrace-2)
+
+* [GRACE-1 Recurrent, Low-Risk Chest Pain](/publications/grace/grace-1)
+* [GRACE-2 Recurrent, Low-Risk Abdominal Pain](/publications/grace/grace-2)
+* [GRACE-3 Acute Dizziness & Vertigo](/publications/grace/grace-3)
+* [GRACE-4 Alcohol Use Disorder & Cannabinoid Hyperemesis Syndrome](/publications/grace/grace-4)
+
+# GRACE-2
+
+[Home](/)   /  [Publications](/publications)   /  [GRACE](/publications/grace)   /  GRACE-2
+
+![GRACE w tag logo](/images/default-source/logos/grace-w-tag-logo.png?sfvrsn=80a3730d_0 "GRACE w tag logo")
+
+The SAEM GRACE program addresses the best practices for the care of the most common chief complaints that can be seen on the tracking board of any emergency department in the country, based upon research and expert consensus. These guidelines are designed with de-implementation as a guiding principle to reasonably reduce wasteful testing, provide explicit criteria to reduce foreseeable risk, and define sensible and prudent medical care.
+
+#### [GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14495)
+
+Abdominal pain has consistently remained the most frequent chief complaint in United States emergency departments (EDs) from 2009 to 2018. The evaluation of acute abdominal pain requires substantial ED resources, including imaging, laboratory studies, nursing care, time, and patient care space. Despite the intensity of diagnostic testing, most patients presenting with abdominal pain do not receive a specific diagnosis in the ED and are discharged.
+
+National data on ED presentations for recurrent abdominal pain are limited. Little guidance is available to emergency physicians evaluating and treating patients with recurrent and undifferentiated abdominal pain. Without guidelines for care, variance in practice could result in lower quality care, including risks of over- or under-testing, misdiagnosis, adverse effects of over- or under-treatment, higher costs, greater length of stay, and lower patient satisfaction.
+
+The purpose of the second Guideline for Reasonable and Appropriate Care in the Emergency Department (GRACE-2) is to provide an evidence-based, patient-centric approach for clinicians in their evaluation and management of adult patients with low-risk, recurrent, undifferentiated abdominal pain in the ED.   
+  
+The GRACE-2 panel reached the following recommendations:
+
+1. If a prior negative computed tomography of the abdomen and pelvis (CTAP) has been performed within 12 months, there is insufficient evidence to accurately identify populations in whom repeat CTAP imaging can be safely avoided or routinely recommended.
+2. If CTAP with IV contrast is negative, the panel suggests against ultrasound unless there is concern for pelvic or biliary pathology.
+3. The panel suggests screening for depression and/or anxiety may be performed during the ED evaluation.
+4. The panel suggests using an opioid-minimizing strategy for pain control.
+
+##### Read the full article:  [GRACE-2: Low-Risk, Recurrent Abdominal Pain in the Emergency Department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14495)
+
+##### Podcast: [GRACE-2 Podcast on The Skeptics Guide to Emergency Medicine](https://thesgem.com/2022/05/sgem367-grace2-low-risk-recurrent-abdominal-pain/)
+
+![GRACE-2 Abdominal Pain DRAFT](/images/default-source/aem/grace-2-infographic-v2.png?sfvrsn=ec55d574_2 "GRACE-2 Abdominal Pain")
+
+#### Guideline Infographics
+
+* [GRACE-2: Abdominal Pain Recommendations Summary](/images/default-source/aem/grace-abdo-pain-summary-final-challen.png?sfvrsn=c9afc275_2)
+* [GRACE-2: Abdominal Pain Infographic](/images/default-source/aem/grace-2-infographic-v2.png?sfvrsn=ec55d574_2)
+
+#### Patient Information Handout
+
+* [GRACE-2 Patient Education Handout](/docs/default-source/default-document-library/grace-2_patient_education_final.pdf?sfvrsn=f2cd0d6e_2 "GRACE-2 Patient Education Handout")
+
+#### Related Articles
+
+* [Repeated computed tomography in recurrent abdominal pain: An evidence synthesis for guidelines for reasonable and appropriate care in the emergency department](https://onlinelibrary.wiley.com/doi/10.1111/acem.14427)
+* [Depression and anxiety screening in emergency department patients with recurrent abdominal pain: An evidence synthesis for a clinical practice guideline](https://onlinelibrary.wiley.com/doi/10.1111/acem.14394)
+* [A Candle in the Dark: The Role of Indirect Evidence in Emergency Medicine Clinical Practice Guidelines](https://onlinelibrary.wiley.com/doi/abs/10.1111/acem.14494)
+
+#### Press Release
+
+* [SAEM publishes new guideline for low-risk, recurrent abdominal pain in the emergency department](https://www.eurekalert.org/news-releases/951756)
+
+#### 
+
+#### Other GRACE Guidelines
+
+[GRACE-1: Recurrent, Low-Risk Chest Pain in the ED](https://www.saem.org/publications/academic-emergency-medicine/grace/grace-1)
+
+[GRACE-3: Acute Dizziness in the ED](/publications/grace/grace-3)
+
+[GRACE-4: Alcohol Use Disorder and Cannabis Hyperemesis Management in the Emergency Department](/publications/grace/grace-4)
+
+GRACE-5: Syncope (2025)
+
+--- FUENTE WEB ---
+Título: Rwanda: Emergency Medicine Clinical Guidelines
+URL: https://medbox.org/document/rwanda-emergency-medicine-clinical-guidelines
+Score: 0.45798564
+
+Texto:
+Title: Rwanda: Emergency Medicine Clinical Guidelines
++ English + Deutsch + Español + Français + русский + عربى. ## Rwanda: Emergency Medicine Clinical Guidelines. Ministry of Health, Rwanda   (2016)  C2. The clinical guidelines and protocols for the practice of emergency medicine presented in this document are designed to be a useful resource not only for those wishing to become emergency medicine specialists, but also for general practitioners and other healthcare providers tasked with caring for patients in hospital emergency departments. Healthcare providers using this Emergency Medicine Clinical Guideline (EMCG) are provided with fundamental concepts and principles essential to emergency medicine and the management of patients with undifferentiated emergency conditions. emergency medicine  emergency medicine specialists  general practitioners  hospital emergency  healthcare  healthcare provider  Emergency Medicine Clinical Guideline (EMCG)  emergency conditions  emergency care  Complex Emergencies  critical care  Trauma  Orthopedics  Respiratory  Cardiology  Gastroenterology  Renal And Genitourinary  Eye, Ear, Nose, & Throat  Neurology  hematology  infectious diseases  Endocrine And Metabolic  environmental health  toxicology  gynecology  Musculoskeletal  Vascular.
+
+--- FUENTE WEB ---
+Título: Point-of-Care Lung Ultrasound in Emergency Medicine
+URL: https://ouci.dntb.gov.ua/en/works/7BoeWEJ4
+Score: 0.44622982
+
+Texto:
+Title: Point-of-Care Lung Ultrasound in Emergency Medicine
+# Point-of-Care Lung Ultrasound in Emergency Medicine. 10.1016/j.chest.2024.02.053. 1. Ultrasound guidelines: emergency, point-of-care and clinical ultrasound guidelines in medicine, Ann Emerg Med, № 69, с. 2. Lewis, Recommendations for the use of point-of-care ultrasound (POCUS) by emergency physicians in Canada, CJEM, № 21, с. 3. Laursen, A framework for implementation, education, research and clinical use of ultrasound in emergency departments by the Danish Society for Emergency Medicine, Scand J Trauma Resusc Emerg Med, № 22, с. 4. Volpicelli, International evidence-based recommendations for point-of-care lung ultrasound, Intensive Care Med, № 38, с. 5. Gartlehner, Point-of-care ultrasonography in patients with acute dyspnea: an evidence report for a clinical practice guideline by the American College of Physicians, Ann Intern Med, № 174, с. 7. Al Deeb, Point-of-care ultrasonography for the diagnosis of acute cardiogenic pulmonary edema in patients presenting with acute dyspnea: a systematic review and meta-analysis, Acad Emerg Med, № 21, с. 8. Falster, Diagnostic accuracy of focused deep venous, lung, cardiac and multiorgan ultrasound in suspected pulmonary embolism: a systematic review and meta-analysis, Thorax, № 77, с. 9. Wang, A comparison of lung ultrasound and computed tomography in the diagnosis of patients with COVID-19: a systematic review and meta-analysis, Diagnostics, № 11, с. Orso, Lung ultrasound in diagnosing pneumonia in the emergency department: a systematic review and meta-analysis, Eur J Emerg Med, № 25, с. Ovesen, Point-of-care focused lung ultrasound in emergency medicine: protocol for a scoping review, Dansk Tidsskrift Akutmedicin, № 5, с. Peach, Does point-of-care ultrasonography improve diagnostic accuracy in emergency department patients with undifferentiated hypotension? Zare, Role of point-of-care ultrasound study in early disposition of patients with undifferentiated acute dyspnea in emergency department: a multi-center prospective study, J Ultrasound, № 25, с. Riishede, Point-of-care ultrasound of the heart and lungs in patients with respiratory failure: a pragmatic randomized controlled multicenter trial, Scand J Trauma Resusc Emerg Med, № 29, с. Pivetta, Lung ultrasound integrated with clinical assessment for the diagnosis of acute decompensated heart failure in the emergency department: a randomized controlled trial, Eur J Heart Fail, № 21, с. Buhumaid, Integrating point-of-care ultrasound in the ED evaluation of patients presenting with chest pain and shortness of breath, J Emerg Med, № 37, с.
+
+--- FUENTE WEB ---
+Título: Emergency Medicine Research, Summarized - JournalFeed
+URL: https://journalfeed.org/article-a-day/category/emergency-medicine/page/48
+Score: 0.38908273
+
+Texto:
+Title: Emergency Medicine Research, Summarized - JournalFeed
+# Emergency Medicine. Showing only Emergency Medicine articles. The American Academy of Pediatrics has released their first clinical practice guideline on opioid prescribing in children and adolescents. The 12 evidence-based key action statements outline safe practices for prescribing opioids for acute pain in the outpatient setting. Opioid Prescribing for Acute Pain Management in Children and Adolescents in Outpatient Settings: Clinical Practice Guideline. **Spoon Feed**This narrative review of lung ultrasound provides an evidence-based overview of acquisition techniques, clinical protocols, common pathologies, and potential pitfalls. Nuts and bolts of lung ultrasound: utility, scanning techniques, protocols, and findings in common pathologies. While there was concern for selection bias in a number of included studies, this systematic review and meta-analysis found that small–bore thoracostomy tubes may be appropriate to use in traumatic hemothorax. Small versus large-bore thoracostomy for traumatic hemothorax: A systematic review and meta-analysis. This descriptive study discussed a protocol to treat a fentanyl and xylazine subtype of opiate use withdrawal using one of four pathways. Tranq Dope: Characterization of an ED cohort treated with a novel opioid withdrawal protocol in the era of fentanyl/xylazine.Am J Emerg Med. 2024 Sep 4;85:130-139. Effect of High-Intensity vs Low-Intensity Noninvasive Positive Pressure Ventilation on the Need for Endotracheal Intubation in Patients With an Acute Exacerbation of Chronic Obstructive Pulmonary Disease: The HAPPEN Randomized Clinical Trial. doi: 10.1001/jama.2024.15815. The Infectious Diseases Society of America has published an update to clinical practice guidelines in the diagnosis of complicated intra-abdominal infections in various populations. 2024 Clinical Practice Guideline Update by the Infectious Diseases Society of America on Complicated Intra-abdominal Infections: Risk Assessment, Diagnostic Imaging, and Microbiological Evaluation in Adults, Children, and Pregnant People. This was a systematic review of the impact of medical trainees on efficiency and productivity in emergency medicine (EM). The authors found a slight increase in length of stay with medical trainees overall and an increased RVU productivity with EM residents. Impact of Medical Trainees on Efficiency and Productivity in the Emergency Department: Systematic Review and Narrative Synthesis. Am J Emerg Med. 2024 Sep 10;85:179-185. Dual therapy with both ibuprofen and acetaminophen or in alternating regimens may be superior to monotherapy for treating fever in children.
+
+--- FUENTE WEB ---
+Título: Emergency Medicine Clinical Guidelines
+URL: https://medbox.org/document/emergency-medicine-clinical-guidelines
+Score: 0.38762134
+
+Texto:
+* [Login](https://medbox.org/web/login)
+* [Register](https://medbox.org/web/register)
+* English
+
+  [+ English](https://medbox.org/setlocal/en) [+ Deutsch](https://medbox.org/setlocal/de) [+ Español](https://medbox.org/setlocal/es) [+ Français](https://medbox.org/setlocal/fr) [+ русский](https://medbox.org/setlocal/ru) [+ عربى](https://medbox.org/setlocal/ar)
+
+[![logo](/medbox/medbox-logo.png)](https://medbox.org)
+
+Document details
+
+![](/preview/688b39d322c413560a312a32/doc.pdf_438x622-0.png)
+
+[External Link](https://policyvault.africa/policy/emergency-medicine-clinical-guidelines/ "External Link")
+
+[External Link](https://medbox.org/externpage/688b39d322c413560a312a32 "Click opens external link")
+
+[Add to my MEDBOX](https://medbox.org/mymedbox/addfavourite/688b39d322c413560a312a32)
+
+## Emergency Medicine Clinical Guidelines
+
+[Ministry of Health, Rwanda](https://medbox.org/fsselected?authors=Ministry%20of%20Health%2C%20Rwanda&breadcrumb=Ministry%20of%20Health%2C%20Rwanda)   (2022)  C1
+
+Emergency medicine in Rwanda is underdeveloped. Limited training and infrastructure mean that the country has a high mortality rate from acute conditions such as trauma, malaria and obstetric complications. As Rwanda's disease burden shifts, there is a critical need for standardised emergency care. This Emergency Medicine Clinical Guideline (EMCG) provides essential protocols and principles that are tailored to the Rwandan context. The aim is to improve the delivery of emergency care at district and referral hospitals. It is intended as a practical resource for all healthcare providers involved in the management of undifferentiated emergencies.
+
+Source:
+
+<https://policyvault.africa/policy/emergency-medicine-clinical-guidelines/>
+
+Topics:
+
+[Children](https://medbox.org/fsselected?keywords_ids=NEW00080&breadcrumb=NEW00080)  [Emergency Medical Services (EMS)](https://medbox.org/fsselected?keywords_ids=NEW00146&breadcrumb=NEW00146)  [Infrastructure](https://medbox.org/fsselected?keywords_ids=NEW00223&breadcrumb=NEW00223)  [Mortality](https://medbox.org/fsselected?keywords_ids=NEW00266&breadcrumb=NEW00266)  [Training](https://medbox.org/fsselected?keywords_ids=NEW00372&breadcrumb=NEW00372)
+
+* [Create your own MEDBOX](https://medbox.org/web/register)
+* [Login](https://medbox.org/web/login)
+
+* [Home](https://medbox.org)
+* [Contact](https://medbox.org/contact)
+* [Data privacy](https://medbox.org/dataPrivacy)
+* [Legal notice](https://medbox.org/legalnotice)
+* [FAQ](https://medbox.org/faq)
+* [About](https://medbox.org/about)
+* [Sitemap](https://medbox.org/sitemap)
+
+A Project by
+
+[![Medmissio](/medbox/mi-logo.png)]( https://medmissio.de)
+
+medbox @ 2026
+
+ 
+
+--- FUENTE WEB ---
+Título: Clinical Practice Guideline for Emergency... : Annals of Emergency Medicine
+URL: https://www.ovid.com/journals/aemmed/pdf/00000566-201105000-00006~clinical-practice-guideline-for-emergency-department
+Score: 0.3648686
+
+Texto:
+Title: Clinical Practice Guideline for Emergency... : Annals of Emergency Medicine
+Pain management and sedation/concept. # **Clinical Practice Guideline for Emergency Department Ketamine Dissociative Sedation: 2011 Update**. Annals of Emergency Medicine 57(5):p 449-461, May 2011. We update an evidence-based clinical practice guideline for the administration of the dissociative agent ketamine for emergency department procedural sedation and analgesia. Substantial new research warrants revision of the widely disseminated 2004 guideline, particularly with respect to contraindications, age recommendations, potential neurotoxicity, and the role of coadministered anticholinergics and benzodiazepines. We critically discuss indications, contraindications, personnel requirements, monitoring, dosing, coadministered medications, recovery issues, and future research questions for ketamine dissociative sedation. Copyright © Mosby-Year Book Inc. 2011. ## Related Articles.
+
+--- FUENTE WEB ---
+Título: Clinical Practice Guideline for Emergency... : Annals of Emergency Medicine
+URL: https://www.ovid.com/journals/aemmed/fulltext/00000566-201105000-00006~clinical-practice-guideline-for-emergency-department
+Score: 0.36168364
+
+Texto:
+Title: Clinical Practice Guideline for Emergency... : Annals of Emergency Medicine
+Pain management and sedation/concept. # **Clinical Practice Guideline for Emergency Department Ketamine Dissociative Sedation: 2011 Update**. Annals of Emergency Medicine 57(5):p 449-461, May 2011. We update an evidence-based clinical practice guideline for the administration of the dissociative agent ketamine for emergency department procedural sedation and analgesia. Substantial new research warrants revision of the widely disseminated 2004 guideline, particularly with respect to contraindications, age recommendations, potential neurotoxicity, and the role of coadministered anticholinergics and benzodiazepines. We critically discuss indications, contraindications, personnel requirements, monitoring, dosing, coadministered medications, recovery issues, and future research questions for ketamine dissociative sedation. Copyright © Mosby-Year Book Inc. 2011. ## Related Articles. ## Readers Of this Article Also Read. ## Most Popular.
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
