@@ -1,0 +1,449 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: syncope risk stratification in emergency medicine
+
+PAPERS RECUPERADOS DE PUBMED:
+No se recuperaron resultados relevantes de PubMed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Syncope: Risk Stratification And Clinical... : Emergency Medicine Practice
+URL: https://www.ovid.com/journals/empgu/pdf/01073741-201404000-00001~syncope-risk-stratification-and-clinical-decision-making
+Score: 0.8409005
+
+Texto:
+Title: Syncope: Risk Stratification And Clinical... : Emergency Medicine Practice
+# **Syncope: Risk Stratification And Clinical Decision Making**. ### **Abstract**. Syncope is a common occurrence in the emergency department, accounting for approximately 1% to 3% of presentations. Syncope is best defined as a brief loss of consciousness and postural tone followed by spontaneous and complete recovery. The spectrum of etiologies ranges from benign to life threatening, and a structured approach to evaluating these patients is key to providing care that is thorough, yet cost-effective. This issue reviews the most relevant evidence for managing and risk stratifying the syncope patient, beginning with a focused history, physical examination, electrocardiogram, and tailored diagnostic testing. Several risk stratification decision rules are compared for performance in various scenarios, including how age and associated comorbidities may predict short-term and long-term adverse events. An algorithm for structured, evidence-based care of the syncope patient is included to ensure that patients requiring hospitalization are managed appropriately and those with benign causes are discharged safely. ## Related Articles. California Consumer Privacy Act (CCPA) Opt-Out Icon.
+
+--- FUENTE WEB ---
+Título: Syncope: Risk Stratification And Clinical... : Emergency Medicine Practice
+URL: https://www.ovid.com/01073741-201404000-00001
+Score: 0.8047902
+
+Texto:
+Title: Syncope: Risk Stratification And Clinical... : Emergency Medicine Practice
+# **Syncope: Risk Stratification And Clinical Decision Making**. Emergency Medicine Practice 16(4):p 1-22, April 2014. # **Abstract**. Syncope is a common occurrence in the emergency department, accounting for approximately 1% to 3% of presentations. Syncope is best defined as a brief loss of consciousness and postural tone followed by spontaneous and complete recovery. The spectrum of etiologies ranges from benign to life threatening, and a structured approach to evaluating these patients is key to providing care that is thorough, yet cost-effective. This issue reviews the most relevant evidence for managing and risk stratifying the syncope patient, beginning with a focused history, physical examination, electrocardiogram, and tailored diagnostic testing. Several risk stratification decision rules are compared for performance in various scenarios, including how age and associated comorbidities may predict short-term and long-term adverse events. An algorithm for structured, evidence-based care of the syncope patient is included to ensure that patients requiring hospitalization are managed appropriately and those with benign causes are discharged safely. ## Related Articles.
+
+--- FUENTE WEB ---
+Título: Risk-stratification tools for emergency department patients with syncope: A systematic review and meta-analysis of direct evidence for SAEM GRACE - PubMed
+URL: https://www.uptodate.com/contents/approach-to-the-adult-patient-with-syncope-in-the-emergency-department/abstract-text/39496561/pubmed
+Score: 0.8003337
+
+Texto:
+Go to My NCBI account settings to confirm your email and then refresh this page. # Risk-stratification tools for emergency department patients with syncope: A systematic review and meta-analysis of direct evidence for SAEM GRACE. * 1 Department of Emergency Medicine, Beaumont Hospital, Dublin, Ireland. * 3 Department of Emergency Medicine, Kings County Hospital Center, Brooklyn, New York, USA. * 5 Department of Emergency Medicine, Los Angeles General Medical Center, Los Angeles, California, USA. * 7 Department of Emergency Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA. # Risk-stratification tools for emergency department patients with syncope: A systematic review and meta-analysis of direct evidence for SAEM GRACE. * 1 Department of Emergency Medicine, Beaumont Hospital, Dublin, Ireland. * 3 Department of Emergency Medicine, Kings County Hospital Center, Brooklyn, New York, USA. * 5 Department of Emergency Medicine, Los Angeles General Medical Center, Los Angeles, California, USA. * 7 Department of Emergency Medicine, The Ohio State University Wexner Medical Center, Columbus, Ohio, USA. **Objectives:** Approximately 10% of patients with syncope have serious or life-threatening causes that may not be apparent during the initial emergency department (ED) assessment. Consequently, researchers have developed clinical decision rules (CDRs) to predict adverse outcomes and risk stratify ED syncope patients. This systematic review and meta-analysis (SRMA) aims to cohere and synthesize the best current evidence regarding the methodological quality and predictive accuracy of CDRs for developing an evidence-based ED syncope management guideline. **Methods:** We conducted a systematic literature search according to the patient-intervention-control-outcome question: In patients 16 years of age or older who present to the ED with syncope for whom no underlying serious/life-threatening condition was found during the index ED visit (population), are risk stratification tools (intervention), better than unstructured clinical judgment (i.e., usual care; comparison), for providing accurate prognosis and aiding disposition decision for outcomes within 30 days (outcome)? **Conclusions:** Most CDRs for ED adult syncope management have low-quality evidence for routine clinical practice use. **Keywords:** clinical decision rule; emergency department; syncope. The authors declare no conflicts of interest. Emergency department management of syncope: need for standardization and improved risk stratification. Intern Emerg Med. 2015;10(5):619‐627. Ann Emerg Med. 1984;13(7):499‐504.
+
+--- FUENTE WEB ---
+Título: Risk‐stratification tools for emergency department patients with syncope: A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11726151
+Score: 0.78194773
+
+Texto:
+# Risk‐stratification tools for emergency department patients with syncope: A systematic review and meta‐analysis of direct evidence for SAEM GRACE
+
+Abel Wakai, Richard Sinert, Shahriar Zehtabchi, Ian S. de Souza, Roshanak Benabbas, Robert Allen, Eric Dunne, Rebekah Richards, Amelie Ardilouze, Isidora Rovic
+
+Academic Emergency Medicine · 2024-11-04 · 32(1):72-86 · DOI: 10.1111/acem.15041 · PMID: 39496561 · PMCID: PMC11726151
+
+## Abstract
+
+### Objectives
+
+Approximately 10% of patients with syncope have serious or life‐threatening causes that may not be apparent during the initial emergency department (ED) assessment. Consequently, researchers have developed clinical decision rules (CDRs) to predict adverse outcomes and risk stratify ED syncope patients. This systematic review and meta‐analysis (SRMA) aims to cohere and synthesize the best current evidence regarding the methodological quality and predictive accuracy of CDRs for developing an evidence‐based ED syncope management guideline.
+
+### Methods
+
+We conducted a systematic literature search according to the patient–intervention–control–outcome question: In patients 16 years of age or older who present to the ED with syncope for whom no underlying serious/life‐threatening condition was found during the index ED visit (population), are risk stratification tools (intervention), better than unstructured clinical judgment (i.e., usual care; comparison), for providing accurate prognosis and aiding disposition decision for outcomes within 30 days (outcome)? Two reviewers independently assessed articles for inclusion and methodological quality. We performed statistical analysis using Meta‐DiSc. We used GRADEPro GDT software to determine the certainty of the evidence and create a summary of the findings (SoF) tables.
+
+### Results
+
+Of 2047 publications obtained through the search strategy, 31 comprising 13 CDRs met the inclusion criteria. There were 13 derivation studies (17,578 participants) and 24 validation studies (14,845 participants). Only three CDRs were validated in more than two studies. The San Francisco Syncope Rule (SFSR) was validated in 12 studies: positive likelihood ratio (LR+) 1.15–4.70 and negative likelihood ratio (LR−) 0.03–0.64. The Canadian Syncope Risk Score (CSRS) was validated in five studies: LR+ 1.15–2.58 and LR− 0.05–0.50. The Osservatorio Epidemiologico sulla Sincope nel Lazio (OESIL) risk score was validated in five studies: LR+ 1.16–3.32 and LR− 0.14–0.46.
+
+### Conclusions
+
+Most CDRs for ED adult syncope management have low‐quality evidence for routine clinical practice use. Only three CDRs (SFSR, CSRS, OESIL) are validated by more than two studies, with significant overlap in operating characteristics.
+
+## Keywords
+
+clinical decision rule, emergency department, syncope
+
+## INTRODUCTION
+
+Syncope accounts for about 1% of all emergency department (ED) visits. 1 , 2 , 3 , 4 , 5 While the etiology is often benign, approximately 10% of patients have serious or life‐threatening causes that may not be apparent during the initial ED assessment. 6 , 7 , 8 , 9 , 10 , 11 , 12 Identifying ED syncope patients with serious or life‐threatening causes and requiring further diagnostic evaluation and monitoring has been a significant challenge for emergency physicians. Frequently, expensive, unnecessary, and potentially harmful investigations are undertaken for fear of missing life‐threatening or otherwise serious underlying causes, particularly cardiogenic causes. Such overtesting often leads to prolonged hospitalization 13 , 14 , 15 , 16 , 17 and excessive resource utilization. 18
+
+Investigators have developed clinical decision rules (CDRs) to try and predict adverse outcomes and risk stratify ED syncope patients to minimize unnecessary resource utilization. 19 CDRs are tools designed to assist clinicians in making decisions at the bedside. They are derived from original research and incorporate important predictors of outcome from history, physical examination, and basic diagnostic tests. 20
+
+The first‐ever systematic review and meta‐analysis (SRMA) to evaluate the methodological quality and prognostic accuracy of CDRs for ED patients with syncope reported limitations at outcome and study levels. 19 A key limitation of the SR at the outcome level was the diversity of clinical and methodological aspects across studies. 19 The SR study‐level limitations included the absence of an appropriate syncope reference test or criterion standard and differing syncope definitions across studies. 19
+
+In the context of the Society for Academic Emergency Medicine (SAEM)'s Guidelines for Reasonable and Appropriate Care in the Emergency Department (GRACE) initiative, 21 because syncope is a relatively common ED presentation with life‐threatening causes that may not be apparent in the ED, the current SR evaluates the direct evidence on the efficacy of CDRs to risk stratify ED syncope patients and predict adverse outcomes. Specifically, this SRMA aims to address the following question: in patients 16 years of age or older who present in the ED with syncope for whom no underlying serious or life‐threatening condition is found during the index ED visit, are risk stratification tools better than unstructured clinical judgment for providing accurate prognosis and aiding disposition decision for outcomes within 30 days?
+
+## METHODS
+
+Reporting of this SR is consistent with recommendations from the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses as applicable to diagnostic accuracy reviews. 22 , 23 We developed a protocol for the SR with input from methodologists with expertise in systematic reviews (A.W., R.S.) and a content expert (V.T.). We registered the protocol in PROSPERO, an international prospective registry of systematic reviews (registration ID: CRD42023428455).
+
+### Population–intervention–comparator–outcome (PICO) question
+
+The proposed PICO question is as follows: In patients 16 years of age or older who present to the ED 
+
+--- FUENTE WEB ---
+Título: Risk-stratification tools for emergency department patients with syncope: A systematic review and meta-analysis of direct evidence for SAEM GRACE.
+URL: https://pubmed.ncbi.nlm.nih.gov/39496561
+Score: 0.74273956
+
+Texto:
+# Risk-stratification tools for emergency department patients with syncope: A systematic review and meta-analysis of direct evidence for SAEM GRACE.
+
+Abel Wakai, Richard Sinert, Shahriar Zehtabchi, Ian S de Souza, Roshanak Benabbas, Robert Allen, Eric Dunne, Rebekah Richards, Amelie Ardilouze, Isidora Rovic
+
+Academic emergency medicine : official journal of the Society for Academic Emergency Medicine · 2024-11-04 · 32(1):72-86 · DOI: 10.1111/acem.15041 · PMID: 39496561 · PMCID: PMC11726151
+
+Publication type: Journal Article, Systematic Review, Meta-Analysis, Research Support, Non-U.S. Gov't
+
+## Objectives
+
+Approximately 10% of patients with syncope have serious or life-threatening causes that may not be apparent during the initial emergency department (ED) assessment. Consequently, researchers have developed clinical decision rules (CDRs) to predict adverse outcomes and risk stratify ED syncope patients. This systematic review and meta-analysis (SRMA) aims to cohere and synthesize the best current evidence regarding the methodological quality and predictive accuracy of CDRs for developing an evidence-based ED syncope management guideline.
+
+## Methods
+
+We conducted a systematic literature search according to the patient-intervention-control-outcome question: In patients 16 years of age or older who present to the ED with syncope for whom no underlying serious/life-threatening condition was found during the index ED visit (population), are risk stratification tools (intervention), better than unstructured clinical judgment (i.e., usual care; comparison), for providing accurate prognosis and aiding disposition decision for outcomes within 30 days (outcome)? Two reviewers independently assessed articles for inclusion and methodological quality. We performed statistical analysis using Meta-DiSc. We used GRADEPro GDT software to determine the certainty of the evidence and create a summary of the findings (SoF) tables.
+
+## Results
+
+Of 2047 publications obtained through the search strategy, 31 comprising 13 CDRs met the inclusion criteria. There were 13 derivation studies (17,578 participants) and 24 validation studies (14,845 participants). Only three CDRs were validated in more than two studies. The San Francisco Syncope Rule (SFSR) was validated in 12 studies: positive likelihood ratio (LR+) 1.15-4.70 and negative likelihood ratio (LR-) 0.03-0.64. The Canadian Syncope Risk Score (CSRS) was validated in five studies: LR+ 1.15-2.58 and LR- 0.05-0.50. The Osservatorio Epidemiologico sulla Sincope nel Lazio (OESIL) risk score was validated in five studies: LR+ 1.16-3.32 and LR- 0.14-0.46.
+
+## Conclusions
+
+Most CDRs for ED adult syncope management have low-quality evidence for routine clinical practice use. Only three CDRs (SFSR, CSRS, OESIL) are validated by more than two studies, with significant overlap in operating characteristics.
+
+## Keywords
+
+clinical decision rule, emergency department, syncope
+
+## MeSH Terms
+- Humans
+- Syncope / diagnosis, therapy*
+- Emergency Service, Hospital*
+- Risk Assessment / methods
+- Clinical Decision Rules*
+- Male
+
+--- FUENTE WEB ---
+Título: Canadian Syncope Risk Score: A Validated Risk Stratification Tool | AFP
+URL: https://www.aafp.org/afp/2021/0315/p375
+Score: 0.68420124
+
+Texto:
+![American Family Physician logo.](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1779209772/american_family_physician_navigation_desktop.svg)
+![AAFP logo](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1753724394/aafp_logo_tri029.png)
+
+Sign in to the website to make the most of your experience. When you log in, you can:
+
+Having a free website account offers several benefits:
+
+AAFP informs and advocates for family physicians throughout their careers. Join for access to:
+
+# Canadian Syncope Risk Score: A Validated Risk Stratification Tool
+
+American Family Physician. 2021;103(6):375-376.
+
+Author disclosure: No relevant financial affiliations.
+
+## Clinical Question
+
+Which adults presenting to the emergency department with syncope should be admitted?
+
+## Evidence Summary
+
+Syncope accounts for almost 1% of all emergency department visits.[1](#afp20210315p375-b1) Although only approximately 10% of patients presenting with syncope have a serious underlying cardiac condition, nearly one-third are admitted to the hospital.[1](#afp20210315p375-b1) Several clinical prediction rules have been developed to help physicians identify patients with syncope who are at higher risk of adverse outcomes and those for whom discharge without hospitalization may be reasonable.
+
+The San Francisco Syncope Rule was originally derived from a cohort of 684 patients and consists of five risk factors: abnormal findings on an electrocardiogram, hematocrit less than 30%, history of congestive heart failure, reported shortness of breath, and systolic blood pressure less than 90 mm Hg. If any of these risk factors are present, the patient is considered at high risk of a serious outcome. A meta-analysis of 12 validation studies with 5,316 patients found that for predicting serious outcomes in those classified as high risk, the San Francisco Syncope Rule has a sensitivity of 87% (95% CI, 79% to 93%), specificity of 52% (95% CI, 43% to 62%), positive likelihood ratio of 1.8 (95% CI, 1.7 to 1.9), and negative likelihood ratio of 0.25 (95% CI, 0.20 to 0.31).[2](#afp20210315p375-b2)
+
+The ROSE (risk stratification of syncope in the emergency department) rule was derived from a cohort of 529 patients and prospectively validated in a cohort of 550 patients. It consists of six risk factors: brain natriuretic peptide of 300 pg per mL (300 ng per L) or greater, hemoglobin level of 9 g per dL (90 g per L) or less, bradycardia, chest pain, abnormal electrocardiogram finding (bradycardia of 50 beats per minute or less or Q wave present in a lead other than lead III), oxygen saturation of 94% or less, and the presence of fecal occult blood. Admission is recommended if any of these risk factors are present. The ROSE rule has a sensitivity of 87% (95% CI, 73% to 96%), specificity of 66% (95% CI, 61% to 70%), positive likelihood ratio of 2.5 (95% CI, 2.1 to 3.0), and a negative likelihood ratio of 0.20 (95% CI, 0.09 to 0.45).[3](#afp20210315p375-b3)
+
+The Canadian Syncope Risk Score *([Table 1](#afp20210315p375-t1)*[4](#afp20210315p375-b4),[5](#afp20210315p375-b5) *)* was initially derived from a prospective multi-center study involving six large Canadian academic emergency departments and 4,030 adult patients.[4](#afp20210315p375-b4) Patients were excluded if they had immediate postsyncopal complications (prolonged loss of consciousness, altered mental status, seizure, or major trauma), a language barrier affecting the ability to obtain a detailed history, or a serious outcome identified during the initial emergency department visit. Patients were followed for 30 days to assess for serious outcomes. The Canadian Syncope Risk Score includes patient history, electrocardiogram findings, clinical impression, and troponin testing. The probability of a serious outcome was estimated at less than 1% in the low-risk and very low-risk groups and more than 12% in the high-risk and very high-risk groups.[4](#afp20210315p375-b4)
+
+### TABLE 1. Canadian Syncope Risk Score for Estimating Risk of Serious Outcomes Within 30 Days
+
+![](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773019906/Journals/Automation/AFP/2021/0315/p375-t1-gif.gif)
+
+| **Category** | | **Points** |
+| --- | --- | --- |
+| **Clinical evaluation** | |  |
+| Predisposition to vasovagal symptoms | | −1 |
+| History of heart disease | | 1 |
+| Any systolic blood pressure measurements < 90 mm Hg or > 180 mm Hg | | 2 |
+| **Investigations** | |  |
+| Elevated troponin level (> 99th percentile of the normal population) | | 2 |
+| Abnormal QRS axis (< −30 degrees or > 100 degrees) | | 1 |
+| QRS duration > 130 ms | | 1 |
+| Corrected QT interval > 480 ms | | 2 |
+| **Diagnosis in emergency department** | |  |
+| Vasovagal syncope | | −2 |
+| Cardiac syncope | | 2 |
+| **Total:** | |  |
+| **Risk level** | **Total score** | **Serious outcomes****[5](#afp20210315p375-b5)** |
+| --- | | |
+| Very low | ≤ −2 | 0.2% |
+| Low | −1 to 0 | 0.7% |
+| Medium | 1 to 3 | 8% |
+| High | 4 to 5 | 19% |
+| Very high | 6 | 51% |
+
+**Note:** Serious outcomes include death, cardiac arrhythmia, structural heart disease, other cardiac event, pulmonary embolism, and gastrointestinal bleeding or other hemorrhage.
+
+*Adapted with permission from Thiruganasambandamoorthy V, Kwong K, Wells GA, et al. Development of the Canadian Syncope Risk Score to predict serious adverse events after emergency department assessment of syncope*. CMAJ. *2016;188(12):e296, with additional information from reference [5](#afp20210315p375-b5)*.
+
+The Canadian Syncope Risk Score was externally validated in a prospective cohort of 3,819 adults at nine Canadian emergency departments from 2014 to 2018. The area under the curve for the model was 0.91 (95% CI, 0.88 to 0.93), indicating high predictive ability.[5](#afp20210315p375-b5) The prevalence of serious outcomes within 30 days was 3.6% (95% CI, 3.1% to 4.3%). Only 0.2% of patients at very low risk and 0.7% of patients at low risk had a serious outcome, compared with 51% of patients at very high risk.
+
+--- FUENTE WEB ---
+Título: Two scores for risk stratification of adults presenting with syncope may be effective at identifying those with low risk | 2 Minute Medicine
+URL: https://www.2minutemedicine.com/two-scores-for-risk-stratification-of-adults-presenting-with-syncope-may-be-effective-at-identifying-those-with-low-risk
+Score: 0.6739866
+
+Texto:
+* [About](https://www.2minutemedicine.com/about)
+* [Masthead](https://www.2minutemedicine.com/the-team/)
+* [License Content](https://www.2minutemedicine.com/license-content/)
+* [Advertise](https://www.2minutemedicine.com/advertise-us/)
+* [Submit Press Release](https://www.2minutemedicine.com/submit-a-press-release/)
+* [RSS/Email List](https://www.2minutemedicine.com/rss-feed-list/)
+* [2MM Podcast](https://www.2minutemedicine.com/category/2mmpodcast/)
+* [Write for us](https://www.2minutemedicine.com/join-the-team/)
+* [Contact Us](https://www.2minutemedicine.com/contact-us-2/)
+
+[![2 Minute Medicine](https://www.2minutemedicine.com/wp-content/uploads/2023/11/newAsset-3@0.2x.webp)](https://www.2minutemedicine.com/)
+
+No Result
+
+View All Result
+
+No products in the cart.
+
+* [About](https://www.2minutemedicine.com/about/)
+* [Specialties](https://www.2minutemedicine.com/category/all/)
+  + [All Specialties, All Recent Reports](https://www.2minutemedicine.com/category/all/)
+  + [Cardiology](https://www.2minutemedicine.com/category/all/cardiology/)
+  + [Chronic Disease](https://www.2minutemedicine.com/category/all/chronic-disease/)
+  + [Dermatology](https://www.2minutemedicine.com/category/all/dermatology-2/)
+  + [Emergency](https://www.2minutemedicine.com/category/all/emergency-2/)
+  + [Endocrinology](https://www.2minutemedicine.com/category/all/endocrinology-2/)
+  + [Gastroenterology](https://www.2minutemedicine.com/category/all/gastroenterology/)
+  + [Imaging and Intervention](https://www.2minutemedicine.com/category/all/radiologyimaging/)
+  + [Infectious Disease](https://www.2minutemedicine.com/category/all/infectious-disease/)
+  + [Nephrology](https://www.2minutemedicine.com/category/all/nephrology/)
+  + [Neurology](https://www.2minutemedicine.com/category/all/neurology/)
+  + [Obstetrics](https://www.2minutemedicine.com/category/all/obstetrics/)
+  + [Oncology](https://www.2minutemedicine.com/category/all/cancer/)
+  + [Ophthalmology](https://www.2minutemedicine.com/category/all/ophthalmology/)
+  + [Pediatrics](https://www.2minutemedicine.com/category/all/pediatrics/)
+  + [Pharma](https://www.2minutemedicine.com/category/all/pharma/)
+  + [Preclinical](https://www.2minutemedicine.com/category/all/preclinical-studies/)
+  + [Psychiatry](https://www.2minutemedicine.com/category/all/psychiatry/)
+  + [Public Health](https://www.2minutemedicine.com/category/all/public-health/)
+  + [Pulmonology](https://www.2minutemedicine.com/category/all/pulmonology/)
+  + [Rheumatology](https://www.2minutemedicine.com/category/all/rheumatology/)
+  + [Surgery](https://www.2minutemedicine.com/category/all/surgery/)
+* [Tools+](https://www.2minutemedicine.com/medical-tools/)
+  + [EvidencePulse™](https://www.2minutemedicine.com/2-minute-medicines-ai-evidencepulse/)
+  + [HypeCheck™](https://www.2minutemedicine.com/fact-check-health-news-with-the-2-minute-medicines-hypecheck/)
+  + [NPI Registry Lookup](https://www.2minutemedicine.com/npi-lookup-by-2-minute-medicine/)
+  + [RVU Search](https://www.2minutemedicine.com/physician-fee-schedule-rvu-lookup/)
+* [Pharma](https://www.2minutemedicine.com/category/all/pharma/)
+* [AI Roundup](https://www.2minutemedicine.com/category/ai-roundup/)
+* [The Scan+](https://www.2minutemedicine.com/category/the-scan-by-2-minute-medicine/)
+* [Classics™+](https://www.2minutemedicine.com/the-classics-series)
+  + [2MM+ Online Access](https://www.2minutemedicine.com/the-classics-directory/)
+  + [Paperback and Ebook](https://www.2minutemedicine.com/the-classics-series/)
+* [Rewinds](https://www.2minutemedicine.com/category/rewinds-2/)
+* [Partners](#)
+  + [License Content](https://www.2minutemedicine.com/license-content/)
+  + [Submit Press Release](https://www.2minutemedicine.com/submit-a-press-release/)
+  + [Advertise with Us](https://www.2minutemedicine.com/advertise-us/)
+* [Account](https://www.2minutemedicine.com/log-inlp/)
+  + [Subscribe](https://www.2minutemedicine.com/?page_id=28191)
+  + [My account](https://www.2minutemedicine.com/my-account-2/)
+  + [Cart](https://www.2minutemedicine.com/cart/)
+  + [Sign in](https://www.2minutemedicine.com/my-account-2/)
+
+[![2 Minute Medicine](https://www.2minutemedicine.com/wp-content/uploads/2023/11/newAsset-3@0.2x.webp)](https://www.2minutemedicine.com/)
+
+* [About](https://www.2minutemedicine.com/about/)
+* [Specialties](https://www.2minutemedicine.com/category/all/)
+  + [All Specialties, All Recent Reports](https://www.2minutemedicine.com/category/all/)
+  + [Cardiology](https://www.2minutemedicine.com/category/all/cardiology/)
+  + [Chronic Disease](https://www.2minutemedicine.com/category/all/chronic-disease/)
+  + [Dermatology](https://www.2minutemedicine.com/category/all/dermatology-2/)
+  + [Emergency](https://www.2minutemedicine.com/category/all/emergency-2/)
+  + [Endocrinology](https://www.2minutemedicine.com/category/all/endocrinology-2/)
+  + [Gastroenterology](https://www.2minutemedicine.com/category/all/gastroenterology/)
+  + [Imaging and Intervention](https://www.2minutemedicine.com/category/all/radiologyimaging/)
+  + [Infectious Disease](https://www.2minutemedicine.com/category/all/infectious-disease/)
+  + [Nephrology](https://www.2minutemedicine.com/category/all/nephrology/)
+  + [Neurology](https://www.2minutemedicine.com/category/all/neurology/)
+  + [Obstetrics](https://www.2minutemedicine.com/category/all/obstetrics/)
+  + [Oncology](https://www.2minutemedicine.com/category/all/cancer/)
+  + [Ophthalmology](https://www.2minutemedicine.com/category/all/ophthalmology/)
+  + [Pediatrics](https://www.2minutemedicine.com/category/all/pediatrics/)
+  + [Pharma](https://www.2minutemedicine.com/category/all/pharma/)
+  + [Preclinical](https://www.2minutemedicine.com/category/all/preclinical-studies/)
+  + [Psychiatry](https://www.2minutemedicine.com/category/all/psychiatry/)
+  + [Public Health](https://www.2minutemedicine.com/category/all/public-health/)
+  + [Pulmonology](https://www.2minutemedicine.com/category/all/pulmonology/)
+  + [Rheumatology](https://www.2mi
+
+--- FUENTE WEB ---
+Título: Syncope in the ED: Distinguishing the Life-Threatening From the Benign
+URL: https://www.ebmedicine.net/topics/cardiovascular/syncope
+Score: 0.6708892
+
+Texto:
+-
+
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![Click to search](/template_images/_ebm_icon_search.png)](#_ebm_global_topBar_searchMin)
+
+[![navigation bar background](/template_images/_icon_bars_trans.png)](#)
+
+[Browse Topics](/topics) [Earn CME Credits](/cme) [FOAMed](https://foamed.ebmedicine.net/) [Pathways](/pathways) [About](/About) [Contact](/contact.php)
+[Log In](/login.php)
+
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![](/template_images/_icon_grid_trans.png) **Store**](#) 
+
+[Emergency Medicine Practice](/EMPinfo) [Pediatric Emergency Medicine Practice](/PEMPinfo) [Evidence-Based Urgent Care](/urgent-care-CME) [Savings & Upgrades](/subscribe) [Courses](/store/Courses-and-LLSAs) [LLSA Study Guides](/LLSA) [Stroke CME](/store/stroke) [Trauma CME](/store/trauma) [State-Required CME](/CME-Requirements ) [View All Products](/store)
+
+[![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png) 678-366-7933](tel:1-678-366-7933)[![Click to check your cart](/template_images/_ebm_cart_icon.png)0](/store.php?paction=viewCart)[**Log In**](/login.php) [**Subscribe**](/subscribe)
+
+* [Browse Topics](/topics)
+* [Earn CME Credits](#)
+
+  [Stroke](/cme/stroke) [Cardiac](/cme/cardiovascular) [Trauma](/cme/trauma) [Pediatric Trauma](/cme.php?paction=setFilterOpts&sortBy=publication_date+DESC&resultsPerPg=25&available_to=all_cme&products%5B%5D=pemp&categories%5B%5D=Trauma) [Urgent Care](/CME/evidence-based-urgent-care) [All CME Tests](/cme)
+* [FOAMed](https://foamed.ebmedicine.net/)
+* [Pathways](/pathways)
+* [About](/About)
+* [Contact](/contact.php)
+
+* [**Resources For**](#)
+
+  [Emergency Clinicians](/emergency-clinicians) [Urgent Care Clinicians](/urgent-care-clinicians) [Emergency PAs & NPs](/apc) [Residents](/Residents) [Groups & Hospitals](/Groups)
+
+[Home](/) > [All Topics](/topics) > Emergency Department Management of Syncope
+
+![](/publicationImages/EMP-Heading.png "Emergency Medicine Practice")
+
+# Emergency Department Management of Syncope
+
+![](/productImages/EMP-21-06_800x200.jpg)
+
+|  |
+| --- |
+|  |
+
+[**Log in**](/login.php)
+
+[**Subscribe**](/subscribe)
+
+[**Free Sample**](javascript:void(0);)
+
+![](/template_images/New-TOC-desktop-icon.png)![](/template_images/New-TOC-mobile-icon.png)
+
+Table of Contents![](/template_images/icon-close.png)
+
+### About This Issue
+
+## Transient loss of consciousness from syncope is a very common presentation in the ED, and it often has a benign etiology. Although one-third of these patients are admitted to the hospital, the majority of them will be discharged with a symptomatic diagnosis of “syncope and collapse.” A structured approach to the history, ECG assessment, risk assessment, and appropriate testing will help identify patients with life-threatening processes that do require admission. This issue will review:
+
+## The physiologic basis for the 3 classifications: neurally mediated (reflex) syncope, orthostatic hypotension-caused syncope, and cardiac syncope
+
+## The most common life-threatening conditions that can present with syncope
+
+## The most helpful features to look for when differentiating seizure from syncope
+
+## Syncope mimics: neurologic, psychiatric, metabolic, and toxicologic
+
+## Identifying the highest risk historical features to guide disposition
+
+## Seven of the most commonly used clinical decision tools: how do they compare, how do they differ, and are any of them useful?
+
+## The particular concerns with elderly patients who present with syncope: falls, comorbid conditions, and underlying and undiagnosed conditions.
+
+## The tests that all patients need to have and the tests that should be ordered only when there are specific concerns.
+
+Table of Contents
+
+1. [Abstract](#Abstract)
+2. [Case Presentations](#Case-Presentations)
+3. Introduction
+4. Critical Appraisal of the Literature
+5. Etiology and Pathophysiology
+   1. Neurally Mediated Syncope
+   2. Orthostatic Hypotension-Mediated Syncope
+   3. Cardiac Syncope
+6. Differential Diagnosis
+   1. Seizure
+7. Prehospital Care
+8. Emergency Department Evaluation
+   1. History
+   2. Physical Examination
+9. Diagnostic Studies
+   1. Electrocardiogram
+   2. Laboratory Testing
+   3. Echocardiography
+   4. Imaging and Other Advanced Testing
+10. Treatment
+    1. Clinical Risk-Stratification Tools
+    2. Guidelines
+11. Special Populations
+    1. Pediatric Patients
+    2. Elderly Patients
+12. Controversies
+    1. Admission of Elderly Patients
+    2. Orthostatic Vital Signs
+13. Disposition
+    1. High-Risk Patients
+    2. Intermediate-Risk Patients
+    3. Low-Risk Patients
+14. Summary
+15. Time- and Cost-Effective Strategies
+16. Acknowledgement
+17. Risk Management Pitfalls For Management of Syncope in the Emergency Department
+18. Case Conclusions
+19. [Clinical Pathway for Emergency Department Evaluation of Patients Presenting With Transient Loss of Consciousness](#Clinical-Pathway)
+20. [Tables and Figures](#Tables-and-Figures)
+    1. [Table 1. Classifications of Syncope, by Cause](#Table-Thumbnails)
+    2. [Table 2. Clinical Characteristics of Immediately Life-Threatening Conditions That May Present With Syncope](#Table-Thumbnails)
+    3. [Table 3. Syncope Mimics](#Table-Thumbnails)
+    4. [Table 4. Historical Features Suggesting Etiology of Syncope](#Table-4)
+    5. [Table 5. Contraindications to Performing Carotid Sinus Massage](#Table-Thumbnails)
+    6. [Table 6. Electrocardiogram Findings Associated With Serious Cardiac Arrhythmias Within 30 Days](#More-Tables)
+    7. [Table 7. Low-Risk and High-Risk Features of Syncope, European Society of Cardiology](#More-Tables)
+    8. [Table 8. Clinical Decision Tools Used in Syncope Risk Stratification](#More-Tables)
+    9. [Figure 1. The Physiologic Basis of Syncope](#More-Tables)
+    10. [Figure 2. Type 1 Brugada Syndrome](#More-Tables)
+    11. [Figure 3. Epsilon Wave](#More-Tables)
+    12. [Figure 4. Electrocardiogram of Hypertrophic Cardiomyopathy](#More-Tables)
+21. [References](#References)
+
+
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
