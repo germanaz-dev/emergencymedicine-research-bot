@@ -1,0 +1,454 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: high sensitivity troponin in acute coronary syndrome
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Coronary heart disease in young women: risk factors, mechanistic phenotypes, and implications for primary care.
+Revista: Frontiers in cardiovascular medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42835658
+DOI: 10.12114/j.issn.1007-9572.2024.0621
+URL: https://pubmed.ncbi.nlm.nih.gov/42835658/
+
+Abstract:
+Coronary heart disease (CHD) in young women remains under-recognized because early risk signals are often dispersed across different clinical settings and symptoms are frequently interpreted as non-cardiac at first contact. This narrative review provides a clinically oriented synthesis that integrates conventional and female-specific cardiovascular risk factors with coronary phenotypes and practical primary-care screening, triage, referral, and longitudinal management. As a narrative review, this study employed a structured but non-systematic literature search of PubMed, CNKI, and the Chinese General Practice journal website for relevant publications available through May 2026, supplemented by manual screening of reference lists. Priority was given to recent cohort studies, systematic reviews, clinical guidelines, expert consensus statements, and representative mechanistic studies.The available literature suggests that hypertension, dysglycemia, smoking, dyslipidemia, family history, and psychosocial stress are not necessarily more severe in young women, but are more likely to be clinically underestimated. Their impact is often amplified when combined with hypertensive disorders of pregnancy, polycystic ovary syndrome, autoimmune disease, antiphospholipid syndrome, or persistent psychosocial burden. Beyond obstructive atherosclerosis, plaque erosion, coronary microvascular dysfunction, vasospasm, myocardial infarction with non-obstructive coronary arteries, and spontaneous coronary artery dissection deserve particular attention. Common primary-prevention risk scores are heavily weighted by age and generally do not fully incorporate female-specific risk-enhancing factors; they should not replace chest-pain risk stratification or mechanism-oriented evaluation in symptomatic patients.Primary care assessment should distinguish among asymptomatic individuals undergoing primary prevention, symptomatic patients presenting with chest pain, and patients with established premature CHD. In the first group, evaluation should focus on basic risk factors, including medical history, blood pressure, body mass index, lipid profile, and glycemic status. In symptomatic patients, electrocardiography and echocardiography should be selected according to the clinical context; high-sensitivity cardiac troponin should be measured when acute coronary syndrome (ACS) or acute myocardial injury is suspected, rather than used as a routine primary-care screening test. Referral for coronary computed tomography angiography or further functional/invasive assessment should be guided by clinical likelihood and the suspected mechanism. Patients with established disease require intensified secondary prevention and long-term follow-up. Recognition of CHD in young women should therefore move beyond the narrow question of visible stenosis and adopt an integrated framework that links conventional risk factors, female-specific exposures, coronary functional phenotypes, and continuity of care.
+
+--- PAPER PUBMED ---
+Título: Pregnancy-associated MINOCA: Diagnostic challenges and emergency management in young women.
+Revista: The American journal of emergency medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42784940
+DOI: 10.1016/j.ajem.2026.09.032
+URL: https://pubmed.ncbi.nlm.nih.gov/42784940/
+
+Abstract:
+Myocardial infarction with nonobstructive coronary arteries (MINOCA) is identified in approximately 5 to 10% of patients with myocardial infarction referred for coronary angiography, and it remains a working diagnosis rather than a final mechanistic one. The diagnostic challenge is greatest in young women during pregnancy and the early postpartum period. Pregnancy-related and pregnancy-amplified conditions are increasingly recognized contributors, yet direct MINOCA evidence is uneven. This review examines how hypertensive disorders of pregnancy (HDP), gestational diabetes mellitus (GDM), antiphospholipid syndrome (APS) and inherited thrombophilia, and spontaneous coronary artery dissection (SCAD) map onto distinct patterns of coronary and microvascular injury. The links between HDP or GDM and MINOCA are supported mainly by mechanistic and microvascular studies outside dedicated MINOCA cohorts. APS, by contrast, is supported by direct although limited MINOCA-specific data, and pregnancy-associated SCAD is better characterized as a cause of myocardial infarction, although only cases with less than 50% angiographic stenosis meet MINOCA criteria. Serial high-sensitivity cardiac troponin and standard acute coronary syndrome assessment remain the diagnostic foundation. Cardiac magnetic resonance, selective intracoronary imaging, and targeted antiphospholipid testing can refine mechanism assignment after stabilization. The ratio of soluble fms-like tyrosine kinase-1 to placental growth factor is established for the evaluation of suspected preeclampsia, but its relevance to coronary microvascular injury in MINOCA remains uncertain. Inherited thrombophilia testing should be individualized rather than applied routinely. The assigned mechanism should then guide antithrombotic treatment, revascularization decisions, and follow-up. Prospective phenotype-defined studies are needed before routine biomarker-driven strategies can be recommended.
+
+--- PAPER PUBMED ---
+Título: Artificial Intelligence in Echocardiography for Acute Coronary Syndromes: Current Evidence and Integration With Electrocardiography and Biomarkers.
+Revista: Echocardiography (Mount Kisco, N.Y.)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42670727
+DOI: 10.1111/echo.70610
+URL: https://pubmed.ncbi.nlm.nih.gov/42670727/
+
+Abstract:
+Early diagnosis of acute coronary syndromes (ACS) remains challenging because electrical, mechanical, and biochemical manifestations of myocardial ischemia evolve at different stages of the ischemic cascade. Although electrocardiography (ECG), cardiac biomarkers, and echocardiography are routinely used in clinical practice, these diagnostic modalities are commonly interpreted independently, potentially delaying recognition of myocardial ischemia. Recent advances in artificial intelligence (AI) offer new opportunities to improve diagnostic accuracy through multimodal integration, with echocardiography serving as the central imaging modality. AI-enhanced echocardiography, integrated with electrocardiographic findings, cardiac biomarkers, and clinical information, may improve the early diagnosis, risk stratification, and clinical management of patients with suspected ACS compared with conventional sequential diagnostic approaches. A comprehensive narrative review of contemporary literature was performed to evaluate current evidence regarding AI applications in echocardiography and their integration with ECG and cardiac biomarkers for the diagnosis of ACS. Published studies addressing automated image acquisition, chamber quantification, myocardial deformation analysis, regional wall-motion assessment, multimodal machine-learning models, explainable AI, and clinical implementation were critically reviewed and synthesized. AI has substantially expanded the capabilities of echocardiography by enabling automated image interpretation, quantitative assessment of ventricular function, myocardial strain analysis, and detection of regional wall-motion abnormalities with high reproducibility. When integrated with ECG, serial high-sensitivity cardiac troponin measurements, and clinical variables, multimodal AI systems demonstrate the potential to improve diagnostic accuracy, facilitate earlier identification of myocardial ischemia, reduce diagnostic uncertainty, and support individualized clinical decision-making. Nevertheless, widespread implementation requires prospective multicenter validation, standardized imaging protocols, explainable algorithms, regulatory oversight, and seamless integration into clinical workflows. AI-enhanced echocardiography represents a promising step toward precision cardiovascular imaging and may become the central imaging component of future multimodal diagnostic pathways for patients with suspected ACS. Integration of structural, functional, electrical, biochemical, and clinical information through AI-supported decision systems has the potential to improve diagnostic performance and optimize emergency cardiovascular care.
+
+--- PAPER PUBMED ---
+Título: Fifth Universal Definition of Myocardial Infarction (2026).
+Revista: Journal of the American College of Cardiology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42663357
+DOI: 10.1016/j.jacc.2026.07.025
+URL: https://pubmed.ncbi.nlm.nih.gov/42663357/
+
+Abstract:
+Abstract no disponible.
+
+--- PAPER PUBMED ---
+Título: Growth Differentiation Factor-15 in Acute Coronary Syndromes: Prognostic Value and Barriers to Clinical Implementation.
+Revista: International journal of molecular sciences
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42653098
+DOI: 10.1007/s11239-024-03019-5
+URL: https://pubmed.ncbi.nlm.nih.gov/42653098/
+
+Abstract:
+High-sensitivity cardiac troponin has made the diagnosis of myocardial infarction (MI) faster and more precise, but it does not measure the broader biological vulnerability that often determines the outcome after an acute coronary syndrome (ACS). Growth differentiation factor-15 (GDF-15) is induced by ischemic stress, inflammation, oxidative injury, renal dysfunction, metabolic disease, and ageing. This biology explains its appeal in ACS, but also its diagnostic limitation: GDF-15 is not cardiac-specific and should not be used as an alternative to electrocardiography and high-sensitivity troponin algorithms for early MI diagnosis. Its better supported role is prognostic. Across emergency department chest pain cohorts, non-ST elevation MI, ST elevation MI, post-ACS trial populations, and serial biomarker studies, higher GDF-15 concentrations are most consistently associated with all-cause mortality, cardiovascular mortality, heart failure, and major bleeding, while associations with recurrent ischemic events alone are less specific. The key unresolved issue is incremental clinical value. GDF-15 may improve discrimination and reclassification beyond clinical predictors, troponin, natriuretic peptides, renal function and GRACE or GRACE 2.0 in selected settings, but statistical association is not equivalent to clinical utility. Its possible role in bleeding risk estimation and antithrombotic benefit-risk assessment is clinically important, especially after the PLATO biomarker analyses, yet routine GDF-15-guided dual antiplatelet therapy decisions remain unsupported. Future implementation requires validated thresholds, calibration, decision curve evidence, health economic evaluation, and trials in which GDF-15-guided management changes care and improves outcomes.
+
+--- PAPER PUBMED ---
+Título: Contemporary Management of Acute Coronary Syndromes in the Cardiac Intensive Care Unit: From Rapid Diagnosis to Early Secondary Prevention.
+Revista: Journal of cardiovascular development and disease
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42645864
+DOI: 10.1038/s41591-022-01686-6
+URL: https://pubmed.ncbi.nlm.nih.gov/42645864/
+
+Abstract:
+Management of acute coronary syndromes (ACS) in the cardiac intensive care unit (CICU) requires rapid diagnosis, timely reperfusion or invasive assessment, appropriate antithrombotic therapy, and early recognition of haemodynamic, electrical, and mechanical complications. This narrative review examines contemporary evidence across ST-segment elevation and non-ST-segment elevation presentations, with emphasis on decisions during hospitalisation and early secondary prevention. High-sensitivity cardiac troponin algorithms support accelerated assessment of suspected non-ST-segment elevation ACS, whereas next-generation assays require further implementation validation. Twelve-month dual antiplatelet therapy remains the default after ACS in patients without high bleeding risk; abbreviated regimens, de-escalation, cangrelor, and combined antiplatelet-anticoagulant treatment are selective strategies. Contemporary care also includes risk-based invasive timing, complete revascularisation in suitable haemodynamically stable patients, culprit-lesion-only initial PCI in cardiogenic shock, and individualised management of frailty and renal impairment. High-intensity statin therapy, with early ezetimibe when needed, is guideline-supported. Early PCSK9 inhibition and low-dose colchicine are selective strategies, whereas SGLT2 inhibitors and GLP-1RAs are established for specific comorbid indications. hs-cTnT Gen 6 and AI-assisted tools remain evidence-evolving, while multiomics and targeted anti-inflammatory therapies remain investigational. Clear separation of guideline-supported, selective, evidence-evolving, and investigational approaches is essential for clinically appropriate ACS care.
+
+--- PAPER PUBMED ---
+Título: Clinical characteristics and diagnostic challenges of non-ST-segment elevation acute coronary syndrome patients with normal electrocardiograms: a review.
+Revista: Frontiers in cardiovascular medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42626118
+DOI: 10.1177/2048872620929148
+URL: https://pubmed.ncbi.nlm.nih.gov/42626118/
+
+Abstract:
+Non-ST-segment elevation acute coronary syndrome (NSTE-ACS) represents a major subtype of acute coronary syndrome (ACS). A clinically relevant but often overlooked subgroup of patients presents with typical ischemic symptoms despite a normal initial 12-lead electrocardiogram (ECG), creating real diagnostic difficulty. This narrative review synthesizes current evidence across several domains: epidemiology, pathophysiology, clinical presentation, diagnostic evaluation, and management of NSTE-ACS patients with normal ECGs. A structured literature search of PubMed, Web of Science, and the China National Knowledge Infrastructure (CNKI) databases, with emphasis on prospective cohort studies, registries, systematic reviews, meta-analyses, and current European Society of Cardiology (ESC) and American College of Cardiology/American Heart Association (ACC/AHA) guideline recommendations. Depending on the definition of "normal ECG" and study population, approximately 1%-8% of confirmed NSTE-ACS patients present with a normal initial ECG. These patients frequently exhibit single-vessel disease, non-obstructive coronary artery disease, or alternative mechanisms such as coronary vasospasm and microvascular dysfunction. High-sensitivity cardiac troponin (hs-cTn) assays using rapid 0/1-h or 0/2-h algorithms constitute the diagnostic cornerstone, while coronary computed tomography angiography (CCTA) provides valuable anatomical assessment, particularly in low-to-intermediate-risk patients. This review presents an integrated diagnostic algorithm, critically evaluates the complementary roles of multimodality imaging techniques, and discusses future directions including artificial intelligence-assisted ECG interpretation and wearable monitoring technologies.
+
+--- PAPER PUBMED ---
+Título: Cardiac Troponin Elevation Beyond Type 1 Myocardial Infarction: A Systematic Review of Prognostic Significance and Cardiovascular Risk Stratification.
+Revista: Cureus
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42620386
+DOI: 10.7759/cureus.112972
+URL: https://pubmed.ncbi.nlm.nih.gov/42620386/
+
+Abstract:
+Cardiac troponin elevation is central to the diagnosis of myocardial injury, but its clinical interpretation remains challenging when type 1 myocardial infarction is absent. This systematic review evaluated the clinical and prognostic significance of elevated cardiac troponin in adults without type 1 myocardial infarction, with particular emphasis on type 2 myocardial infarction, critical illness-related myocardial injury, suspected acute coronary syndrome populations with minor myocardial injury, and acute or chronic heart failure-related myocardial injury. A systematic search of PubMed/MEDLINE, Scopus, and Web of Science identified six eligible clinical studies. The included evidence comprised prospective and retrospective cohort studies, secondary biomarker analyses of randomized trials, and trial-derived heart failure cohorts. Across heterogeneous clinical settings, troponin elevation was consistently associated with adverse outcomes, including all-cause mortality, cardiovascular mortality, heart failure hospitalization, cardiovascular death or heart failure rehospitalization, and greater clinical severity. In type 2 myocardial infarction and critical illness, troponin elevation identified high-risk patients despite the absence of classic plaque-rupture acute coronary syndrome. In heart failure populations, troponin appeared to function as a dynamic marker of myocardial stress, residual risk, and treatment-responsive injury. High-sensitivity assays further suggest that troponin may convey prognostic information across a continuum rather than only above binary diagnostic thresholds. These findings support a phenotype-based approach in which troponin elevation outside type 1 myocardial infarction is interpreted according to mechanism, clinical context, biomarker trajectory, and follow-up needs. Although current evidence does not define a uniform treatment pathway, it indicates that troponin-positive patients without type 1 myocardial infarction should not be considered low risk solely because acute coronary syndrome has been excluded. Future prospective studies should determine which troponin-positive phenotypes benefit most from structured cardiovascular reassessment, targeted investigation, and post-discharge surveillance.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: High-sensitivity Cardiac Troponin in the Emergency Department | JAPSC Journal
+URL: https://www.japscjournal.com/articles/malaysian-expert-consensus-use-high-sensitivity-cardiac-troponin-emergency-department?language_content_entity=en
+Score: 0.86767644
+
+Texto:
+![Radcliffe Cardiology logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/RadcliffeCardiology%20Horizontal%20%28Dark%29.svg?VersionId=FsjmKVvrwNg5MovL9Lue_nrxJD5Nm9tc)
+![RC logo dark mode](https://assets.radcliffecardiology.com/s3fs-public/2026-01/RC%20Logo%20Horizontal%20Reversed%202.svg?VersionId=HtLw50OZb1Cl9Mldg2tVoEPCIVkkxP0U)
+
+[JAPSC is the official journal of the](https://www.japscjournal.com/guideline/about-japsc#listItem1.6)  ![APSC Logo](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/APSC_logo.png)
+
+![APSC Logo](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/APSC_logo.png)
+![Radcliffe JAPSC logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/JAPSC_white.svg?VersionId=PjqeVWmcBDXVMqlxmQZ7Wd5ENJHBivTf)
+![Radcliffe JAPSC banner](https://assets.radcliffecardiology.com/s3fs-public/styles/mobile_banner/public/2025-06/JAPSC%20Banner%20%28Mobile%29.png?VersionId=5va6AvnieEsa7nSsGe9u5uxL7vtvaTt7&itok=jZWOGSHa)
+![Radcliffe JAPSC banner](https://assets.radcliffecardiology.com/s3fs-public/styles/desktop_banner/public/2025-06/JAPSC%20Banner.png?VersionId=GY4hEcCQjToGQboxXIFpJeS8G.I_vn5s&itok=x_cPmYmU)
+
+[Home](/)
+
+About
+
+Content type
+
+Articles
+
+[Special Collections](/get-special-collections)
+
+[Submit Article](https://www.editorialmanager.com/japsc/default.aspx)
+
+![Radcliffe JAPSC logo](https://assets.radcliffecardiology.com/s3fs-public/2025-06/JAPSC%20%28Gold%29.svg?VersionId=i37MccUKIwehaD3SYDrnWYX3580a9YJv)
+
+View all platforms
+
+## Breadcrumb
+
+Authors
+
+Article Info
+
+Cite
+
+Metrics
+
+Article Text
+
+Figures & Tables
+
+References
+
+Review Article
+
+![Open access](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/svg/openAccess.svg)
+
+# A Malaysian Expert Consensus on the Use of High-sensitivity Cardiac Troponin in the Emergency Department
+
+[Raja Ezman Raja Shariff](https://www.radcliffecardiology.com/authors/raja-ezman-raja-shariff?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Sazzli Kasim](https://www.radcliffecardiology.com/authors/sazzli-kasim?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Subashini C Thambiah](https://www.radcliffecardiology.com/authors/subashini-c-thambiah?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Adi Osman](https://www.radcliffecardiology.com/authors/adi-osman?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Asri bin Said](https://www.radcliffecardiology.com/authors/asri-bin-said?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Farhi Ain Jamaluddin](https://www.radcliffecardiology.com/authors/farhi-ain-jamaluddin?language_content_entity=en)
+
+![iD](https://assets.radcliffecardiology.com/theme-assets/themes/custom/radcliffe/radcliffe-theme/assets/img/article/authorIco.svg)
+
+[Farina Mohd Salleh](https://www.radcliffecardiology.com/authors/farina-mohd-salleh?language_content_entity=en)
+
+[Sarah Abd Karim](https://www.radcliffecardiology.com/authors/sarah-abd-karim?language_content_entity=en)
+
+![Information image](https://assets.radcliffecardiology.com/s3fs-public/2020-05/cc_by_nc.png)
+
+Views: 2305
+
+Likes: 0
+
+Downloads: 114
+
+Citations: 1
+
+Abstract
+
+Recent guidelines have recommended using high sensitivity cardiac troponin (hs-cTn) assays to triage patients with suspected acute coronary syndrome. Despite this, less sensitive point-of-care testing is often the preferred choice in majority of hospitals. The aim of this evidence-based, expert consensus is to provide guidance for healthcare professionals in understanding the role of hs-cTn, specifically its level of sensitivity and specificity as well as its practical application in the emergency department setting, particularly in resource-limited centres in Malaysia. An expert panel with clinical and research expertise in the diagnosis and treatment of acute coronary syndrome was convened. Recommendations were based on a comprehensive review of the existing literature using MEDLINE and Embase databases, alongside individual clinical experience within the regional and international context. This expert consensus provides a structured approach to using hs-cTn in the emergency department and remains the only one to date produced by a group of Malaysian experts to help guide Malaysian clinicians dealing with acute chest pain on a daily basis.
+
+Keywords
+
+[High-sensitivity troponin](/search?search_api_fulltext=High-sensitivity%20troponin),
+[troponin](/search?search_api_fulltext=troponin),
+[chest pain](/search?search_api_fulltext=chest%20pain),
+[emergency department](/search?search_api_fulltext=emergency%20department),
+[expert consensus](/search?search_api_fulltext=expert%20consensus),
+
+Received: 01 September 2021
+
+Accepted: 27 December 2021
+
+Published online: 31 May 2022
+
+Citation:[Journal of Asian Pacific Society of Cardiology 2022;1:e14.](/editions/japsc-volume-1-2022?language_content_entity=en)
+
+Select format
+
+DOI: <https://doi.org/10.15420/japsc.2021.19>
+
+Disclosure: SSK is on the editorial board of Journal of Asian Pacific Society of Cardiology; this did not influence peer review. All other authors have no conflicts of interest to declare.
+
+Acknowledgements: The authors thank Universiti Teknologi MARA (UITM) Sungai Buloh, Universiti Putra Malaysia, Hospital Raja Permaisuri Bainun, Pusat Jantung Negara Sarawak, Universiti Malaya Medical Centre, Institut Jantung Negara and Hospital Su
+
+--- FUENTE WEB ---
+Título: Rapid Diagnosis Protocol for Chest Pain Does Not Improve Outcomes | DAIC
+URL: https://www.dicardiology.com/content/rapid-diagnosis-protocol-chest-pain-does-not-improve-outcomes
+Score: 0.7872945
+
+Texto:
+[![Home](/themes/custom/daic/images/logo.png)](/ "Home")
+
+[Sign In](/user/login)  
+ [New User? Register Here](/user/register)
+
+---
+
+#### If you enjoy this content, please share it with a colleague
+
+News | [Blood Testing](/channel/blood-testing) | September 18, 2019
+
+# Rapid Diagnosis Protocol for Chest Pain Does Not Improve Outcomes
+
+RAPID-TnT trial presented in a Hot Line Session at ESC Congress 2019 together with WCC
+
+![Rapid Diagnosis Protocol for Chest Pain Does Not Improve Outcomes](/sites/default/files/styles/content_feed_large_new/public/SiemensHealthineersAtellicaSolutionTnIHAssayESC.jpg?itok=GAuJlQ5X)
+
+September 18, 2019 — Discharge of patients with suspected acute coronary syndromes under a 0- and 1-hour [high-sensitivity cardiac troponin T (hs-cTnT)](https://www.dicardiology.com/channel/blood-testing) protocol is safe, according to recent research. The late-breaking results from the RAPID-TnT trial were presented in a Hot Line Session at the [European Society of Cardiology (ESC)](https://www.dicardiology.com/channel/esc) Congress 2019, Aug. 31-Sept. 4 in Paris, France, together with the World Congress of Cardiology and published in *Circulation*.[1] The trial also found that better strategies are needed to optimize outcomes in patients newly [diagnosed](https://www.dicardiology.com/channel/cardiac-diagnostics) with modest troponin elevations.
+
+Patients with chest pain were traditionally kept in the emergency room for long periods until judged safe to send home. To speed up the decision for safe discharge or rapid treatment, ESC guidelines recommend a 0/1-hour hs-cTnT protocol for patients with suspected non-ST-segment elevation myocardial infarction (NSTEMI).[2]
+
+0/1-hour refers to the time from the first blood test. NSTEMI can be ruled out at presentation if the hs-cTnT concentration is very low. NSTEMI can also be ruled out if baseline levels are low and there is no increase within 1 hour. Patients have a high likelihood of NSTEMI if the hs-cTnT concentration at baseline is at least moderately elevated or hs-cTnT concentrations show a clear rise within the first hour.
+
+Previous evidence for this strategy is based on [observational studies](https://www.dicardiology.com/channel/cardiovascular-clinical-studies). The RAPID-TnT trial investigated the safety and clinical effectiveness of a 0/1-hour protocol of troponin T reported to high-sensitivity levels versus the usual practice of cardiac troponin testing reported to previous sensitivity levels at 0, 3 and potentially 6 hours in a randomized trial prospectively embedded within care for patients with suspected acute coronary syndrome.[3]
+
+A total of 3,288 patients with suspected acute coronary syndrome were randomly allocated to the guideline-recommended 0/1-hour hs-cTnT protocol or the 0/3-hour troponin protocol. The primary composite endpoint was all-cause death and new/recurrent myocardial infarction within 30 days of randomisation.
+
+The 0/1-hour hs-cTnT protocol was non-inferior with respect to the primary endpoint of death or myocardial infarction at 30 days. The 0/1-hour strategy was associated with less subsequent functional (stress) testing but more angiography and revascularization. Compared to the 0/3-hour arm, patients in the 0/1-hour arm were significantly less likely to be admitted (45.5 percent versus 33.2 percent) and had a significantly shorter length of stay (5.6 versus 4.6 hours).
+
+Principal investigator Prof. Derek Chew of Flinders University, Adelaide, Australia said, “Use of a 0/1-hour protocol for discharge is safe, since patients receiving a ‘rule-out’ recommendation had a low rate of events by 30 days (less than 1 percent). In patients recommended for further observation or ‘rule-in’ (possible acute coronary syndrome), there were more investigations and revascularization associated with more acute myocardial injury or myocardial infarction related to these procedures.”
+
+Regarding which protocol should be used as standard in clinical practice, Chew said, “The 0/1-hour strategy can be used to reduce crowding in the emergency department. Better strategies for the increased numbers of patients who are ‘ruled in’ with this method will be required if we are to improve overall outcomes. The 12-month results from this study will help judge the true value of high-sensitivity troponin testing in clinical practice.”
+
+For more information: www.escardio.org
+
+## **Related Content**
+
+[Advantages of High Sensitivity Troponin Assays](https://www.dicardiology.com/article/advantages-high-sensitivity-troponin-assays)
+
+[VIDEO: Use of High Sensitivity Troponin Testing in the Emergency Department](https://www.dicardiology.com/videos/video-use-high-sensitivity-troponin-testing-emergency-department)
+
+[Abbott Point-of-Care Blood Test Speeds Heart Attack Diagnosis](https://www.dicardiology.com/content/abbott-point-care-blood-test-speeds-heart-attack-diagnosis)
+
+[More Sensitive Blood Test Diagnoses Heart Attacks Faster](https://www.dicardiology.com/content/more-sensitive-blood-test-diagnoses-heart-attacks-faster)
+
+[Siemens Launches High-sensitivity Troponin Test for Faster Diagnosis of Heart Attacks](https://www.dicardiology.com/product/siemens-launches-high-sensitivity-troponin-test-faster-diagnosis-heart-attacks)
+
+## **References**
+
+[1. Chew D.P., Lambrakis K., Blyth A., et al.](https://doi.org/10.1161/CIRCULATIONAHA.119.042891) [A Randomized Trial of a 1-Hour Troponin T Protocol in Suspected Acute Coronary Syndromes: The Rapid Assessment of Possible ACS In the Emergency Department with High Sensitivity Troponin T (RAPID-TnT) Study. Circulation, published online Sept. 3, 2019. https://doi.org/10.1161/CIRCULATIONAHA.119.042891](https://doi.org/10.1161/CIRCULATIONAHA.119.042891)
+
+[2. Roffi M., Patrono C., Collet J.P., et al. 2015 ESC guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation.](https://www.ncbi.nlm.nih.gov/pubmed/26320110) [Eur Heart J. 2016;37:267–315. d
+
+--- FUENTE WEB ---
+Título: Cardiac biomarkers of acute coronary syndrome: from history to high-sensitivity cardiac troponin
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5329082
+Score: 0.7813477
+
+Texto:
+# Cardiac biomarkers of acute coronary syndrome: from history to high-sensitivity cardiac troponin
+
+Pankaj Garg, Paul Morris, Asma Lina Fazlanie, Sethumadhavan Vijayan, Balazs Dancso, Amardeep Ghosh Dastidar, Sven Plein, Christian Mueller, Philip Haaf
+
+Internal and Emergency Medicine · 2017-02-11 · 12(2):147-155 · DOI: 10.1007/s11739-017-1612-1 · PMID: 28188579 · PMCID: PMC5329082
+
+## Abstract
+
+The role of cardiac troponins as diagnostic biomarkers of myocardial injury in the context of acute coronary syndrome (ACS) is well established. Since the initial 1st-generation assays, 5th-generation high-sensitivity cardiac troponin (hs-cTn) assays have been developed, and are now widely used. However, its clinical adoption preceded guidelines and even best practice evidence. This review summarizes the history of cardiac biomarkers with particular emphasis on hs-cTn. We aim to provide insights into using hs-cTn as a quantitative marker of cardiomyocyte injury to help in the differential diagnosis of coronary versus non-coronary cardiac diseases. We also review the recent evidence and guidelines of using hs-cTn in suspected ACS.
+
+## Keywords
+
+Cardiac biomarkers, High-sensitivity cardiac troponin, Acute coronary syndrome
+
+## Introduction
+
+A rapid and accurate diagnosis is critical in patients with presumed acute coronary syndrome for the initiation of effective evidence-based medical management and revascularization. The third universal definition of myocardial infarction defines an acute myocardial infarction (AMI) as evidence of myocardial necrosis in a patient with the clinical features of acute myocardial ischemia, and defines the 99th percentile of cardiac troponins as the decision value for AMI [1]. Clinical assessment, 12-lead ECG and cardiac troponin (cTn) I or T form the diagnostic cornerstones of patients with acute onset chest pain. Contemporary sensitive and high-sensitivity cardiac troponin (hs-cTn) assays have increased diagnostic accuracy in patients with acute chest pain in comparison with conventional cardiac biomarkers [2]. Rapid rule-in and rule-out diagnostic strategies for patients with chest pain in the emergency department (ED) are now available, and help clinicians to risk stratify patients and enable discharge of those deemed to be at very low risk. In principle, this improves assessment and makes ED care more cost effective. However, there is potential for confusion, misuse and unnecessary follow-up examinations when they are used imprudently [3]. Novel hs-cTn assays are able to quantify troponin in the majority of healthy individuals [4]. Although hs-cTn assays are very sensitive, they are less specific for AMI when using the 99th percentile as a single cutoff level [5]. Even when a troponin rise is consistent with a diagnosis of AMI, other cardiac diseases such as myocarditis, Tako-tsubo cardiomyopathy or shock can produce significant changes of troponin as well. Interpretation of the results is heavily dependent on the clinical context in which it is requested.
+
+The aim of the current article is to review the history and evolution of cardiac biomarkers of acute coronary syndrome, define what troponin is, and aid in the use of the hs-cTn in clinical practice according to current guidelines.
+
+## History of cardiac biomarkers
+
+Aspartate Transaminase (AST) became the first biomarker used in the diagnosis of AMI [6] (Fig. 1). AST was widely used in the 1960s and was incorporated into the World Health Organization (WHO) definition of AMI [7]. However, AST is not specific for cardiac muscle, and its detection is, therefore, not specific for cardiac damage. By 1970s, two further cardiac biomarkers were in use: lactate dehydrogenase (LDH) and creatine kinase (CK). Although neither is absolutely specific for cardiac muscle, CK is more specific than LDH in the context of AMI, especially in patients having other co-morbidities such as muscle or hepatic disease [8]. Myoglobin is a small globular oxygen-carrying protein found in heart and striated skeletal muscle [9]. The first method to detect myoglobin in the serum was developed in 1978. Myoglobin rises after acute myocardial injury, and it became a useful cardiac biomarker in the differential diagnosis of suspected AMI [10]. In the era of hs-cTn, testing of myoglobin as an early marker of myocardial necrosis is no longer recommended, neither as a single marker nor in a multi-marker strategy [11, 12]. Eventually, advancements in electrophoresis allowed the detection of cardiac-specific iso-enzymes of CK and LDH, i.e., CK-MB and LDH 1 + 2 [13]. Cardiac muscle has higher CK-MB levels (25–30%) compared to skeletal muscle (1%), which is mostly composed of CK-MM. These assays played an important role in the diagnosis of AMI for two decades, and were included as one of the diagnostic criteria to rule out AMI by the WHO in 1979 [14]. However, the lack of specificity and the high rate of false-positive results limited their usefulness. A more cardiac-specific biomarker was needed.
+
+**Fig. 1** · Timeline of the development of cardiac biomarkers for the diagnosis of acute myocardial infarction
+
+In 1965, a new protein constituent of the cardiac myofibrillar apparatus was discovered, which subsequently came to be known as troponin [15]. In the late 1990s, a sensitive and reliable radioimmunoassay was developed to detect serum troponin [16]. Numerous studies demonstrate that troponins appear in the serum 4–10 h after the onset of AMI [17]. Troponin levels peak at 12–48 h, but remain elevated for 4–10 days. The sensitivity for detecting troponin T and I approaches 100% when sampled 6–12 h after acute chest pain onset [18]. Therefore, in the context of acute chest pain, to reliably rule out AMI, patients need to have a repeat troponin sample 6–12 h after the initial assessment. Consequently, patients were increasingly admitted to observational chest pain units.
+
+## What is troponin?
+
+Troponin is a component of the contractile apparatus within sk
+
+--- FUENTE WEB ---
+Título: Acute Coronary Syndromes: State-of-the-Art Diagnosis, Management, and Secondary Prevention
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12787086
+Score: 0.7795405
+
+Texto:
+# Acute Coronary Syndromes: State-of-the-Art Diagnosis, Management, and Secondary Prevention
+
+Xun Yuan, Stephan Nienaber, Ibrahim Akin, Tito Kabir, Christoph A. Nienaber
+
+Journal of Clinical Medicine · 2025-12-19 · 15(1):16 · DOI: 10.3390/jcm15010016 · PMID: 41517261 · PMCID: PMC12787086
+
+## Abstract
+
+Background: Acute coronary syndromes (ACSs) remain a leading cause of death and disability. Since the publication of the 2023 ESC ACS guidelines, multiple studies and an ESC/EAS dyslipidaemia update have refined how clinicians diagnose, revascularize, and treat ACS across the care continuum. Content: This state-of-the-art review synthesizes advances from 2023 to 2025 across five domains. Diagnosis: High-sensitivity troponin-based accelerated pathways remain foundational; GRACE 3.0 improves calibration for early vs. delayed angiography, while selective use of CCTA and routine use of intracoronary imaging/physiology help define the mechanism and optimize PCI. Revascularization: complete revascularization continues to underpin care in multivessel disease, with recent data favouring culprit-only PCI acutely and staged non-culprit treatment during the index stay in most STEMI presentations, particularly with heart-failure physiology. Antithrombotic therapy: Aspirin remains critical early after ACS-PCI; emerging evidence supports shorter DAPT and aspirin withdrawal after 1 month in carefully selected, low-ischaemic-risk patients, whereas day-0 aspirin-free strategies in unselected ACS are not non-inferior. Secondary prevention: A “strike early and strong” approach to LDL-cholesterol—often with combination therapy in hospital—is emphasized, alongside nuanced roles for SGLT2 inhibitors and GLP-1 receptor agonists. Special populations and implementation: Sex- and age-aware tailoring (including MINOCA/SCAD evaluation), pragmatic bleeding-risk mitigation, digitally enabled cardiac rehabilitation, and registry-driven quality improvement translate evidence into practice. Summary: Contemporary ACS care is moving from uniform protocols toward risk-stratified, mechanism-informed pathways. We offer practical algorithms and checklists to align interventional timing, antithrombotic intensity/duration, and secondary prevention with individual patient risk—bridging new evidence to bedside decisions.
+
+## Keywords
+
+acute coronary syndrome, myocardial infarction, dual antiplatelet therapy, PCI, cardiogenic shock, dyslipidaemia, precision medicine
+
+## 1. Introduction
+
+Acute coronary syndromes (ACSs) remain a leading global health challenge, with enormous clinical and societal impact. Cardiovascular disease is still a primary cause of death, accounting for nearly 17.9 million deaths annually worldwide with acute coronary events comprising a significant proportion of this burden [1]. For example, in the United States alone, over 1.2 million people are hospitalized with an ACS per year [2]. Beyond mortality, ACS leads to substantial morbidity and healthcare costs, underscoring the importance of continually improving management strategies to reduce its toll [3].
+
+In the attempts to standardize and improve ACS care, the 2023 ESC ACS Guidelines unified previously separate recommendations for ST-elevation myocardial infarction (STEMI) and non-ST-elevation ACS into a single document covering the entire spectrum of ACSs, from unstable angina through NSTEMI to STEMI [4]. This consolidated guideline covers the spectrum from initial diagnosis and risk stratification at presentation to acute treatment and long-term secondary prevention [5]. It core management components are emphasized from prompt invasive assessment and revascularization when indicated, to appropriate anti-thrombotic therapy, and organized transition to secondary prevention with a strong focus on patient-centred care [5]. These 2023 guidelines essentially reinforced the existing evidence-based framework for ACS management while addressing nuanced updates across various aspects of care.
+
+However, the evidence base for ACS has continued to evolve since 2023. The year 2025 marks a pivotal juncture, bringing forth new clinical trial data and focused guideline refinements with practical impacts. Several high-impact trials reported in 2025 have challenged conventional approaches and informed refinements in care. For example, studies investigating early aspirin withdrawal after PCI in ACS patients and ultra-short dual antiplatelet therapy (DAPT) regimens have yielded valuable insights into balancing ischaemic and bleeding risks [6,7]. In parallel, a focused ESC/EAS dyslipidaemia guideline update was issued in 2025 to integrate new evidence in lipid management advocating more aggressive cholesterol lowering during the index ACS hospitalization (including combination therapy with high-intensity statins and ezetimibe) for eligible patients; moreover, emerging therapeutics for high-risk individuals (such as bempedoic acid for statin-intolerant patients) are introduced [5]. Together, these developments signal further evolution of ACS management beyond the state of practice codified in 2023.
+
+Several key thematic shifts in clinical strategy have gained momentum since the last guideline publication in 2023. First, in the context of aspirin-sparing antithrombotic regimens, recent trials suggest that dropping aspirin early (after an initial period on DAPT) and continuing P2Y-inhibitor monotherapy can reduce bleeding without increasing ischaemic events in carefully selected patients. A second major theme is individualizing DAPT duration based on patient risk profiles and individual scores to tailor therapy length, allowing shortened DAPT courses for those at high bleeding risk and prolonged therapy for those at high thrombotic risk [4]. Third, the timing of invasive interventions in NSTE-ACS is becoming more personalized; rather than a fixed schedule for all, the urgency of angiography/PCI is guided by risk stratification with an immediate or <24 h invasive strategy for very-hi
+
+--- FUENTE WEB ---
+Título: Key Updates from the 2021 AHA Guideline for the Evaluation and Diagnosis of Chest Pain - First10EM
+URL: https://first10em.com/key-updates-from-the-2021-aha-guideline-for-the-evaluation-and-diagnosis-of-chest-pain
+Score: 0.7578844
+
+Texto:
+[Skip to content](#content)
+
+[![Back Home](https://first10em.com/wp-content/uploads/2018/12/cropped-First10em-logo-2019-250px-1.jpg)](https://first10em.com/)
+
+[![Back Home](https://first10em.com/wp-content/uploads/2018/12/cropped-First10em-logo-2019-250px-1.jpg)](https://first10em.com/)
+
+* [Search](#)
+
+[All posts](https://first10em.com/all-posts/ "View all posts in All posts")  [Rapid Review](https://first10em.com/rapid-review/ "View all posts in Rapid Review")
+
+# Key Updates from the 2021 AHA Guideline for the Evaluation and Diagnosis of Chest Pain
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+by [Justin Morgenstern](https://first10em.com/author/first10em/ "View all posts by Justin Morgenstern")|Published -Updated
+
+**Cite this article as:**  
+ Morgenstern, J. Key Updates from the 2021 AHA Guideline for the Evaluation and Diagnosis of Chest Pain, First10EM, March 14, 2022. Available at:  
+ <https://doi.org/10.51684/FIRS.126082>
+
+I have [a long history of complaining about guidelines](https://first10em.com/guidelines/) and their seeming disregard for science and common sense. Therefore, when I sat down to read the most recent AHA guidelines on the evaluation and diagnosis of chest pain, I expected to be disappointed. Honestly, I was pleasantly surprised. It is still a very long way from perfect, but there is some reasonable new advice mixed in with all the nonsense.
+
+## **The paper**
+
+Writing Committee Members, Gulati M, Levy PD, Mukherjee D, et al. **2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.** J Am Coll Cardiol. 2021 Nov 30;78(22):e187-e285. doi: 10.1016/j.jacc.2021.07.053. Epub 2021 Oct 28. PMID: [34756653](https://pubmed.ncbi.nlm.nih.gov/34756653/) [[free full text](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001029#:~:text=Patients%20with%20acute%20chest%20pain%20or%20chest%20pain%20equivalent%20symptoms,Share%20the%20Decision%2DMaking.)]
+
+## **Some of my key take-aways**
+
+This is a very long and dense publication. The majority of their recommendations are not practice changing (things like calling 911 if you have chest pain, or trying to get an ECG done within 10 minutes) and there is a lot that is irrelevant to emergency physicians. I am not going to attempt a comprehensive summary of the guidelines. Some people will want to read them all, and [they are available for free online](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001029#:~:text=Patients%20with%20acute%20chest%20pain%20or%20chest%20pain%20equivalent%20symptoms,Share%20the%20Decision%2DMaking.). I am just going to highlight a few points that I found interesting, potentially practice changing, or clearly wrong.
+
+### No stress tests in low risk patients
+
+> **Testing Not Needed Routinely for Low-Risk Patients.** For patients with acute or stable chest pain determined to be low risk, urgent diagnostic testing for suspected coronary artery disease is not needed.
+
+Let me start with the big one: In low risk patients, testing for coronary artery disease is not needed. In other words, stop ordering so many damn stress tests. Specifically, they say that patients that are defined as low risk (either by a clinical decision pathway such as the HEART pathway or EDACS, or by negative high sensitivity troponins) **do not need any further testing**.
+
+Of course, I don’t think they go far enough. They are still recommending [CCTA](https://first10em.com/ccta-evidence/) in intermediate to high risk patients who are younger than 65 or less likely to have obstructive CAD, and [stress testing](https://first10em.com/stress-test-evidence-intro/) in intermediate to high risk patients who are older than 65 or more likely to have obstructive CAD. Neither of these recommendations are supported by good evidence. Both cause net harm in patients. However, it is a big step forward for them to clearly state that the majority of chest pain patients should be discharged from the emergency department and do not need any further testing.
+
+This is their definition of low-risk:
+
+“Patients with acute chest pain and a 30-day risk of death or MACE <1% should be designated as low risk. … For this low-risk subset of ED patients who have chest pain, there is no evidence that stress testing or cardiac imaging within 30 days of the index ED visit improves their outcomes.” My only comment is that [MACE is probably not clinically relevant](https://first10em.com/defining-cardiovascular-outcomes/), and the outcome we should be looking at is 30 day death and MI instead.
+
+### High sensitivity troponin is preferred
+
+“In patients presenting with acute chest pain, high-sensitivity [troponin] is the preferred biomarker because it enables more accurate detection or exclusion of myocardial injury and increases diagnostic accuracy.”
+
+This is one of those times where the guideline strays away from good science, but I don’t actually mind. (Even if I did, this ship has long sailed.) There is no evidence that HS-troponins improve patient outcomes. In fact, the two available RCTs comparing high sensitivity troponin to conventional troponin demonstrate no difference in clinical outcomes, such as incidence of missed MI or cardiovascular death in the year following presentation. (Shah 2018, Chew 2019) Additionally, high sensitivity troponins probably increase downstream invasive testing due to their lower specificity. In other words, they result in a net clinical harm to patients.
+
+However, high sensitivity troponins allow for a much more rapid assessment of patients in the emergency department, which is a massive benefit for us and our patients alike. It is difficult to know how to balance the harm from increased testing with the benefit of improved efficiency. My bet is that, if we asked patients (and we should), the massive combined reduction in time spent i
+
+--- FUENTE WEB ---
+Título: Supplementary material
+URL: https://assets.contentstack.io/v3/assets/blt8a393bb3b76c0ede/blt83b12e7de3bf6268/ACS_Guideline_Supplementary_material_draft_public_consult.pdf
+Score: 0.73642004
+
+Texto:
+1 Supplementary material Contents Supplementary material 1: Governance and guideline contributors ................................... 2 Governance ..................................................................................................................... 2 Expert groups ................................................................................................................... 3 Heart Foundation project contributors ............................................................................ 11 External contributors ...................................................................................................... 12 Supplementary material 2: Process for developing the guideline ..................................... 13 Introduction .................................................................................................................... 13 Developing the guideline scope and clinical questions ................................................... 13 Literature review and evidence synthesis ....................................................................... 15 GRADE methodology for developing recommendations ................................................. 15 Drafting the guideline ..................................................................................................... 19 Public consultation ......................................................................................................... 19 Endorsement .................................................................................................................. 19 Supplementary material 3: Conflict of interest .................................................................. 20 Conflict of interest process ............................................................................................. 20 Supplementary material 4: High sensitivity troponin in the evaluation of patients with acute coronary syndrome (high-STEACS) algorithm ................................................................. 54 Supplementary material 5: Additional validated risk assessment tools ............................. 56 Emergency department assessment of chest pain score (EDACS) ................................ 56 History, electrocardiogram, age, risk factors, and troponin (HEART) score .................... 56 Other scores .................................................................................................................. 58 Sites using clinical score-based clinical decision pathway and hs-cTn assays ............... 60 Supplementary material 6: Shared decision-making ........................................................ 61 Supplementary material 7: Platelet P2Y12 inhibitor therapy ............................................. 62 References ...................................................................................................................... 63 2 Supplementary material 1: Governance and guideline contributors Governance The development of the Australian clinical guideline for diagnosing and managing acute coronary syndromes (ACS) 2024 (the guideline) was led by the National Heart Foundation of Australia (Heart Foundation) in collaboration with an extensive network of leading experts and reference group organisations who contributed in an honorary capacity. The guideline was jointly funded by the Heart Foundation and the Cardiac Society of Australia and New Zealand (CSANZ). Funding was also received from trusts managed by Perpetual for the guideline development in 2020 and 2021. The governance process employed by the Heart Foundation aims to ensure the integrity of the guideline developers and to strike a balance between the existence of ‘interests’ in a topic under review and the expertise required to make sound and meaningful recommendations. The overarching governance structure was developed in line with the 2016 National Health and Medical Research Council’s (NHMRC) Standards for Guidelines [1]. The structure included an Expert Steering Group (ESG), three Expert Subgroups, Reference Group organisations and a Consumer Advisory Panel (see Supplementary figure 1). Supplementary figure 1. Governance structure for the guideline project. 3 Expert groups The guideline was developed under the direction and governance of five expert groups with multidisciplinary, clinical and people with lived or living experience input. Experts and people with lived or living experience representatives from diverse backgrounds and geographic regions were recruited by CSANZ and the Heart Foundation through an Expression of Interest process between the last quarter of 2021 and first quarter of 2022. Members were selected based on their expertise and experience in guideline development. Expertise was sourced across the disciplines of cardiology, emergency medicine, general medicine, general practice, nursing, pharmacy, epidemiology, cardiac rehabilitation and public health. Expert Steering Group The ESG met regularly between the first quarter of 2022 and 2023. The ESG agreed on the prioritised scope and clinical questions of the guideline. The ESG was also responsible for reviewing the full content of the draft guideline, including grading of the evidence and final recommendations. The ESG identified which expert subgroups would be required to progress guideline development and oversaw their input into the project. Members of the ESG included the Co-chairs, representatives from the Expert Subgroups, Chair of the Consumer Advisory Panel, and Heart Foundation and CSANZ representatives. ESG members chaired and participated in Expert Subgroups where their expertise was relevant. The ESG reported to the internal approval committees from the Heart Foundation and CSANZ. 4 Expert Steering Group members Name Position Prof David Brieger (Co-chair) Head of Coronary Care, Concord Repatriation General Hospital; Professor in Medicine, Concord Clinical School, ANZAC Research Institute, The University of Sydn
+
+--- FUENTE WEB ---
+Título: 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR ...
+URL: https://www.allinahealth.org/-/media/allina-health/files/business-units/minneapolis-heart-institute/protocols/2021-aha-acc-guidelines.pdf
+Score: 0.69249696
+
+Texto:
+Circulation e368 November 30, 2021 Circulation. 2021;144:e368–e454. DOI: 10.1161/CIR.0000000000001029 Circulation is available at www.ahajournals.org/journal/circ *Writing committee members are required to recuse themselves from voting on sections to which their specific relationships with industry may apply; see Appendix 1 for detailed information. †ACC/AHA Representative. ‡ACC/AHA Joint Committee on Clinical Practice Guidelines Liaison. §Society of Cardiovascular Computed Tomography Representative. ‖Lay Patient Representative. ¶Society for Academic Emergency Medicine Representative. #Former ACC/AHA Joint Committee member; current member during the writing effort. **Society for Cardiovascular Magnetic Resonance Representative. ††American College of Chest Physicians Representative. ‡‡American Society of Echocardiography Representative. §§Task Force on Performance Measures, Liaison.
+ACC/AHA Joint Committee on Clinical Practice Guidelines Members, see page e420.
+The American Heart Association requests that this document be cited as follows: Gulati M, Levy PD, Mukherjee D, Amsterdam E, Bhatt DL, Birtcher KK, Blankstein R, Boyd J, Bullock-Palmer RP, Conejo T, Diercks DB, Gentile F, Greenwood JP, Hess EP, Hollenberg SM, Jaber WA, Jneid H, Joglar JA, Morrow DA, O’Connor RE, Ross MA, Shaw LJ. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guideline for the evaluation and diagnosis of chest pain: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;144:e368–e454. doi: 10.1161/CIR.0000000000001029 © 2021 by the American Heart Association, Inc., and the American College of Cardiology Foundation. AHA/ACC CLINICAL PRACTICE GUIDELINE 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/ SCMR Guideline for the Evaluation and Diagnosis of Chest Pain: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines Writing Committee Members* Martha Gulati, MD, MS, FACC, FAHA, Chair†; Phillip D. Levy, MD, MPH, FACC, FAHA, Vice Chair†; Debabrata Mukherjee, MD, MS, FACC, FAHA, Vice Chair†; Ezra Amsterdam, MD, FACC†; Deepak L. Bhatt, MD, MPH, FACC, FAHA†; Kim K. Birtcher, MS, PharmD, AACC‡; Ron Blankstein, MD, FACC, MSCCT§; Jack Boyd, MD†; Renee P. Bullock-Palmer, MD, FACC, FAHA, FASE, FSCCT†; Theresa Conejo, RN, BSN, FAHA‖; Deborah B. Diercks, MD, MSc, FACC¶; Federico Gentile, MD, FACC#; John P. Greenwood, MBChB, PhD, FSCMR, FACC**; Erik P. Hess, MD, MSc†; Steven M. Hollenberg, MD, FACC, FAHA, FCCP††; Wael A. Jaber, MD, FACC, FASE‡‡; Hani Jneid, MD, FACC, FAHA§§; José A. Joglar, MD, FAHA, FACC‡; David A. Morrow, MD, MPH, FACC, FAHA†; Robert E. O’Connor, MD, MPH, FAHA†; Michael A. Ross, MD, FACC†; Leslee J. Shaw, PhD, FACC, FAHA, MSCCT† AIM: This clinical practice guideline for the evaluation and diagnosis of chest pain provides recommendations and algorithms for clinicians to assess and diagnose chest pain in adult patients.
+METHODS: A comprehensive literature search was conducted from November 11, 2017, to May 1, 2020, encompassing randomized and nonrandomized trials, observational studies, registries, reviews, and other evidence conducted on human subjects that were published in English from PubMed, EMBASE, the Cochrane Collaboration, Agency for Healthcare Research and Quality reports, and other relevant databases. Additional relevant studies, published through April 2021, were also considered.
+STRUCTURE: Chest pain is a frequent cause for emergency department visits in the United States. The “2021 AHA/ACC/ ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain” provides recommendations based on contemporary evidence on the assessment and evaluation of chest pain. This guideline presents an evidence-based approach to risk stratification and the diagnostic workup for the evaluation of chest pain. Cost-value considerations in diagnostic testing have been incorporated, and shared decision-making with patients is recommended.
+Key Words: AHA Scientific Statements ◼ chest pain ◼ angina ◼ coronary artery disease ◼ acute coronary syndrome ◼ myocardial ischemia ◼ myocardial infarction ◼ myocardial injury ◼ noncardiac ◼ accelerated diagnostic pathway ◼ clinical decision pathway ◼ sex differences ◼ troponins ◼ chest pain syndromes ◼ biomarkers ◼ shared decision-making ◼ noncardiac chest pain ◼ cardiac imaging Downloaded from http://ahajournals.org by on July 13, 2022 Circulation. 2021;144:e368–e454. DOI: 10.1161/CIR.0000000000001029 November 30, 2021 e369 Gulati et al 2021 Chest Pain Guideline CLINICAL STATEMENTS AND GUIDELINES CONTENTS Abstract e368 Top 10 Take-Home Messages for the Evaluation and Diagnosis of Chest Paine370 Preamblee370 1. Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e372 1.1. Methodology and Evidence Review. . . . . . . e372 1.2. Organization of the Writing Committeee373 1.3. Document Review and Approvale374 1.4. Scope of the Guidelinee374 1.4.1. Scope of the Problem e374 1.4.2. Defining Chest Paine375 1.5. Abbreviationse376 2. Initial Evaluatione377 2.1. Historye377 2.1.1. A Focus on the Uniqueness of Chest Pain in Womene378 2.1.2. Considerations for Older Patients With Chest Pain e379 2.1.3. Considerations for Diverse Patient Populations With Chest Paine379 2.1.4. Patient-Centric Considerationse380 2.2. Physical Examinatione380 2.3. Diagnostic Testing e381 2.3.1. Setting Considerations e381 2.3.2. Electrocardiograme382 2.3.3. Chest Radiographye382 2.3.4. Biomarkerse383 3. Cardiac Testing General Considerationse384 3.1. Anatomic Testinge385 3.1.1. Coronary Computed Tomography Angiographye385 3.1.2. Invasive Coronary Angiographye385 3.2. Diagnostic Testing e386 3.2.1. Exercise ECGe386 3.2.2. Echocardiography/Stress Echocardiographye387 3.2.3. Stress Nuclear (PET or SPECT) Myocardial Perfusion Imaginge387 3.2.4. Cardiovascular Magnetic Resonance Imaginge387 3.3. Cardiac Testing Considerati
+
+--- FUENTE WEB ---
+Título: [PDF] Episode 128 Low Risk Chest Pain & High Sensitivity Troponin
+URL: https://emergencymedicinecases.com/wp-content/uploads/2019/07/Episode-128-Low-Risk-Chest-Pain.pdf
+Score: 0.6892434
+
+Texto:
+1 Episode 128 Low Risk Chest Pain & High Sensitivity Troponin With Eddy Lang and Andrew McRae Prepared by Anton Helman, July 2019 Defining low risk chest pain Patients at low risk for ACS are those who are hemodynamically stable, are without concerning features on history or examination, and do not have immediate objective evidence of myocardial ischemia on initial ECGs and biomarker testing. Consensus guidelines further define the low risk patient as having a < 1% risk of a Major Adverse Cardiac Event (MACE) or death at ≥ 30-days follow up [1], a threshold below which harm caused by further testing may outweigh any clinical benefit [2]. Predictive value of clinical features for ACS There is no combination of historical features that can accurately rule in or rule out ACS [3]. The rule for ACS presentations is: Atypical is typical [4]. • Up to 1/3 of pts with ACS have no CP at all [5]. • Populations most at risk for atypical presentations are women and patients with comorbidities that alter their ability to communicate (e.g. stroke, dementia) or alter their sensory perception of chest pain (e.g. diabetes, neuropathies) • The most frequent anginal equivalents in order of prevalence: SOB>weakness>unusual fatigue>sweating>dizziness • Risk factors for ACS presenting without chest pain include older patients (especially >85 years of age), women, diabetes, stroke and heart failure [6]. • Patients with comorbidities might be at an increased risk of ACS related to diagnostic error as a result of us anchoring on their usual complications Based on the TRAPID-AMI [7] and JAMA clinical exam series [8] the most predictive features of ACS include: • Radiation to both arms or right arm • Pain described as pressure • Associated with nausea or vomiting • Associated with sweating (especially sweating observed in the ED) • Pain came on with physical activity Chest pain that significantly decreases the likelihood of ACS include: • Pleuritic in nature • Positional pain • Pain described as sharp • Pain that is fully reproducible with palpation • Inframammary location • Non-exertional 2 Note that pleuritic chest pain and pain that is reproducible with palpation have been found to be present in up to 7% of patients with ACS. Response to nitroglycerin has no predictive value for ACS [9]. Severity of pain is not related to the likelihood of ACS at presentation or 30-day MACE [10]. Take Home: Missed ACS is more often a result of a failure to consider the diagnosis in patients with atypical symptoms rather than a failure to interpret troponin or use a clinical decision tool properly. Predictive value of risk factors for ACS In the ED, traditional cardiac risk factors are poor predictors of ACS in patients >40 year of age. The only traditional risk factors that have predictive value enough to alter pretest probability for ACS in the ED patient with chest pain are diabetes and family history of premature MI in male patients (not obesity, smoking, hypertension, hyperlipidemia) [11,12,]. Patients < 40 years of age without any of the traditional risk factors makes the pre-test probability of ACS very low (negative LR of 0.17) and the presence of >4 risk factors, does help predict ACS (positive LR of 7.39)[13]. Important non-traditional risk factors, especially in young patients include: Pregnancy, chronic renal disease, HIV (especially if taking protease inhibitors), cocaine/amphetamine use, chronic steroid use and lupus. Take Home: Classic cardiac risk factors may be more useful in shifting pretest probability for ACS in younger patients; ask about non-traditional risk factors in young patients. Some key ACS ECG patterns and their significance Nonspecific T-wave changes should not be ignored In a recent retrospective study of over 2300 patients, nonspecific T-wave changes such as isolated T-wave inversion in lead III or V1 confer an increased likelihood of MACE at 30 days [14]. Nonspecific T-wave changes are a feature of the HEART score and should not be ignored in risk stratification of chest pain patients. De Winter’s T Waves pattern is an anterior STEMI equivalent [15] • A De Winter’s Waves pattern is an anterior STEMI equivalent found in 2% of patients with acute proximal LAD occlusions • Upsloping ST-Depression at J Point in leads V1 – V4 without STE • Tall, symmetric T-Wave in leads V1 – V4 • STE in lead aVR +/- aVL de Winter Waves. Note upsloping ST-depression and tall symmetric T-waves 3 Wellen’s Syndrome signifies a high grade LAD or Left Main coronary lesion that may present with pseudo-normalization [16] • Type A: While chest pain free, biphasic T waves seen in V1-V4 • During chest pain, paradoxical pseudo-normalisation of ST segments may occur • Type B: Deeply inverted T-waves in leads V1 – V4 OR • Places patients at high 7-day risk for anterior STEMI Wellen’s Type A. Note biphasic T waves. Wellen’s Type B. Note deep inverted T-waves. Flipped T and/or ST depression in aVL: An early sign of inferior STEMI [17] An isolated flipped T-wave and/or ST depression in aVL may be an early sign of inferior STEMI, as it can represent reciprocal changes that occur prior to ST elevation, and helps to differentiate cardiac ischemia from pericarditis. However, there is a differential diagnosis of flipped T in aVL that you need to consider before you assume an impending STEMI that includes LVH with strain (T waves in same direction 1 and avL) and LBBB. • ST depression in aVL had a sensitivity 99% and specificity of 100% for inferior STEMI • 84% of patients with inferior MI have reciprocal changes in aVL Isolated T-wave inversion or ST depression in aVL may be a sign of impending inferior STEMI 4 Troponin facts, myths and misconceptions for low risk chest pain Elevated troponin is not specific for myocardial infarction. One observational study of 615 patients with elevated troponin found that the overall positive predictive value for ACS was only 56% [18]. However, troponin is an indicator of myocardial injury independent of
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
