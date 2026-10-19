@@ -1,0 +1,665 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: diagnostic error in acute abdominal pain
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Efficacy and Safety of Opioid Analgesia in Acute Abdominal Presentations: A Systematic Review.
+Revista: Cureus
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42840810
+DOI: 10.7759/cureus.117534
+URL: https://pubmed.ncbi.nlm.nih.gov/42840810/
+
+Abstract:
+Acute abdominal pain is a common emergency department presentation and is often associated with diagnostic uncertainty. Historically, opioid analgesia was used cautiously because of concern that it could alter physical examination findings and interfere with diagnostic accuracy. Non-opioid and opioid-sparing strategies are increasingly used for pain management. This systematic review evaluates the efficacy and safety of analgesic strategies for acute, non-traumatic abdominal pain, with attention to pain relief, adverse effects, rescue analgesia, and diagnostic accuracy. PubMed, Embase, and the Cochrane Central Register of Controlled Trials were searched for randomized comparative trials of opioid-containing treatment versus non-opioid, opioid-sparing, or placebo strategies. Eligible studies included adults aged 18 years or older with acute abdominal pain or an acute intra-abdominal cause of pain; studies limited to renal or ureteric colic were excluded. Of the 316 records identified, 45 duplicates were removed, 271 records were screened, 26 reports underwent full-text assessment, and 16 randomized trials were included. Across the included trials, opioids provided effective short-term analgesia but were not consistently superior to alternatives. Hydromorphone produced greater pain improvement than intravenous lidocaine at 90 minutes (between-group difference = 1.2 points, 95% confidence interval (CI) = 0.3-2.2) with less rescue analgesia. In acute pancreatitis, median Visual Analog Scale (VAS) reductions at 30 minutes were 45.5 (95% CI = 30-54) with tramadol, 41.5 (95% CI = 34-50) with paracetamol, and 40.5 (95% CI = 30-47) with dexketoprofen, with no statistically significant between-group difference. An erector spinae plane block produced lower pain scores and reduced rescue fentanyl compared with intravenous tramadol. In biliary colic, mean pain relief at 30 minutes was 3.8 (95% CI = 2.4-5.2) with ketorolac and 3.9 (95% CI = 2.4-5.3) with meperidine, with no statistically significant between-group difference. Butorphanol provided greater early pain relief than ketorolac at 15 minutes but not at 30 minutes. Low-dose morphine plus paracetamol did not significantly differ from standard-dose morphine, and intravenous lidocaine and morphine did not significantly differ at the primary 60-minute endpoint. Several placebo-controlled trials assessed diagnostic accuracy using different definitions and patient populations. In one trial, diagnostic accuracy was 86% with morphine and 85% with placebo (difference 1 percentage point, 95% CI = -11 to 12). This imprecise estimate does not rule out a clinically important difference, and the available trials do not establish whether opioids affect diagnostic accuracy across acute abdominal presentations. Some studies identified changes in tenderness, rigidity, or localization after analgesia, but these were not consistently associated with diagnostic error or adverse management outcomes. Adverse effects were generally short-term and included nausea, vomiting, dizziness, and sedation, although most trials were not large enough or followed long enough to reliably evaluate uncommon serious adverse events. Overall, the evidence supports an individualized approach to analgesia. Opioids remain effective when clinically indicated, but are not consistently superior to non-opioid or opioid-sparing alternatives, and analgesia should not be routinely delayed solely because of concern for diagnostic interference.
+
+--- PAPER PUBMED ---
+Título: Rare and Unusual Consequences of Blunt Abdominal Trauma-The Significance of Anatomical Anomalies.
+Revista: Journal of clinical medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42074645
+DOI: 10.1117/1.JMI.8.5.052110
+URL: https://pubmed.ncbi.nlm.nih.gov/42074645/
+
+Abstract:
+Background/Objectives: Blunt abdominal trauma is a frequent challenge in emergency medicine, but its diagnosis and treatment become significantly more complex when rare anatomical anomalies are present. Atypical anatomy may mask symptoms or mimic other acute abdominal conditions, causing delays in treatment. The aim of this paper is to review the literature on six rare anatomical anomalies and their impact on the consequences of blunt abdominal trauma. Methods: A Narrative literature review was undertaken, covering PubMed, Scopus, Web of Science and Google Scholar databases, analysing publications from 1960 to 2025. Case reports and case series (91 patients in total) with confirmed organ damage following blunt trauma in the course of: duodenal diverticulum, Meckel's diverticulum, splenic torsion, rupture or torsion of the accessory spleen, visceral inversion (situs inversus) and horseshoe kidney. Results: Demographic analysis revealed a predominance of perforations of the duodenal diverticulum in older women (mean age 62 years), while younger men predominated in all other groups. The clinical picture was often non-specific or misleading, especially in situs inversus, where the location of pain did not correlate with the typical topography of organs. Contrast-enhanced computed tomography (CECT) has proved to be a key diagnostic tool, surpassing ultrasound/FAST scans due to its ability to provide precise anatomical imaging. Surgical treatment was predominant (100% in Meckel's diverticulum, 95% in duodenal diverticulum), while conservative treatment was effective in horseshoe kidney injuries (94.8%). Mortality was highest in situs inversus (29%) and duodenal diverticulum perforation (20%). The vast majority of these fatal cases occurred in the era of modern computed tomography, suggesting that the therapeutic challenges stem directly from the specific nature of these anomalies, rather than from past diagnostic limitations. Conclusions: Anatomical anomalies significantly modulate the clinical manifestations of blunt abdominal trauma, increasing the risk of diagnostic errors. Early contrast-enhanced computed tomography and awareness of these rare pathologies are crucial for appropriate management and improved prognosis.
+
+--- PAPER PUBMED ---
+Título: CT patterns of acute enterocolitis - a practical guide for the emergency radiologist.
+Revista: Emergency radiology
+Fecha: 2025
+Tipo: Journal Article, Review
+PMID: 41193916
+DOI: 10.1007/s10140-025-02407-5
+URL: https://pubmed.ncbi.nlm.nih.gov/41193916/
+
+Abstract:
+Acute enterocolitis encompasses a broad spectrum of conditions affecting the small and large bowel, frequently presenting with nonspecific symptoms such as abdominal pain, diarrhea, fever, and vomiting. Given the clinical overlap among infectious, inflammatory, immune-mediated, vascular, and miscellaneous etiologies, imaging plays a pivotal role in refining the differential diagnosis, identifying complications, and guiding timely management. Computed tomography (CT), owing to its accessibility and rapid acquisition, remains the cornerstone of imaging evaluation in acute settings. CT enables detailed assessment of bowel wall morphology, disease distribution, vascular involvement, and extraintestinal manifestations. While ancillary imaging modalities have a role in select scenarios, this review emphasizes a CT-focused approach tailored for acute care. We present a comprehensive, pattern-based review of the CT imaging features across various forms of acute enterocolitis, highlighting diagnostic hallmarks, interpretive pitfalls, and clinically relevant mimics. The included cases were encountered by the radiologists in their day-to day practice and included based on their ability to highlight the majority representative features of each pathology. Through the integration of structured tables, illustrative cases, and diagnostic tips, this article aims to enhance the radiologist's ability to recognize key imaging signatures, avoid diagnostic errors, and contribute meaningfully to multidisciplinary patient care.
+
+--- PAPER PUBMED ---
+Título: Diagnostic errors in acute cholecystitis: a scoping review.
+Revista: Diagnosis (Berlin, Germany)
+Fecha: 2026
+Tipo: Journal Article, Scoping Review
+PMID: 41091049
+DOI: 10.1515/dx-2025-0061
+URL: https://pubmed.ncbi.nlm.nih.gov/41091049/
+
+Abstract:
+Diagnostic errors in acute cholecystitis significantly impact patient safety. Misdiagnosis, including both false negatives and false positives, is common due to the complex nature of abdominal pain and the overlapping symptoms of various conditions. This scoping review examines the definition, prevalence, and contributing factors of diagnostic errors in acute cholecystitis, emphasizing the need for improved diagnostic processes. Employing the PRISMA-ScR framework, this review examined definitions and factors contributing to diagnostic errors in cholecystitis. It highlights the variability in diagnostic criteria, with many studies relying on clinical judgment rather than standardized guidelines such as the Tokyo Guidelines. False negative diagnoses are often due to hypoalbuminemia, inconspicuous imaging findings, and the clinical setting, whereas false positives often result from misinterpreted imaging findings and failure to differentiate from other conditions. This review found that approximately 30 % of acute cholecystitis cases may be missed (false negative), and 20-36 % of cases initially diagnosed can be incorrect (false positive). Adherence to standardized guidelines and improved recognition of atypical presentations could reduce diagnostic errors. Future research should aim for large-scale studies with clear diagnostic criteria and detailed clinical data to enhance diagnostic accuracy and patient safety.
+
+--- PAPER PUBMED ---
+Título: Epiploic appendagitis: An overlooked cause of acute abdominal pain.
+Revista: World journal of gastroenterology
+Fecha: 2025
+Tipo: Journal Article, Review
+PMID: 40900773
+DOI: 10.3748/wjg.v31.i32.109897
+URL: https://pubmed.ncbi.nlm.nih.gov/40900773/
+
+Abstract:
+Epiploic appendagitis is a rare, often underrecognized cause of acute abdominal pain. Misdiagnosis can lead to unnecessary hospitalization, antibiotic use, or surgical intervention. Advances in imaging have improved the recognition of this self-limiting condition, but clinical awareness remains critical. To provide a comprehensive update on the epidemiology, anatomy, pathogenesis, clinical presentation, diagnostic strategies, differential diagnosis, and management of epiploic appendagitis, emphasizing its distinguishing features from other causes of acute abdomen. A review of the literature was conducted, focusing on the clinical characteristics, imaging findings, differential diagnoses, and evidence-based management strategies for epiploic appendagitis. Epiploic appendagitis typically presents with acute, localized, non-radiating abdominal pain without significant systemic symptoms. Diagnosis is heavily reliant on imaging, with computed tomography (CT) being the gold standard. Hallmark CT findings include a small, fat-density ovoid lesion adjacent to the colon, with the usual characteristic ring and dot signs. Differential diagnoses include mainly diverticulitis, appendicitis, omental infarction, and many other causes. Management is predominantly conservative with nonsteroidal anti-inflammatory drugs and observation, reserving surgical intervention for rare, complicated cases. Recognizing the clinical and imaging features of epiploic appendagitis is essential to avoid unnecessary interventions. Increased clinician awareness, coupled with judicious use of imaging, facilitates timely diagnosis and appropriate management, ensuring optimal patient outcomes.
+
+--- PAPER PUBMED ---
+Título: Hemorrhagic necrosis of omental cysts misdiagnosed as torsion of ovarian cysts: a case report and literature review.
+Revista: BMC women's health
+Fecha: 2025
+Tipo: Journal Article, Case Reports, Review
+PMID: 40660240
+DOI: 10.1186/s12905-025-03893-y
+URL: https://pubmed.ncbi.nlm.nih.gov/40660240/
+
+Abstract:
+Omental cysts are extremely rare intra-abdominal lesions that are typically benign and asymptomatic. When hemorrhagic necrosis occurs, it may mimic other acute abdominal emergencies, such as adnexal torsion. Omental cysts are easily misdiagnosed as other diseases because of their lack of specific clinical symptoms and signs, thus posing a diagnostic challenge. We report a 32-year-old woman presenting with acute lower abdominal pain and fever, initially diagnosed with ovarian cyst torsion. Imaging revealed a large pelvic cystic mass; however, laparoscopic exploration identified a hemorrhagic omental cyst with necrosis and inflammatory adhesion. Complete excision was performed, and histopathology confirmed a benign omental cyst with hemorrhage and necrosis. The patient recovered uneventfully and showed no recurrence over 11 months of follow-up. Analyzing this case allowed us to delve into the causes of misdiagnosis of omental cysts. This case emphasizes the diagnostic difficulty posed by complicated omental cysts and highlights the necessity of considering omental cyst in women presenting with acute abdomen and pelvic masses. Imaging aids diagnosis, but surgical exploration is the most direct and reliable method for confirming the cause of abdominal pain. Timely laparoscopic intervention facilitates accurate diagnosis and effective management.
+
+--- PAPER PUBMED ---
+Título: Artificial intelligence in gynecologic and obstetric emergencies.
+Revista: International journal of emergency medicine
+Fecha: 2025
+Tipo: Journal Article, Review
+PMID: 39924503
+DOI: 10.1308/rcsbull.2021.111
+URL: https://pubmed.ncbi.nlm.nih.gov/39924503/
+
+Abstract:
+Artificial intelligence (AI) uses a process by which machines perform human-like functions such as automated clinical decisions. This may operate efficiently in gynecologic and obstetric emergencies. We aimed to review the role and applications of AI in gynecologic and obstetric emergencies. A literature search was carried out in November 2023 in PubMed, Cochrane Library and Google Scholar using the keywords combination of "artificial intelligence, gynecology and obstetrics". Relevant articles were selected and read. Reference lists of the selected articles were also searched. The literature demonstrated the role of AI to improve healthcare in emergency settings in several aspects such as diagnostic imaging, improving predictions in emergencies, and improving planning and resource allocation for emergency services. AI works objectively, overcoming human biases in decision-making. Creating interconnected data registries for AI will likely enhance its performance. Validation research in emergency settings has shown that AI-prediction tools perform more accurately compared with the estimation of risk and outcomes by gynecologists and obstetricians in emergency situations including endometriosis and acute abdominal pain. There was acceptance of AI and its potential benefits. Ethical dilemmas of using AI include data governance, responsibility for errors, and security issues. Providing training on AI to healthcare professionals working in emergency departments is needed. Healthcare professionals should educate themselves about the anticipated role of AI in gynecologic and obstetric emergencies, its indications, limitations, and ethical considerations so that they can take steps towards its application in their future practice using defined guidelines. WHY IS THIS REVIEW IS IMPORTANT?: The use of AI in healthcare has created polarized thoughts among emergency medicine professionals. This review is an effort to compare the pros and cons of using AI in gynecologic and obstetric emergencies so that AI can be properly applied in these specialities. WHAT DOES THIS REVIEW SHOW?: This review shows that there are several research studies in gynecology and obstetrics emergencies with positive points in favor of using AI in emergencies like acute abdominal and pelvic pain, and endometriosis. There are some reservations from the practitioners to use it due to lack of understanding of its nature, advantages and limitations. By narrating the findings of AI-related publications in gynecology and obstetrics emergency, we propose their applications and their limitations. WHAT ARE THE KEY FINDINGS?: AI can help in critical decision-making in emergency gynecologic and obstetric situations under the conditions of correct input information and human supervision. So, AI can assist gynecologists in deciding which treatment approach to use in emergencies and it may also reduce the burden on human professionals and save time by prompt interventional decisions. HOW IS PATIENT CARE IMPACTED?: Using AI with the input of trained medical professionals and software engineers, decision-making in gynecologic and obstetric emergencies can be made more efficient. AI-assisted tools can predict the outcomes of patients rapidly, saving time and avoiding delays in directing further care.
+
+--- PAPER PUBMED ---
+Título: When Not to Operate on Acute Cases-A Surgeon's Perspective on Rapid Assessment of Emergency Abdominopelvic Computed Tomography.
+Revista: Journal of imaging
+Fecha: 2023
+Tipo: Journal Article, Review
+PMID: 37888307
+DOI: 10.2214/AJR.10.4340
+URL: https://pubmed.ncbi.nlm.nih.gov/37888307/
+
+Abstract:
+Clinical problem solving evolves in parallel with advances in technology and discoveries in the medical field. However, it always reverts to basic cognitive processes involved in critical thinking, such as hypothetical-deductive reasoning, pattern recognition, and compilation models. When dealing with cases of acute abdominal pain, clinicians should employ all available tools that allow them to rapidly refine their analysis for a definitive diagnosis. Therefore, we propose a standardized method for the quick assessment of abdominopelvic computed tomography as a supplement to the traditional clinical reasoning process. This narrative review explores the cognitive basis of errors in reading imaging. It explains the practical use of attenuation values, contrast phases, and windowing for non-radiologists and details a multistep protocol for finding radiological cues during CT reading and interpretation. This systematic approach describes the salient features and technical tools needed to ascertain the causality between clinical patterns and abdominopelvic changes visible on CT scans from a surgeon's perspective. It comprises 16 sections that should be read successively and that cover the entire abdominopelvic region. Each section details specific radiological signs and provides clear explanations for targeted searches, as well as anatomical and technical hints. Reliance on imaging in clinical problem solving does not make a decision dichotomous nor does it guarantee success in diagnostic endeavors. However, it contributes exact information for supporting the clinical assessments even in the most subtle and intricate conditions.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Evaluation of acute abdomen - Differential diagnosis of symptoms | BMJ Best Practice US
+URL: https://bestpractice.bmj.com/topics/en-us/503
+Score: 0.6609831
+
+Texto:
+[Skip to search](#mainSearchField)
+
+
+# Evaluation of acute abdomen
+
+[ Menu Close](#)
+
+* Overview 
+* Theory 
+* Emergencies 
+* Diagnosis 
+* Resources 
+
+[![padlock-locked](/images/padlock-lock.svg)Log in or subscribe to access all of BMJ Best Practice](/log-in)
+
+Evidence last reviewed: 17 Sep 2026
+
+Topic last updated: 07 Jul 2026
+
+## Summary
+
+Acute abdomen refers to the rapid onset of severe symptoms of abdominal pathology. It may indicate a potentially life-threatening condition that requires urgent surgical intervention. Acute abdominal pain is a common reason for emergency department attendance.[[1]](#referencePop1)Hooker EA, Mallow PJ, Oglesby MM. Characteristics and trends of emergency department visits in the United States (2010-2014). J Emerg Med. 2019 Mar;56(3):344-51. http://www.ncbi.nlm.nih.gov/pubmed/30704822?tool=bestpractice.com
+
+### Clinical features
+
+Immediate assessment should focus on distinguishing patients with true acute abdomen that requires urgent surgical intervention from patients who can initially be managed conservatively.[[2]](#referencePop2)Silen W. Cope's early diagnosis of the acute abdomen. 22nd ed. New York, NY: Oxford University Press; 2010. Data from the UK suggest that access to an experienced surgeon reduces unnecessary admissions.[[3]](#referencePop3)Association of Surgeons of Great Britain and Ireland. Commissioning guide: emergency general surgery (acute abdominal pain). Apr 2014 [internet publication]. https://www.rcseng.ac.uk/library-and-publications/rcs-publications/docs/emergency-general-guide
+
+A patient with acute surgical pathology may deteriorate rapidly; patients with severe, unremitting symptoms warrant thorough investigation and close monitoring.
+
+Pain may:
+
+* Be located in any quadrant of the abdomen
+* Be intermittent, sharp or dull, achy, or piercing
+* Radiate from a focal site
+* Be accompanied by nausea and vomiting
+
+Acute abdomen can occur without pain in older people, children, patients who are immunocompromised, and women in the last trimester of pregnancy.
+
+### Diagnostic workup
+
+An acute abdomen is diagnosed by a combination of history, physical exam, laboratory results and imaging.
+
+Diagnostic laparoscopy can be considered in selected patients.[[4]](#referencePop4)Stefanidis D, Richardson WS, Chang L, et al. The role of diagnostic laparoscopy for acute abdominal conditions: an evidence-based review. Surg Endosc. 2009 Jan;23(1):16-23. http://www.ncbi.nlm.nih.gov/pubmed/18814014?tool=bestpractice.com [[5]](#referencePop5)Maggio AQ, Reece-Smith AM, Tang TY, et al. Early laparoscopy versus active observation in acute abdominal pain: systematic review and meta-analysis. Int J Surg. 2008 Oct;6(5):400-3. http://www.journal-surgery.net/article/S1743-9191(08)00086-1/fulltext  http://www.ncbi.nlm.nih.gov/pubmed/18760983?tool=bestpractice.com [[6]](#referencePop6)Society of American Gastrointestinal and Endoscopic Surgeons. Guidelines for diagnostic laparoscopy. Apr 2010 [internet publication]. https://www.sages.org/publications/guidelines/guidelines-for-diagnostic-laparoscopy
+
+### Analgesia
+
+Give patients adequate analgesia.[[3]](#referencePop3)Association of Surgeons of Great Britain and Ireland. Commissioning guide: emergency general surgery (acute abdominal pain). Apr 2014 [internet publication]. https://www.rcseng.ac.uk/library-and-publications/rcs-publications/docs/emergency-general-guide  One meta-analysis of randomized controlled trials that included adult patients with acute abdominal pain found that opioid analgesia does not increase the risk of diagnosis error or treatment decision error, and improves patient comfort.[[7]](#referencePop7)Manterola C, Vial M, Moraga J, et al. Analgesia in patients with acute abdominal pain. Cochrane Database Syst Rev. 2011 Jan 19;(1):CD005660. http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005660.pub3/full  http://www.ncbi.nlm.nih.gov/pubmed/21249672?tool=bestpractice.com  [[ ![Cochrane Clinical Answers logo](/images/Cochrane_Library_Logo_inline.jpg) ]](#) In people with acute abdominal pain with an undiagnosed cause, how does the use of opioid analgesia affect the clinical evaluation process?/cca.html?targetUrl=http://cochraneclinicalanswers.com/doi/10.1002/cca.536/fullShow me the answer
+
+### Special groups
+
+Abdominal pain in older people, patients who are immunocompromised, and pregnant women often presents atypically, which can lead to delayed diagnosis of life-threatening abdominal pathology.[[8]](#referencePop8)Chen EH, Mills AM. Abdominal pain in special populations. Emerg Med Clin North Am. 2011 May;29(2):449-58. http://www.ncbi.nlm.nih.gov/pubmed/21515187?tool=bestpractice.com
+
+Older people
+
+* Comorbid conditions or medications used to treat them may affect an older patient's ability to mount a characteristic physiologic response.
+* Older patients are at higher risk for more severe disease due to decreased immune function.[[9]](#referencePop9)Ragsdale L, Southerland L. Acute abdominal pain in the older adult. Emerg Med Clin North Am. 2011 May;29(2):429-48. http://www.ncbi.nlm.nih.gov/pubmed/21515186?tool=bestpractice.com
+* Central and peripheral nervous systems are affected by aging. Conditions such as dementia can restrict an older person's ability to communicate problems, and decreased peripheral nervous system function can alter perception of pain and temperature, making diagnosis and management more difficult.
+* One study of patients with perforated ulcers found that only 21% of older patients presented with peritonitis.[[9]](#referencePop9)Ragsdale L, Southerland L. Acute abdominal pain in the older adult. Emerg Med Clin North Am. 2011 May;29(2):429-48. http://www.ncbi.nlm.nih.gov/pubmed/21515186?tool=bestpractice.com
+
+Pregnant women
+
+* The physical and physiologic changes associated with pregnancy may present a challenge to diagnosis and treatment.
+* The enlargement of the uterus, which displaces and compresses intra-abdominal organs, and the laxity of the abdominal wa
+
+--- FUENTE WEB ---
+Título: Assessing Abdominal Pain in the ED: Ensuring Safe Management & Care
+URL: https://www.ebmedicine.net/topics/abdominal/abdominal-pain
+Score: 0.62824833
+
+Texto:
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![Click to search](/template_images/_ebm_icon_search.png)](#_ebm_global_topBar_searchMin)
+
+[![navigation bar background](/template_images/_icon_bars_trans.png)](#)
+
+[Browse Topics](/topics) [Earn CME Credits](/cme) [FOAMed](https://foamed.ebmedicine.net/) [Pathways](/pathways) [About](/About) [Contact](/contact.php)
+[Log In](/login.php)
+
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![](/template_images/_icon_grid_trans.png) **Store**](#) 
+
+[Emergency Medicine Practice](/EMPinfo) [Pediatric Emergency Medicine Practice](/PEMPinfo) [Evidence-Based Urgent Care](/urgent-care-CME) [Savings & Upgrades](/subscribe) [Courses](/store/Courses-and-LLSAs) [LLSA Study Guides](/LLSA) [Stroke CME](/store/stroke) [Trauma CME](/store/trauma) [State-Required CME](/CME-Requirements ) [View All Products](/store)
+
+[![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png) 678-366-7933](tel:1-678-366-7933)[![Click to check your cart](/template_images/_ebm_cart_icon.png)0](/store.php?paction=viewCart)[**Log In**](/login.php) [**Subscribe**](/subscribe)
+
+* [Browse Topics](/topics)
+* [Earn CME Credits](#)
+
+  [Stroke](/cme/stroke) [Cardiac](/cme/cardiovascular) [Trauma](/cme/trauma) [Pediatric Trauma](/cme.php?paction=setFilterOpts&sortBy=publication_date+DESC&resultsPerPg=25&available_to=all_cme&products%5B%5D=pemp&categories%5B%5D=Trauma) [Urgent Care](/CME/evidence-based-urgent-care) [All CME Tests](/cme)
+* [FOAMed](https://foamed.ebmedicine.net/)
+* [Pathways](/pathways)
+* [About](/About)
+* [Contact](/contact.php)
+
+* [**Resources For**](#)
+
+  [Emergency Clinicians](/emergency-clinicians) [Urgent Care Clinicians](/urgent-care-clinicians) [Emergency PAs & NPs](/apc) [Residents](/Residents) [Groups & Hospitals](/Groups)
+
+[Home](/) > [All Topics](/topics) > Assessing Abdominal Pain in Adults: A Rational, Cost-Effective, and Evidence-Based Strategy
+
+![](/publicationImages/EMP-Heading.png "Emergency Medicine Practice")
+
+# Assessing Abdominal Pain in Adults: A Rational, Cost-Effective, and Evidence-Based Strategy
+
+|  |
+| --- |
+|  |
+
+[**Log in**](/login.php)
+
+[**Subscribe**](/subscribe)
+
+[**Free Sample**](javascript:void(0);)
+
+![](/template_images/New-TOC-desktop-icon.png)![](/template_images/New-TOC-mobile-icon.png)
+
+Table of Contents![](/template_images/icon-close.png)
+
+About This Issue
+
+## Patients with abdominal pain are common in the ED, but you need a strategy for quickly identifying patients who are at high risk for life-threatening causes of pain, and you need to order testing and consultation that improves the accuracy of your clinical assessment.
+
+## What are the 4 groups of patients with abdominal pain who are frequently misdiagnosed?
+
+## Why do elderly patients with appendicitis often have little or no abdominal pain?
+
+## In women of childbearing age, is there a realistic algorithm to distinguish gastroenteritis from appendicitis, ectopic pregnancy, and PID?
+
+## What role should prior abdominal surgeries have in assessing abdominal pain?
+
+## What are the 18 high-yield historical questions to ask patients who present with abdominal pain?
+
+## Fever, high WBC, low blood pressure, tachycardia: how reliable are these in pointing to a cause for abdominal pain?
+
+## Pain location, migration, tenderness, and guarding: what each one can (and can’t) tell you about what is going on.
+
+## When pelvic and testicular exams are must-dos.
+
+## What are the highest-yield lab tests? CBC? Lipase or amylase? CRP?
+
+## When x-ray is all you need, and when CT is a must.
+
+## Will opioids make diagnosis more difficult?
+
+Table of Contents
+
+1. [Abstract](#Abstract)
+2. [Case Presentations](#Case-Presentations)
+3. [Introduction](#Introduction)
+4. [Critical Appraisal of the Literature](#Critical-Appraisal-of-the-Literature)
+5. Epidemiology
+6. Pathophysiology
+7. Differential Diagnosis
+   1. The Elderly
+   2. Patients With Human Immunodeficiency Virus
+   3. Women of Childbearing Age
+   4. Patients With Prior Abdominal Surgery
+8. Emergency Department Evaluation
+   1. History
+   2. Physical Examination
+      1. Vital Signs
+         * Temperature
+         * Respiratory Rate
+         * Blood Pressure
+         * Heart Rate
+      2. Abdominal Examination
+         * Palpation
+         * Location of Tenderness
+         * Guarding
+         * Peritoneal Signs
+         * Signs: Murphy, Psoas, Obturator, Rovsing
+         * Auscultation
+      3. Pelvic Examination
+      4. Rectal Examination
+      5. Testicular Examination
+      6. Serial Examinations
+9. Diagnostic Studies
+   1. Laboratory Testing
+      1. Complete Blood Cell Count
+      2. C-Reactive Protein
+      3. Lipase and Amylase
+      4. Lactate
+      5. Urinalysis
+   2. Imaging Studies
+      1. Plain Films
+      2. Views
+      3. Ultrasound
+      4. Computed Tomography
+      5. Magnetic Resonance Imaging
+      6. Electrocardiogram
+10. Treatment
+    1. Analgesia for Acute Abdominal Pain
+11. Controversies and Cutting Edge
+    1. Clinical Decision Rules
+    2. Clinical Policies
+12. Disposition
+    1. Observation Units
+13. Summary
+14. Risk Management Pitfalls in Evaluating Patients With Abdominal Pain
+15. Time- and Cost-Effective Strategies
+16. Case Conclusions
+17. Clinical Pathways
+    1. Clinical Pathway for Patients Aged < 50 Years With Abdominal Pain
+    2. Clinical Pathway for Patients Aged > 50 Years With Abdominal Pain
+    3. Clinical Pathway for Women of Childbearing Potential With Lower Abdominal Pain
+18. [Tables, Figures and Appendix](#Tables-Figures-and-Appendix)
+    1. [Table 1. Abdominal Pain: Dangerous Mimics](#Table-1-Abdominal-Pain-Dangerous-Mimics)
+    2. Table 2. Important Extra-Abdominal Causes of Abdominal Pain
+    3. Table 3. Disease Spectrum in Acute Abdominal Pain, by Age
+    4. Table 4. High-Yield Historical Questions in Abdominal Pain
+    5. Table 5. Indications for Abdominal Plain Films for Abdominal Pain
+    6. Table 6. Alvarado Score
+    7. Figure 1. S
+
+--- FUENTE WEB ---
+Título: Development and implementation of an etiology-based diagnostic framework for acute abdominal pain in emergency settings | Hereditas | Springer Nature Link
+URL: https://link.springer.com/article/10.1186/s41065-025-00507-3
+Score: 0.62742686
+
+Texto:
+Advertisement
+
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/41065/article&sz=728x90&pos=top&articleid=s41065-025-00507-3)
+![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
+
+# Development and implementation of an etiology-based diagnostic framework for acute abdominal pain in emergency settings
+
+You have full access to this open access article
+
+![](https://media.springernature.com/w72/springer-static/cover-hires/journal/41065?as=webp)
+
+1829 Accesses
+
+[Explore all metrics](/article/10.1186/s41065-025-00507-3/metrics)
+
+## Abstract
+
+### Background
+
+Diagnostic checklists have been demonstrated to reduce errors in clinical reasoning. Building on previous validation studies, this research presents the development and clinical application of an etiology-based diagnostic framework for evaluating acute abdominal pain. The framework integrates a structured checklist of abdominal pain etiologies with a process-oriented diagnostic strategy, aiming to enhance diagnostic accuracy and clinical outcomes. This approach also serves as a potential model for the creation of diagnostic tools applicable to other symptom complexes encountered in emergency medicine.
+
+### Methods
+
+A cognitive task analysis (CTA) was conducted with participation from five emergency medicine experts employing a think-aloud methodology. The experts described their diagnostic reasoning processes and queried relevant clinical data to extract foundational diagnostic principles. Based on these findings, a checklist categorizing etiologies of abdominal pain was constructed, drawing from anatomical and diagnostic considerations. The clinical utility of the checklist was evaluated through its application to a representative complex case.
+
+### Results
+
+The diagnostic checklist was organized into five principal etiological categories: local organ disorders, diseases of adjacent organs, systemic diseases, psychogenic disorders, and gynecological conditions. Its implementation facilitated the accurate identification of atypical acute renal infarction in a diagnostically challenging case, enabling prompt clinical intervention.
+
+### Conclusions
+
+CTA provides a robust method for modeling expert diagnostic reasoning and supports the development of structured, etiology-based diagnostic tools. This framework enhances diagnostic precision for individuals presenting with acute abdominal pain in emergency settings and may inform the development of similar tools for other clinical presentations.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png)
+
+### [Assessing clinical reasoning ability in fourth-year medical students via an integrative group history-taking with an individual reasoning activity](https://link.springer.com/article/10.1186/s12909-022-03649-4?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-030-26630-1?as=webp)
+
+### [Knowledge Based Decision Support System for Detecting and Diagnosis of Acute Abdomen Using Hybrid Approach](https://link.springer.com/chapter/10.1007/978-3-030-26630-1_6?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-031-79150-5?as=webp)
+
+### [Acute Abdomen in Children](https://link.springer.com/rwe/10.1007/978-3-031-79150-5_84?fromPaywallRec=false)
+
+### Explore related subjects
+
+## Introduction
+
+Acute abdominal pain is among the most frequently encountered symptoms in emergency medicine. In the United States and Europe, approximately 8–9% of patients presenting to emergency departments report abdominal pain as a chief complaint [[1](/article/10.1186/s41065-025-00507-3#ref-CR1 "Daniels J, Griffiths M, Fisher E. Assessment and management of recurrent abdominal pain in the emergency department. Emerg Med J. 2020;37(8):515–21. Epub 2019 Dec 6. PMID: 31810974. 
+                  https://doi.org/10.1136/emermed-2019-209113
+                  
+                ")]. The etiology of acute abdominal pain is often complex, with potential causes arising from both intra-abdominal and extra-abdominal sources, involving multiple organ systems. The majority of cases are characterized by a sudden onset and rapid progression, and may involve various life-threatening conditions [[2](/article/10.1186/s41065-025-00507-3#ref-CR2 "Fagerström A, Paajanen P, Saarelainen H, Ahonen-Siirtola M, Ukkonen M, Miettinen P, Paajanen H. Non-specific abdominal pain remains as the most common reason for acute abdomen: 26-year retrospective audit in one emergency unit. Scand J Gastroenterol. 2017;52(10):1072–7. Epub 2017 Jun 28. PMID: 28657380.")]. Consequently, the diagnostic process is frequently complicated by uncertainty and the risk of diagnostic error [[3](/article/10.1186/s41065-025-00507-3#ref-CR3 "Osterwalder I, Özkan M, Malinovska A, Nickel CH, Bingisser R. Acute abdominal pain: missed diagnoses, extra-abdominal conditions, and outcomes. J Clin Med. 2020;9(4):899. 10.3390/jcm9040899. Erratum in: J Clin Med. 2023;12(4):1403. PMID: 32218137; PMCID: PMC7230393. 
+                  https://doi.org/10.3390/jcm12041403
+                  
+                "), [4](/article/10.1186/s41065-025-00507-3#ref-CR4 "Pan HM, Li HL, Shen ZS, Guo H, Zhao Q, Li JG. Observation of the effectiveness of a diagnostic model for acute abdominal pain based on the etiology checklist and process thinking. Risk Manag Healthc Policy. 2021;14:835–45. PMID: 33664605; PMCID: PMC7924112.")].
+
+Although the *Practice Guidelines for Primary Care of Acute Abdomen* (2015) developed by the Japanese Society for Abdominal Emergency Medicine and the Dutch *Guideline for the Diagnostic Pathway in Patients with Acute Abdominal Pain* provide structured approaches to diagnosis [[5](/article/10.1186/s41065-025-00507-3#ref-CR5 "Mayumi T, Yoshida M, Tazuma S, Furukawa A, Nishi
+
+--- FUENTE WEB ---
+Título: The Future of Acute Abdomen Management in Emergency Care
+URL: https://www.medscape.com/viewarticle/future-acute-abdomen-management-emergency-care-2024a1000jx4
+Score: 0.5942929
+
+Texto:
+![](https://www.medscape.com/mspx/tr.gif?e=nsps)
+![Medscape Logo](https://img.medscapestatic.com/pi/logos/mscp-logo.png)
+![](//img.wbmdstatic.com/medscape_v1_static_vue/091e9c5e8270faf1/client/img/medscape-ai-emblem-DPNF9g6V.svg)
+![Medscape AI](//img.wbmdstatic.com/medscape_v1_static_vue/091e9c5e8270faf1/client/img/medscape-ai-emblem-DPNF9g6V.svg)
+
+COMMENTARY
+
+# The Future of Acute Abdomen Management in Emergency Care
+
+Sylvain Beorchia, MD
+
+## DISCLOSURES
+
+Gastroenterologist; Consultant, Yansys Medical, Vichy, France
+
+Disclosure: Sylvain Beorchia, MD, discloses the following relevant financial relationships:   
+Shareholder: Yansys Medical
+
+Gastroenterologist; Consultant, Yansys Medical, Vichy, France
+
+Disclosure: Sylvain Beorchia, MD, discloses the following relevant financial relationships:   
+Shareholder: Yansys Medical
+
+The debate between traditional methods and modern technology in gastrointestinal emergency medicine can be seen in two recent publications. One, a review article by American surgeons Selwyn O. Rogers and Orlando C. Kirton, [published in*The New England Journal of Medicine*](https://www.nejm.org/doi/abs/10.1056/NEJMra2304821), advocated for the surgeon’s pivotal role in abdominal emergencies, supported by imaging, just like in the early 20th century. The other, [published in the *Canadian Association of Radiologists Journal*](https://journals.sagepub.com/doi/10.1177/08465371241250197), anticipated the imminent arrival of artificial intelligence (AI) in managing acute abdomen and minimizing human bias.
+
+Acute abdominal pain accounts for 4%-10% of emergency department visits, with hospitalization admission rates ranging from 18% to 42%. Today, the first-line physicians — emergency doctors or advanced practice professionals (nurses or physician assistants) — are often the first to evaluate a patient with acute abdominal pain.
+
+These clinicians may administer analgesics, order laboratory tests, and request diagnostic imaging. On the basis of the results, they decide when to call for a surgical consultation. Despite advancements in imaging techniques, diagnostic errors and delays in surgical intervention for abdominal emergencies persist. This article summarizes the key points from these two North American reviews, with a synthesis of the findings.
+
+### Importance of Analgesia
+
+The myth that analgesia should not be prescribed for patients with abdominal pain in the emergency room because it masks the diagnosis has long been debunked. Studies and meta-analyses conducted between 2000 and 2015 highlighted the superiority of opioid treatment over placebo for pain relief, without increasing diagnostic errors in properly medicated patients. These studies also showed no worsening of outcomes and improved comfort for patients awaiting test results and surgical evaluation. The rapid administration of protocolized analgesic treatments, such as paracetamol, nefopam, [tramadol](https://reference.medscape.com/drug/ultram-conzip-tramadol-343324), [morphine](https://reference.medscape.com/drug/ms-contin-astramorph-morphine-343319) hydrochloride, and NSAIDs (in the absence of [sepsis](https://emedicine.medscape.com/article/234587-overview)), is essential for quality care. A patient who is not in pain is more easily assessable and transportable for a CT scan or ultrasonography.
+
+During abdominal pain management, it’s important for the physician and emergency nurses to repeat clinical exams, including hemodynamic monitoring and pain scale assessments. The progression of some conditions may be slow or, conversely, may worsen rapidly. Rogers and Kirton strongly recommended administering modest doses of analgesics for patients with acute abdominal pain.
+
+### Key Role of Imaging
+
+With the decline of plain abdominal radiography, contrast-enhanced abdominopelvic CT has become the primary imaging technique for accurately identifying intra-abdominal inflammation, perforation, or ischemia. It has a high predictive value for specific abdominal diagnoses. In [one study](https://www.ajronline.org/doi/10.2214/ajr.174.5.1741391), it increased diagnostic certainty, reduced hospital admissions by 23.8%, and led to faster surgical interventions. However, contrast-enhanced CT is harmful in cases of renal failure, and noncontrast abdominal and pelvic CTs are about [30% less accurate](https://jamanetwork.com/journals/jamasurgery/fullarticle/2804484). Early vascular imaging in contrast-enhanced exams is particularly useful for evaluating acute abdomen and identifying secondary diagnoses.
+
+Rapid interpretation of cross-sectional images is vital so that surgical consultation can begin promptly. A wait of more than 2 hours for a final interpretation by a radiologist is associated with an increased risk for systemic complications and death. Teleradiology has become an indispensable tool for some emergency departments, offering 24/7 access to specialized radiologists, particularly in digestive imaging, optimizing resources for smaller hospitals. However, it also has drawbacks, such as a lack of direct communication with the radiologist, degraded image quality depending on network congestion, and diluted legal responsibility.
+
+Teleradiology is a valuable tool for improving access to rapid and specialized diagnostics in emergency rooms, but it must be well supervised to avoid technical, communication, and legal problems. The number of CT scans performed on patients presenting with new, nontraumatic acute abdominal pain has steadily increased over the past few decades. However, abdominal imaging may not reveal all intra-abdominal diseases, and in one study, 20% of exams were [deemed unnecessary](https://academic.oup.com/intqhc/article-abstract/30/9/678/4969898?redirectedFrom=fulltext&login=false) by third-party radiologists. Yet, CT has become a legal safeguard, reassuring all involved physicians when the results are normal and aiding decisions regarding hospitalization for observation.
+
+### Imaging in Older Adults
+
+CT s
+
+--- FUENTE WEB ---
+Título: Diagnostic errors related to acute abdominal pain...
+URL: https://www.ovid.com/00041859-201604000-00004
+Score: 0.59089786
+
+Texto:
+Diagnostic errors occurred in 35 of 100 high-risk cases. The most frequently missed diagnoses were gallbladder pathology (n=10) and urinary infections (n=5). (
+
+--- FUENTE WEB ---
+Título: Abdominal Pain - M4 Curriculum | SAEM
+URL: https://www.saem.org/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m4-curriculum/group-m4-approach-to/approach-to-abdominal-pain
+Score: 0.5746579
+
+Texto:
+[![](/images/default-source/academy-images/academy-logos-rev/cdem-600x300.png?sfvrsn=9a3ab567_3 "CDEM 600x300")](/about-saem/academies-interest-groups-affiliates2/cdem)
+
+Visit us on [Twitter](https://twitter.com/saemonline) [LinkedIn](https://www.linkedin.com/company/society-for-academic-emergency-medicine) [Facebook](https://www.facebook.com/SAEMonline) [YouTube](https://www.youtube.com/channel/UCFyc9y4eYZ-e5gtO3xAS19w) [Instagram](https://www.instagram.com/saemonline)
+
+* [Join/Renew](/join)
+* [Careers](/careers)
+
+Profile
+
+* [Logout](/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m4-curriculum/group-m4-approach-to/approach-to-abdominal-pain/SignOut/)
+
+# Abdominal Pain
+
+[Home](/)   /  [About SAEM](/about-saem)   /  [Academies, Interest Groups, & Affiliates](/about-saem/academies-interest-groups-affiliates2)   /  [CDEM](/about-saem/academies-interest-groups-affiliates2/cdem)   /  [For Students](/about-saem/academies-interest-groups-affiliates2/cdem/for-students)   /  [CDEM Curriculum](/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education)   /  [M4 Curriculum](/about-saem/academies-interest-groups-affiliates2/cdem/for-students/online-education/m4-curriculum)   /  Abdominal Pain
+
+### Author Credentials
+
+**Author:**Luz Silverio, MD, Santa Clara Valley Medical Center
+
+**Editor:** Jared Strote, MD, University of Washington
+
+**Last Updated:**September 2019
+
+---
+
+### Case Study
+
+**Case Study:** A 43 year-old female with a past medical history of cesarean section presents with four hours of abdominal pain. Pain is located in the right upper quadrant with radiation to the epigastrium and associated with 2 episodes of nonbloody, nonbilious emesis. She ate a cheeseburger with fries and had two beers shortly before the onset of pain. She has had pain like this in the past but this is the first time it has persisted despite acetaminophen. She has no family history, drinks 8-9 alcoholic beverages per week, and is sexually active with her husband. On examination, her vitals are within normal limits and stable  and she has tenderness to palpation to the right upper quadrant (positive Murphy’s) without  rebound or peritoneal signs. She has no CVA tenderness or lower abdominal tenderness. The remainder of her examination is  normal.
+
+---
+
+### Objectives
+
+By the end of this module, the student will be able to:
+
+1. Recognize physical exam findings requiring emergent resuscitation in the patient presenting with abdominal pain
+2. Create a broad differential for abdominal pain, including extra-abdominal causes
+3. Recognize the critical diagnoses for abdominal pain
+4. Discuss the advantages and limitations of different radiologic modalities used in the evaluation of abdominal pain
+5. Discuss the treatment and disposition for the critical diagnoses for abdominal pain
+
+---
+
+### Introduction
+
+Abdominal pain is the most common emergency department (ED) chief complaint in adult patients. In the US, abdominal pain is responsible for more than 7 million  ED visits per year. Despite this frequency, it remains a challenging complaint due to the large number of possible etiologies and widely variable clinical presentations. While a specific diagnosis is frequently difficult to make in the ED (approximately 25% of presenting patients are ultimately diagnosed with ‘nonspecific abdominal pain’), it is imperative that the emergency physician exclude time-dependent disease processes that if left undiagnosed could lead to morbidity or mortality.
+
+---
+
+### Initial Actions and Primary Survey
+
+A primary assessment and evaluation of ABCs must be completed on any patient presenting to the emergency department with abdominal pain. While airway compromise and respiratory insufficiency can develop in a patient suffering from an abdominal catastrophe, the circulatory system most commonly needs the attention of the clinician in the setting of abdominal pain.
+
+Abdominal pain in conjunction with hemodynamic instability should alert the physician to the possibility of hemorrhage, sepsis, perforated viscus, or necrotic bowel. Tachycardia or orthostatic vital signs are often the first sign of hemodynamic instability; it requires blood loss of 30-40% of normal blood volume to cause a significant drop in systolic blood pressure. In patients with established hemodynamic instability, immediate fluid resuscitation should begin by establishing 2 large bore IVs and rapidly infusing isotonic crystalloid. Supplemental oxygen should be administered, and patients should be placed on a monitor.
+
+The primary survey of patients with abdominal pain should include a brief history evaluating for      symptoms of infection, bleeding diathesis, and the possibility of pregnancy; an abdominal examination should be performed for the presence of peritonitis, as this indicates a patient requiring more immediate surgical intervention.
+
+In the unstable patient with abdominal pain in whom hemorrhage is diagnosed or highly suspected, typed and crossed blood should be immediately ordered. The transfusion of type O blood can be performed in critical situations where there is not enough time to wait for cross matched blood.
+
+Women of childbearing age who present with abdominal pain require urgent pregnancy testing      to rule out ectopic pregnancy. When such a patient is unstable, rapidly obtain either  urine serum for qualitative beta-HCG testing. If the patient is pregnant, blood should also be sent for a quantitative beta-HCG level.
+
+---
+
+### Presentation
+
+Patients with abdominal pain have a wide range of potential presentations. A thorough history will catch potentially challenging diagnoses in otherwise unrevealing presentations. A clear description of the pain itself is often quite helpful in narrowing down the cause of abdominal pain. Elicit:
+
+* provocative, palliative factors
+* quality
+* radiation
+* symptoms associated with the pain
+* timing
+* progression and migration
+
+For example, pain that is 
+
+--- FUENTE WEB ---
+Título: Acute Abdominal Pain in Adults: Evaluation and Diagnosis | AFP
+URL: https://www.aafp.org/afp/2023/0600/acute-abdominal-pain-adults
+Score: 0.5518883
+
+Texto:
+![American Family Physician logo.](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1779209772/american_family_physician_navigation_desktop.svg)
+![AAFP logo](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1753724394/aafp_logo_tri029.png)
+
+Sign in to the website to make the most of your experience. When you log in, you can:
+
+Having a free website account offers several benefits:
+
+AAFP informs and advocates for family physicians throughout their careers. Join for access to:
+
+# Acute Abdominal Pain in Adults: Evaluation and Diagnosis
+
+American Family Physician. 2023;107(6):585-596.
+
+Author disclosure: No relevant financial relationships.
+
+Diagnosis
+
+Laboratory Testing
+
+Imaging
+
+SORT: KEY RECOMMENDATIONS FOR PRACTICE
+
+Selected Differential Diagnosis of Acute Abdominal Pain
+
+Useful Findings in the Evaluation of Abdominal Pain
+
+Possible Causes of Sudden Onset or Severe Abdominal Pain
+
+Recommended Initial Imaging Based on Location of Abdominal Pain
+
+Applications of Point-of-Care Ultrasonography by Location of Abdominal Pain
+
+Diagnostic Scores in the Evaluation of Adults to Diagnose Cholecystitis and Urolithiasis
+
+Acute abdominal pain, defined as nontraumatic abdominal pain lasting fewer than seven days, is a common presenting concern with a broad differential diagnosis. The most common causes are gastroenteritis and nonspecific abdominal pain, followed by cholelithiasis, urolithiasis, diverticulitis, and appendicitis. Extra-abdominal causes such as respiratory infections and abdominal wall pain should be considered. Pain location, history, and examination findings help guide the workup after ensuring hemodynamic stability. Recommended tests may include a complete blood count, C-reactive protein, hepatobiliary markers, electrolytes, creatinine, glucose, urinalysis, lipase, and pregnancy testing. Several diagnoses, such as cholecystitis, appendicitis, and mesenteric ischemia, cannot be confirmed clinically and typically require imaging. Conditions such as urolithiasis and diverticulitis may be diagnosed clinically in certain cases. Imaging studies are chosen based on the location of pain and index of suspicion for specific etiologies. Computed tomography with intravenous contrast media is often chosen for generalized abdominal pain, left upper quadrant pain, and lower abdominal pain. Ultrasonography is the study of choice for right upper quadrant pain. Point-of-care ultrasonography can aid in the prompt diagnosis of several etiologies of acute abdominal pain, including cholelithiasis, urolithiasis, and appendicitis. In patients who have female reproductive organs, diagnoses such as ectopic pregnancy, pelvic inflammatory disease, and adnexal torsion should be considered. If ultrasonography results are inconclusive in pregnant patients, magnetic resonance imaging is preferred over computed tomography when available.
+
+Acute abdominal pain is defined as pain lasting fewer than seven days and accounts for up to 10% of emergency department visits.[1](#afp20230600p585-b1) In one large study of patients presenting to the emergency department with recent abdominal pain, 20 conditions accounted for up to 70% of the causes, but more than 150 etiologies were diagnosed.[2](#afp20230600p585-b2) Acute gastroenteritis (10.8%) and non-specific abdominal pain (10.4%) were the most common diagnoses, followed by cholelithiasis (4.5%), urolithiasis (4.3%), diverticulitis (3.8%), and appendicitis (3.8%).[2](#afp20230600p585-b2) Extra-abdominal causes were common. About 10% of patients had a urinary etiology, and 10% of patients 65 years and older had a respiratory cause.[2](#afp20230600p585-b2) [*Table 1*](#afp20230600p585-t1) lists causes of acute abdominal pain by location.[3](#afp20230600p585-b3)
+
+### SORT: KEY RECOMMENDATIONS FOR PRACTICE
+
+| **Clinical recommendation** | **Evidence rating** | **Comments** |
+| --- | --- | --- |
+| [Analgesia should be provided for patients with acute abdominal pain because it improves patient comfort, does not hinder accuracy of the physical examination, and may facilitate the assessment.](#afp20230600p585-sort1)[24](#afp20230600p585-b24),[25](#afp20230600p585-b25) | **A** | Two systematic reviews of randomized controlled trials assessing diagnostic accuracy and other patient-oriented outcomes |
+| [Right upper quadrant ultrasonography should be performed in patients with suspected acute cholecystitis](#afp20230600p585-sort2A) [because no single clinical finding can exclude this diagnosis.](#afp20230600p585-sort2B)[13](#afp20230600p585-b13),[37](#afp20230600p585-b37),[38](#afp20230600p585-b38) | **C** | Disease-oriented evidence based on systematic review of cohort studies and two guidelines |
+| [Clinical diagnosis of left-sided diverticulitis is reasonable for patients who are immunocompetent without risk factors for complicated diverticulitis, reserving CT imaging for cases of diagnostic uncertainty.](#afp20230600p585-sort3)[47](#afp20230600p585-b47) | **C** | Conditional recommendation from the American College of Physicians based on one systematic review that found limited evidence that imaging improved outcomes over clinical diagnosis alone |
+| [Abdominopelvic CT with intravenous contrast media is the imaging test of choice in nonpregnant patients with right lower quadrant pain, but ultrasonography and clinical risk scores can assist with selective use of CT.](#afp20230600p585-sort4)[9](#afp20230600p585-b9),[33](#afp20230600p585-b33),[44](#afp20230600p585-b44),[48](#afp20230600p585-b48),[57](#afp20230600p585-b57)–[60](#afp20230600p585-b60),[68](#afp20230600p585-b68) | **C** | Narrative reviews, systematic reviews, observational studies, and American College of Radiology Appropriateness Criteria on the role of imaging |
+| [Ultrasonography and MRI are the imaging tests of choice in pregnant patients presenting with suspected appendicitis.Abdominal CT can be considered if ultrasonography is nondiagnostic and MRI is unavailable.](#afp20230600p585-sort5)[65](#afp20230600p585-b6
+
+--- FUENTE WEB ---
+Título: Epidemiology and outcomes of acute abdominal pain in a large urban Emergency Department: retrospective analysis of 5,340 cases - Cervellin - Annals of Translational Medicine
+URL: https://atm.amegroups.org/article/view/11629/html
+Score: 0.54361504
+
+Texto:
+Have a website account?[Log In](https://atm.amegroups.org/login) or[Register](https://atm.amegroups.org/user/register) for exclusive website content.
+
+[![](https://cdn.amegroups.cn/static/image/a3e8cbcd5328931f57f575ab2d324443/a3e8cbcd5328931f57f575ab2d324443.png/w1400)](https://atm.amegroups.org/ "Annals of Translational Medicine")
+
+* [Home](https://atm.amegroups.org/index) /
+* [Vol 4, No 19 (October 15, 2016)](https://atm.amegroups.org/issue/view/480)  /
+* Epidemiology and outcomes of acute abdominal pain in a large urban Emergency Department: retrospective analysis of 5,34...
+
+Epidemiology and outcomes of acute abdominal pain in a large urban Emergency Department: retrospective analysis of 5,340 cases
+
+Original Article
+
+# Epidemiology and outcomes of acute abdominal pain in a large urban Emergency Department: retrospective analysis of 5,340 cases
+
+Gianfranco Cervellin1, Riccardo Mora2, Andrea Ticinesi2, Tiziana Meschi2, Ivan Comelli1, Fausto Catena3, Giuseppe Lippi4
+
+1Emergency Department, Academic Hospital of Parma, Parma, Italy;2Postgraduate Emergency Medicine School, University of Parma, Parma, Italy;3Emergency and Trauma Surgery, Academic Hospital of Parma, Parma, Italy;4Section of Clinical Biochemistry, University of Verona, Verona, Italy
+
+*Contributions:* (I) Conception and design: All authors; (II) Administrative support: None; (III) Provision of study materials or patients: None; (IV) Collection and assembly of data: All authors; (V) Data analysis and interpretation: All authors; (VI) Manuscript writing: All authors; (VII) Final approval of manuscript: All authors.
+
+*Correspondence to:* Gianfranco Cervellin, MD. Emergency Department, Academic Hospital of Parma, 43126 Parma, Italy. Email: gcervellin@ao.pr.it; gianfranco.cervellin@gmail.com.
+
+---
+
+**Background:** Acute abdominal pain (AAP) accounts for 7–10% of all Emergency Department (ED) visits. Nevertheless, the epidemiology of AAP in the ED is scarcely known. The aim of this study was to investigate the epidemiology and the outcomes of AAP in an adult population admitted to an urban ED.
+
+**Methods:** We made a retrospective analysis of all records of ED visits for AAP during the year 2014. All the patients with repeated ED admissions for AAP within 5 and 30 days were scrutinized. Five thousand three hundred and forty cases of AAP were analyzed.
+
+**Results:** The mean age was 49 years. The most frequent causes were nonspecific abdominal pain (NSAP) (31.46%), and renal colic (31.18%). Biliary colic/cholecystitis, and diverticulitis were more prevalent in patients aged >65 years (13.17% *vs.* 5.95%, and 7.28% *vs.* 2.47%, respectively). Appendicitis (i.e., 4.54% *vs.* 1.47%) and renal colic (34.48% *vs.* 20.84%) were more frequent in patients aged <65 years. NSAP was the most common cause in both age classes. Renal colic was the most frequent cause of ED admission in men, whereas NSAP was more prevalent in women. Urinary tract infection was higher in women. Overall, 885 patients (16.57%) were hospitalized. Four hundred and eighty-five patients had repeated ED visits throughout the study period. Among these, 302 patients (6.46%) were readmitted within 30 days, whereas 187 patients (3.82%) were readmitted within 5 days. Renal colic was the first cause for ED readmission, followed by NSAP. In 13 cases readmitted to the ED within 5 days, and in 16 cases readmitted between 5–30 days the diagnosis was changed.
+
+**Conclusions:** Our study showed that AAP represented 5.76% of total ED visits. Two conditions (i.e., NSAP and renal colic) represented >60% of all causes. A large use of active clinical observations during ED stay (52% of our patients) lead to a negligible percentage of changing diagnosis at the second visit.
+
+**Keywords:** Abdominal pain; nonspecific abdominal pain; renal colic; appendicitis; surgery; epidemiology; Emergency Department (ED)
+
+---
+
+Submitted Aug 23, 2016. Accepted for publication Sep 01, 2016.
+
+doi: 10.21037/atm.2016.09.10
+
+---
+
+## Introduction
+
+Acute abdominal pain (AAP), conventionally defined as pain of nontraumatic origin with a maximum duration of 5 days ([1](#B1)), is one of the most common complaints leading people to the Emergency Department (ED), accounting for up to 7–10% of all ED visits ([2](#B2),[3](#B3)). Despite the relatively high frequency, abdominal pain may be a symptom of a serious underlying disease, and the challenging differential diagnosis may generate both medicolegal litigation and unfavorable outcomes ([4](#B4),[5](#B5)).
+
+Despite substantial improvement in the diagnostic approach to AAP, mainly attributable to the extensive use of imaging techniques [especially computed tomography (CT)], many diagnostic pitfalls remain, which can be associated with a substantial number of misdiagnoses and/or avoidable surgery ([6](#B6)-[8](#B8)). The differential diagnosis of AAP in the adult population is rather broad, including appendicitis, peptic ulcer, urinary stones, inflammatory bowel disease, hepatobiliary diseases (e.g., biliary colic, cholecystitis, and pancreatitis), referred pain due to pneumonia as well as several other “mimics” of extra-abdominal origin ([9](#B9)-[11](#B11)). In young women, gynecologic disorders (e.g., ectopic pregnancy, endometriosis, and pelvic inflammatory disease) are additional conditions which should be considered in the differential diagnosis ([12](#B12)-[14](#B14)). Since the underlying cause for AAP can entails many different medical specialties such as gynecology, surgery, internal medicine, and urology, expert assessment is an essential requisite that emergency physicians (EPs) should have for the managed care of these patients. Notably, a large heterogeneity exists in the choice of the most appropriate diagnostic approach and treatments, mostly due to personal inclination and expertise instead of applying the available guidelines.
+
+An accurate knowledge of all the different causes of AAP is of paramount importance, and the patients can hence be simply cl
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
