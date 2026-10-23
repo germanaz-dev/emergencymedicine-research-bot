@@ -1,0 +1,855 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: right ventricular dysfunction in pulmonary embolism
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Pulmonary Embolism-A Century of Progress.
+Revista: ANZ journal of surgery
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42706008
+DOI: 10.1111/ans.70957
+URL: https://pubmed.ncbi.nlm.nih.gov/42706008/
+
+Abstract:
+This narrative review covers a century of progress in the diagnosis, prevention, and treatment of pulmonary embolism (PE). Although the classic clinical presentation of PE was already well described, in the first half of the 20th century additional diagnostic support was limited to signs on a chest radiograph and evidence of right heart strain on ECG. From the 1960's, imaging accuracy improved through the introduction of pulmonary angiography (1963), ventilation perfusion scans (1964), CT (1978), and today's gold standard, CT Pulmonary Angiography (1990's). Echocardiographic signs of right ventricular dysfunction and pulmonary hypertension were described to help determine the physiological severity of PE. Prophylaxis reduces the risk of venous thromboembolism (VTE) by 55%-70%. Heparin began to be used to prevent and treat PE from the 1930s, replaced by enoxaparin from 1993. In patients not suitable for anticoagulation, vena cava ligation and open clips were replaced by endovascularly-placed filters (now retrievable) from the 1970s. Despite the first successful pulmonary embolectomy in 1924, subsequent success with massive PE was rare until embolectomy could be performed with the support of cardiopulmonary by-pass in the 1960's. Today, catheter-based thrombolysis or mechanical thrombectomy delivered by interventional radiology are the first choice for haemodynamically compromised patients. Pulmonary Embolism Response Teams (PERT) rapidly assess acute PE presentations to determine the optimal treatment based on patient risk. Enoxaparin is prescribed for lower risk cases, whilst Direct Oral Anticoagulants have largely replaced warfarin as the ambulant oral treatment of choice to prevent recurrent VTE.
+
+--- PAPER PUBMED ---
+Título: Role of ECMO and percutaneous mechanical thrombectomy in the management of acute pulmonary embolism.
+Revista: Frontiers in cardiovascular medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42694286
+DOI: 10.4103/aca.aca_79_22
+URL: https://pubmed.ncbi.nlm.nih.gov/42694286/
+
+Abstract:
+Interventional treatment for hemodynamically unstable pulmonary embolism (PE) is now common due to the fact that unstable PE carries a significant 30-day mortality. Unstable PE is characterized by acute right ventricular failure, hypotension, and hypoxia, leading to cardiovascular collapse and cardiac arrest. Implementation of veno-arterial extracorporeal membrane oxygenation (VA-ECMO) acutely provides oxygenation support to improve hypoxia and offload the right ventricular (RV) pressure in the belief that rapid reduction of hypoxia and right ventricular (RV) pressure will provide a window for intervention. There are two strategies for using VA-ECMO during percutaneous pulmonary mechanical thrombectomy: VA-ECMO-assisted mechanical thrombectomy and mechanical thrombectomy with standby VA-ECMO. While the application of VA-ECMO in percutaneous mechanical thrombectomy is usually short-term, providers must be cognizant that it can be associated with substantial multisystem morbidity due to a systemic inflammatory response, hemorrhagic stroke, renal dysfunction, and bleeding, and these factors will impact outcomes. The evolving paradigm positions VA-ECMO combined with percutaneous pulmonary mechanical thrombectomy as the preferred combination for the high-risk PE patients (acute right ventricular failure, refractory shock, and cardiac arrest), while percutaneous pulmonary mechanical thrombectomy alone with standby VA-ECMO suffices for most intermediate PE patients.
+
+--- PAPER PUBMED ---
+Título: Spontaneous ST-Segment Elevation in Right Precordial Leads Following Cardiac Arrest: Literature Review and Management Proposal for Ruling out Brugada Syndrome.
+Revista: Cardiovascular drugs and therapy
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42640381
+DOI: 10.1016/j.resuscitation.2008.09.017
+URL: https://pubmed.ncbi.nlm.nih.gov/42640381/
+
+Abstract:
+Electrocardiogram (ECG) evaluation after return of spontaneous circulation (ROSC) represents a crucial step in the diagnostic work-up of sudden cardiac death (SCD) survivors. Among ECG patterns, the Brugada syndrome (BrS) type 1 morphology, characterized by coved ST-segment elevation in right precordial leads, requires a prompt differential diagnosis, as it may reflect either a true BrS, or a BrS phenocopy, or yet an acquired sodium channel dysfunction. This focused narrative review provides an analysis of Brugada-like ECG patterns occurring in the post-ROSC setting, summarizing the pathophysiological mechanisms, diagnostic criteria, and distinctive features of each potential etiology. BrS is an inherited arrhythmogenic disorder associated with an increased risk of ventricular arrhythmias and SCD. Conversely, Brugada phenocopies are transient Brugada-like ECG patterns triggered by reversible conditions, including ischemia, pulmonary embolism, pneumothorax, hypothermia, electrolyte and metabolic disturbances, myocardial or pericardial inflammation, or intracranial hemorrhage. A diagnostic algorithm is proposed to guide clinicians through rapid evaluation, prioritizing the exclusion of life-threatening and reversible causes before considering primary electrical disorders. Early recognition and targeted management of these entities are fundamental, as prompt correction of the underlying condition often leads to complete ECG normalization, avoiding misdiagnosis. Understanding the spectrum of Brugada mimics is essential for improving diagnostic accuracy and optimizing therapeutic strategies in the acute management of post-cardiac arrest patients.
+
+--- PAPER PUBMED ---
+Título: Catheter-Based Therapies for Intermediate-High Risk Pulmonary Embolism: A Protocol for a Systematic Review With Bayesian Pairwise and Network Meta-Analyses.
+Revista: Acta anaesthesiologica Scandinavica
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42469156
+DOI: 10.1056/NEJMoa1208410
+URL: https://pubmed.ncbi.nlm.nih.gov/42469156/
+
+Abstract:
+Intermediate-high risk pulmonary embolism (PE) represents a clinically challenging subgroup of acute PE, characterized by right ventricular dysfunction and increased risk of hemodynamic deterioration despite treatment with anticoagulation therapy. Although systemic thrombolysis may provide more rapid reperfusion, its use is limited by an increased risk of major bleeding. Catheter-based treatment strategies have emerged as potential alternatives, but their comparative efficacy and safety remain uncertain. To assess the benefits and harms of catheter-based treatment strategies compared with contemporary control regimens, including standard anticoagulation with or without systemic thrombolysis, in patients with intermediate-high risk PE. This protocol outlines a systematic review with Bayesian pairwise meta-analysis and network meta-analysis of randomized clinical trials evaluating catheter-based therapies for hospitalized patients with intermediate-high risk PE. Eligible interventions include catheter-directed thrombolysis, ultrasound-assisted thrombolysis, and catheter-based embolectomy. Comparators may include standard anticoagulation alone or in combination with systemic thrombolysis or other active control regimens reflecting standard of care. Searches will be conducted in relevant databases, supplemented by trial registries. Two reviewers will independently screen studies, extract data, and assess risk of bias using the Cochrane Risk of Bias 2 tool. Bayesian pairwise meta-analyses and network meta-analysis will be performed using weakly informative priors to synthesize direct and indirect evidence across interventions. Results will be reported as posterior effect estimates with 95% credible intervals. The primary outcome will be all-cause mortality. Secondary and exploratory outcomes include major bleeding as defined according to the criteria of the International Society on Thrombosis and Haemostasis within 7 days, hospital length of stay, and change in RV/LV ratio within 48 h. GRADE assessments will be performed where applicable. This review will synthesize direct and indirect randomized evidence on catheter-based treatment strategies for intermediate-high risk PE. The findings may help clarify the role of these interventions in contemporary management, inform future guideline recommendations, and identify persistent evidence gaps requiring further large-scale randomized trials.
+
+--- PAPER PUBMED ---
+Título: Pulmonary embolism consensus.
+Revista: Archivos de cardiologia de Mexico
+Fecha: 2026
+Tipo: Journal Article, Consensus Statement
+PMID: 42447143
+DOI: 10.24875/ACM.M26000101
+URL: https://pubmed.ncbi.nlm.nih.gov/42447143/
+
+Abstract:
+Pulmonary embolism (PE) remains a major cause of cardiovascular morbidity and mortality. Despite significant advances in diagnosis and treatment, important challenges persist in the early identification of patients at risk of clinical deterioration and in the integration of clinical, imaging, and biomarker data for more accurate risk stratification. A multidisciplinary panel of experts reviewed the available scientific evidence, including international guidelines, randomized clinical trials, observational studies, and contemporary registries. Recommendations were developed through a structured consensus process, with particular emphasis on areas of uncertainty or ongoing evolution in clinical practice. This document updates recommendations on the diagnosis, risk stratification, anticoagulation, reperfusion therapies, and follow-up of patients with acute PE. A key focus is the concept of dynamic risk assessment, recognizing that clinical status may change significantly during the first hours and days after diagnosis. As an innovative proposal, the Integrated Cardiorespiratory Involvement System (SIAC) is introduced as a complementary framework that integrates hemodynamic parameters, right ventricular dysfunction, gas exchange impairment, biomarker profile, and clinical evolution. SIAC is designed to enhance traditional risk stratification models by enabling serial bedside reassessment and facilitating early identification of patients at risk of clinical deterioration and adverse outcomes. Modern management of acute PE requires a comprehensive and dynamic approach. This consensus integrates current evidence and proposes SIAC as a complementary tool to improve prognostic assessment and support more individualized therapeutic decision-making. El embolismo pulmonar (EP) continúa siendo una causa importante de morbimortalidad cardiovascular. A pesar de los avances diagnósticos y terapéuticos, persisten desafíos en la identificación temprana de pacientes con riesgo de deterioro clínico y en la integración de variables clínicas, de imagen y biomarcadores para una estratificación pronóstica más precisa. Un panel multidisciplinario de expertos revisó la evidencia científica disponible, incluyendo guías internacionales, ensayos clínicos, estudios observacionales y registros contemporáneos. Las recomendaciones fueron elaboradas mediante consenso estructurado, con énfasis en aspectos controvertidos o en evolución. El documento actualiza las recomendaciones para el diagnóstico, la estratificación del riesgo, la anticoagulación, las terapias de reperfusión y el seguimiento de los pacientes con EP aguda. Se destaca la necesidad de una evaluación dinámica del riesgo, considerando que la condición clínica puede modificarse durante las primeras horas y días posteriores al diagnóstico. Como propuesta innovadora, se introduce el Sistema Integrado de Afectación Cardiorrespiratoria (SIAC), una herramienta que integra parámetros hemodinámicos, disfunción ventricular derecha, alteraciones del intercambio gaseoso, biomarcadores y evolución clínica para complementar los modelos tradicionales de estratificación. El SIAC permite una reevaluación seriada del paciente y facilita la identificación precoz de quienes presentan riesgo de progresión clínica o eventos adversos. El manejo moderno del EP requiere una aproximación integral y dinámica. Este consenso reúne la evidencia actual y propone el SIAC como una estrategia complementaria para optimizar la evaluación pronóstica y apoyar una toma de decisiones terapéuticas más individualizada.
+
+--- PAPER PUBMED ---
+Título: The Right Ventricle in Cardiac Critical Care: Pathophysiology, Evaluation and Management.
+Revista: Medicina (Kaunas, Lithuania)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42356083
+DOI: 10.1016/j.echo.2022.12.022
+URL: https://pubmed.ncbi.nlm.nih.gov/42356083/
+
+Abstract:
+The right ventricle (RV) is a primary determinant of outcomes in cardiac critical care. RV dysfunction independently predicts morbidity and mortality in conditions such as acute coronary syndromes, pulmonary embolism, and cardiogenic shock. This review synthesizes RV evaluation and management by integrating physiologic principles with bedside diagnostic and therapeutic strategies. The RV is exceptionally sensitive to acute afterload increases due to its adaptation to low-pressure pulmonary circulation. Evaluation utilizes a multimodal approach combining echocardiography, invasive hemodynamics, and specifically the pulmonary artery pulsatility index and central venous pressure/pulmonary capillary wedge pressure (CVP/PCWP) ratio and biomarkers. Management focuses on three pillars: individualized preload optimization, afterload reduction via selective pulmonary vasodilators, and contractility augmentation with inotropes. For refractory cases, mechanical circulatory support options like Impella RP, ProtekDuo, and VA-ECMO provide critical bridges to recovery or transplantation.
+
+--- PAPER PUBMED ---
+Título: Review of Interventional Options and Surgical Techniques in the Management of Acute Pulmonary Embolism.
+Revista: The Journal of surgical research
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42349359
+DOI: 10.1016/j.jss.2026.05.055
+URL: https://pubmed.ncbi.nlm.nih.gov/42349359/
+
+Abstract:
+Acute massive pulmonary embolism (PE) represents a potentially lethal condition causing acute right ventricular heart dysfunction and cardiogenic shock. We aim to provide an overview of interventional and surgical options for PE management, with a focus on surgical techniques and outcomes. This was a narrative review so a systematic literature search was not performed. Catheter-directed thrombolysis and catheter-directed mechanical thrombectomy have demonstrated improved outcomes in several recent trials compared to medical management alone for higher risk PE. Surgical pulmonary embolectomy techniques have also evolved greatly over the years. Both in-hospital and short-term outcomes after surgical management show significant improvement from historical data that have limited the widespread acceptance of surgical management for acute PE. Veno-arterial extracorporeal membrane oxygenation has also emerged as a potential strategy to bridge high risk patients to definitive therapies. Surgical pulmonary embolectomy has gained popularity in recent years for PE management, with evolving techniques and improving outcomes compared to historical data. A thorough understanding of interventional and surgical techniques and options, combined with a multidisciplinary approach to care, are crucial to ensure timely and effective management of patients with acute PE.
+
+--- PAPER PUBMED ---
+Título: The Utility of Extracorporeal Membrane Oxygenation in the Setting of Chronic Thromboembolic Pulmonary Hypertension.
+Revista: Medical sciences (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42346812
+DOI: 10.1536/ihj.14-257
+URL: https://pubmed.ncbi.nlm.nih.gov/42346812/
+
+Abstract:
+Chronic thromboembolic pulmonary hypertension (CTEPH) is a progressive disease that occurs due to fibrotic remodeling of the pulmonary vessels. This leads to increased pressure overload onto the right ventricle, resulting in complications such as heart failure. Pulmonary endarterectomy (PEA) remains the gold standard of treatment for CTEPH, yet many patients experience life-threatening perioperative complications, including refractory right ventricular failure, reperfusion pulmonary edema, and endobronchial hemorrhage. Extracorporeal membrane oxygenation (ECMO) has been used as a form of mechanical circulatory support to aid recovery in patients with perioperative complications in the context of CTEPH. This review identifies preoperative risk factors, including pulmonary vascular resistance, high body mass index, and elevated neutrophil-to-lymphocyte ratios. It also identifies differences in ECMO configuration, with veno-arterial ECMO preferred for hemodynamic instability and veno-venous ECMO for respiratory failure. Finally, we posit that, based on contemporary literature, the implementation of early ECMO in decompensated patients may be associated with reduced hospital mortality, and in those who survive beget excellent mid-term survival.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Right-Heart-Failure-Emergency-Medicine.pdf
+URL: https://www.ebmedicine.net/media_library/files/Right-Heart-Failure-Emergency-Medicine.pdf
+Score: 0.72465646
+
+Texto:
+FEBRUARY 2024  | VOLUME 26  | ISSUE 2 
+
+# Emergency Department 
+
+# Management of Patients 
+
+# With Right Heart Failure 
+
+n Abstract 
+
+Right heart failure (RHF) can result from many cardiac, pulmonary, 
+
+and systemic pathologies. Common causes of RHF include 
+
+pulmonary embolism, left heart failure, congenital heart disease, 
+
+chronic lung disease, acute myocardial infarction, infiltrative 
+
+disease, infectious disease, and valvular abnormalities. Acute 
+
+and chronic RHF confer a high risk for morbidity and mortality 
+
+in the acute care setting, and interventions commonly used in 
+
+emergency care can prompt acute decompensation if the RHF 
+
+is not recognized. The severity of presentation may range from 
+
+compensated clinically silent cardiovascular dysfunction to venous 
+
+congestion, multiorgan failure, and circulatory collapse. This review 
+
+describes the pathophysiology of right heart failure and offers an 
+
+evidence-based approach to the diagnosis, management, and 
+
+disposition of both acute and chronic RHF. 
+
+EBMEDICINE.NET This issue is eligible for CME credit. See page 2. 
+
+CLINICAL CHALLENGES: 
+
+• What are the primary etiologies of 
+
+right heart failure (RHF)? 
+
+• Which diagnostic studies should 
+
+be ordered for patients with 
+
+suspected RHF? 
+
+• What are the most effective 
+
+treatment strategies for RHF, 
+
+based on underlying etiologies? 
+
+Authors 
+
+Daniel S. Brenner, MD, PhD 
+
+Assistant Professor of Clinical Emergency 
+
+Medicine, Department of Emergency Medicine, 
+
+Indiana University School of Medicine, 
+
+Indianapolis, IN 
+
+Onyedika J. Ilonze, MD 
+
+Division of Cardiovascular Medicine, Krannerat 
+
+Cardiovascular Research Center, Indiana 
+
+University School of Medicine, Indianapolis, IN 
+
+Shelby Beil, MD 
+
+Fellow, Indiana University School of Medicine, 
+
+Department of Pulmonary and Critical Care 
+
+Medicine, Indianapolis, IN 
+
+Kellie Kaneshiro, AMLS 
+
+Librarian, Ruth Lilly Medical Library, Indiana 
+
+University School of Medicine, Indianapolis, IN 
+
+Nicholas E. Harrison, MD, MSc 
+
+Assistant Professor, Department of Emergency 
+
+Medicine, Indiana University School of Medicine, 
+
+Indianapolis, IN 
+
+Peer Reviewers 
+
+James Morris, MD, MPH, FACEP 
+
+Program Director, Emergency Medicine 
+
+Residency, Texas Tech University Health Sciences 
+
+Center, Lubbock, TX 
+
+Kestrel Reopelle, MD, MEd 
+
+Assistant Professor; Assistant Program Director, 
+
+Residency in Emergency Medicine, Icahn School 
+
+of Medicine at Mount Sinai, New York, NY 
+
+Prior to beginning this activity, see “CME 
+
+Information” on page 2. 
+
+# Emergency  Medicine Practice Evidence-Based Education  • Practical Application 
+
+For online 
+
+access: 
+
+For mobile 
+
+app access: FEBRUARY 2024  • www.ebmedicine.net  2©2024 EB MEDICINE 
+
+CME Information 
+
+Date of Original Release : February 1, 2024 . Date of most recent review: January 10, 2024. Termination date: February 1, 2027. 
+
+Accreditation:  EB Medicine is accredited by the Accreditation Council for Continuing Medical Education (ACCME) to provide 
+
+continuing medical education for physicians. 
+
+Credit Designation:  EB Medicine designates this enduring material for a maximum of 
+
+4 AMA PRA Category 1 Credits TM . Physi -
+
+cians should claim only the credit commensurate with the extent of their participation in the activity. 
+
+Specialty CME:  Not applicable. For more information, call Customer Service at 678-366-7933. 
+
+ACEP Accreditation: 
+
+Emergency Medicine Practice  is approved by the American College of Emergency Physicians for 48 hours of ACEP Cat -
+
+egory I credit per annual subscription. 
+
+AAFP Accreditation:  The AAFP has reviewed  Emergency Medicine Practice , and deemed it acceptable for AAFP credit. Term of approval is from 
+
+07/01/2023 to 06/30/2024. Physicians should claim only the credit commensurate with the extent of their participation in the activity. This session, 
+
+Emergency Department Management of Patients With Right Heart Failure is approved for 4.0 enduring material AAFP Prescribed credits. 
+
+AOA Accreditation: 
+
+Emergency Medicine Practice  is eligible for 4 Category 2-B credit hours per issue by the American Osteopathic Association. 
+
+Needs Assessment:  The need for this educational activity was determined by a practice gap analysis; a survey of medical staff, including the 
+
+editorial board of this publication; review of morbidity and mortality data from the CDC, AHA, NCHS, and ACEP; and evaluation responses from 
+
+prior educational activities for emergency physicians. 
+
+Target Audience:  This enduring material is designed for emergency medicine physicians, physician assistants, nurse practitioners, and residents. 
+
+Goals:  Upon completion of this activity, you should be able to: (1) identify areas in practice that require modification to be consistent with current 
+
+evidence in order to improve competence and performance; (2) develop strategies to accurately diagnose and treat both common and critical ED 
+
+presentations; and (3) demonstrate informed medical decision-making based on the strongest clinical evidence. 
+
+CME Objectives:  Upon completion of this activity, you should be able to: (1) outline the etiologies of right heart failure (RHF)/right ventricular 
+
+dysfunction (RVD)/pulmonary hypertension (PH); (2) describe the recommended diagnostic studies for RHF; (3) describe treatment strategies for 
+
+RHF, based on etiology; and (4) explain the importance of risk stratification of patients with RHF/RVD/PH for disposition. 
+
+Discussion of Investigational Information:  As part of the activity, faculty may be presenting investigational information about pharmaceutical 
+
+products that is outside Food and Drug Administration approved labeling. Information presented as part of this activity is intended solely as 
+
+continuing medical education and is not intended to promote off-label use of any pharmaceutical product. 
+
+Disclosure:  It is the policy of EB Medicine to ensure objectivity, balance, independence, transparency, and scientific rigor in all CME activities. 
+
+
+--- FUENTE WEB ---
+Título: Intermediate & high-risk PE - EMCrit Project
+URL: https://emcrit.org/ibcc/pe
+Score: 0.71829855
+
+Texto:
+# [Internet Book of Critical Care (IBCC)](https://emcrit.org/)
+
+Online Medical Education on Emergency Department (ED) Critical Care, Trauma, and Resuscitation
+
+You are here: [Home](https://emcrit.org/) / IBCC / Intermediate & high-risk PE
+
+[![](https://emcrit.org/wp-content/uploads/2018/07/ibcclogo.jpg)](https://emcrit.org/ibcc/toc/ "ibcclogo")   
+   
+
+# Intermediate & high-risk PE
+
+by [Josh Farkas](https://emcrit.org/author/pulmcrit/)
+
+### **CONTENTS**
+
+#### [**Crashing PE patient: resuscitation**](#resuscitation_guide_for_high-risk_PE)
+
+* **[[1] Oxygen maxxing](#oxygen)**
+* **[[2] Systemic thrombolysis](#lysis)**
+* **[[3] Epinephrine](#epi)**
+* **[[4] Vasopressin](#vaso)**
+* **[[5] Inhaled pulmonary vasodilators](#inhale)**
+* **[[6] Preload optimization (volume vs diuresis)](#volume)**
+* **[[7] Other interventions](#other)**
+
+#### **General approach to PERT activation**
+
+* **[[1] Investigation package](#step_#1/4:_investigation_package)**
+* **[[2] Risk stratification](#step_#2/4:_risk_stratification)**
+  + **[[i] History & physical](#hp)**
+  + **[[ii] Vital signs](#vitals)**
+  + **[[iii] Troponin & ECG](#troponin)**
+  + **[[iv] Lactate & AG](#lactate)**
+  + **[[v] RV dilation & strain](#rv)**
+  + **[BOVA score](#bova)**
+  + **[Integrated risk stratification](#risk)**
+* **[[3] LYTIC CONTRAINDICATIONS](#step_#3/4:_thrombolytic_contraindications)**
+* **[[4] Treatment approach](#step_#4/4:_treatment_approach)**
+* [(Printable single-page PERT worksheet)](https://emcrit.org/wp-content/uploads/2026/03/PERT-CHEAT-SHEET.pdf)
+
+#### **discussion of treatments**
+
+* [Heparin](#anticoagulation_(heparin))
+* [Thrombolysis](#thrombolysis)
+  + Commonly used regimens
+    - [Half or full-dose over 2 hours](#fulldose)
+    - [18 mg over 6 hours](#quarterdose)
+  + [(Slow peripheral tPA infusion at 2 mg/hr)](#slowgtt)
+  + ([Evidentiary basis)](#evidencelysis)
+  + [(Rationale for reduced dose regimens)](#reduceddose)
+* [Mechanical thrombectomy](#mechanical_thrombectomy)
+* [Surgical embolectomy](#surgical_thrombectomy)
+* [VA ECMO](#VA_ECMO)
+
+#### **miscellaneous other topics**
+
+* [Clot-in-transit](#clot_in_transit)
+* [Refractory hypoxemia](#PE_with_refractory_hypoxemia)
+* [Cardiac arrest (how to code a PE patient)](#coding_a_PE_patient)
+* [PE with hemoptysis ➡️](https://emcrit.org/ibcc/pulmonary-embolism/#treatment_of_pulmonary_embolism_with_hemoptysis)
+* [Prognostic factors that are less helpful](#prognostic_features_which_don't_add_much)
+  + [BNP](#bnp)
+  + [PESI score](#pesi)
+* [IVC filter](#IVC_filter_for_pulmonary_embolism_(of_any_size))
+
+###### --- resuscitation guide for high-risk PE [(back to contents)](#top) ---
+
+---
+
+##### **[#1/7] administer 100% FiO2**
+
+* Oxygen is a pulmonary vasodilator.
+* Options:
+  + Nonrebreather @ 15 L/m + nasal cannula @ 15 L/min.
+  + High-flow nasal cannula.
+
+---
+
+##### **[#2/7] thrombolysis**
+
+* 🛑 Lytic contraindications discussed [here](#step_#3/4:_thrombolytic_contraindications).
+* **Alteplase**:
+  + Standard dose: 100 mg alteplase (10-20 mg bolus, then remainder over 2 hours).
+  + Cardiac arrest: 50 mg bolus.
+  + Relative contraindication & stabilized on low-dose pressor: May start with 50 mg alteplase (10 mg bolus, then 40 mg over 2 hours).
+* **Tenecteplase**: Alternative if more readily available:
+  + <60 kg: 30 mg.
+  + 60-70 kg: 35 mg.
+  + 70-80 kg: 40 mg.
+  + 80-90 kg: 45 mg.
+  + >90 kg: 50 mg.
+
+---
+
+##### **[#3/7] epinephrine = 1st line inopressor**
+
+#### **basics**
+
+* Start epinephrine early (hypotension is part of the RV death spiral).
+* Titrate for MAP >>65 mm.
+
+#### **(why epinephrine is great for PE)**
+
+* Epinephrine may be the front-line agent here, for several reasons: ([8325096](https://www.ncbi.nlm.nih.gov/pubmed/8325096))
+  + (a) Beta-agonist activity from epinephrine may cause pulmonary vasodilation.
+  + (b) High-risk PE causes death due to failure of the right ventricle (it’s fundamentally a form of *cardiogenic shock*). Beta-agonist stimulation may increase right ventricular contractility, thereby improving cardiac output.
+  + (c) The most common final terminal pathway of pulmonary embolism is often brady-asystolic arrest. The positive chronotropic effects of epinephrine may help prevent this event.
+* Establishing an adequate mean arterial pressure (e.g.,>65 mm) will help ensure adequate perfusion of the right coronary artery and thereby support right ventricular function.
+* There is no specific “maximal” dose of epinephrine for use in the patient with high-risk pulmonary embolism. High doses may be necessary.
+
+---
+
+##### **[#4/7] vasopressin = 2nd line pressor [💉](https://emcrit.org/ibcc/shock/#vasopressin)**
+
+#### **basics**
+
+* Use for hypotension refractory to epinephrine.
+* Periarrest: bolus 1 unit and assess effects. May repeat q2-5 minutes.
+* Infusion rate ~0.04-0.08 U/min.
+
+#### **(rationale for vasopression as a 2nd line agent)**
+
+* Vasopressin causes systemic vasoconstriction while simultaneously causing pulmonary *vasodilation*. Beneficial effects on the pulmonary vasculature make vasopressin a good choice in pulmonary hypertension.
+* The typical dose range might be similar to that for sepsis (e.g., 0-0.06 U/min). ([27483065](https://www.ncbi.nlm.nih.gov/pubmed/27483065))
+* Vasopressin is generally used as a second-line agent because it’s not particularly powerful and is difficult to titrate (with a half-life of ~20 minutes, its onset and offset are sluggish).
+
+---
+
+##### **[#5/7] inhaled pulmonary vasodilators [📖](https://emcrit.org/ibcc/pe/#inhaled_pulmonary_vasodilators)**
+
+* *Use whatever is most readily available. If refractory, consider a combination of nitric oxide plus epoprostenol.*
+* **Nitroglycerine**:
+  + 5 mg nebulized over 15 minutes, repeat PRN (lasts ~30 min).
+  + A continuous neb using a 200-400 mcg/ml solution may be reasonable until nitric oxide or Epoprostenol is available (this utilizes the nitroglycerine solution for IV administration that is pre-mixed in large glass bottles).
+* **Milrinone**:
+  + Same dose as nitroglycer
+
+--- FUENTE WEB ---
+Título: Pulmonary Embolism and Right Ventricular Dysfunction: Mechanism and Management
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11443303
+Score: 0.7125728
+
+Texto:
+# Pulmonary Embolism and Right Ventricular Dysfunction: Mechanism and Management
+
+Ogbonnaya N Ajah
+
+Cureus · 2024-09-30 · 16(9):e70561 · DOI: 10.7759/cureus.70561 · PMID: 39355468 · PMCID: PMC11443303
+
+## Abstract
+
+Pulmonary embolism (PE) occurs when thrombi from deep vein thrombosis dislodge and obstruct pulmonary arteries, raising pulmonary artery pressure and straining the right ventricle. This strain can lead to right ventricular dysfunction (RVD), characterized by reduced cardiac output, impaired contractility, and potential development of chronic thromboembolic pulmonary hypertension. Clinically, PE may present with symptoms such as dyspnea, pleuritic chest pain, and tachycardia. Diagnosis is typically confirmed through computed tomography pulmonary angiography, biomarkers like D-dimer and cardiac troponins, and clinical scoring systems. Acute management focuses on hemodynamic support, including intravenous fluids and vasopressors, and may involve anticoagulation with low-molecular-weight heparin or direct oral anticoagulants. Severe cases may require systemic anticoagulation, catheter-directed techniques, and surgeries like pulmonary endarterectomy. Long-term management involves continued anticoagulation tailored to individual risk factors, with ongoing monitoring to prevent recurrence. Effective early diagnosis and management are crucial, as severe PE can significantly increase mortality and lead to serious complications. This review explores the pathophysiology, diagnosis, and management of PE and RVD.
+
+## Keywords
+
+anticoagulants, hemodynamics, heart ventricles, management, mechanisms, right ventricular dysfunction, pulmonary embolism
+
+## Introduction and background
+
+Pulmonary embolism (PE) is a severe and frequently life-threatening condition resulting from the obstruction of a pulmonary artery or its branches, typically due to a thrombus that has migrated from deep vein thrombosis (DVT) [1]. This obstruction disrupts blood flow to the lungs, causing an acute elevation in pulmonary arterial pressure. The resultant increase in pressure imposes substantial strain on the right ventricle (RV), the cardiac chamber responsible for propelling blood into the pulmonary circulation. As the RV attempts to manage the heightened workload, it may become overwhelmed, leading to right ventricular dysfunction (RVD). This dysfunction compromises the heart's ability to pump blood effectively, potentially resulting in reduced cardiac output, hypotension, and further systemic circulatory impairment. Significant hemodynamic compromise can occur in up to 8% of patients with acute PE. This condition is linked to a substantial rise in mortality rates, ranging from 15% to 42%, primarily due to acute right ventricular failure [2]. Clinically, PE can present with acute symptoms such as sudden onset of dyspnea, sharp chest pain, tachycardia, and in severe cases, syncope or collapse [3]. Long-term complications, including chronic thromboembolic pulmonary hypertension (CTEPH), can arise when elevated pulmonary pressures persist, leading to sustained RV impairment and ongoing cardiovascular strain [4].
+
+The clinical significance of PE and RVD is substantial due to their impact on patient outcomes and healthcare systems. PE is a common disorder with an estimated yearly incidence of 0.7 to 1 per 1000 inhabitants in the Western world [5]. It is a leading cause of cardiovascular morbidity and mortality globally, with prevalence influenced by variables such as age, underlying health conditions, and lifestyle factors. RVD plays a critical role in the severity of PE and is associated with increased mortality and adverse outcomes. Patients exhibiting RVD face a higher risk of severe complications, including shock and death, and often require more intensive therapeutic interventions. In-hospital mortality due to PE ranges from 22.0% to 31.8%, increasing up to 65% in cases of cardiac arrest [6], with most deaths occurring within the first hour [7]. This highlights the critical need for early recognition and treatment. Research indicates that the presence of RVD is correlated with poorer prognosis and can complicate the management of PE, underscoring the importance of early detection and timely treatment [8]. A comprehensive understanding of the prevalence and impact of RVD in PE patients is essential for developing effective treatment strategies and enhancing patient outcomes. This review aims to comprehensively evaluate the mechanisms and management strategies associated with PE and RVD by analyzing the evidence from the current available literature. The objectives include examining the pathophysiological processes through which PE induces RVD, assessing the clinical impact of RVD on patient outcomes, and reviewing current treatment approaches.
+
+## Review
+
+Discussion
+
+Pathophysiology and Mechanism
+
+Pulmonary embolism: Most PEs arise from thrombi in the deep veins of the lower extremities, primarily in the calf veins, followed by the femoropopliteal veins, and less frequently in the iliac veins. Thrombosis often occurs in areas with reduced blood flow, such as near valve cusps and at bifurcations, and can be exacerbated by local hypercoagulability due to factors like hypoxia and hemoconcentration [9]. A smaller fraction of emboli originates from upper extremity veins, typically associated with central venous catheters, intracardiac devices such as pacemakers and defibrillators, malignancy, or trauma related to activity. Additionally, DVT in the pelvic veins can lead to PEs, especially when accompanied by risk factors such as pelvic infections, surgeries, or pregnancy. Central DVTs in the lower extremities are more likely to result in PE for 15%-32%, while those in the upper extremities have a lower incidence of PE approximately 6% [9].
+
+PE occurs when clots formed in the deep venous system break loose and travel to block the pulmonary arteries. Smaller PEs may resolve on their own, but larger clots can cause a rapid a
+
+--- FUENTE WEB ---
+Título: Treatment of acute pulmonary embolism: a comparison of international guideline recommendations
+URL: https://www.sciencedirect.com/science/article/pii/S1538783625009006
+Score: 0.6882385
+
+Texto:
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S1538783625009006#screen-reader-main-content)[Skip to article](https://www.sciencedirect.com/science/article/pii/S1538783625009006#screen-reader-main-title)
+
+[![Image 2: Elsevier logo](https://www.sciencedirect.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://www.sciencedirect.com/)
+
+*   [LeapSpace](https://www.sciencedirect.com/leapspace?DGCID=rai_sd_header_ls_link)
+
+*   [Journals & Books](https://www.sciencedirect.com/browse/journals-and-books)
+
+*   Help   
+*   [Search](https://www.sciencedirect.com/search) 
+
+[My account](https://www.sciencedirect.com/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1538783625009006&from=globalheader)
+
+[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS1538783625009006)
+
+*   [View**PDF**](https://www.sciencedirect.com/science/article/pii/S1538783625009006/pdfft?md5=caf2567528a40ba3d431140b38f66f21&pid=1-s2.0-S1538783625009006-main.pdf)
+*   Download full issue
+
+Search ScienceDirect 
+
+### Reading Assistant
+
+## Outline
+
+1.   [Abstract](https://www.sciencedirect.com/science/article/pii/S1538783625009006#abs0010 "Abstract")
+2.   [Keywords](https://www.sciencedirect.com/science/article/pii/S1538783625009006#kwrds0010 "Keywords")
+3.   [1. Introduction](https://www.sciencedirect.com/science/article/pii/S1538783625009006#sec1 "1. Introduction")
+4.   [2. Guidelines](https://www.sciencedirect.com/science/article/pii/S1538783625009006#sec2 "2. Guidelines")
+5.   [3. Management Following Diagnosis](https://www.sciencedirect.com/science/article/pii/S1538783625009006#sec3 "3. Management Following Diagnosis")
+6.   [4. Conclusion](https://www.sciencedirect.com/science/article/pii/S1538783625009006#sec4 "4. Conclusion")
+7.   [Declaration of competing interests](https://www.sciencedirect.com/science/article/pii/S1538783625009006#coi0010 "Declaration of competing interests")
+8.   [Author contributions](https://www.sciencedirect.com/science/article/pii/S1538783625009006#sec5 "Author contributions")
+9.   [Supplementary material](https://www.sciencedirect.com/science/article/pii/S1538783625009006#appsec1 "Supplementary material")
+10.   [References](https://www.sciencedirect.com/science/article/pii/S1538783625009006#cebib0010 "References")
+
+Show full outline
+
+## [Cited by (1)](https://www.sciencedirect.com/science/article/pii/S1538783625009006#section-cited-by)
+
+## Figures (2)
+
+1.   [![Image 3: Figure 1. Recommended sequence of therapeutic steps across the risk spectrum for patients…](https://ars.els-cdn.com/content/image/1-s2.0-S1538783625009006-gr1.sml)](https://www.sciencedirect.com/science/article/pii/S1538783625009006#fig1)
+2.   [![Image 4: Figure 2. Timeline highlighting the publication year of the included guidelines (bold)…](https://ars.els-cdn.com/content/image/1-s2.0-S1538783625009006-gr2.sml)](https://www.sciencedirect.com/science/article/pii/S1538783625009006#fig2)
+
+## Tables (2)
+
+1.   [Table 1](https://www.sciencedirect.com/science/article/pii/S1538783625009006#tbl1 "Guideline endorsements for each treatment component of acute pulmonary embolism with the extracted grade of evidence.")
+2.   [Table 2](https://www.sciencedirect.com/science/article/pii/S1538783625009006#tbl2 "Summary of the suggested approach to the general management of acute pulmonary embolism for each guideline.")
+
+## Extras (1)
+
+1.   [Supplementary Appendix](https://www.sciencedirect.com/science/article/pii/S1538783625009006#mmc1 "Supplementary Appendix")
+
+[![Image 5: Elsevier](https://www.sciencedirect.com/us-east-1/prod/889670af36b5044091281d5e1d000b53155c5cd5/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/journal-of-thrombosis-and-haemostasis "Go to Journal of Thrombosis and Haemostasis on ScienceDirect")
+
+## [Journal of Thrombosis and Haemostasis](https://www.sciencedirect.com/journal/journal-of-thrombosis-and-haemostasis "Go to Journal of Thrombosis and Haemostasis on ScienceDirect")
+
+[Volume 24, Issue 3](https://www.sciencedirect.com/journal/journal-of-thrombosis-and-haemostasis/vol/24/issue/3 "Go to table of contents for this volume/issue"), March 2026, Pages 817-836
+
+[![Image 6: Journal of Thrombosis and Haemostasis](https://ars.els-cdn.com/content/image/1-s2.0-S1538783626X20013-cov150h.gif)](https://www.sciencedirect.com/journal/journal-of-thrombosis-and-haemostasis/vol/24/issue/3)
+
+# Review Article
+
+Treatment of acute pulmonary embolism: a comparison of international guideline recommendations
+
+Author links open overlay panel Casper Falster 1 2, Gro Egholm 3, [Jess Lambrechtsen 4 5](https://www.sciencedirect.com/author/6603178870/jess-lambrechtsen), [Asger Andersen 6 7](https://www.sciencedirect.com/author/25648821000/asger-andersen), Thomas Agerbo Gaist 8 9, Rupert Bauersach 10 11, [Frederikus A.Klok 11 12](https://www.sciencedirect.com/author/16301310900/f-a-klok), [Anton Vonk-Noordegraaf 13](https://www.sciencedirect.com/author/55665349500/anton-vonk-noordegraaf)
+
+Show more
+
+Outline
+
+Add to Mendeley
+
+Share
+
+Cite
+
+[https://doi.org/10.1016/j.jtha.2025.11.021](https://doi.org/10.1016/j.jtha.2025.11.021 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S1538783625009006&orderBeanReset=true)View accessibility information
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+
+Open access
+
+## Abstract
+
+Pulmonary embolism is a common cardiovascular cause of death. Following diagnosis, immediate risk stratification and initiation of treatment are crucial but challenging, as patients may rapidly deteriorate in cases of progressive right heart failure. Multiple approaches to standardized risk stratification and subsequent management have been proposed, including assessment of clinical parameters such as cardiac biomarkers and imaging evidence of right ventricular abnormalities; however, obtaining an overvi
+
+--- FUENTE WEB ---
+Título: Right Ventricular failure - EMCrit Project
+URL: https://emcrit.org/ibcc/rv
+Score: 0.6453216
+
+Texto:
+# [Internet Book of Critical Care (IBCC)](https://emcrit.org/)
+
+Online Medical Education on Emergency Department (ED) Critical Care, Trauma, and Resuscitation
+
+You are here: [Home](https://emcrit.org/) / IBCC / Right Ventricular failure
+
+[![](https://emcrit.org/wp-content/uploads/2018/07/ibcclogo.jpg)](https://emcrit.org/ibcc/toc/ "ibcclogo")   
+   
+
+# Right Ventricular failure
+
+by [Josh Farkas](https://emcrit.org/author/pulmcrit/)
+
+### **CONTENTS**
+
+#### **treatment of RV failure**
+
+* **[[1] Correct any precipitating factors](#rx_#1/6:_correct_any_precipitating_factors)**
+* **[[2] Optimize the lungs (oxygenation, ventilation)](#rx_#2/6:_optimize_the_lungs,_oxygenation,_and_ventilation)**
+* **[[3] Establish an adequate MAP](#tx_#3/6:_establish_an_adequate_MAP)**
+* **[[4] Pulmonary vasodilators](#tx_#4/6:_pulmonary_vasodilators)**
+  + [Inhaled pulmonary vasodilators](#inhaledpulmvaso)
+  + [IV milrinone](#ivmilrinone)
+  + [IV nitroglycerin](#ivnitroglycerine)
+  + [Sildenafil](#sildenafil_pharmacology)
+  + [IV prostacyclins](#ivprostacyclins)
+* **[[5] Volume & preload management](#tx_#5/6:_volume_&_preload_management)**
+* **[[6] Inotropes](#tx_#6/6:_inotropes)**
+* **[Review of the titration scheme](#review_of_the_general_titration_scheme)**
+* **[Mechanical circulatory support](#tx_#7/6:_mechanical_circulatory_support)**
+
+#### **diagnosis of RV failure**
+
+* [Defining RV failure](#defining_RV_failure)
+* [Clinical manifestations of RV failure](#clinical_manifestations_of_RV_failure)
+  + [Congestive nephropathy (cardiorenal)](#congestive_nephropathy)
+  + [Congestive encephalopathy](#congestive_encephalopathy)
+  + [Congestive hepatopathy (cardiohepatic)](#congestive_hepatopathy)
+* [Laboratory findings](#laboratory_findings_in_RV_failure_may_include)
+* Radiological findings
+  + [Chest radiograph](#radiological_findings_in_RV_failure:_chest_radiography)
+  + [CT scan](#radiological_findings_in_RV_failure:_CT_scan)
+* [ECG](#electrocardiographic_findings_in_RV_failure)
+* [Echocardiography](#echocardiography_in_RV_failure)
+* [POCUS evaluation of venous congestion](#POCUS_evaluation_of_venous_congestion)
+  + [IVC](#ivc)
+  + [Femoral vein doppler](#fem)
+  + [Portal vein pulsatility](#portal)
+
+#### **causes of RV failure**
+
+* [[1] Elevated afterload (pulmonary hypertension)](#chronicph)
+* [[2] Elevated preload (volume overload)](#excesspreload)
+* [[3] Impaired contractility (RV myocardial dysfunction)](#rvmyocardium)
+
+#### **related/background information**
+
+* [Preamble: Don’t forget the right ventricle!](#preamble:_don't_forget_the_right_ventricle!)
+* [Pathophysiology of RV failure](#pathophysiology_of_RV_failure)
+  + [RV death spiral](#rvspiral)
+  + [RV myocardial perfusion](#RVmyocardialperf)
+  + [Falling off the Starling curve](#RVstarlingcurve)
+  + [Occult systemic hypoperfusion](#occultsystemichypoperfusion)
+  + [Central theorem of RV failure](#centraltheoremrv)
+* [High-output heart failure](#high-output_heart_failure)
+* [Sildenafil pharmacology](#sildenafil_pharmacology)
+
+###### --- rx #1/6: correct any precipitating factors [(back to contents)](#top) ---
+
+#### **[1a] reversible causative factors**
+
+* **PE**: Systemic thrombolysis or embolectomy.
+* **RVMI**: Emergent revascularization is needed. Subgroup analysis of the SHOCK trial suggested substantial mortality benefits from revascularization among patients with RVMI and shock (similar to other shocked MI patients). ([12706920](https://pubmed.ncbi.nlm.nih.gov/12706920/))
+
+#### **[1b] contributory factors to address**
+
+* **Medications**, e.g.:
+  + Negative inotropes:
+    - Beta-blockers, diltiazem.
+    - Dexmedetomidine.
+  + Alpha-agonists, Angiotensin II, methylene blue.
+  + Nephrotoxins.
+* **Metabolic acidosis**.
+* **Hypokalemia** (reduced contractility).
+* **Hypomagnesemia** (increases PVR, reduces contractility). ([41359196](https://pubmed.ncbi.nlm.nih.gov/41359196/))
+* **Thiamine deficiency** (may cause acute severe pulmonary hypertension). ([34126563](https://pubmed.ncbi.nlm.nih.gov/34126563/))
+* **Arrhythmias, especially atrial fibrillation**:
+  + AF is especially problematic because atrial contraction accounts for >40% of RV filling. ([37155123](https://pubmed.ncbi.nlm.nih.gov/37155123/))
+  + When possible, optimal treatment may be restoring normal sinus rhythm (e.g., DCCV, amiodarone). ([41359196](https://pubmed.ncbi.nlm.nih.gov/41359196/))
+  + Avoid beta-blockers or diltiazem because of their negative inotropic effects.
+  + For patients who cannot be cardioverted, *digoxin* may be a good option for providing rate control and positive inotropy. More on the management of critical AF [here](https://emcrit.org/ibcc/af/#top).
+
+###### --- rx #2/6: optimize the lungs, oxygenation, and ventilation [(back to contents)](#top) ---
+
+#### **[2a] liberal oxygen**
+
+* Oxygen is the original *pulmonary vasodilator*.
+* Aggressive oxygen may reduce pulmonary vascular resistance and improve cardiac output. This simple intervention can be implemented nearly anywhere.
+  + One study of patients with chronic pulmonary hypertension found that inhaling 100% oxygen reduced the pulmonary vascular resistance by 25%. ([11713133](https://pubmed.ncbi.nlm.nih.gov/11713133/))
+
+#### **[2b] optimize lung function to reduce PVR, e.g.:**
+
+* Pleural effusion drainage. ([41359196](https://pubmed.ncbi.nlm.nih.gov/41359196/))
+* CPAP/BiPAP for treatment of atelectasis, COPD, or OHS.
+
+#### **[2c] intubation & vent management**
+
+* Maintain an adequate oxygen saturation, with generous oxygen administration as above.
+* Avoid hypercapnia as much as possible:
+  + CO2 is a pulmonary *vasoconstrictor*.
+  + Normalize hypercapnia (if safely achievable).
+* Avoid using excessive PEEP. However, *adequate* PEEP to prevent atelectasis remains beneficial, as it recruits lung tissue and *reduces* pulmonary vascular resistance.
+* Prone positioning in ARDS patients may unload the RV (presumably related to improved oxygenation, alveolar recruitment, and reduced dead space). ([39938716](https://pubm
+
+--- FUENTE WEB ---
+Título: Pulmonary Embolism in 2026: New Guidelines, Data, and Treatment Pathways - Cardiac Interventions Today
+URL: https://citoday.com/articles/2026-sept-oct/pulmonary-embolism-in-2026-new-guidelines-data-and-treatment-pathways
+Score: 0.629889
+
+Texto:
+[News](https://citoday.com/news) [Issue](https://citoday.com/issues) [Archive](https://citoday.com/archive) [Device Guide](https://citoday.com/device-guide) [Calendar](https://citoday.com/calendar) [Subscribe](https://citoday.com/subscribe) [Advertising](https://citoday.com/advertising)
+
+[Device Guides](https://citoday.com/device-guide)
+
+[Trial Guide](https://citoday.com/trial-guide)
+
+---
+
+[CTO](https://citoday.com/center/cto) [DES](https://citoday.com/center/des) [Hypertension](https://citoday.com/center/hypertension) [Imaging Modalities](https://citoday.com/center/imaging-modalities) [PCI](https://citoday.com/center/pci) [Pharmacology](https://citoday.com/center/pharmacology) [PE](https://citoday.com/center/pulmonary-embolism) [Radial](https://citoday.com/center/radial) [Regulatory](https://citoday.com/center/regulatory) [Structural Disease](https://citoday.com/center/structural-disease) [Valvular Interventions](https://citoday.com/center/valvular-interventions)
+
+---
+
+[News](https://citoday.com/news) [Current Issue](https://citoday.com/issues) [Archive](https://citoday.com/archive) [Device Guide](https://citoday.com/device-guide) [Calendar](https://citoday.com/calendar) [Subscribe](https://citoday.com/subscribe) [Advertising](https://citoday.com/advertising) [About](https://citoday.com/about) [Contact](https://citoday.com/contact) [Privacy](https://bmctoday.com/privacy/?source=citoday.com) [Submissions](https://citoday.com/contact#submissions)
+
+[CTO](https://citoday.com/center/cto) [DES](https://citoday.com/center/des) [Hypertension](https://citoday.com/center/hypertension) [Imaging Modalities](https://citoday.com/center/imaging-modalities) [PCI](https://citoday.com/center/pci) [Pharmacology](https://citoday.com/center/pharmacology) [PE](https://citoday.com/center/pulmonary-embolism) [Radial](https://citoday.com/center/radial) [Regulatory](https://citoday.com/center/regulatory) [Structural Disease](https://citoday.com/center/structural-disease) [Valvular Interventions](https://citoday.com/center/valvular-interventions)
+
+Advertisement
+
+##### [September/October 2026](https://citoday.com/issues/2026-sept-oct)
+
+Sponsored by Penumbra, Inc.
+
+# Pulmonary Embolism in 2026: New Guidelines, Data, and Treatment Pathways
+
+[With Timothy Fernandes, MD](/search?q=timothy+fernandes); [Suhail Dohad, MD](/search?q=suhail+dohad); [Sanah Christopher, MD](/search?q=sanah+christopher); [Jason Mader, DO](/search?q=jason%C2%A0mader); and [Michael Bode, MD](/search?q=michael+bode)
+
+[View PDF](https://assets.bmctoday.net/citoday/pdfs/cit0926_FT_Penumbra.pdf) [Reprints](https://citoday.com/reprints?f=https://citoday.com/articles/2026-sept-oct/pulmonary-embolism-in-2026-new-guidelines-data-and-treatment-pathways)
+
+Pulmonary embolism (PE) care is entering a new chapter. In February 2026, a multisociety guideline introduced an A to E clinical classification framework and gave class I support for PE response team (PERT) assessment to improve in-hospital care—the first major update since the 2019 European Society of Cardiology guidelines.1,2
+
+Because the guideline review preceded the first randomized mechanical thrombectomy trials, emerging evidence must be interpreted alongside its recommendations. In STORM-PE, category C3 patients randomized to anticoagulation plus Computer Assisted Vacuum Thrombectomy (CAVT®) with Lightning Flash® (Penumbra, Inc.) had a greater 48-hour right ventricular/left ventricular (RV/LV) ratio reduction than anticoagulation alone (29.7% vs 13.1%; *P* < .001), with 4.3% versus 7.5% composite major adverse events, no device-related transfusions, and 100% technical success.3\* At 90 days, CAVT patients also had better functional outcomes, walking 479 versus 368 m on the 6-minute walk test (*P* = 0.049) and achieving New York Heart Association class I status in 97% versus 76% of patients (*P* = 0.02).4
+
+\**STORM-PE was only powered for primary endpoint of change in RV/LV ratio.*
+
+---
+
+![Timothy Fernandes, MD](https://core4-cms.imgix.net/issue-3071/Fernandes-Timothy_2026.jpg?auto=compress,format)
+
+**Timothy Fernandes, MD**  
+ Director, Comprehensive Pulmonary Embolism Care Professor of Medicine  
+ UC San Diego Health  
+ San Diego, California
+
+![Suhail Dohad, MD](https://core4-cms.imgix.net/issue-3071/Dohad_Suhail_2023.jpg?auto=compress,format)
+
+**Suhail Dohad, MD**  
+ Interventional Cardiologist  
+ Cedars-Sinai Cardiology Medical Group  
+ Los Angeles, California
+
+*In this Q&A, Drs. Timothy Fernandes and Suhail Dohad discuss how they are applying new guidance and emerging evidence in practice—from PERT design and patient stratification to mechanical thrombectomy, discharge planning, and long-term recovery.*
+
+#### What does your PERT consist of, and what is your perspective on PERTs?
+
+**Dr. Dohad:**  PERTs have now become a class I recommendation in the new guidelines. That recommendation was included because of growing evidence that PERTs can improve the care and throughput of patients with PE. Part of the benefit is earlier patient identification and a more systematic approach to evaluation and management. In my experience, there is definitely a higher use of catheter-directed therapies among patients evaluated by PERTs given the evidence demonstrating shorter lengths of stay, improved outcomes, and, in some circumstances, possible mortality benefit.
+
+PERTs are essential not only for acute care but also for discharge planning and longitudinal follow-up. Care becomes much more organized and protocol driven. Patients are followed more carefully, which can improve medication adherence, help them understand their disease and what to expect, and give them a reliable resource for PE- and medication-related questions.
+
+**Dr. Fernandes:**  Every hospital has different resources and interested parties. At University of California San Diego (UCSD), our PERT is primarily the pulmonary critical care doctors, who are the first call. We have a platform from Aidoc that alerts us to a PE, so we see cases come a
+
+--- FUENTE WEB ---
+Título: The Etiology and Management of Critical Acute Right Heart Failure
+URL: https://www.sciencedirect.com/science/article/pii/S0828282X25001138
+Score: 0.62934244
+
+Texto:
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S0828282X25001138#screen-reader-main-content)[Skip to article](https://www.sciencedirect.com/science/article/pii/S0828282X25001138#screen-reader-main-title)
+
+[![Image 2: Elsevier logo](https://www.sciencedirect.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://www.sciencedirect.com/)
+
+*   [Journals & Books](https://www.sciencedirect.com/browse/journals-and-books)
+
+*   Help   
+*   [Search](https://www.sciencedirect.com/search) 
+
+[My account](https://www.sciencedirect.com/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0828282X25001138&from=globalheader)
+
+[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0828282X25001138)
+
+*   [View**PDF**](https://www.sciencedirect.com/science/article/pii/S0828282X25001138/pdfft?md5=bd4de2b160c3042f7371d248d35bb66c&pid=1-s2.0-S0828282X25001138-main.pdf)
+*   Download full issue
+
+Search ScienceDirect 
+
+[![Image 3: Elsevier](https://www.sciencedirect.com/us-east-1/prod/889670af36b5044091281d5e1d000b53155c5cd5/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/canadian-journal-of-cardiology "Go to Canadian Journal of Cardiology on ScienceDirect")
+
+## [Canadian Journal of Cardiology](https://www.sciencedirect.com/journal/canadian-journal-of-cardiology "Go to Canadian Journal of Cardiology on ScienceDirect")
+
+[Volume 41, Issue 6](https://www.sciencedirect.com/journal/canadian-journal-of-cardiology/vol/41/issue/6 "Go to table of contents for this volume/issue"), June 2025, Pages 1096-1110
+
+[![Image 4: Canadian Journal of Cardiology](https://ars.els-cdn.com/content/image/1-s2.0-S0828282X25X00064-cov150h.gif)](https://www.sciencedirect.com/journal/canadian-journal-of-cardiology/vol/41/issue/6)
+
+# Review
+
+The Etiology and Management of Critical Acute Right Heart Failure
+
+Author links open overlay panel[Adriana Luk MD a](https://www.sciencedirect.com/author/16039677800/adriana-c-luk), Ricardo Teijeiro-Paradis MD b, Andrew Kochan MD b, [Filio Billia MD a](https://www.sciencedirect.com/author/6602414048/filio-billia), Ghislaine Douflé MD b, [Sheldon Magder MD c](https://www.sciencedirect.com/author/7007032510/sheldon-a-magder), Asher A.Mendelson MD, PhD d, Caroline McGuinty MD e, [John Granton MD b](https://www.sciencedirect.com/author/7004003295/john-thomas-granton)
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+
+[https://doi.org/10.1016/j.cjca.2025.02.006](https://doi.org/10.1016/j.cjca.2025.02.006 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0828282X25001138&orderBeanReset=true)View accessibility information
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by/4.0/)
+
+Open access
+
+## Abstract
+
+Right ventricular failure contributes to the morbidity and mortality of acute myocardial function, massive pulmonary embolism, and chronic pulmonary hypertension. Understanding how the normal physiology of the right ventricle (RV) is disrupted is integral to managing patients who present with RV decompensation. Therapeutic advances in mechanical circulatory support, pharmacotherapies to reduce afterload, mechanical and chemical lytic therapies for acute pulmonary embolism have improved outcomes of patients by offloading the RV. In this report we provide an overview of the physiology of the RV, medical management (volume optimization, hemodynamic targets, rhythm management), along with critical care-specific topics (induction with mechanical ventilation, sedation strategies, and mechanical circulatory support) and provide a framework for managing patients who present with leveraging principles of preload, contractility, and afterload. Last, because of the complexity of right ventricular failure management, and the complexity of presentation, we also discuss the role of team-based approach (cardiogenic shock and pulmonary embolism response teams), and highlight its benefits at improving outcomes.
+
+## Résumé
+
+La défaillance du ventricule droit (VD) contribue à la morbidité et à la mortalité de la fonction myocardique aiguë, de l'embolie pulmonaire (EP) massive et de l'hypertension pulmonaire chronique. Comprendre comment la physiologie normale du VD est perturbée fait partie intégrante de la prise en charge des patients qui présentent une décompensation du VD. Les progrès thérapeutiques dans le domaine de l'assistance circulatoire mécanique, les pharmacothérapies visant à réduire la postcharge, les thérapies lytiques mécaniques et chimiques pour l'EP aiguë ont amélioré les pronostics des patients en déchargeant le VD. Dans ce rapport, nous donnons un aperçu de la physiologie du VD, de la prise en charge médicale (optimisation du volume, cibles hémodynamiques, gestion du rythme), ainsi que des sujets spécifiques aux soins intensifs (induction avec ventilation mécanique, stratégies de sédation et assistance circulatoire mécanique) et nous fournissons un cadre pour la prise en charge des patients qui se présentent en se basant sur les principes de précharge, de contractilité et de postcharge. Enfin, compte tenu de la complexité de la prise en charge de l'insuffisance ventriculaire droite et de la complexité du tableau clinique, nous discutons également du rôle de l'approche basée sur l'équipe (équipes de réponse au choc cardiogénique et à l'embolie pulmonaire), et soulignons ses avantages pour l'amélioration des pronostics.
+
+## Graphical abstract
+
+![Image 5](https://ars.els-cdn.com/content/image/1-s2.0-S0828282X25001138-ga1.jpg)
+1.   [Download: Download high-res image (259KB)](https://ars.els-cdn.com/content/image/1-s2.0-S0828282X25001138-ga1_lrg.jpg "Download high-res image (259KB)")
+2.   [Download: Download full-size image](https://ars.els-cdn.com/content/image/1-s2.0-S0828282X25001138-ga1.jpg "Download full-size image")
+
+*   [Previous article in issue](https://www.sciencedirect.com/science/article
+
+--- FUENTE WEB ---
+Título: Detection of right ventricular dysfunction in acute ...
+URL: https://www.jthjournal.org/article/S1538-7836(22)02152-3/fulltext
+Score: 0.61140573
+
+Texto:
+by NLJ Chornenki · 2021 · Cited by 43 — Right ventricular (RV) dysfunction predicts worse outcomes in acute pulmonary embolism (PE). Because computed tomography (CT) pulmonary angiography visualizes
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
