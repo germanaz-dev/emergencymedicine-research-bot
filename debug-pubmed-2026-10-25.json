@@ -1,0 +1,109 @@
+[
+  {
+    "pmid": "42924239",
+    "title": "Precision medicine for futile recanalization after mechanical thrombectomy in acute ischemic stroke: mechanisms, diagnostics, and tailored therapies.",
+    "journal": "Frontiers in neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1186/s10020-024-00828-5",
+    "abstract": "Mechanical thrombectomy has substantially improved outcomes in appropriately selected patients with acute ischemic stroke, yet futile recanalization remains a major clinical challenge. Futile recanalization describes poor functional recovery despite technically successful macrovascular reperfusion, underscoring the incomplete relationship between angiographic reperfusion and tissue-level or microvascular perfusion. This narrative review summarizes current clinical, mechanistic, and translational evidence on the determinants of futile recanalization and evaluates emerging precision-medicine approaches to its prevention and management. Precision imaging has established a role in tissue-based patient selection, and recent randomized trials have expanded thrombectomy evidence to selected patients with large-core infarction. In contrast, current randomized evidence does not support routine endovascular treatment for unselected medium-vessel occlusion populations. We further examine bridging therapy versus direct mechanical thrombectomy, individualized periprocedural management, biomarkers, and decision support based on artificial intelligence. Clinical and imaging phenotypes may provide prognostic or mechanistic information, but no phenotype-based strategy has been prospectively validated to select bridging therapy or direct thrombectomy. Biomarkers currently remain primarily prognostic or exploratory. Artificial intelligence applications are largely focused on diagnostic and prognostic support. treatment-benefit prediction, by contrast, requires evidence of treatment-effect modification and prospective validation. Experimental studies of microvascular no-reflow and thrombo-inflammation provide biological rationale for targeted interventions but do not establish clinical efficacy. Future research should integrate multimodal imaging, biological profiling, and validated decision-support tools to move beyond angiographic success toward individualized strategies focused on tissue integrity and meaningful functional recovery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42924239/"
+  },
+  {
+    "pmid": "42901796",
+    "title": "[Ethical Issues in Mechanical Thrombectomy for Acute Ischemic Stroke].",
+    "journal": "No shinkei geka. Neurological surgery",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "English Abstract"
+    ],
+    "doi": "10.11477/mf.030126030540051066",
+    "abstract": "Mechanical thrombectomy (MT) has become the standard treatment for acute ischemic stroke (AIS) caused by large vessel occlusion, and its indications have expanded substantially over the past decade. Recent randomized controlled trials (RCTs) have extended eligibility to patients presenting in extended time windows, those with large ischemic cores, and other populations previously considered unsuitable for intervention. However, the expansion of MT indications has also raised important ethical challenges. Patients with AIS often lack decision-making capacity, requiring physicians to balance respect for patient autonomy with the principles of beneficence, nonmaleficence, and justice under severe time constraints. Moreover, RCTs have enrolled highly selected populations, and evidence remains limited for many patients encountered in clinical practice. This review discusses ethical issues related to MT across clinical contexts involving treatment beyond conventional time windows, large ischemic cores, medium or distal vessel occlusions, futile recanalization, active malignancy, and prestroke disability. Representative cases illustrate situations in which ethical considerations extend beyond guideline recommendations. Whenever possible, treatment decisions should incorporate each patient's premorbid functional status, values, anticipated quality of life, procedural risks, and expected neurological recovery. Continued evidence generation in understudied populations will be essential to support the ethically sound, patient-centered application of MT.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901796/"
+  },
+  {
+    "pmid": "42901789",
+    "title": "[Intravenous Thrombolysis for Acute Ischemic Stroke: Current Evidence and Perspectives].",
+    "journal": "No shinkei geka. Neurological surgery",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "English Abstract"
+    ],
+    "doi": "10.11477/mf.030126030540050996",
+    "abstract": "Since its introduction, intravenous thrombolysis (IVT) with alteplase has remained a mainstay of reperfusion therapy in the hyperacute management of acute ischemic stroke (AIS). Recent clinical evidence has driven a major paradigm shift from a strictly \"time-based\" approach to a \"tissue-based\" approach. Advanced neuroimaging techniques, including diffusion-weighted imaging-fluid-attenuated inversion recovery (DWI-FLAIR mismatch) and perfusion mismatch analyses, have enabled extension of the treatment window beyond 4.5 h and treatment of patients with strokes of unknown onset, particularly benefiting those who are ineligible for endovascular thrombectomy (EVT). Furthermore, the treatment criteria have been refined to recommend IVT for disabling deficits regardless of the baseline stroke severity score while withholding it from patients with minor, nondisabling presentations. An emerging challenge in clinical practice is determining whether IVT should be contraindicated in patients receiving novel amyloid-targeting therapies for Alzheimer's disease. Meanwhile, prehospital protocols involving mobile stroke units (MSUs) may help reduce onset-to-needle time in selected regions. IVT continues to evolve through personalized patient selection aimed at maximizing safety and improving functional outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901789/"
+  },
+  {
+    "pmid": "42901788",
+    "title": "[Acute-Phase Medical Treatment:Treatment to \"Reduce\" the Risk of Symptom Worsening].",
+    "journal": "No shinkei geka. Neurological surgery",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "English Abstract",
+      "Review"
+    ],
+    "doi": "10.11477/mf.030126030540050988",
+    "abstract": "Acute medical management after acute ischemic stroke (AIS) is often perceived as a supportive or conservative treatment, following decisions regarding intravenous thrombolysis and mechanical thrombectomy. However, it should be regarded as an active strategy to reduce the risk of neurological deterioration and support subsequent recovery. Acute medical treatment can be divided into two components: prevention of recurrent stroke or infarct expansion, and prevention of systemic complications that may delay recovery. This approach mainly aims at preventing early neurological deterioration (END), a clinically important but variably defined phenomenon associated with poor functional outcomes. Estimating the risk of END at admission using the clinical background, comorbidities, frailty, stroke mechanism, vascular imaging, and infarct distribution guides treatment intensity and monitoring. In patients with non-cardioembolic AIS with a high risk of END, antithrombotic strategies, including prasugrel and argatroban, may be considered while balancing the risk of bleeding. Recent randomized trials support earlier initiation of direct oral anticoagulants in selected patients with cardioembolic stroke. General medical care, including hemodynamic management, mobilization, swallowing assessment, and nutrition, is essential to prevent deterioration and promote recovery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901788/"
+  },
+  {
+    "pmid": "42894448",
+    "title": "Precision Oxygen Modulation in the Reperfusion Era: Conditioning and Therapeutic Strategies in Ischemic Stroke.",
+    "journal": "Journal of stroke",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.5853/jos.2026.02747",
+    "abstract": "Endovascular thrombectomy (EVT) and advanced perfusion imaging have transformed acute ischemic stroke (AIS) treatment, yet tissue hypoxia may persist because of delayed presentation, incomplete reperfusion, microvascular no-reflow, and secondary injury. Oxygen is an essential substrate for cerebral metabolism and a modifiable therapeutic exposure; however, clinical studies of oxygen-based interventions have yielded inconsistent results because of heterogeneity in timing, dose, delivery, and patient selection. Here we propose precision oxygen modulation (POM) as a stage-, phenotype-, and tissue-informed framework for the reperfusion era-treating oxygen exposure as a dose-titrated therapy that must be matched to the right patient, time window, physiological target, and safety boundary. POM integrates oxygen conditioning strategies that may prime neurovascular resilience before or around ischemia, time-limited therapeutic oxygen strategies deployed around reperfusion to support tissue at risk, and recovery-stage strategies paired with rehabilitation. We synthesize clinical and preclinical evidence linking oxygen tension to excitotoxicity, oxidative stress, inflammation, endothelial dysfunction, blood-brain barrier (BBB) integrity, and repair, while emphasizing the context-dependent risks of hyperoxia. We outline an operational decision framework and translational roadmap based on phenotype- and imaging-guided selection, biomarker validation, protocolized dosing, predefined safety boundaries, and phenotype-enriched randomized trials. POM is presented as a testable translational framework for organizing heterogeneous evidence and guiding the prospective validation of stage-specific oxygen modulation in modern stroke care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894448/"
+  },
+  {
+    "pmid": "42886241",
+    "title": "Tenecteplase, alteplase, and endovascular thrombectomy in extended-window acute ischemic stroke with intracranial large-vessel occlusion: a Bayesian network meta-analysis.",
+    "journal": "Journal of neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Network Meta-Analysis"
+    ],
+    "doi": "10.1177/1747493019840938",
+    "abstract": "The comparative effects of intravenous thrombolytic agents, endovascular thrombectomy (EVT), and bridging therapy in imaging-selected patients with acute ischemic stroke treated beyond 4.5 hours remain uncertain. We compared these strategies while distinguishing confirmed large-vessel occlusion (LVO) evidence from broader mixed populations. We searched PubMed, Embase, Web of Science, and the Cochrane Library for randomized trials evaluating reperfusion treatments administered 4.5 to 24 hours after stroke onset or last known well. The primary network included trials requiring confirmed intracranial LVO or basilar artery occlusion (BAO). An anterior-circulation LVO network and an all-available network were examined as sensitivity and exploratory analyses. Bayesian random-effects consistency models estimated odds ratios (ORs) with 95% credible intervals (CrIs). The primary outcome was functional independence, defined as a modified Rankin Scale score of 0 to 2 at 90 days. Fifteen randomized trials were included, of which 8 contributed to the primary confirmed LVO/BAO network. Compared with placebo or best medical care, EVT significantly improved functional independence (OR, 2.93 [95% CrI, 1.40-6.53]) and excellent functional outcome, defined as mRS 0 to 1 (OR, 2.22 [95% CrI, 1.30-4.11]), reduced 90-day mortality (OR, 0.71 [95% CrI, 0.50-0.98]), and increased trial-defined recanalization or reperfusion at approximately 24 hours (OR, 5.27 [95% CrI, 1.83-16.04]); sICH was also increased (OR, 2.65 [95% CrI, 1.28-5.81]). Compared with EVT, tenecteplase plus EVT showed numerically favorable but statistically inconclusive estimates for functional independence (OR, 1.10 [95% CrI, 0.34-3.52]) and excellent outcome (OR, 1.16 [95% CrI, 0.52-2.64]). Direct pairwise analyses of 2 trials were similarly inconclusive. Tenecteplase alone did not show clear differences from placebo or best medical care. Findings were directionally consistent in the anterior-circulation sensitivity and all-available exploratory networks. Among imaging-selected patients with confirmed intracranial LVO or BAO treated 4.5 to 24 hours after onset or last known well, EVT had the most consistent evidence of benefit versus placebo or best medical care. Tenecteplase plus EVT showed favorable but imprecise estimates, and neither network nor direct pairwise analyses established superiority over EVT alone. The incremental benefit of bridging tenecteplase remains uncertain.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886241/"
+  },
+  {
+    "pmid": "42873733",
+    "title": "Mobile Stroke Units in Acute Ischemic Stroke: Thrombectomy Efficiency, Workflow Models, and Implementation Considerations: A Review.",
+    "journal": "Cerebrovascular diseases (Basel, Switzerland)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1159/ced/accag043",
+    "abstract": "Acute ischemic stroke (AIS) is a time-critical emergency in which the benefit of reperfusion depends not only on treatment speed but also on accurate large-vessel occlusion (LVO) recognition, destination selection, and coordination between prehospital and hospital teams. Mobile stroke units (MSUs) move imaging, laboratory testing, specialist assessment, and thrombolysis into the prehospital setting, but their effect on thrombectomy depends substantially on onboard vascular-imaging capability and local routing protocols. This narrative review evaluates MSUs through the broader construct of thrombectomy efficiency, encompassing LVO identification, destination accuracy, avoidance of secondary transfer and duplicate imaging, in-hospital parallel processing, puncture and reperfusion times, and downstream clinical outcomes. Evidence for earlier intravenous thrombolysis is retained as an important upstream benefit but is distinguished from thrombectomy-specific efficiency. The available literature indicates that non-contrast-CT-based MSUs can accelerate hospital workflows through early diagnosis and prenotification, whereas CTA-enabled models can additionally confirm LVO in the field and support direct routing to a thrombectomy-capable center or, in selected systems, direct-to-angiography pathways. The magnitude of benefit is therefore configuration- and system-dependent. Economic evaluations likewise show that value is highly sensitive to annual patient volume, catchment population, staffing model, operating hours, analytic time horizon, and baseline patient disability. MSUs should not be treated as a uniform intervention. Their thrombectomy value is determined by how effectively prehospital imaging and specialist assessment are linked to destination decisions, interfacility-transfer avoidance, and receiving-center activation. CTA-enabled pathways provide the clearest mechanism for thrombectomy-specific time savings, while non-contrast-CT-based models may still improve in-hospital efficiency. Implementation is most defensible when local geography, case volume, workforce, dispatch integration, downstream thrombectomy capacity, and cost-effectiveness are considered together.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873733/"
+  },
+  {
+    "pmid": "42871239",
+    "title": "Evidence, strategies, and pathways for thrombectomy in medium vessel occlusion stroke: a systematic review.",
+    "journal": "Frontiers in neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "doi": "10.3389/fneur.2025.1723287",
+    "abstract": "Medium vessel occlusions (MeVOs) account for 25-40% of acute ischemic strokes and present a significant therapeutic frontier. Despite high technical success rates of endovascular thrombectomy (EVT), recent randomized trial results have been nuanced, creating a paradox and underscoring the need for a precision-based approach. We conducted a systematic review following PRISMA guidelines. After screening, 42 original studies were included (4 RCTs and 38 cohort studies). Evidence was synthesized and appraised using a three-tiered hierarchy. The GRADE framework was applied. Overall certainty of evidence ranged from moderate to very low. Observational studies, which often enrolled populations with higher baseline NIHSS scores and stricter imaging selection criteria, generally reported favorable functional independence rates (mRS 0-2 in 60-80% of EVT-treated patients). However, these rates may partly reflect selection bias rather than a purely treatment-related effect. Successful recanalization is frequently achieved (>85%), but safety concerns like symptomatic hemorrhage and vessel perforation require careful management. Success hinges on a precision strategy integrating advanced imaging (e.g., CT perfusion for \"Target Mismatch\") with a tailored technical arsenal. This includes dedicated low-profile stent retrievers and aspiration catheters, selected based on occlusion site, thrombus burden, and anatomy. A \"Eight Keys\" framework interprets neutral trial results, highlighting patient selection heterogeneity. Future progress depends on refined imaging criteria, dedicated device development, and validated selection tools. Current randomized evidence does not demonstrate an overall functional benefit of endovascular thrombectomy (EVT) for unselected MeVO stroke, while procedure-related hemorrhagic risk appears higher than with best medical therapy. EVT may be reasonable in carefully selected patients with disabling deficits, salvageable tissue, and favorable anatomy, when performed by experienced teams using distal-appropriate techniques. Future work should prioritize validated selection tools, standardized imaging definitions, distal-specific devices, and trial designs enriched for patients most likely to benefit.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42871239/"
+  }
+]

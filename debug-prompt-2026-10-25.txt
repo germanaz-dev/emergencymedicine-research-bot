@@ -1,0 +1,837 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: acute ischemic stroke thrombectomy selection
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Precision medicine for futile recanalization after mechanical thrombectomy in acute ischemic stroke: mechanisms, diagnostics, and tailored therapies.
+Revista: Frontiers in neurology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42924239
+DOI: 10.1186/s10020-024-00828-5
+URL: https://pubmed.ncbi.nlm.nih.gov/42924239/
+
+Abstract:
+Mechanical thrombectomy has substantially improved outcomes in appropriately selected patients with acute ischemic stroke, yet futile recanalization remains a major clinical challenge. Futile recanalization describes poor functional recovery despite technically successful macrovascular reperfusion, underscoring the incomplete relationship between angiographic reperfusion and tissue-level or microvascular perfusion. This narrative review summarizes current clinical, mechanistic, and translational evidence on the determinants of futile recanalization and evaluates emerging precision-medicine approaches to its prevention and management. Precision imaging has established a role in tissue-based patient selection, and recent randomized trials have expanded thrombectomy evidence to selected patients with large-core infarction. In contrast, current randomized evidence does not support routine endovascular treatment for unselected medium-vessel occlusion populations. We further examine bridging therapy versus direct mechanical thrombectomy, individualized periprocedural management, biomarkers, and decision support based on artificial intelligence. Clinical and imaging phenotypes may provide prognostic or mechanistic information, but no phenotype-based strategy has been prospectively validated to select bridging therapy or direct thrombectomy. Biomarkers currently remain primarily prognostic or exploratory. Artificial intelligence applications are largely focused on diagnostic and prognostic support. treatment-benefit prediction, by contrast, requires evidence of treatment-effect modification and prospective validation. Experimental studies of microvascular no-reflow and thrombo-inflammation provide biological rationale for targeted interventions but do not establish clinical efficacy. Future research should integrate multimodal imaging, biological profiling, and validated decision-support tools to move beyond angiographic success toward individualized strategies focused on tissue integrity and meaningful functional recovery.
+
+--- PAPER PUBMED ---
+Título: [Ethical Issues in Mechanical Thrombectomy for Acute Ischemic Stroke].
+Revista: No shinkei geka. Neurological surgery
+Fecha: 2026
+Tipo: Journal Article, Review, English Abstract
+PMID: 42901796
+DOI: 10.11477/mf.030126030540051066
+URL: https://pubmed.ncbi.nlm.nih.gov/42901796/
+
+Abstract:
+Mechanical thrombectomy (MT) has become the standard treatment for acute ischemic stroke (AIS) caused by large vessel occlusion, and its indications have expanded substantially over the past decade. Recent randomized controlled trials (RCTs) have extended eligibility to patients presenting in extended time windows, those with large ischemic cores, and other populations previously considered unsuitable for intervention. However, the expansion of MT indications has also raised important ethical challenges. Patients with AIS often lack decision-making capacity, requiring physicians to balance respect for patient autonomy with the principles of beneficence, nonmaleficence, and justice under severe time constraints. Moreover, RCTs have enrolled highly selected populations, and evidence remains limited for many patients encountered in clinical practice. This review discusses ethical issues related to MT across clinical contexts involving treatment beyond conventional time windows, large ischemic cores, medium or distal vessel occlusions, futile recanalization, active malignancy, and prestroke disability. Representative cases illustrate situations in which ethical considerations extend beyond guideline recommendations. Whenever possible, treatment decisions should incorporate each patient's premorbid functional status, values, anticipated quality of life, procedural risks, and expected neurological recovery. Continued evidence generation in understudied populations will be essential to support the ethically sound, patient-centered application of MT.
+
+--- PAPER PUBMED ---
+Título: [Intravenous Thrombolysis for Acute Ischemic Stroke: Current Evidence and Perspectives].
+Revista: No shinkei geka. Neurological surgery
+Fecha: 2026
+Tipo: Journal Article, Review, English Abstract
+PMID: 42901789
+DOI: 10.11477/mf.030126030540050996
+URL: https://pubmed.ncbi.nlm.nih.gov/42901789/
+
+Abstract:
+Since its introduction, intravenous thrombolysis (IVT) with alteplase has remained a mainstay of reperfusion therapy in the hyperacute management of acute ischemic stroke (AIS). Recent clinical evidence has driven a major paradigm shift from a strictly "time-based" approach to a "tissue-based" approach. Advanced neuroimaging techniques, including diffusion-weighted imaging-fluid-attenuated inversion recovery (DWI-FLAIR mismatch) and perfusion mismatch analyses, have enabled extension of the treatment window beyond 4.5 h and treatment of patients with strokes of unknown onset, particularly benefiting those who are ineligible for endovascular thrombectomy (EVT). Furthermore, the treatment criteria have been refined to recommend IVT for disabling deficits regardless of the baseline stroke severity score while withholding it from patients with minor, nondisabling presentations. An emerging challenge in clinical practice is determining whether IVT should be contraindicated in patients receiving novel amyloid-targeting therapies for Alzheimer's disease. Meanwhile, prehospital protocols involving mobile stroke units (MSUs) may help reduce onset-to-needle time in selected regions. IVT continues to evolve through personalized patient selection aimed at maximizing safety and improving functional outcomes.
+
+--- PAPER PUBMED ---
+Título: [Acute-Phase Medical Treatment:Treatment to "Reduce" the Risk of Symptom Worsening].
+Revista: No shinkei geka. Neurological surgery
+Fecha: 2026
+Tipo: Journal Article, English Abstract, Review
+PMID: 42901788
+DOI: 10.11477/mf.030126030540050988
+URL: https://pubmed.ncbi.nlm.nih.gov/42901788/
+
+Abstract:
+Acute medical management after acute ischemic stroke (AIS) is often perceived as a supportive or conservative treatment, following decisions regarding intravenous thrombolysis and mechanical thrombectomy. However, it should be regarded as an active strategy to reduce the risk of neurological deterioration and support subsequent recovery. Acute medical treatment can be divided into two components: prevention of recurrent stroke or infarct expansion, and prevention of systemic complications that may delay recovery. This approach mainly aims at preventing early neurological deterioration (END), a clinically important but variably defined phenomenon associated with poor functional outcomes. Estimating the risk of END at admission using the clinical background, comorbidities, frailty, stroke mechanism, vascular imaging, and infarct distribution guides treatment intensity and monitoring. In patients with non-cardioembolic AIS with a high risk of END, antithrombotic strategies, including prasugrel and argatroban, may be considered while balancing the risk of bleeding. Recent randomized trials support earlier initiation of direct oral anticoagulants in selected patients with cardioembolic stroke. General medical care, including hemodynamic management, mobilization, swallowing assessment, and nutrition, is essential to prevent deterioration and promote recovery.
+
+--- PAPER PUBMED ---
+Título: Precision Oxygen Modulation in the Reperfusion Era: Conditioning and Therapeutic Strategies in Ischemic Stroke.
+Revista: Journal of stroke
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42894448
+DOI: 10.5853/jos.2026.02747
+URL: https://pubmed.ncbi.nlm.nih.gov/42894448/
+
+Abstract:
+Endovascular thrombectomy (EVT) and advanced perfusion imaging have transformed acute ischemic stroke (AIS) treatment, yet tissue hypoxia may persist because of delayed presentation, incomplete reperfusion, microvascular no-reflow, and secondary injury. Oxygen is an essential substrate for cerebral metabolism and a modifiable therapeutic exposure; however, clinical studies of oxygen-based interventions have yielded inconsistent results because of heterogeneity in timing, dose, delivery, and patient selection. Here we propose precision oxygen modulation (POM) as a stage-, phenotype-, and tissue-informed framework for the reperfusion era-treating oxygen exposure as a dose-titrated therapy that must be matched to the right patient, time window, physiological target, and safety boundary. POM integrates oxygen conditioning strategies that may prime neurovascular resilience before or around ischemia, time-limited therapeutic oxygen strategies deployed around reperfusion to support tissue at risk, and recovery-stage strategies paired with rehabilitation. We synthesize clinical and preclinical evidence linking oxygen tension to excitotoxicity, oxidative stress, inflammation, endothelial dysfunction, blood-brain barrier (BBB) integrity, and repair, while emphasizing the context-dependent risks of hyperoxia. We outline an operational decision framework and translational roadmap based on phenotype- and imaging-guided selection, biomarker validation, protocolized dosing, predefined safety boundaries, and phenotype-enriched randomized trials. POM is presented as a testable translational framework for organizing heterogeneous evidence and guiding the prospective validation of stage-specific oxygen modulation in modern stroke care.
+
+--- PAPER PUBMED ---
+Título: Tenecteplase, alteplase, and endovascular thrombectomy in extended-window acute ischemic stroke with intracranial large-vessel occlusion: a Bayesian network meta-analysis.
+Revista: Journal of neurology
+Fecha: 2026
+Tipo: Journal Article, Network Meta-Analysis
+PMID: 42886241
+DOI: 10.1177/1747493019840938
+URL: https://pubmed.ncbi.nlm.nih.gov/42886241/
+
+Abstract:
+The comparative effects of intravenous thrombolytic agents, endovascular thrombectomy (EVT), and bridging therapy in imaging-selected patients with acute ischemic stroke treated beyond 4.5 hours remain uncertain. We compared these strategies while distinguishing confirmed large-vessel occlusion (LVO) evidence from broader mixed populations. We searched PubMed, Embase, Web of Science, and the Cochrane Library for randomized trials evaluating reperfusion treatments administered 4.5 to 24 hours after stroke onset or last known well. The primary network included trials requiring confirmed intracranial LVO or basilar artery occlusion (BAO). An anterior-circulation LVO network and an all-available network were examined as sensitivity and exploratory analyses. Bayesian random-effects consistency models estimated odds ratios (ORs) with 95% credible intervals (CrIs). The primary outcome was functional independence, defined as a modified Rankin Scale score of 0 to 2 at 90 days. Fifteen randomized trials were included, of which 8 contributed to the primary confirmed LVO/BAO network. Compared with placebo or best medical care, EVT significantly improved functional independence (OR, 2.93 [95% CrI, 1.40-6.53]) and excellent functional outcome, defined as mRS 0 to 1 (OR, 2.22 [95% CrI, 1.30-4.11]), reduced 90-day mortality (OR, 0.71 [95% CrI, 0.50-0.98]), and increased trial-defined recanalization or reperfusion at approximately 24 hours (OR, 5.27 [95% CrI, 1.83-16.04]); sICH was also increased (OR, 2.65 [95% CrI, 1.28-5.81]). Compared with EVT, tenecteplase plus EVT showed numerically favorable but statistically inconclusive estimates for functional independence (OR, 1.10 [95% CrI, 0.34-3.52]) and excellent outcome (OR, 1.16 [95% CrI, 0.52-2.64]). Direct pairwise analyses of 2 trials were similarly inconclusive. Tenecteplase alone did not show clear differences from placebo or best medical care. Findings were directionally consistent in the anterior-circulation sensitivity and all-available exploratory networks. Among imaging-selected patients with confirmed intracranial LVO or BAO treated 4.5 to 24 hours after onset or last known well, EVT had the most consistent evidence of benefit versus placebo or best medical care. Tenecteplase plus EVT showed favorable but imprecise estimates, and neither network nor direct pairwise analyses established superiority over EVT alone. The incremental benefit of bridging tenecteplase remains uncertain.
+
+--- PAPER PUBMED ---
+Título: Mobile Stroke Units in Acute Ischemic Stroke: Thrombectomy Efficiency, Workflow Models, and Implementation Considerations: A Review.
+Revista: Cerebrovascular diseases (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42873733
+DOI: 10.1159/ced/accag043
+URL: https://pubmed.ncbi.nlm.nih.gov/42873733/
+
+Abstract:
+Acute ischemic stroke (AIS) is a time-critical emergency in which the benefit of reperfusion depends not only on treatment speed but also on accurate large-vessel occlusion (LVO) recognition, destination selection, and coordination between prehospital and hospital teams. Mobile stroke units (MSUs) move imaging, laboratory testing, specialist assessment, and thrombolysis into the prehospital setting, but their effect on thrombectomy depends substantially on onboard vascular-imaging capability and local routing protocols. This narrative review evaluates MSUs through the broader construct of thrombectomy efficiency, encompassing LVO identification, destination accuracy, avoidance of secondary transfer and duplicate imaging, in-hospital parallel processing, puncture and reperfusion times, and downstream clinical outcomes. Evidence for earlier intravenous thrombolysis is retained as an important upstream benefit but is distinguished from thrombectomy-specific efficiency. The available literature indicates that non-contrast-CT-based MSUs can accelerate hospital workflows through early diagnosis and prenotification, whereas CTA-enabled models can additionally confirm LVO in the field and support direct routing to a thrombectomy-capable center or, in selected systems, direct-to-angiography pathways. The magnitude of benefit is therefore configuration- and system-dependent. Economic evaluations likewise show that value is highly sensitive to annual patient volume, catchment population, staffing model, operating hours, analytic time horizon, and baseline patient disability. MSUs should not be treated as a uniform intervention. Their thrombectomy value is determined by how effectively prehospital imaging and specialist assessment are linked to destination decisions, interfacility-transfer avoidance, and receiving-center activation. CTA-enabled pathways provide the clearest mechanism for thrombectomy-specific time savings, while non-contrast-CT-based models may still improve in-hospital efficiency. Implementation is most defensible when local geography, case volume, workforce, dispatch integration, downstream thrombectomy capacity, and cost-effectiveness are considered together.
+
+--- PAPER PUBMED ---
+Título: Evidence, strategies, and pathways for thrombectomy in medium vessel occlusion stroke: a systematic review.
+Revista: Frontiers in neurology
+Fecha: 2026
+Tipo: Journal Article, Systematic Review
+PMID: 42871239
+DOI: 10.3389/fneur.2025.1723287
+URL: https://pubmed.ncbi.nlm.nih.gov/42871239/
+
+Abstract:
+Medium vessel occlusions (MeVOs) account for 25-40% of acute ischemic strokes and present a significant therapeutic frontier. Despite high technical success rates of endovascular thrombectomy (EVT), recent randomized trial results have been nuanced, creating a paradox and underscoring the need for a precision-based approach. We conducted a systematic review following PRISMA guidelines. After screening, 42 original studies were included (4 RCTs and 38 cohort studies). Evidence was synthesized and appraised using a three-tiered hierarchy. The GRADE framework was applied. Overall certainty of evidence ranged from moderate to very low. Observational studies, which often enrolled populations with higher baseline NIHSS scores and stricter imaging selection criteria, generally reported favorable functional independence rates (mRS 0-2 in 60-80% of EVT-treated patients). However, these rates may partly reflect selection bias rather than a purely treatment-related effect. Successful recanalization is frequently achieved (>85%), but safety concerns like symptomatic hemorrhage and vessel perforation require careful management. Success hinges on a precision strategy integrating advanced imaging (e.g., CT perfusion for "Target Mismatch") with a tailored technical arsenal. This includes dedicated low-profile stent retrievers and aspiration catheters, selected based on occlusion site, thrombus burden, and anatomy. A "Eight Keys" framework interprets neutral trial results, highlighting patient selection heterogeneity. Future progress depends on refined imaging criteria, dedicated device development, and validated selection tools. Current randomized evidence does not demonstrate an overall functional benefit of endovascular thrombectomy (EVT) for unselected MeVO stroke, while procedure-related hemorrhagic risk appears higher than with best medical therapy. EVT may be reasonable in carefully selected patients with disabling deficits, salvageable tissue, and favorable anatomy, when performed by experienced teams using distal-appropriate techniques. Future work should prioritize validated selection tools, standardized imaging definitions, distal-specific devices, and trial designs enriched for patients most likely to benefit.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Emergency thrombectomy for acute ischaemic stroke: current evidence, international guidelines, and local clinical practice | HKMJ
+URL: https://www.hkmj.org/abstracts/v24n1/73.htm
+Score: 0.81524754
+
+Texto:
+![](https://www.hkmj.org/sites/default/files/mjimage/hkmj_desktop_logo.jpg)
+
+![](https://www.hkmj.org/sites/default/files/mjimage/hkmj_mobile_logo.jpg)
+
+[Home](https://www.hkmj.org/index.php) [Online First](https://www.hkmj.org/earlyrelease/index.html) [Current Issue](https://www.hkmj.org/current-issue) [Past Issues](https://www.hkmj.org/pastissues)
+
+* [Journal Home](/)
+* [FIND ISSUES >](#)
+  + [Current Issue](https://www.hkmj.org/current-issue)
+* [ARTICLE & MULTIMEDIA >](#)
+  + [COVID-19 Updates](/COVID-19)
+  + [Most Accessed Articles](/most-read-article-tab)
+  + [Clinical Epidemiology Workshop Series](/clinical-epidemiology-workshop-series)
+  + [Supplements](/resources/supp.html)
+  + [Videos](/video/index.html)
+* [FOR AUTHORS >](#)
+  + [Guide for Author](/author/forauthors.html)
+  + [Reviewer List](/reviewer-list)
+  + [BOPA](/bopa)
+  + [Online Submission](https://www.hkamedtrack.org/hkmj/home/)
+* [ABOUT THIS JOURNAL >](#)
+  + [Overview](/overview)
+  + [Website](/about/website.html)
+  + [Editorial Board](/about/eo.html)
+  + [Contact](/about/contact.html)
+* [INFORMATION FOR >](#)
+  + [Media](/media)
+  + [Advertisers](/advertisements)
+  + [Subscribers](/subscription)
+* [SERVICES >](#)
+  + [Email Alert](/newsletter/subscriptions)
+  + [Reprints & Permissions](/subscription/reprint.html)
+* [SOCIAL MEDIA >](#)
+  + [Facebook](https://www.facebook.com/HongKongMedJ)
+  + [Twitter](https://twitter.com/HongKongMedJ)
+
+[Current Issue](https://www.hkmj.org/current-issue)
+
+[Past Issues](https://www.hkmj.org/pastissues)
+
+[Online First](https://www.hkmj.org/earlyrelease/index.html)
+
+[For Authors](https://www.hkamedtrack.org/hkmj/guide_for_author)
+
+[Submit an Article](http://www.hkamedtrack.org/hkmj/)
+
+[Hong Kong Med J 2018 Feb;24(1):](https://www.hkmj.org/abstracts/v24n1/toc.htm)73–80
+
+DOI: 10.12809/hkmj176296
+
+© Hong Kong Academy of Medicine. [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+MEDICAL PRACTICE  [**CME**](https://www.hkmj.org/system/files/cme1802.pdf)
+
+Emergency thrombectomy for acute ischaemic stroke: current evidence, international guidelines, and local clinical practice
+
+Anderson CO Tsang, MB, BS, MRCSEd1; Ryo WL Yeung2; Mona MY Tse, MB, BS, FHKAM (Medicine)3; Raymand Lee, MB, BS, FHKAM (Radiology)4; WM Lui, MB, BS, FCSHK1
+
+1 Division of Neurosurgery, Department of Surgery, Queen Mary Hospital, The University of Hong Kong, Pokfulam, Hong Kong
+
+2 Li Ka Shing Faculty of Medicine, The University of Hong Kong, Pokfulam, Hong Kong
+
+3 Division of Neurology, Department of Medicine, Queen Mary Hospital, Pokfulam, Hong Kong
+
+4 Department of Radiology, Queen Mary Hospital, Pokfulam, Hong Kong
+
+Corresponding author: Dr Anderson CO Tsang ([[email protected]](/cdn-cgi/l/email-protection#3455575b4047555a53745c5f411a5c5f))
+
+![](https://www.hkmj.org/sites/default/files/mjimage/pdficon.png) [Full paper in PDF](https://www.hkmj.org/system/files/hkmj176296.pdf)
+
+Abstract
+
+Acute ischaemic stroke due to large vessel occlusion leads to grave neurological morbidity and mortality. Conventional intravenous thrombolysis is ineffective in achieving timely reperfusion in this group of patients. The publication of five positive randomised controlled trials of emergency thrombectomy for acute ischaemic stroke in 2015 provided strong evidence to support endovascular reperfusion therapy and represented a paradigm shift in acute stroke management. In this article, we review the current evidence and international guidelines, and report on the findings of a survey study of the clinical practice and opinions of local neurologists, neurosurgeons, and interventional radiologists in emergency thrombectomy. We also discuss the controversies around thrombectomy treatment, local experience, and suggestions to incorporate thrombectomy in acute stroke treatment.
+
+[[Abstract in Chinese]](https://www.hkmj.org/system/files/hkmj176296-chi.jpg)
+
+Introduction
+
+Before 2015, the standard of care for emergency ischaemic stroke treatment was intravenous thrombolysis with tissue plasminogen activator (IV-tPA). This stemmed from the National Institute of Neurological Disorders and Stroke trial in 1995, which showed that compared with placebo, patients who were given IV-tPA within 3 hours from symptom onset were 30% more likely to have minimal or no disability at 3 months.[1](#r1) The therapeutic window was further extended to 4.5 hours from symptom onset by the European Cooperative Acute Stroke Study III, which demonstrated similar benefits when IV-tPA was administered between 3 and 4.5 hours to selected patients.[2](#r2)
+
+Nonetheless, in patients with ischaemia due to occlusion of a major cerebral artery, such as the intracranial internal carotid artery or the first and second segment of middle cerebral artery (M1, M2), the efficacy of intravenous thrombolysis was limited, with a recanalisation rate of only 4% to 30%.[3](#r3) This group of patients frequently had a grave neurological prognosis and high mortality owing to the large infarct territory, and could develop malignant cerebral oedema that required decompressive craniectomy.[4](#r4)
+
+To improve the recanalisation rate, endovascular mechanical thrombectomy to remove the occluding clot was proposed. Early studies of this technique showed conflicting results and were attributed to poor patient selection and suboptimal endovascular devices that resulted in a low recanalisation rate, thus failing to show the expected benefits of endovascular thrombectomy.[5](#r5) [6](#r6) [7](#r7)
+
+With modern improved thrombectomy devices, the publication of five positive randomised trials of acute mechanical thrombectomy for ischaemic stroke resulting from anterior circulation large-vessel occlusion in the *New England Journal of Medicine* in 2015 marked a paradigm shift in stroke treatment.[8](#r8) [9](#r9) [10](#r10) [11](#r11) [12](#r12) Since then, emergency endovascular thrombectomy has been internationally regarded as the new standard of care for acute ischaemic stroke caused
+
+--- FUENTE WEB ---
+Título: Guidelines-for-Mangaging-Patients-with-AIS-2019-Update-to-2018-Guidelines.pdf
+URL: https://www.stroke.org/-/media/Stroke-Files/Ischemic-Stroke-Professional-Materials/AIS-Toolkit/Guidelines-for-Mangaging-Patients-with-AIS-2019-Update-to-2018-Guidelines.pdf
+Score: 0.7917732
+
+Texto:
+1
+
+# GUIDELINES FOR THE EARLY 
+
+# MANAGEMENT OF PATIENTS 
+
+# WITH ACUTE ISCHEMIC STROKE: 
+
+# 2019 Update to the 2018 Guidelines for  the  Early 
+
+# Management of Acute Ischemic Stroke 
+
+> A Summary for Healthcare Professionals from the American Stroke Association
+
+2
+
+# KEY TAKEAWAYS 
+
+The 2019 guideline updates the 2018 acute ischemic stroke (AIS) guideline with content 
+
+based on recent clinical trials and clarifies previous recommendations. The guideline is 
+
+a comprehensive one, addressing AIS management from acute symptoms onset in the 
+
+prehospital phase through two weeks post-acute stroke. It provides guidance on which 
+
+patients are eligible to receive IV alteplase, mechanical thrombectomy and other care to 
+
+reduce long-term morbidity. This summary focuses on recommendations related to the 
+
+diagnosis of acute ischemic stroke and its treatment with IV alteplase and/or mechanical 
+
+thrombectomy. 
+
+Regional systems of early stroke care should be developed that coordinate first-contact 
+
+services with local and regional hospitals to achieve minimum delay time from symptom 
+
+onset to definitive treatment. 
+
+• Recommend brain imaging studies, in most cases non-contrast computed 
+
+tomography (CT), be performed as quickly as possible for patients who may be 
+
+candidates for IV alteplase and/or mechanical thrombectomy. 
+
+• Time from symptom onset to IV alteplase should be as short as possible and never 
+
+more than 4.5 hours. 
+
+• Time from first stroke symptom to mechanical thrombectomy should be as quickly 
+
+as possible within up to 24 hours in select patients. 
+
+• To achieve expedited care, public awareness of the signs of stroke and importance 
+
+of calling 9-1-1 immediately by the community is needed.¹ 
+
+The path to achieve these goals is represented in the flow chart on the next page. 
+
+PLEASE REFER TO THE FULL GUIDELINES, AVAILABLE AT STROKE.ORG/AISTOOLKIT, FOR MORE DETAIL ON SPECIFIC RECOMMENDATIONS.       
+
+> REFERENCES: 1. Guidelines for the Early Management of Patients with Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute
+> Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. 2. Modi_ed from Kothari RU, Pancioli A,
+> Liu T, Brott T, Broderick J. Cincinnati Prehospital Stroke Scale: reproducibility and validity. Ann Emerg Med. 1999;33:373-378. With permission from Elsevier. http://www.
+> strokeassociation.org/idc/groups/stroke-public/@private/@wcm/@hcm/@gwtg/documents/downloadable/ucm_428607.pdf 3. Summer D, Leonard A, Wentworth D,
+> et al. Comprehensive Overview of Nursing and Interdisciplinary Care of the Acute Ischemic Stroke Patient. Stroke 2009;40;2911-2944.
+
+• IV alteplase within 4.5 hours of stroke onset remains the standard of care for 
+
+most ischemic stroke patients, providing the opportunity for more favorable 
+
+outcomes. Patients eligible for IV alteplase should receive it, even if mechanical 
+
+thrombectomy is being considered. 
+
+• Mechanical thrombectomy evaluation and treatment should occur as rapidly as 
+
+possible to ensure the treatment of as many eligible patients as possible. 
+
+• Mechanical thrombectomy is recommended within 16 hours and reasonable up 
+
+to 24 hours in selected patients with AIS with large vessel occlusion in the anterior 
+
+circulation greater than 6 hours from symptom onset who meet certain advanced 
+
+imaging criteria. 
+
+• The benefits of both IV alteplase and mechanical thrombectomy are time 
+
+dependent.  The earlier the treatment within the time window, the greater the 
+
+benefit to patients. 
+
+The path to achieve these goals is represented in the flow chart on the next page 
+
+> ©2020 American Heart Association
+
+OUT OF HOSPITAL 
+
+ASSESS FOR STROKE (I) 
+
+(FAST, CPSS, LAPSS) 
+
+POSITIVE RECOGNITION 
+
+(by bystander) 
+
+FIRST MEDICAL CONTACT (II) IN EMERGENCY DEPARTMENT NIHSS (III) IMMEDIATE DIAGNOSTICS ALL PATIENTS (IV) EVALUATE FOR IV ALTEPLASE (V) SIMULTANEOUS EVALUATE FOR MECHANICAL THROMBECTOMY (VI) 
+
+<24 HOURS IN SELECT PATIENTS 
+
+QUALIFIES ADMINISTER MECHANICAL THROMBECTOMY (VIII) QUALIFIES ADMINISTER IV ALTEPLASE (VII) QUALIFIES 
+
+# EARLY ACUTE ISCHEMIC STROKE CARE MANAGEMENT FLOW CHART 
+
+PLEASE REFER TO THE FULL GUIDELINES, AVAILABLE AT STROKE.ORG/AISTOOLKIT, FOR MORE DETAIL ON SPECIFIC RECOMMENDATIONS. 
+
+> ©2020 American Heart Association
+
+4
+
+# TEXT COPY FOR NUMBERED 
+
+# SECTIONS OF THE FLOW CHART 
+
+## EMS Team to identify if there is evidence of an Acute Ischemic Stroke 
+
+Assess for stroke using a validated 
+
+screening  tool, such as F.A.S.T., Cincinnati 
+
+Prehospital  Stroke Scale, or Los Angeles 
+
+Prehospital  Stroke Screen³ 
+
+First Medical Contact (EMS 
+
+Provider )¹ – Assess and manage 
+
+ABCs (airway, breathing, circulation) 
+
+•• Check and monitor blood pressure, 
+
+but do not treat 
+
+•• Initiate cardiac monitoring 
+
+•• Provide supplemental oxygen to maintain 
+
+O2 saturation > 94% 
+
+•• Establish IV access 
+
+•• Determine blood glucose and treat 
+
+accordingly 
+
+•• Determine time of symptom onset or last known 
+
+normal, and obtain family contact information, 
+
+preferably a cell phone 
+
+•• Triage and rapidly transport patient to the 
+
+closest healthcare facility able to administer 
+
+IV alteplase 
+
+•• Notify hospital of pending stroke patient arrival 
+
+•• For patients who are not eligible for IV 
+
+thrombolysis and have a strong probability 
+
+of large vessel occlusion (LVO) stroke, follow 
+
+procedures that should be established to 
+
+transport patient to the closest healthcare facility 
+
+able to perform mechanical thrombectomy 
+
+NIHSS in Emergency Department 
+
+Immediate Diagnostics¹ 
+
+•• Brain imaging study as quickly as possible. In 
+
+most cases, noncontrast computed tomography 
+
+(NCTT) will provide the necessary information 
+
+•• Blood glucose level (only the assessment of blood 
+
+glucose must precede the initiation of IV alteplase 
+
+in all patients) 
+
+•• Oxygen saturation 
+
+•• Platelet count 
+
+•• Markers of cardiac ischemia 
+
+•• Prot
+
+--- FUENTE WEB ---
+Título: New Stroke Guidelines Extend Thrombectomy to 24 Hours
+URL: https://www.medscape.com/viewarticle/891786
+Score: 0.76888984
+
+Texto:
+![](https://www.medscape.com/mspx/tr.gif?e=nsps)
+
+Medscape Editions
+
+![](https://img.medscapestatic.com/pi/logos/mscp-logo.png "Medscape Logo")
+
+Medscape Editions
+
+No Results
+
+No Results
+
+# New Stroke Guidelines Extend Thrombectomy to 24 Hours
+
+Pauline Anderson
+
+January 25, 2018
+
+LOS ANGELES — New guidelines for the management of acute stroke include selection criteria for patients to receive mechanical endovascular thrombectomy up to 24 hours after their stroke.
+
+The guidelines are timely because there has been "a sweeping change" in the management of acute stroke since the last guidelines were released, guideline writing committee chair, William J. Powers, MD, H. Houston Merritt Distinguished Professor and Chair, Department of Neurology, University of North Carolina at Chapel Hill, told *Medscape Medical News.*
+
+"In 2013, there were no data, no good clinical trial data, that anybody benefited from this procedure, and now there is."
+
+The new guidelines were released here at the International Stroke Conference (ISC) 2018 and [published online](https://stroke.ahajournals.org/content/early/2018/01/23/STR.0000000000000158) January 24 in *Stroke*. The document was endorsed by the American Association of Neurological Surgeons, the Congress of Neurological Surgeons, and the Society for Academic Emergency Medicine.
+
+In 2015, the American Heart Association/American Stroke Association (AHA/ASA) issued a [Focused Update](https://www.medscape.com/viewarticle/847211) of the 2013 guidelines for the early management of patients with acute ischemic stroke. Among other things, the evidence-based guidelines covered the selection of eligible patients for endovascular therapy with a stent retriever (mechanical thrombectomy) within 6 hours from the onset of a stroke.
+
+However, since those guidelines were published, two additional studies have suggested that some patients can benefit from the procedure after 6 hours — possibly up to 24 hours following a stroke.
+
+One of these studies — DEFUSE-3 — was presented at this meeting and [published simultaneously](https://www.nejm.org/doi/full/10.1056/NEJMoa1713973) in the *New England Journal of Medicine* (*NEJM*) just hours before release the updated guidelines. Guideline authors had the chance to review the manuscript for this trial in advance and include the information in their updated guideline.
+
+"When you talk about up-to-date guidelines, it doesn't get any more up-to-date than this," Dr Powers said.
+
+One of the selection criteria for mechanical thrombectomy is having a large clot in one of the large vessels at the base of the brain. "It's not every stroke; it has to be a large clot," said Dr Powers, that typically cause more severe strokes.
+
+According to the updated guidelines, patients should be considered for thrombectomy in under 6 hours after stroke onset if they meet this criterion and these other criteria:
+
+ Prestroke modified Rankin Scale (mRS) score of 0 to 1;
+
+ Causative occlusion of the internal carotid artery or middle cerebral artery segment 1 (M1);
+
+ Age over 18 years;
+
+ National Institutes of Health Stroke Scale score of 6 or greater; and
+
+ Alberta Stroke Program Early CT Score of 6 or greater.
+
+What's different from previous recommendations is that patients who are ineligible for intravenous (IV) tissue plasminogen activator (tPA) may now be selected for mechanical thrombectomy within 6 hours.
+
+This new recommendation is a level 1A.
+
+In light of the new results from DEFUSE-3, and a second study called [DAWN](https://www.medscape.com/viewarticle/888830), published January 4 also in *NEJM*, the new guidelines recommend thrombectomy in eligible patients 6 to 16 hours after a stroke (another level 1A recommendation).
+
+And on the basis of the DAWN results, the procedure is "reasonable" in patients 16 to 24 hours after a stroke (level IIa-B-R).
+
+Dr Powers explained that to garner a level 1A recommendation, two studies are needed. Both DAWN and DEFUSE-3 covered patients for up to 16 hours, but only DAWN covered patients from 16 to 24 hours.
+
+To be eligible for the mechanical clot removal procedure up to 24 hours after a stroke, patients need to meet clear criteria, essentially inclusion criteria for the DAWN trial. "There are certain computed tomography or MRI findings that need to be satisfied," said Dr Powers.
+
+It's not clear how many patients would benefit from the recommendation extending the time frame for mechanical thrombectomy eligibility to 24 hours, he said.
+
+### **Care Plan**
+
+In light of the broadening selection criteria for this procedure, the new guidelines also recommend that hospitals set up a relevant plan of care.
+
+"We know that this procedure can never be available at every hospital in the country," said Dr Powers. "So it's now really, really important for hospitals in the various regions to start coming up with a system of care."
+
+Such a system would include initially sending patients with symptoms to the closest hospital where staff can determine whether they're having a stroke and whether they're a candidate for IV tPA and, if so, administer it.
+
+But hospitals also need to identify potential candidates for mechanical thrombectomy "and to get them to some place that can do it fast," said Dr Powers.
+
+An increasing number of centers across the country can do this, he added. "There are more and more every day."
+
+The Joint Commission, in collaboration with the AHA/ASA, now offers the Thrombectomy-Capable Stroke Center (TSC) certification program. This new level of stroke certification identifies hospitals that meet rigorous standards for performing mechanical endovascular thrombectomy.
+
+This is the fourth level of stroke center certification offered by the Joint Commission and the AHA/ASA; additional certifications include Acute Stroke Ready, Primary Stroke and Comprehensive Stroke.
+
+### **Intense Training**
+
+The mechanical thrombectomy procedure requires highly skilled professionals, be they radiologists, neurologists, or neurosurgeo
+
+--- FUENTE WEB ---
+Título: 5. Acute Ischemic Stroke Treatment | Canadian Stroke Best Practices
+URL: https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment
+Score: 0.7213709
+
+Texto:
+[Previous Section](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/emergency-department-evaluation-and-management)  4. Emergency Department Evaluation and Management of Patients with Acute Stroke and TIA   [Next Section](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-antithrombotic-therapy)  6. Acute Antithrombotic Therapy
+
+Acute Stroke Management
+
+Acute Stroke Management
+
+---
+
+* [Definitions](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/definitions)
+* [1. Stroke Awareness, Recognition, and Response](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/stroke-awareness-recognition-and-response)
+* [2. Triage and Initial Diagnostic Evaluation of Transient Ischemic Attack and Non-Disabling Stroke](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/triage-and-initial-diagnostic-evaluation-of-transient-ischemic-attack-and-non-disabling-stroke)
+* [3. Emergency Medical Services Management of Acute Stroke Patients](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/emergency-medical-services-management-of-acute-stroke-patients)
+* [4. Emergency Department Evaluation and Management of Patients with Acute Stroke and TIA](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/emergency-department-evaluation-and-management)
+* [5. Acute Ischemic Stroke Treatment](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment)
+  + [Notes](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment#pNotes)
+  + [Recommendations and/or Clinical Considerations](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment#pRecommendations-andor-Clinical-Considerations)
+  + [5.1 Patient Selection for Acute Ischemic Stroke Treatments](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment#p51-Patient-Selection-for-Acute-Ischemic-Stroke-Treatments)
+  + [5.2 (REVISED FOR 2022) Intravenous Thrombolysis Administration](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment#p52-REVISED-FOR-2022-Intravenous-Thrombolysis-Administration-)
+  + [5.3 Stroke While Already in Hospital](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment#p53-Stroke-While-Already-in-Hospital)
+  + [5.4 (NEW FOR 2025) Endovascular Thrombectomy for Acute Ischemic Stroke, Interim Update 2025](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment#p54-NEW-FOR-2025-Endovascular-Thrombectomy-for-Acute-Ischemic-Stroke-Interim-Update-2025)
+  + [5.5 Seizure Management](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment#p55-Seizure-Management)
+  + [5.6 (NEW FOR 2022) Emergency Management of Thrombolysis-Associated Hemorrhage](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-ischemic-stroke-treatment#p56-NEW-FOR-2022-Emergency-Management-of-Thrombolysis-Associated-Hemorrhage)
+* [6. Acute Antithrombotic Therapy](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-antithrombotic-therapy)
+* [7. Early Management of Patients Considered for Hemicraniectomy](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/early-management-of-patients-considered-for-hemicraniectomy)
+* [8. Acute Stroke Unit Care](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/acute-stroke-unit-care)
+* [9. Inpatient Prevention and Management of Complications following Stroke](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/inpatient-prevention-and-management-of-complications-following-stroke)
+* [10. Advanced Care Planning](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/advanced-care-planning)
+* [11. Palliative and End of Life Care](https://www.strokebestpractices.ca/recommendations/acute-stroke-management/palliative-and-end-of-life-care)
+
+# 5. Acute Ischemic Stroke Treatment
+
+7th Edition UPDATE – December 2022 & Endovascular Thrombectomy Interim Update 2025
+
+---
+
+###### Notes
+
+*Treatment benefits from revascularization decrease over time, and 1.9 million brain cells die every minute following stroke onset (Saver, 2006); therefore, all patients with stroke **should be treated as quickly as possible** to maximize the potential for the best outcomes. The new extended time windows should not be interpreted to mean that time to treatment should be slowed in any way.*
+
+*Acute stroke treatment is shifting from a time-based to a tissue-based paradigm as emerging evidence suggests that the speed of stroke progression differs between individuals and beneficial treatment may be offered beyond standard time windows. Using time as the sole criterion to select patients for thrombolysis and endovascular thrombectomy (EVT) may lead to missed opportunities for treatment. Nevertheless, “time is brain” remains a reality, and delays in stroke diagnosis and treatment are associated with worse outcomes” ([Desai and Smith, Cardiovascular Disease and Stroke, 2013](https://link.springer.com/article/10.1007/s11883-013-0337-5#auth-Jamsheed_A_-Desai)).*
+
+###### Recommendations and/or Clinical Considerations
+
+###### 5.1 Patient Selection for Acute Ischemic Stroke Treatments
+
+1. **Within 6 hours of stroke symptom onset:** All patients with ***disabling*** acute ischemic stroke who can be treated within the indicated time windows must be screened ***without delay*** by a physician with stroke expertise (either on-site or by virtual acute stroke care/telestroke consultation) to determine their eligibility for both intravenous thrombolysis and/or interventional treatment with EVT within
+
+--- FUENTE WEB ---
+Título: Emergency Care of Ischemic Stroke: An Overview of Current Guidelines and Future Directions - Clinical Advisor
+URL: https://www.clinicaladvisor.com/features/emergency-care-ischemic-stroke-an-overview-of-current-guidelines-and-future-directions
+Score: 0.70483154
+
+Texto:
+![clinicaladvisor logo](https://www.clinicaladvisor.com/wp-content/themes/hm-advisor-child/assets/svg/logos/clinicaladvisor.svg)
+![HMN logo](https://www.clinicaladvisor.com/wp-content/themes/hm-advisor-child/assets/svg/HMN-logo-1line.svg)
+![facebook share](https://www.clinicaladvisor.com/wp-content/themes/hm-advisor-child/assets/svg/facebook-social-share.svg)
+![twitter share](https://www.clinicaladvisor.com/wp-content/themes/hm-advisor-child/assets/svg/twitter-social-share-x.svg)
+![linkedin share](https://www.clinicaladvisor.com/wp-content/themes/hm-advisor-child/assets/svg/linkedin-social-share.svg)
+![email](https://www.clinicaladvisor.com/wp-content/themes/hm-advisor-child/assets/svg/email-social-share.svg)
+![print](https://www.clinicaladvisor.com/wp-content/themes/hm-advisor-child/assets/svg/print-social-share.svg)
+
+# Emergency Care of Ischemic Stroke: An Overview of Current Guidelines and Future Directions
+
+![](https://www.clinicaladvisor.com/wp-content/uploads/sites/11/2022/10/Dana-Miles-scaled-e1664984426374-150x150.jpg)
+![](https://www.clinicaladvisor.com/wp-content/uploads/sites/11/2024/08/stroke_emergency_care_G_1434716784-768x512.jpg)
+
+Every year, nearly 800,000 people in the United States have a stroke; of these approximately 610,000 are new strokes.1 The approach to emergency stroke management (ESM) is widely researched, with guidelines updated regularly by the American Heart Association/American Stroke Association (AHA/ASA), most recently in [2021](https://www.ahajournals.org/doi/10.1161/STR.0000000000000375) and 2022.2-6 However, to provide the best, most efficient care, clinicians need to be kept apprised of the latest evidence-based treatments that emerge between published guideline updates.
+
+The AHA/ASA has developed a program, “[Get With the Guidelines®-Stroke](https://www.heart.org/en/professional/quality-improvement/get-with-the-guidelines/get-with-the-guidelines-stroke)” (GWTG-S), that is a warehouse of evidence-based tools, resources, and trends meant to keep clinicians up to date on the latest information and promoting guideline use. The program states: “Following evidence-based guidelines improves outcomes. These tools and resources make it easier to provide consistent quality care.” GWTG-S provides several avenues of support to hospitals, researchers, clinicians, and patients including but not limited to access to the most up-to-date research, professional education (continuing education, workshops, and webinars), patient education, Qi field staff support, submission of Centers for Medicare & Medicaid Services Core Stroke Measures and other data, and performance feedback through the GWTG-S registry for continuous quality improvement.4
+
+Being on the front line of ESM, emergency medicine physician assistants (EM-PAs) are often one of the first clinicians to evaluate a stroke patient and call the “stroke alert.” It is of utmost importance that EM-PAs are up to date on the most recent AHA/ASA guidelines regarding recognition of stroke symptoms, treatment for ischemic stroke, endovascular thrombectomy (EVT), intravenous thrombolytic intervention, and tissue plasminogen activator (tPA).2
+
+## **Recognition of Symptoms and Triaging**
+
+Treatment of stroke and transient ischemic attack (TIA) begins with recognition of stroke symptoms and activating a stroke alert. Recognition and analysis of stroke symptoms most often begins in the prehospital setting when either the patient or family notices they are having symptoms.
+
+### ***Outpatient Assessment***
+
+Originally developed in the United Kingdom in 1998 by stroke physicians for use by ambulance staff, the Face, Arm, Speech, Time (FAST) scale is based on its predecessors, the Los Angeles Prehospital Stroke Screen (LAPSS) and Cincinnati Prehospital Stroke Scale (CPSS). The scale has since been promoted by the AHA/ASA in public campaigns to educate laypeople about stroke prevention, recognition, and prompt engagement of the prehospital emergency system.7,8
+
+The FAST scale is only for assessing the presence of stroke symptoms, not the severity, but as the name implies, there are only 4 items to be assessed and can be learned in about 10 minutes7,8:
+
+Other symptoms to be noted include numbness of the face or extremities (especially if unilateral), confusion including difficulty with speaking or understanding speech, vision change in one or both eyes, trouble walking (dizziness, balance, or coordination), and severe headache without cause or history of headaches.8
+
+Several tools exist for emergency medical service (EMS) providers for initial screening and severity scales for assessing symptoms of large vessel occlusion (LVO). This blockage is treated with tPA or EVT, unless the patient is not a candidate for tPA. The most accurate and widely used prehospital screening tool is the LAPSS, which has 91% specificity and 97% sensitivity for screening LVO in the field, followed by CPSS (73%-89%), and Rapid Arterial Occlusion Evaluation (RACE; 68%-85%).9 The National Institutes of Health Stroke Scale (NIHSS) and Field Assessment Stroke Triage for Emergency Destination (FAST-ED) are used in the prehospital setting for decision making of transportation directly to an advanced care Comprehensive Stroke Center, bypassing other more basic stroke care or transporting to the closest Acute Stroke Ready Hospital or Primary Stroke Center.10
+
+### ***Emergency Department Assessment***
+
+The gold-standard screening tool for in-hospital assessment is the NIHSS; however, in the prehospital setting this and other severity scales have given way to increasing use of the FAST-ED. The consensus between the most recent studies is that additional research is needed.11
+
+ The FAST-ED was developed from, and is an abbreviated form of, the NIHSS that includes scoring for eye deviation and neglect, which evaluates for both posterior and anterior LVO. Only a few small studies have examined the accuracy and applicability of the FAST-ED (Table), but the consensus is a
+
+--- FUENTE WEB ---
+Título: Initial diagnosis and management of acute ischemic stroke: updates and future directions
+URL: https://www.ceemjournal.org/journal/view.php?doi=10.15441%2Fceem.25.241
+Score: 0.7036111
+
+Texto:
+[Skip to main navigation](#gnb)
+
+* [![](/image/logo_ic.png)](https://emergency.or.kr/)
+* [E-Submission](https://submit.ceemjournal.org/ "E-Submission (opens in a new window)")
+* [Contact us](/about/contact.php)
+
+![OPEN ACCESS](/image/header_open_access.gif)
+
+[ABOUT](/)
+
+* [HOME](https://www.ceemjournal.org/)
+* [ABOUT](/about/)
+  + [Aims and scope](/about/index.php "/about/index.php (New windows open)")
+  + [About the journal](/about/about.php "/about/about.php (New windows open)")
+  + [About the society](https://www.emergency.or.kr/eng/history "https://www.emergency.or.kr/eng/history (New windows open)")
+  + [Editorial board](/about/editorial.php "/about/editorial.php (New windows open)")
+  + [Editorial team](/about/managing_team.php "/about/managing_team.php (New windows open)")
+  + [Best practice](/about/best_practice.php "/about/best_practice.php (New windows open)")
+  + [Open access](/about/open_access.php "/about/open_access.php (New windows open)")
+  + [Contact us](/about/contact.php "/about/contact.php (New windows open)")
+* [BROWSE ARTICLES](/articles/archive.php)
+  + [All issues](/articles/archive.php)
+  + [Ahead-of print articles](/articles/print.php)
+  + [Current issue](/articles/current.php)
+  + [Topics](/articles/topic.php)
+  + [Article types](/articles/category.php)
+  + [Featured articles](/articles/featured.php)
+  + [Most read articles](/articles/mostread.php)
+  + [Most cited articles](/articles/mostcited.php)
+  + [Search](/articles/search.php)
+  + [Metrics](/articles/metrics.php)
+  + [CEEM 2019 Abstract book](/articles/icem.php)
+* [FOR CONTRIBUTORS](/authors/authors.php)
+  + [Instructions to authors](/authors/authors.php)
+  + [Research and publication ethics](/authors/ethics.php)
+  + [E-submission](https://submit.ceemjournal.org/)
+  + [Checklist](/authors/checklist.php)
+  + [Article processing charge](/authors/processing_charge.php)
+
+[ABOUT](/about/)
+
+* [Aims and scope](/about/index.php)
+* [About the journal](/about/about.php)
+* [About the society](https://www.emergency.or.kr/eng/history)
+* [Editorial board](/about/editorial.php)
+* [Editorial team](/about/managing_team.php)
+* [Best practice](/about/best_practice.php)
+* [Open access](/about/open_access.php)
+* [Contact us](/about/contact.php)
+
+[BROWSE ARTICLES](/articles/archive.php)
+
+* [All issues](/articles/archive.php)
+* [Ahead-of print articles](/articles/print.php)
+* [Current issue](/articles/current.php)
+* [Topics](/articles/topic.php)
+* [Article types](/articles/category.php)
+* [Featured articles](/articles/featured.php)
+* [Most read articles](/articles/mostread.php)
+* [Most cited articles](/articles/mostcited.php)
+* [Search](/articles/search.php)
+* [Metrics](/articles/metrics.php)
+* [CEEM 2019 Abstract book](/articles/icem.php)
+
+[FOR CONTRIBUTORS](/authors/authors.php)
+
+* [Instructions to authors](/authors/authors.php)
+* [Research and publication ethics](/authors/ethics.php)
+* [E-submission](https://submit.ceemjournal.org/)
+* [Checklist](/authors/checklist.php)
+* [Article processing charge](/authors/processing_charge.php)
+
+## Articles
+
+## Page Path
+
+* [HOME](/)
+* [Clin Exp Emerg Med](/articles/archive.php)
+* [Volume 13(1); 2026](/articles/current.php?vol=13&no=1)
+* Article
+
+Review Article
+
+## Initial diagnosis and management of acute ischemic stroke: updates and future directions
+
+[Sang Hee Ha](/articles/search_result.php?term_type=authors&term=Sang Hee Ha)1,\*[![orcid](/image/orcid.png)](http://orcid.org/0000-0002-2926-2368 "http://orcid.org/0000-0002-2926-2368"), [Sujin Koo](/articles/search_result.php?term_type=authors&term=Sujin Koo)2,\*[![orcid](/image/orcid.png)](http://orcid.org/0000-0002-4770-0587 "http://orcid.org/0000-0002-4770-0587"), [Seung Min Kim](/articles/search_result.php?term_type=authors&term=Seung Min Kim)3, [Jae Young Park](/articles/search_result.php?term_type=authors&term=Jae Young Park)4, [Seung Eun Lee](/articles/search_result.php?term_type=authors&term=Seung Eun Lee)4, [Bum Joon Kim](/articles/search_result.php?term_type=authors&term=Bum Joon Kim)4[![orcid](/image/orcid.png)](http://orcid.org/0000-0002-3278-3252 "http://orcid.org/0000-0002-3278-3252")
+
+Clinical and Experimental Emergency Medicine 2026;13(1):5-12.   
+Published online: January 14, 2026
+
+DOI: [https://doi.org/10.15441/ceem.25.241](https://doi.org/10.15441/ceem.25.241 "DOI (Opens in a new window)")
+
+![](https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg)
+
+* [Author information](#)
+* [About this article](#)
+* [Copyright and License information](#)
+
+1Department of Neurology, Gachon University Gil Medical Center, Incheon, Korea![](/image/flag/kr.gif)
+
+2Department of Emergency Medical Technology, Doowon Technical University, Paju, Korea![](/image/flag/kr.gif)
+
+3Department of Neurology, Veterans Health Service Medical Center, Seoul, Korea![](/image/flag/kr.gif)
+
+4Department of Neurology, Asan Medical Center, Seoul, Korea![](/image/flag/kr.gif)
+
+Correspondence to: Bum Joon Kim ([medicj80@hanmail.net](mailto:medicj80@hanmail.net))
+
+Sang Hee Ha and Sujin Koo contributed equally to this study as co-first authors.
+
+• Received: October 7, 2025   • Revised: October 29, 2025   • Accepted: November 5, 2025
+
+© 2026 The Korean Society of Emergency Medicine
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (<http://creativecommons.org/licenses/by-nc/4.0/>).
+
+* 4,667 Views
+* 212  Download
+* [2](https://www.webofscience.com/api/gateway?GWVersion=2&SrcApp=m2pi2024&SrcAuth=WosAPI&KeyUT=WOS:001735863400001&DestLinkType=CitingArticles&DestApp=WOS "Web of Science") Web of Science
+* [2](/journal/view.php?number=644&view=citations "Citations to this article as recorded by Crossref") Crossref
+* [2](http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=105037865784) Scopus
+
+[prev](./view.php?number=654) [next](./view.php?number=616)
+
+### Full Article
+
+* [Full Article](#)
+* [Figure & Table](#)
+* [Reference](#)
+* [Citations](#)
+* [Metrics](#)
+
+Dow
+
+--- FUENTE WEB ---
+Título: Management of acute ischemic stroke in the emergency department: optimizing the brain | International Journal of Emergency Medicine | Springer Nature Link
+URL: https://link.springer.com/article/10.1186/s12245-024-00780-5
+Score: 0.60049355
+
+Texto:
+Advertisement
+
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/12245/article&sz=728x90&pos=top&articleid=s12245-024-00780-5)
+![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
+
+# Management of acute ischemic stroke in the emergency department: optimizing the brain
+
+You have full access to this open access article
+
+![](https://media.springernature.com/w72/springer-static/cover-hires/journal/12245?as=webp)
+
+60k Accesses
+
+33 Citations
+
+201 
+Altmetric
+
+1 Mention
+
+[Explore all metrics](/article/10.1186/s12245-024-00780-5/metrics)
+
+## Abstract
+
+Acute ischemic stroke is a devastating condition that afflicts more than 12 million people every year. Globally, stroke is the 2nd leading cause of death and 3rd leading cause of disability worldwide. While not all patients can avail themselves of existing acute therapies, all patients can benefit from brain optimization measures. This paper details the 12 steps in the management of acute ischemic stroke in the emergency department.
+
+## Ask a research question
+
+Get related insights from Springer Nature content.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-030-75778-6?as=webp)
+
+### [Evaluation and Management of Acute Ischemic Stroke](https://link.springer.com/chapter/10.1007/978-3-030-75778-6_8?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-031-62220-5?as=webp)
+
+### [Acute Ischemic Stroke1](https://link.springer.com/chapter/10.1007/978-3-031-62220-5_24?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-030-28072-7?as=webp)
+
+### [Acute Ischemic Stroke](https://link.springer.com/chapter/10.1007/978-3-030-28072-7_9?fromPaywallRec=false)
+
+### Explore related subjects
+
+## Introduction
+
+As of 2019, stroke claimed 3.29 million lives worldwide. That number is expected to increase further to 4.90 million by year 2030 [[1](/article/10.1186/s12245-024-00780-5#ref-CR1 "Fan J, et al. Global burden, risk factors analysis, and prediction study of ischemic stroke, 1990–2030. Neurology. 2023;101(2):17. 
+                  https://doi.org/10.1212/wnl.0000000000207387
+                  
+                .")]. Stroke is a leading cause of both death and disability worldwide, and the emergency department (ED) is often the initial point of care for these patients. The approach outlined in this manuscript provides a structured and comprehensive framework for managing AIS in the ED, highlighting brain optimization measures for patients who are not eligible for thrombolysis or thrombectomy. This focus on optimizing care for the vast majority of stroke patients—who do not qualify for acute interventions—addresses a significant gap in current stroke management protocols.
+
+The only FDA-approved therapy for acute ischemic stroke (AIS) is tissue plasminogen activator (t-PA), based on the National Institutes of Neurologic Diseases Institute study [[2](/article/10.1186/s12245-024-00780-5#ref-CR2 "National Institute of Neurological Disorders and Stroke rt-PA Stroke Study Group. Tissue plasminogen activator for acute ischemic stroke. N Engl J Med. 1995;333(24):1581–7. 
+                  https://doi.org/10.1056/NEJM199512143332401
+                  
+                . PMID: 7477192.")]. Approved in 1996, t-PA is administered as alteplase at a dose of 0.9 mg/kg with 10% as a bolus and the remainder as an infusion. More recently, tenecteplase (at a dose of 0.4 mg/kg as a single bolus) is being used despite not having official FDA clearance for the treatment of AIS. This is due to the ease of administration and either equivalent or superior outcomes with regard to the rate of symptomatic hemorrhage, functional outcome at 90 days, and reperfusion grade after thrombectomy [[3](/article/10.1186/s12245-024-00780-5#ref-CR3 "Potla N, Ganti L. Tenecteplase vs. alteplase for acute ischemic stroke: a systematic review. Int J Emerg Med. 2022;15(1):1. 
+                  https://doi.org/10.1186/s12245-021-00399-w
+                  
+                . PMID: 34983359; PMCID: PMC8903524.")]. However, only 3–8.5% of potentially eligible patients receive thrombolytic therapy [[4](/article/10.1186/s12245-024-00780-5#ref-CR4 "Bambauer KZ, et al. Reasons why few patients with acute stroke receive tissue plasminogen activator. Arch Neurol. 2006;63(5):661–4. 
+                  https://doi.org/10.1001/archneur.63.5.661
+                  
+                .")]. For patients with an arterial occlusion in the proximal middle cerebral artery or basilar artery, thrombectomy is another acute therapeutic intervention. A 2019 study performed at a comprehensive stroke center (CSC) found that only seven out of one hundred AIS patients were eligible for thrombectomy according to the 2018 guidelines by the American Heart Association (AHA), highlighting that a majority of AIS patients are thrombectomy-ineligible [[5](/article/10.1186/s12245-024-00780-5#ref-CR5 "Desai SM, Starr M, Molyneaux BJ, Rocha M, Jovin TG, Jadhav AP. Acute ischemic stroke with vessel occlusion-prevalence and thrombectomy eligibility at a comprehensive stroke center. J Stroke Cerebrovasc Dis. 2019;28(11): 104315. 
+                  https://doi.org/10.1016/j.jstrokecerebrovasdis.2019.104315
+                  
+                . Epub 2019 Aug 10. PMID: 31409537.")].
+
+Considering the statistics above, approximately 90% of acute ischemic stroke patients do not receive any acute therapeutic options. Some of this gap may be corrected by improving patients’ knowledge about stroke [[6](/article/10.1186/s12245-024-00780-5#ref-CR6 "Stead LG, Vaidyanathan L, Bellolio MF, Kashyap R, Bhagra A, Gilmore RM, Decker WW, Enduri S, Suravaram S, Mishra S, Nash D, Wood HM, Yassa AS, Hoff AM, Brown RD. Knowledge of signs, treatment and need for urgent management in patients presenting with an acute is
+
+--- FUENTE WEB ---
+Título: Neuroimaging in Patient Selection for Thrombectomy, From ...
+URL: https://ajronline.org/doi/10.2214/AJR.22.28608
+Score: 0.5803764
+
+Texto:
+by TR Geisbush · 2023 · Cited by 8 — Endovascular thrombectomy has become the standard-of-care treatment for carefully selected patients with acute ischemic stroke due to a large-vessel occlusion
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
