@@ -1,0 +1,393 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: high sensitivity troponin in acute coronary syndrome
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Coronary heart disease in young women: risk factors, mechanistic phenotypes, and implications for primary care.
+Revista: Frontiers in cardiovascular medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42835658
+DOI: 10.12114/j.issn.1007-9572.2024.0621
+URL: https://pubmed.ncbi.nlm.nih.gov/42835658/
+
+Abstract:
+Coronary heart disease (CHD) in young women remains under-recognized because early risk signals are often dispersed across different clinical settings and symptoms are frequently interpreted as non-cardiac at first contact. This narrative review provides a clinically oriented synthesis that integrates conventional and female-specific cardiovascular risk factors with coronary phenotypes and practical primary-care screening, triage, referral, and longitudinal management. As a narrative review, this study employed a structured but non-systematic literature search of PubMed, CNKI, and the Chinese General Practice journal website for relevant publications available through May 2026, supplemented by manual screening of reference lists. Priority was given to recent cohort studies, systematic reviews, clinical guidelines, expert consensus statements, and representative mechanistic studies.The available literature suggests that hypertension, dysglycemia, smoking, dyslipidemia, family history, and psychosocial stress are not necessarily more severe in young women, but are more likely to be clinically underestimated. Their impact is often amplified when combined with hypertensive disorders of pregnancy, polycystic ovary syndrome, autoimmune disease, antiphospholipid syndrome, or persistent psychosocial burden. Beyond obstructive atherosclerosis, plaque erosion, coronary microvascular dysfunction, vasospasm, myocardial infarction with non-obstructive coronary arteries, and spontaneous coronary artery dissection deserve particular attention. Common primary-prevention risk scores are heavily weighted by age and generally do not fully incorporate female-specific risk-enhancing factors; they should not replace chest-pain risk stratification or mechanism-oriented evaluation in symptomatic patients.Primary care assessment should distinguish among asymptomatic individuals undergoing primary prevention, symptomatic patients presenting with chest pain, and patients with established premature CHD. In the first group, evaluation should focus on basic risk factors, including medical history, blood pressure, body mass index, lipid profile, and glycemic status. In symptomatic patients, electrocardiography and echocardiography should be selected according to the clinical context; high-sensitivity cardiac troponin should be measured when acute coronary syndrome (ACS) or acute myocardial injury is suspected, rather than used as a routine primary-care screening test. Referral for coronary computed tomography angiography or further functional/invasive assessment should be guided by clinical likelihood and the suspected mechanism. Patients with established disease require intensified secondary prevention and long-term follow-up. Recognition of CHD in young women should therefore move beyond the narrow question of visible stenosis and adopt an integrated framework that links conventional risk factors, female-specific exposures, coronary functional phenotypes, and continuity of care.
+
+--- PAPER PUBMED ---
+Título: Pregnancy-associated MINOCA: Diagnostic challenges and emergency management in young women.
+Revista: The American journal of emergency medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42784940
+DOI: 10.1016/j.ajem.2026.09.032
+URL: https://pubmed.ncbi.nlm.nih.gov/42784940/
+
+Abstract:
+Myocardial infarction with nonobstructive coronary arteries (MINOCA) is identified in approximately 5 to 10% of patients with myocardial infarction referred for coronary angiography, and it remains a working diagnosis rather than a final mechanistic one. The diagnostic challenge is greatest in young women during pregnancy and the early postpartum period. Pregnancy-related and pregnancy-amplified conditions are increasingly recognized contributors, yet direct MINOCA evidence is uneven. This review examines how hypertensive disorders of pregnancy (HDP), gestational diabetes mellitus (GDM), antiphospholipid syndrome (APS) and inherited thrombophilia, and spontaneous coronary artery dissection (SCAD) map onto distinct patterns of coronary and microvascular injury. The links between HDP or GDM and MINOCA are supported mainly by mechanistic and microvascular studies outside dedicated MINOCA cohorts. APS, by contrast, is supported by direct although limited MINOCA-specific data, and pregnancy-associated SCAD is better characterized as a cause of myocardial infarction, although only cases with less than 50% angiographic stenosis meet MINOCA criteria. Serial high-sensitivity cardiac troponin and standard acute coronary syndrome assessment remain the diagnostic foundation. Cardiac magnetic resonance, selective intracoronary imaging, and targeted antiphospholipid testing can refine mechanism assignment after stabilization. The ratio of soluble fms-like tyrosine kinase-1 to placental growth factor is established for the evaluation of suspected preeclampsia, but its relevance to coronary microvascular injury in MINOCA remains uncertain. Inherited thrombophilia testing should be individualized rather than applied routinely. The assigned mechanism should then guide antithrombotic treatment, revascularization decisions, and follow-up. Prospective phenotype-defined studies are needed before routine biomarker-driven strategies can be recommended.
+
+--- PAPER PUBMED ---
+Título: Artificial Intelligence in Echocardiography for Acute Coronary Syndromes: Current Evidence and Integration With Electrocardiography and Biomarkers.
+Revista: Echocardiography (Mount Kisco, N.Y.)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42670727
+DOI: 10.1111/echo.70610
+URL: https://pubmed.ncbi.nlm.nih.gov/42670727/
+
+Abstract:
+Early diagnosis of acute coronary syndromes (ACS) remains challenging because electrical, mechanical, and biochemical manifestations of myocardial ischemia evolve at different stages of the ischemic cascade. Although electrocardiography (ECG), cardiac biomarkers, and echocardiography are routinely used in clinical practice, these diagnostic modalities are commonly interpreted independently, potentially delaying recognition of myocardial ischemia. Recent advances in artificial intelligence (AI) offer new opportunities to improve diagnostic accuracy through multimodal integration, with echocardiography serving as the central imaging modality. AI-enhanced echocardiography, integrated with electrocardiographic findings, cardiac biomarkers, and clinical information, may improve the early diagnosis, risk stratification, and clinical management of patients with suspected ACS compared with conventional sequential diagnostic approaches. A comprehensive narrative review of contemporary literature was performed to evaluate current evidence regarding AI applications in echocardiography and their integration with ECG and cardiac biomarkers for the diagnosis of ACS. Published studies addressing automated image acquisition, chamber quantification, myocardial deformation analysis, regional wall-motion assessment, multimodal machine-learning models, explainable AI, and clinical implementation were critically reviewed and synthesized. AI has substantially expanded the capabilities of echocardiography by enabling automated image interpretation, quantitative assessment of ventricular function, myocardial strain analysis, and detection of regional wall-motion abnormalities with high reproducibility. When integrated with ECG, serial high-sensitivity cardiac troponin measurements, and clinical variables, multimodal AI systems demonstrate the potential to improve diagnostic accuracy, facilitate earlier identification of myocardial ischemia, reduce diagnostic uncertainty, and support individualized clinical decision-making. Nevertheless, widespread implementation requires prospective multicenter validation, standardized imaging protocols, explainable algorithms, regulatory oversight, and seamless integration into clinical workflows. AI-enhanced echocardiography represents a promising step toward precision cardiovascular imaging and may become the central imaging component of future multimodal diagnostic pathways for patients with suspected ACS. Integration of structural, functional, electrical, biochemical, and clinical information through AI-supported decision systems has the potential to improve diagnostic performance and optimize emergency cardiovascular care.
+
+--- PAPER PUBMED ---
+Título: Fifth Universal Definition of Myocardial Infarction (2026).
+Revista: Journal of the American College of Cardiology
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42663357
+DOI: 10.1016/j.jacc.2026.07.025
+URL: https://pubmed.ncbi.nlm.nih.gov/42663357/
+
+Abstract:
+Abstract no disponible.
+
+--- PAPER PUBMED ---
+Título: Growth Differentiation Factor-15 in Acute Coronary Syndromes: Prognostic Value and Barriers to Clinical Implementation.
+Revista: International journal of molecular sciences
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42653098
+DOI: 10.1007/s11239-024-03019-5
+URL: https://pubmed.ncbi.nlm.nih.gov/42653098/
+
+Abstract:
+High-sensitivity cardiac troponin has made the diagnosis of myocardial infarction (MI) faster and more precise, but it does not measure the broader biological vulnerability that often determines the outcome after an acute coronary syndrome (ACS). Growth differentiation factor-15 (GDF-15) is induced by ischemic stress, inflammation, oxidative injury, renal dysfunction, metabolic disease, and ageing. This biology explains its appeal in ACS, but also its diagnostic limitation: GDF-15 is not cardiac-specific and should not be used as an alternative to electrocardiography and high-sensitivity troponin algorithms for early MI diagnosis. Its better supported role is prognostic. Across emergency department chest pain cohorts, non-ST elevation MI, ST elevation MI, post-ACS trial populations, and serial biomarker studies, higher GDF-15 concentrations are most consistently associated with all-cause mortality, cardiovascular mortality, heart failure, and major bleeding, while associations with recurrent ischemic events alone are less specific. The key unresolved issue is incremental clinical value. GDF-15 may improve discrimination and reclassification beyond clinical predictors, troponin, natriuretic peptides, renal function and GRACE or GRACE 2.0 in selected settings, but statistical association is not equivalent to clinical utility. Its possible role in bleeding risk estimation and antithrombotic benefit-risk assessment is clinically important, especially after the PLATO biomarker analyses, yet routine GDF-15-guided dual antiplatelet therapy decisions remain unsupported. Future implementation requires validated thresholds, calibration, decision curve evidence, health economic evaluation, and trials in which GDF-15-guided management changes care and improves outcomes.
+
+--- PAPER PUBMED ---
+Título: Contemporary Management of Acute Coronary Syndromes in the Cardiac Intensive Care Unit: From Rapid Diagnosis to Early Secondary Prevention.
+Revista: Journal of cardiovascular development and disease
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42645864
+DOI: 10.1038/s41591-022-01686-6
+URL: https://pubmed.ncbi.nlm.nih.gov/42645864/
+
+Abstract:
+Management of acute coronary syndromes (ACS) in the cardiac intensive care unit (CICU) requires rapid diagnosis, timely reperfusion or invasive assessment, appropriate antithrombotic therapy, and early recognition of haemodynamic, electrical, and mechanical complications. This narrative review examines contemporary evidence across ST-segment elevation and non-ST-segment elevation presentations, with emphasis on decisions during hospitalisation and early secondary prevention. High-sensitivity cardiac troponin algorithms support accelerated assessment of suspected non-ST-segment elevation ACS, whereas next-generation assays require further implementation validation. Twelve-month dual antiplatelet therapy remains the default after ACS in patients without high bleeding risk; abbreviated regimens, de-escalation, cangrelor, and combined antiplatelet-anticoagulant treatment are selective strategies. Contemporary care also includes risk-based invasive timing, complete revascularisation in suitable haemodynamically stable patients, culprit-lesion-only initial PCI in cardiogenic shock, and individualised management of frailty and renal impairment. High-intensity statin therapy, with early ezetimibe when needed, is guideline-supported. Early PCSK9 inhibition and low-dose colchicine are selective strategies, whereas SGLT2 inhibitors and GLP-1RAs are established for specific comorbid indications. hs-cTnT Gen 6 and AI-assisted tools remain evidence-evolving, while multiomics and targeted anti-inflammatory therapies remain investigational. Clear separation of guideline-supported, selective, evidence-evolving, and investigational approaches is essential for clinically appropriate ACS care.
+
+--- PAPER PUBMED ---
+Título: Clinical characteristics and diagnostic challenges of non-ST-segment elevation acute coronary syndrome patients with normal electrocardiograms: a review.
+Revista: Frontiers in cardiovascular medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42626118
+DOI: 10.1177/2048872620929148
+URL: https://pubmed.ncbi.nlm.nih.gov/42626118/
+
+Abstract:
+Non-ST-segment elevation acute coronary syndrome (NSTE-ACS) represents a major subtype of acute coronary syndrome (ACS). A clinically relevant but often overlooked subgroup of patients presents with typical ischemic symptoms despite a normal initial 12-lead electrocardiogram (ECG), creating real diagnostic difficulty. This narrative review synthesizes current evidence across several domains: epidemiology, pathophysiology, clinical presentation, diagnostic evaluation, and management of NSTE-ACS patients with normal ECGs. A structured literature search of PubMed, Web of Science, and the China National Knowledge Infrastructure (CNKI) databases, with emphasis on prospective cohort studies, registries, systematic reviews, meta-analyses, and current European Society of Cardiology (ESC) and American College of Cardiology/American Heart Association (ACC/AHA) guideline recommendations. Depending on the definition of "normal ECG" and study population, approximately 1%-8% of confirmed NSTE-ACS patients present with a normal initial ECG. These patients frequently exhibit single-vessel disease, non-obstructive coronary artery disease, or alternative mechanisms such as coronary vasospasm and microvascular dysfunction. High-sensitivity cardiac troponin (hs-cTn) assays using rapid 0/1-h or 0/2-h algorithms constitute the diagnostic cornerstone, while coronary computed tomography angiography (CCTA) provides valuable anatomical assessment, particularly in low-to-intermediate-risk patients. This review presents an integrated diagnostic algorithm, critically evaluates the complementary roles of multimodality imaging techniques, and discusses future directions including artificial intelligence-assisted ECG interpretation and wearable monitoring technologies.
+
+--- PAPER PUBMED ---
+Título: Cardiac Troponin Elevation Beyond Type 1 Myocardial Infarction: A Systematic Review of Prognostic Significance and Cardiovascular Risk Stratification.
+Revista: Cureus
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42620386
+DOI: 10.7759/cureus.112972
+URL: https://pubmed.ncbi.nlm.nih.gov/42620386/
+
+Abstract:
+Cardiac troponin elevation is central to the diagnosis of myocardial injury, but its clinical interpretation remains challenging when type 1 myocardial infarction is absent. This systematic review evaluated the clinical and prognostic significance of elevated cardiac troponin in adults without type 1 myocardial infarction, with particular emphasis on type 2 myocardial infarction, critical illness-related myocardial injury, suspected acute coronary syndrome populations with minor myocardial injury, and acute or chronic heart failure-related myocardial injury. A systematic search of PubMed/MEDLINE, Scopus, and Web of Science identified six eligible clinical studies. The included evidence comprised prospective and retrospective cohort studies, secondary biomarker analyses of randomized trials, and trial-derived heart failure cohorts. Across heterogeneous clinical settings, troponin elevation was consistently associated with adverse outcomes, including all-cause mortality, cardiovascular mortality, heart failure hospitalization, cardiovascular death or heart failure rehospitalization, and greater clinical severity. In type 2 myocardial infarction and critical illness, troponin elevation identified high-risk patients despite the absence of classic plaque-rupture acute coronary syndrome. In heart failure populations, troponin appeared to function as a dynamic marker of myocardial stress, residual risk, and treatment-responsive injury. High-sensitivity assays further suggest that troponin may convey prognostic information across a continuum rather than only above binary diagnostic thresholds. These findings support a phenotype-based approach in which troponin elevation outside type 1 myocardial infarction is interpreted according to mechanism, clinical context, biomarker trajectory, and follow-up needs. Although current evidence does not define a uniform treatment pathway, it indicates that troponin-positive patients without type 1 myocardial infarction should not be considered low risk solely because acute coronary syndrome has been excluded. Future prospective studies should determine which troponin-positive phenotypes benefit most from structured cardiovascular reassessment, targeted investigation, and post-discharge surveillance.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Cardiac biomarkers of acute coronary syndrome: from history to high-sensitivity cardiac troponin | Internal and Emergency Medicine | Springer Nature Link
+URL: https://link.springer.com/article/10.1007/s11739-017-1612-1
+Score: 0.8396422
+
+Texto:
+Advertisement
+
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/11739/article&sz=728x90&pos=top&articleid=s11739-017-1612-1)
+![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
+
+# Cardiac biomarkers of acute coronary syndrome: from history to high-sensitivity cardiac troponin
+
+You have full access to this open access article
+
+![](https://media.springernature.com/w72/springer-static/cover-hires/journal/11739?as=webp)
+
+34k Accesses
+
+303 Citations
+
+36 
+Altmetric
+
+4 Mentions
+
+[Explore all metrics](/article/10.1007/s11739-017-1612-1/metrics)
+
+## Abstract
+
+The role of cardiac troponins as diagnostic biomarkers of myocardial injury in the context of acute coronary syndrome (ACS) is well established. Since the initial 1st-generation assays, 5th-generation high-sensitivity cardiac troponin (hs-cTn) assays have been developed, and are now widely used. However, its clinical adoption preceded guidelines and even best practice evidence. This review summarizes the history of cardiac biomarkers with particular emphasis on hs-cTn. We aim to provide insights into using hs-cTn as a quantitative marker of cardiomyocyte injury to help in the differential diagnosis of coronary versus non-coronary cardiac diseases. We also review the recent evidence and guidelines of using hs-cTn in suspected ACS.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs11886-017-0904-4/MediaObjects/11886_2017_904_Fig1_HTML.gif)
+
+### [High-Sensitivity Cardiac Troponin for the Diagnosis of Patients with Acute Coronary Syndromes](https://link.springer.com/article/10.1007/s11886-017-0904-4?fromPaywallRec=false)
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png)
+
+### [Novel Risk Stratification Assays for Acute Coronary Syndrome](https://link.springer.com/article/10.1007/s11886-017-0880-8?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-1-4939-9030-6?as=webp)
+
+### [High-Sensitivity Troponin Assays in Clinical Diagnostics of Acute Coronary Syndrome](https://link.springer.com/protocol/10.1007/978-1-4939-9030-6_40?fromPaywallRec=false)
+
+### Explore related subjects
+
+## Introduction
+
+A rapid and accurate diagnosis is critical in patients with presumed acute coronary syndrome for the initiation of effective evidence-based medical management and revascularization. The third universal definition of myocardial infarction defines an acute myocardial infarction (AMI) as evidence of myocardial necrosis in a patient with the clinical features of acute myocardial ischemia, and defines the 99th percentile of cardiac troponins as the decision value for AMI [[1](/article/10.1007/s11739-017-1612-1#ref-CR1 "Thygesen K, Alpert JS, Jaffe AS et al (2012) Third universal definition of myocardial infarction. Eur Heart J 33:2551–2567. doi:
+                    10.1093/eurheartj/ehs184
+                    
+                  
+                        ")]. Clinical assessment, 12-lead ECG and cardiac troponin (cTn) I or T form the diagnostic cornerstones of patients with acute onset chest pain. Contemporary sensitive and high-sensitivity cardiac troponin (hs-cTn) assays have increased diagnostic accuracy in patients with acute chest pain in comparison with conventional cardiac biomarkers [[2](/article/10.1007/s11739-017-1612-1#ref-CR2 "Kavsak PA, MacRae AR, Lustig V et al (2006) The impact of the ESC/ACC redefinition of myocardial infarction and new sensitive troponin assays on the frequency of acute myocardial infarction. Am Heart J 152:118–125. doi:
+                    10.1016/j.ahj.2005.09.022
+                    
+                  
+                        ")]. Rapid rule-in and rule-out diagnostic strategies for patients with chest pain in the emergency department (ED) are now available, and help clinicians to risk stratify patients and enable discharge of those deemed to be at very low risk. In principle, this improves assessment and makes ED care more cost effective. However, there is potential for confusion, misuse and unnecessary follow-up examinations when they are used imprudently [[3](/article/10.1007/s11739-017-1612-1#ref-CR3 "Gamble JHP, Carlton E, Orr W, Greaves K (2013) High-sensitivity troponin: six lessons and a reading. Br J Cardiol 20:109–112. doi:
+                    10.5837/bjc.2013.026
+                    
+                  
+                        ")]. Novel hs-cTn assays are able to quantify troponin in the majority of healthy individuals [[4](/article/10.1007/s11739-017-1612-1#ref-CR4 "White HD (2011) Pathobiology of troponin elevations: do elevations occur with myocardial ischemia as well as necrosis? J Am Coll Cardiol 57:2406–2408. doi:
+                    10.1016/j.jacc.2011.01.029
+                    
+                  
+                        ")]. Although hs-cTn assays are very sensitive, they are less specific for AMI when using the 99th percentile as a single cutoff level [[5](/article/10.1007/s11739-017-1612-1#ref-CR5 "Agewall S, Giannitsis E, Jernberg T, Katus H (2011) Troponin elevation in coronary vs non-coronary disease. Eur Heart J. doi:
+                    10.1093/eurheartj/ehq456
+                    
+                  
+                        ")]. Even when a troponin rise is consistent with a diagnosis of AMI, other cardiac diseases such as myocarditis, Tako-tsubo cardiomyopathy or shock can produce significant changes of troponin as well. Interpretation of the results is heavily dependent on the clinical context in which it is requested.
+
+The aim of the current article is to review the history and evolution of cardiac biomarkers of acute coronary syndrome, define what troponin is, and aid in the use of the hs-cTn in clinical practice according to current guidelines.
+
+## History of cardiac biomarkers
+
+Aspartate Transaminase (
+
+--- FUENTE WEB ---
+Título: | High-Sensitivity Troponin in the Diagnosis of Acute Coronary ...
+URL: https://www.aafp.org/pubs/afp/issues/2024/1000/diagnostic-tests-acute-coronary-syndrome.pdf
+Score: 0.8131201
+
+Texto:
+Numerous high-sensitivity cardiac troponin (hs-cTn) assays for acute myocardial infarction (MI) are available.1,2 These assays differ in their limits of detection, precision, and repeatability.3 The American College of Cardiology and American Heart Association guidelines endorse the 99th percentile upper reference limit for detecting myocardial injury to diagnose acute MI using hs-cTn.4 Evidence of myocardial injury with cardiac symptoms, new electrocardiogram changes, loss of viable myocardium per imaging, or evidence of coronary thrombus on angiography meets diagnostic criteria for acute MI.5 There is no standard cutoff value for hs-cTn. Abnormal values are based on a reference population for individual assays. High-sensitivity troponin: a review on characteristics, assessment, and clinical implications. Emergency department cardiac risk stratification with high-sensitivity vs conventional troponin HEART pathway. High-sensitivity troponin assays: evidence, indications, and reasonable use. *J Am Heart Assoc.* 2014;3(1):e000403. High-sensitivity cardiac troponin and the 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR guidelines for the evaluation and diagnosis of acute chest pain. Domienik-Karłowicz J, Kupczyńska K, Michalski B, et al. High-sensitivity cardiac troponin T compared with standard troponin T testing on emergency department admission: how much does it add in everyday clinical practice?. *J Am Heart Assoc.* 2013;2(3):e000204. Association of high-sensitivity cardiac troponin I concentration with cardiac outcomes in patients with suspected acute coronary syndrome [published correction appears in *JAMA*. Myocardial infarction risk stratification with a single measurement of high-sensitivity troponin I. Application of high-sensitivity troponin in suspected myocardial infarction. McCord J, Hana A, Cook B, et al. The role of cardiac testing with the 0/1-hour high-sensitivity cardiac troponin algorithm evaluating for acute myocardial infarction. *Am Heart J.* 2021;233:68-77. Tomaszewski CA, Nestler D, Shah KH, et al.; American College of Emergency Physicians Clinical Policies Subcommittee (Writing Committee) on Suspected Non–ST-Elevation Acute Coronary Syndromes. High-sensitivity troponin T testing: consequences on daily clinical practice and effects on diagnosis of myocardial infarction. Comparison of conventional and high-sensitivity troponin in patients with chest pain: a collaborative meta-analysis. *Am Heart J.* 2015;169(1):6-16.e6. Ganguli I, Cui J, Thakore N, et al. Downstream cascades of care following high-sensitivity troponin test implementation. Impact of high-sensitivity cardiac troponin on use of coronary angiography, cardiac stress testing, and time to discharge in suspected acute myocardial infarction. Chuang MA, Gnanamanickam ES, Karnon J, et al.
+
+--- FUENTE WEB ---
+Título: High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome | AFP
+URL: https://aafp.org/afp/2024/1000/diagnostic-tests-acute-coronary-syndrome
+Score: 0.78334314
+
+Texto:
+Title: High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome | AFP
+# High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome. Numerous high-sensitivity cardiac troponin (hs-cTn) assays for acute myocardial infarction (MI) are available.1,2 These assays differ in their limits of detection, precision, and repeatability.3 The American College of Cardiology and American Heart Association guidelines endorse the 99th percentile upper reference limit for detecting myocardial injury to diagnose acute MI using hs-cTn.4 Evidence of myocardial injury with cardiac symptoms, new electrocardiogram changes, loss of viable myocardium per imaging, or evidence of coronary thrombus on angiography meets diagnostic criteria for acute MI.5 There is no standard cutoff value for hs-cTn. Abnormal values are based on a reference population for individual assays. A prospective meta-analysis of 22,457 emergency department patients studied the use of hs-cTn assays for risk stratification with a primary outcome of acute MI or cardiac death at 30 days.7 In patients with hs-cTn I concentrations less than 5 ng per L (5 μg per L) on presentation, the negative predictive value was 99.5%.7 Similarly, a prospective, multicenter, observational study of 2,212 adult patients identified a negative predictive value of 99.6% (95% CI, 99.2% to 99.9%) for acute MI or death at 30 days if a single hs-cTn was less than 5 ng per L.8 A positive predictive value of at least 70% for acute MI was identified with hs-cTn of 120 ng per L (120 μg per L) or greater.8. A series of prospective studies of emergency department patients found that the positive predictive value of hs-cTn I and troponin assays for acute MI varies depending on timing and cutoff concentration.9 At presentation, lower hs-cTn concentrations and smaller absolute changes during serial sampling were associated with a lower likelihood of acute MI. The American College of Emergency Physicians developed a clinical policy supported by a systematic review recommending that patients be eligible for early discharge with a non-ischemic electrocardiography finding and negative hs-cTn results tested serially over 2 hours.4,11 In a retrospective observational study involving 18,025 medical and surgical patients who underwent hs-cTn testing, there was a decrease in the number of patients diagnosed with MI, although there was no change in use of resources or in-hospital mortality.12.
+
+--- FUENTE WEB ---
+Título: High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome | AFP
+URL: https://www.aafp.org/afp/2024/1000/diagnostic-tests-acute-coronary-syndrome
+Score: 0.78334314
+
+Texto:
+Title: High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome | AFP
+# High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome. Numerous high-sensitivity cardiac troponin (hs-cTn) assays for acute myocardial infarction (MI) are available.1,2 These assays differ in their limits of detection, precision, and repeatability.3 The American College of Cardiology and American Heart Association guidelines endorse the 99th percentile upper reference limit for detecting myocardial injury to diagnose acute MI using hs-cTn.4 Evidence of myocardial injury with cardiac symptoms, new electrocardiogram changes, loss of viable myocardium per imaging, or evidence of coronary thrombus on angiography meets diagnostic criteria for acute MI.5 There is no standard cutoff value for hs-cTn. Abnormal values are based on a reference population for individual assays. A prospective meta-analysis of 22,457 emergency department patients studied the use of hs-cTn assays for risk stratification with a primary outcome of acute MI or cardiac death at 30 days.7 In patients with hs-cTn I concentrations less than 5 ng per L (5 μg per L) on presentation, the negative predictive value was 99.5%.7 Similarly, a prospective, multicenter, observational study of 2,212 adult patients identified a negative predictive value of 99.6% (95% CI, 99.2% to 99.9%) for acute MI or death at 30 days if a single hs-cTn was less than 5 ng per L.8 A positive predictive value of at least 70% for acute MI was identified with hs-cTn of 120 ng per L (120 μg per L) or greater.8. A series of prospective studies of emergency department patients found that the positive predictive value of hs-cTn I and troponin assays for acute MI varies depending on timing and cutoff concentration.9 At presentation, lower hs-cTn concentrations and smaller absolute changes during serial sampling were associated with a lower likelihood of acute MI. The American College of Emergency Physicians developed a clinical policy supported by a systematic review recommending that patients be eligible for early discharge with a non-ischemic electrocardiography finding and negative hs-cTn results tested serially over 2 hours.4,11 In a retrospective observational study involving 18,025 medical and surgical patients who underwent hs-cTn testing, there was a decrease in the number of patients diagnosed with MI, although there was no change in use of resources or in-hospital mortality.12.
+
+--- FUENTE WEB ---
+Título: High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome | AFP
+URL: https://www.aafp.org/pubs/afp/issues/2024/1000/diagnostic-tests-acute-coronary-syndrome.html
+Score: 0.78334314
+
+Texto:
+Title: High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome | AFP
+# High-Sensitivity Troponin in the Diagnosis of Acute Coronary Syndrome. Numerous high-sensitivity cardiac troponin (hs-cTn) assays for acute myocardial infarction (MI) are available.1,2 These assays differ in their limits of detection, precision, and repeatability.3 The American College of Cardiology and American Heart Association guidelines endorse the 99th percentile upper reference limit for detecting myocardial injury to diagnose acute MI using hs-cTn.4 Evidence of myocardial injury with cardiac symptoms, new electrocardiogram changes, loss of viable myocardium per imaging, or evidence of coronary thrombus on angiography meets diagnostic criteria for acute MI.5 There is no standard cutoff value for hs-cTn. Abnormal values are based on a reference population for individual assays. A prospective meta-analysis of 22,457 emergency department patients studied the use of hs-cTn assays for risk stratification with a primary outcome of acute MI or cardiac death at 30 days.7 In patients with hs-cTn I concentrations less than 5 ng per L (5 μg per L) on presentation, the negative predictive value was 99.5%.7 Similarly, a prospective, multicenter, observational study of 2,212 adult patients identified a negative predictive value of 99.6% (95% CI, 99.2% to 99.9%) for acute MI or death at 30 days if a single hs-cTn was less than 5 ng per L.8 A positive predictive value of at least 70% for acute MI was identified with hs-cTn of 120 ng per L (120 μg per L) or greater.8. A series of prospective studies of emergency department patients found that the positive predictive value of hs-cTn I and troponin assays for acute MI varies depending on timing and cutoff concentration.9 At presentation, lower hs-cTn concentrations and smaller absolute changes during serial sampling were associated with a lower likelihood of acute MI. The American College of Emergency Physicians developed a clinical policy supported by a systematic review recommending that patients be eligible for early discharge with a non-ischemic electrocardiography finding and negative hs-cTn results tested serially over 2 hours.4,11 In a retrospective observational study involving 18,025 medical and surgical patients who underwent hs-cTn testing, there was a decrease in the number of patients diagnosed with MI, although there was no change in use of resources or in-hospital mortality.12.
+
+--- FUENTE WEB ---
+Título: Acute Coronary Syndrome: Diagnosis and Initial Management | AFP
+URL: https://www.aafp.org/afp/2024/0100/acute-coronary-syndrome
+Score: 0.7613083
+
+Texto:
+![American Family Physician logo.](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1779209772/american_family_physician_navigation_desktop.svg)
+![AAFP logo](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1753724394/aafp_logo_tri029.png)
+
+Sign in to the website to make the most of your experience. When you log in, you can:
+
+Having a free website account offers several benefits:
+
+AAFP informs and advocates for family physicians throughout their careers. Join for access to:
+
+# Acute Coronary Syndrome: Diagnosis and Initial Management
+
+American Family Physician. 2024;109(1):34-42.
+
+Author disclosure: No relevant financial relationships.
+
+Acute coronary syndrome (ACS) is defined as reduced blood flow to the coronary myocardium manifesting as ST-segment elevation myocardial infarction or non–ST-segment elevation ACS, which includes unstable angina and non–ST-segment elevation myocardial infarction. Common risk factors include being at least 65 years of age or a current smoker or having hypertension, diabetes mellitus, hyperlipidemia, a body mass index greater than 25 kg per m2, or a family history of premature coronary artery disease. Symptoms most predictive of ACS include chest discomfort that is substernal or spreading to the arms or jaw. However, chest pain that can be reproduced with palpation or varies with breathing or position is less likely to signify ACS. Having a prior abnormal cardiac stress test result indicates increased risk. Electrocardiography changes that predict ACS include ST depression, ST elevation, T-wave inversion, or presence of Q waves. No validated clinical decision tool is available to rule out ACS in the outpatient setting. Elevated troponin levels without ST-segment elevation on electrocardiography suggest non–ST-segment elevation ACS. Patients with ACS should receive coronary angiography with percutaneous or surgical revascularization. Other important management considerations include initiation of dual antiplatelet therapy and parenteral anticoagulation, statin therapy, beta-blocker therapy, and sodium-glucose cotransporter-2 inhibitor therapy. Additional interventions shown to reduce mortality in patients who have had a recent myocardial infarction include smoking cessation, annual influenza vaccination, and cardiac rehabilitation.
+
+Each year, acute coronary syndrome (ACS) affects more than 7 million people globally.[1](#afp20240100p34-b1) ST-segment elevation myocardial infarction (STEMI) is responsible for 30% of cases, whereas non–ST-segment elevation ACS (NSTE ACS) accounts for the remaining 70%.[2](#afp20240100p34-b2) Common risk factors include being at least 65 years of age or a current smoker or having hypertension, diabetes mellitus, hyperlipidemia, a body mass index greater than 25 kg per m2, or a family history of premature coronary artery disease (CAD).[3](#afp20240100p34-b3) The most common symptom of ACS is acute chest pain, which accounts for approximately 1% of primary care visits and 5% of emergency department visits each year.[4](#afp20240100p34-b4),[5](#afp20240100p34-b5)
+
+### WHAT'S NEW ON THIS TOPIC
+
+![](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773001720/Journals/Automation/AFP/2024/0100/p34-ut3-gif.gif)
+
+|  |
+| --- |
+| The 2021 American College of Cardiology and American Heart Association guidelines no longer recommend classifying chest pain as atypical or typical, because this classification is not useful for identifying the cause and has been misused to classify chest pain as benign. Instead, the guidelines now recommend that chest pain be classified as cardiac, possibly cardiac, or noncardiac. |
+| A systematic review of home-based cardiac rehabilitation studies demonstrated higher patient adherence to home-based cardiac rehabilitation, and that home-based and outpatient cardiac rehabilitation achieved similar improvement in functional capacity, quality of life, and coronary artery disease risk factor control after 12 months. |
+| Despite the high prevalence of depression in patients with acute coronary syndrome, evidence suggests that there is minimal benefit to screening for depression in patients who have had a myocardial infarction within the past 12 months. |
+
+### SORT: KEY RECOMMENDATIONS FOR PRACTICE
+
+![](https://dgnvxbcc3-res.cloudinary.com/image/upload/v1773001718/Journals/Automation/AFP/2024/0100/p34-ut1-gif.gif)
+
+| **Clinical recommendations** | **Evidence rating** | **Comments** |
+| --- | --- | --- |
+| [Patients who present for acute chest pain and a high suspicion for acute coronary syndrome should be referred to the emergency department,](#afp20240100p34-sort1A) [where the evaluation should use predictive risk scores to aid in the prognosis, diagnosis, and management.](#afp20240100p34-sort1D) [This evaluation should include 12-lead electrocardiography within 10 minutes of presentation, history and physical examination,](#afp20240100p34-sort1B) [and high-sensitivity cardiac troponin measurement at initial presentation and three hours after symptom onset.](#afp20240100p34-sort1C)[2](#afp20240100p34-b2),[7](#afp20240100p34-b7),[8](#afp20240100p34-b8),[11](#afp20240100p34-b11) | **C** | Expert opinion and consensus guidelines |
+| [Patients diagnosed with ST-segment elevation myocardial infarction should receive coronary angiography, followed by PCI with a drug-eluting stent within 120 minutes of presenting to the emergency department. When PCI is not available, fibrinolytics can be administered if no contraindications are present, with maximal benefit to the patient if administered within 120 minutes of symptom onset. The patient should then be transferred to a center capable of performing PCI.](#afp20240100p34-sort2)[2](#afp20240100p34-b2),[8](#afp20240100p34-b8),[25](#afp20240100p34-b25)–[28](#afp20240100p34-b28) | **A** | Consistent results from randomized controlled trials showing reduced mortality |
+| [Early invasive therapy is recommended for patients with non–ST-segment elevation acute coronary syndrome 
+
+--- FUENTE WEB ---
+Título: Major adverse cardiac events in patients with indeterminate high-sensitivity troponin testing and chest pain: a systematic review | Canadian Journal of Emergency Medicine | Springer Nature Link
+URL: https://link.springer.com/article/10.1007/s43678-026-01166-7
+Score: 0.7576693
+
+Texto:
+Advertisement
+
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/43678/article&sz=728x90&pos=top&articleid=s43678-026-01166-7)
+![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
+
+# Major adverse cardiac events in patients with indeterminate high-sensitivity troponin testing and chest pain: a systematic review
+
+You have full access to this open access article
+
+![](https://media.springernature.com/w72/springer-static/cover-hires/journal/43678?as=webp)
+
+1320 Accesses
+
+1 Citation
+
+[Explore all metrics](/article/10.1007/s43678-026-01166-7/metrics)
+
+## Abstract
+
+### Objectives
+
+Contemporary high-sensitivity cardiac troponin (hs-cTn) assays can detect very low levels of myocardial injury, leading many emergency department (ED) chest pain patients to exceed the 99th-percentile upper reference limit, despite low risk for myocardial infarction. This systematic review aimed to synthesize evidence quantifying the risk of MACE among ED patients with a single troponin concentration measurement above the 99th percentile reference limit but below diagnostic cutoffs for myocardial infarction.
+
+### Methods
+
+Electronic searches of MEDLINE, Cochrane Reviews, CINAHL and EMBASE (2002–2025) were conducted. Studies were included if outcomes for patients with indeterminate single hs-Tn measurements were reported or extractable. Patients with ECG findings suggestive of ST-segment elevation myocardial infarction (STEMI) or non-ST-segment elevation myocardial infarction (NSTEMI) were excluded. Two reviewers independently screened abstracts and extracted data. MACE was defined as acute myocardial infarction (MI), stroke, and cardiovascular mortality 30 days after index ED visit.
+
+### Results
+
+The search strategy yielded 709 potentially relevant citations. Eight studies were included: one randomized controlled trial, three prospective cohort, and four retrospective cohort studies. The incidence of MACE ranged from 0.3 to 14.8%. 46,066 of 129,060 eligible patients (40%) had a second test after an indeterminate result. Risk of bias was high for most observational studies, primarily due to information and incorporation bias, and randomized controlled trials had some concern for bias in the selection of the reported results, randomization process, and intended intervention.
+
+### Conclusions
+
+It remains unknown whether patients with an indeterminate hs-Tn result and no serial testing are at increased risk for MACE. More than half of such patients did not receive serial testing. The study demonstrates inconsistent approaches for managing indeterminate troponin results, underscoring the need for physicians to interpret indeterminate values cautiously and consider clinical assessment in low-risk chest pain patients.
+
+## Résumé
+
+### Objectifs
+
+Les tests contemporains de troponine cardiaque à haute sensibilité (hs-cTn) peuvent détecter des niveaux très faibles de lésion myocardique, ce qui conduit de nombreux patients souffrant de douleurs thoraciques aux urgences à dépasser la limite supérieure de référence du 99e percentile, malgré un faible risque d’infarctus du myocarde. Cette revue systématique visait à synthétiser les preuves quantifiant le risque de MACE chez les patients ED avec une seule mesure de concentration de troponine au-dessus de la limite de référence du 99e centile mais en dessous des seuils diagnostiques pour l’infarctus du myocarde.
+
+### Méthodes
+
+Des recherches électroniques dans MEDLINE, les revues Cochrane, CINAHL et EMBASE (2002-2025) ont été effectuées. Les études ont été incluses si les résultats pour les patients avec des mesures indéterminées de hs-Tn uniques étaient rapportés ou extractibles. Les patients dont l’ECG suggérait un infarctus du myocarde avec sus-décalage du segment ST (STEMI) ou sans sus-décalage du segment ST (NSTEMI) ont été exclus. Deux évaluateurs ont examiné indépendamment les résumés et extrait les données. MACE a été défini comme un infarctus du myocarde (MI) aigu, un accident vasculaire cérébral et une mortalité cardiovasculaire 30 jours après la visite index à l’urgence.
+
+### Résultats
+
+La stratégie de recherche a donné 709 citations potentiellement pertinentes. Huit études ont été incluses : un essai contrôlé randomisé, trois cohortes prospectives et quatre études de cohorte rétrospectives. L’incidence des MACE variait de 0,3 à 14,8 %. 46066 des 129060 patients éligibles (40 %) ont subi un deuxième test après un résultat indéterminé. Le risque de biais était élevé pour la plupart des études observationnelles, principalement en raison du biais lié à l’information et à l’incorporation, et les essais contrôlés randomisés avaient une certaine préoccupation quant au biais dans la sélection des résultats rapportés, du processus de randomisation et de l’intervention prévue.
+
+### Conclusion
+
+On ne sait toujours pas si les patients ayant un résultat indéterminé en hs-Tn et n’ayant subi aucun test en série présentent un risque accru de MACE. Plus de la moitié de ces patients n’ont pas reçu de tests en série. L’étude démontre des approches incohérentes pour gérer les résultats de troponine indéterminée, soulignant la nécessité pour les médecins d’interpréter prudemment les valeurs indéterminées et de considérer l’évaluation clinique chez les patients souffrant de douleurs thoraciques à faible risque.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-springernature.png)
+
+### [Safety and efficiency of implementation of high-sensitivity troponin T in the assessment of emergency department patients with cardiac chest pain](https://link.springer.com/article/10.1007/s43678-024-00778-1?fromPaywallRec=false)
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1186%2Fs12873-026-01685-7/MediaObjects/12873_2026_1685_Fig1_HTML.png)
+
+### [Performance of the SVEAT (Symptoms, Vascular
+
+--- FUENTE WEB ---
+Título: high-sensitivity cardiac troponin – GlobalRPH
+URL: https://globalrph.com/tag/high-sensitivity-cardiac-troponin/feed
+Score: 0.7339103
+
+Texto:
+  high-sensitivity cardiac troponin – GlobalRPH https://globalrph.com A GlobalRPH Medical Calculators Site Thu, 16 Oct 2025 21:17:18 +0000 en-US  hourly   1   High-Sensitivity Troponin Testing: The End of Unnecessary Chest Pain Admissions? https://globalrph.com/2025/10/high-sensitivity-troponin-testing-the-end-of-unnecessary-chest-pain-admissions/ https://globalrph.com/2025/10/high-sensitivity-troponin-testing-the-end-of-unnecessary-chest-pain-admissions/#respond Thu, 16 Oct 2025 21:17:18 +0000 https://globalrph.com/?p=6444691 High-Sensitivity Troponin Testing: The End of Unnecessary Chest Pain Admissions?   Introduction The introduction of high-sensitivity cardiac troponin (hs-cTn) assays has fundamentally transformed the evaluation and management of patients presenting with chest pain in the emergency department (ED). Troponin testing has long been a cornerstone of acute coronary syndrome (ACS) assessment, but the transition from conventional to...
+
+The post [High-Sensitivity Troponin Testing: The End of Unnecessary Chest Pain Admissions?](https://globalrph.com/2025/10/high-sensitivity-troponin-testing-the-end-of-unnecessary-chest-pain-admissions/) appeared first on [GlobalRPH](https://globalrph.com).
+
+]]> 
+
+## High-Sensitivity Troponin Testing: The End of Unnecessary Chest Pain Admissions?
+
+---
+
+   
+
+---
+
+## Introduction
+
+The introduction of high-sensitivity cardiac troponin (hs-cTn) assays has fundamentally transformed the evaluation and management of patients presenting with chest pain in the emergency department (ED). Troponin testing has long been a cornerstone of [acute coronary syndrome (ACS)](https://globalrph.com/acls/acute-coronary-syndromes/) assessment, but the transition from conventional to high-sensitivity assays represents a major advancement in diagnostic accuracy, workflow efficiency, and patient outcomes.
+
+Evidence from studies involving more than 32,000 emergency department visits demonstrates that the use of high-sensitivity cardiac troponin I (hs-cTnI) testing is associated with a significant reduction in hospital admissions. Implementation of hs-cTnI resulted in an absolute decrease of 5.6% in admissions compared with traditional troponin assays, which translates to approximately five fewer chest pain admissions per week across just three emergency departments. These findings underscore the potential of hs-cTn testing to alleviate overcrowding in emergency departments while maintaining diagnostic precision and patient safety.
+
+Operational efficiency has also improved with the adoption of high-sensitivity assays. Emergency departments using hs-cTn have reported shorter median lengths of stay—6.0 hours compared with 6.6 hours using conventional assays—and higher discharge rates (87.5% versus 85.3%). These improvements reflect the ability of hs-cTn to accelerate clinical decision-making, facilitate earlier rule-out or rule-in of myocardial injury, and optimize patient flow through the emergency care pathway.
+
+The 2021 American Heart Association (AHA) and American College of Cardiology (ACC) guidelines for the evaluation and diagnosis of acute chest pain formally recognize high-sensitivity troponin as the preferred biomarker for assessing myocardial injury. Since 2017, multiple hs-cTn assays have received clearance from the U.S. Food and Drug Administration, leading to widespread clinical adoption and the establishment of standardized algorithms for risk stratification. These algorithms, often integrating 0/1-hour or 0/2-hour testing protocols, allow clinicians to rapidly identify patients at low risk for acute myocardial infarction who can be safely discharged, as well as those requiring urgent intervention.
+
+Beyond operational and diagnostic benefits, the analytical superiority of hs-cTn assays provides greater sensitivity for detecting minimal levels of cardiac injury. This enables earlier identification of myocardial infarction and improved differentiation between ischemic and non-ischemic causes of troponin elevation. When interpreted within appropriate clinical and temporal contexts, hs-cTn results enhance diagnostic confidence and reduce the reliance on serial testing or unnecessary hospital admissions.
+
+This review explores how high-sensitivity troponin testing is redefining the evaluation of chest pain in modern emergency medicine. It examines the analytical advantages of hs-cTn over conventional assays, the evidence supporting its impact on patient outcomes and resource utilization, and the strategies for effective implementation within diverse healthcare systems. Emerging data suggest that hs-cTn algorithms may mark a turning point in acute care—one where unnecessary chest pain admissions are minimized without compromising safety or diagnostic accuracy. For clinicians and health system leaders alike, understanding and optimizing the use of hs-cTn testing is essential to advancing both patient care and operational efficiency in emergency medicine.
+
+**Keywords:** high-sensitivity troponin, chest pain, acute coronary syndrome, emergency department, diagnostic algorithm, clinical outcomes
+
+## Overview
+
+### **Low MI prevalence in ED chest pain cases**
+
+Chest pain represents a significant proportion of emergency department visits, accounting for approximately 5.5% of all ED visits in the United States, totaling nearly 11 million encounters annually. Nevertheless, the actual prevalence of acute myocardial infarction among these patients is remarkably low. Studies demonstrate that merely 4% of patients presenting with chest pain are ultimately diagnosed with MI. This low prevalence creates a fundamental diagnostic dilemma.
+
+A comprehensive retrospective cohort study examining 8,711 ED visits for non-traumatic chest pain found that 37.6% resulted in hospitalization. Among those hospitalized, only 10.7% (representing just 3.8% of all chest pain visits) had acute myocardial infarction. Moreover, in 29.4% of these hospitalizations, myocardial infarction was ‘ruled out
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
