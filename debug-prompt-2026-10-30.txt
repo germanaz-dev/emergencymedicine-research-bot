@@ -1,0 +1,495 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: undifferentiated shock in emergency medicine
+
+PAPERS RECUPERADOS DE PUBMED:
+No se recuperaron resultados relevantes de PubMed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion | International Journal of Emergency Medicine | Springer Nature Link
+URL: https://link.springer.com/article/10.1186/s12245-024-00660-y
+Score: 0.63316137
+
+Texto:
+Advertisement
+
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/12245/article&sz=728x90&pos=top&articleid=s12245-024-00660-y)
+![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
+
+# The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion
+
+You have full access to this open access article
+
+![](https://media.springernature.com/w72/springer-static/cover-hires/journal/12245?as=webp)
+
+44k Accesses
+
+12 Citations
+
+232 
+Altmetric
+
+[Explore all metrics](/article/10.1186/s12245-024-00660-y/metrics)
+
+## Abstract
+
+Acute circulatory shock is a life-threatening emergency requiring an efficient and timely management plan, which varies according to shock etiology and pathophysiology. Specific guidelines have been developed for each type of shock; however, there is a need for a clear timeline to promptly implement initial life-saving interventions during the early phase of shock recognition and management. A simple, easily memorable bundle of interventions could facilitate standardized management with clear targets and specified timeline. The authors propose the “MINUTES” acronym which summarizes essential interventions which should be performed within the first 30 min following shock recognition. All the interventions in the MINUTES bundle are suitable for any patient with undifferentiated shock. In addition to the acronym, we suggest a timeline for each step, balancing the feasibility and urgency of each intervention. The MINUTES acronym includes seven sequential steps which should be performed in the first 30 min following shock recognition: **M**aintain “ABCs”, **IN**fuse vasopressors and/or fluids (to support hemodynamic/perfusion) and **IN**vestigate with simple blood tests, **U**ltrasound to detect the type of shock, **T**reat the underlying **E**tiology, and **S**tabilize organ perfusion.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-981-95-0179-3?as=webp)
+
+### [Approach to Shock in the ICU](https://link.springer.com/chapter/10.1007/978-981-95-0179-3_61?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-032-29397-8?as=webp)
+
+### [Shock Types: Overview of Physiology, and Management](https://link.springer.com/chapter/10.1007/978-3-032-29397-8_52?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-319-98497-1?as=webp)
+
+### [Management of Shock](https://link.springer.com/chapter/10.1007/978-3-319-98497-1_175?fromPaywallRec=false)
+
+### Explore related subjects
+
+## Background
+
+Acute circulatory shock is a life-threatening and highly time-sensitive emergency [[1](/article/10.1186/s12245-024-00660-y#ref-CR1 "Brunauer A, Koköfer A, Bataar O, Gradwohl-Matis I, Dankl D, Dünser MW. The arterial blood pressure associated with terminal cardiovascular collapse in critically ill patients: a retrospective cohort study. Crit Care. 2014;18:719. 
+                  https://doi.org/10.1186/s13054-014-0719-2
+                  
+                ")]. For its acute nature, circulatory shock is usually managed by frontline physicians, who are, sometimes, of limited knowledge and experience. Moreover, they may work in limited resource settings. Hence, having a clear, timely, easily memorizable approach may facilitate their performance and finally improve patient’s management.
+
+According to the type of shock, clinical guidelines have been developed and are regularly updated to optimize patient’s management. Once the specific diagnosis of shock has been made, evidence-based management for each type (e.g., septic, hemorrhagic, cardiogenic shock) is well established by international guidelines [[2](#ref-CR2 "Evans L, Rhodes A, Alhazzani W, Antonelli M, Coopersmith CM, French C, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive Care Med. 2021;47:1181–247. 
+                  https://doi.org/10.1007/s00134-021-06506-y
+                  
+                "),[3](#ref-CR3 "ACC/AHA Joint Committee. Management of Heart Failure Guideline Hub. 2022 AHA ACC HFSA Guideline for the management of heart failure. J Am Coll Cardiol. 2022;79:1–167. 
+                  https://doi.org/10.1016/j.jacc.2021.12.012
+                  
+                . 
+                  https://www.jacc.org/doi/pdf/
+                  
+                "),[4](#ref-CR4 "Kietaibl S, Ahmed A, Afshari A, Albaladejo P, Aldecoa C, Barauskas G et al. Management of severe peri-operative bleeding: Guidelines from the European Society of Anaesthesiology and Intensive Care: Second update 2022. 2023."),[5](#ref-CR5 "Konstantinides SV, Meyer G, Becattini C, Bueno H, Geersing G-J, Harjola V-P, et al. 2019 ESC guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): the Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of. Eur Respir J. 2019;54. 
+                  https://doi.org/10.1183/13993003.01647-2019
+                  
+                "),[6](/article/10.1186/s12245-024-00660-y#ref-CR6 "Rossaint R, Afshari A, Bouillon B, Cerny V, Cimpoesu D, Curry N, et al. The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition. Crit Care. 2023;27:1–45. 
+                  https://doi.org/10.1186/s13054-023-04327-7
+                  
+                ")]. However, it is critical to minimize the time between shock recognition and initiation of shock- or disease-specific therapies. Currently, specific recommendations for the management of shock due to any etiology in the initial few minutes are lacking.
+
+All physicians, especially junior staff, may benefit from a common pathway to manage patients with undifferentiated shock during the
+
+--- FUENTE WEB ---
+Título: Validation of the echoSHOCK protocol for diagnosing the cause of shock in patients arriving at the emergency department | 2025, Volume 25, Issue 2 | Turkish Journal of Emergency Medicine
+URL: https://turkjemergmed.com/full-text/918
+Score: 0.568057
+
+Texto:
+[![](/img/logo-journal.png)](/)
+
+[![](/img/icon-facebook.png)](https://www.facebook.com/TurkJEmergMed) [![](/img/icon-twitter.png)](https://twitter.com/TurkJEmergMed)
+
+[![](/img/icon-instagram.png)](https://www.instagram.com/TurkJEmergMed) [![](/img/icon-email.png)](mailto:editor@turkjemergmed.com)
+
+[![](/img/logo-emat.png)](https://tatd.org.tr)
+
+
+
+* [Abstract](/abstract/918)
+* [Full Text](/full-text/918)
+* [PDF](/full-text-pdf/918)
+* [Similar Articles](/similar-articles/918)
+* [Contact the Author](/contact-the-author/918)
+* [Contact the Editor](/contact-the-editor/918)
+
+---
+
+# Validation of the echoSHOCK protocol for diagnosing the cause of shock in patients arriving at the emergency department
+
+Takshak Shankar1[![](/img/orcid_16x16.png)](https://orcid.org/0000-0002-1356-7351), Nidhi Kaeley1[![](/img/orcid_16x16.png)](https://orcid.org/0000-0003-4358-2832), Parvathy Sasidharan1[![](/img/orcid_16x16.png)](https://orcid.org/0009-0008-8065-1175), Archana Bairwa1[![](/img/orcid_16x16.png)](https://orcid.org/0009-0001-7199-1396), M. S. Salva Ameena2[![](/img/orcid_16x16.png)](https://orcid.org/0000-0002-3181-1792), Sreejith Jayachandran1[![](/img/orcid_16x16.png)](https://orcid.org/0009-0005-6894-8281), Jewel Rani Jose1[![](/img/orcid_16x16.png)](https://orcid.org/0009-0009-6532-9433), Jitendra Kumar Yadav1[![](/img/orcid_16x16.png)](https://orcid.org/0009-0001-0006-9302)
+
+1Department of Emergency Medicine, All India Institute of Medical Sciences, Rishikesh, Uttarakhand, India  
+ 2Department of Emergency Medicine, All India Institute of Medical Sciences, New Delhi, India
+
+**Keywords:** Emergency, shock, ultrasound
+
+## Abstract
+
+**OBJECTIVES:** Nontraumatic undifferentiated shock is difficult to manage in the emergency department due to unclear causes, lack of history, and rapid patient deterioration. Timely and appropriate resuscitation is crucial, but both inadequate and excessive resuscitation increase mortality risks. Focused cardiac ultrasound (FoCUS) offers a timely and noninvasive cardiac assessment. The echoSHOCK protocol is derived from FoCUS and improves the ability to identify the etiology of shock in patients at the emergency department. This study’s primary objective was to validate the echoSHOCK protocol for diagnosing the cause of shock in patients arriving at the emergency department. This study’s secondary objective was to determine the prevalence of different etiologies of shock in patients arriving at the emergency department.
+
+**METHODS:** Adult patients presenting to the emergency department in shock were included in the study after informed consent was obtained. The shock was defined as a systolic blood pressure of <90 mmHg or a mean arterial pressure of <65 mmHg with signs of poor tissue perfusion. Each patient underwent a detailed history, physical examination, and standard investigations. Clinicians reported a presumed etiology and management plan with a confidence level (0–10). The echoSHOCK protocol was then executed and its results were recorded with the respective confidence levels. The protocol used a phased array probe in B mode solely and assessed left ventricle function, compressive pericardial effusion, right ventricular dilatation, interventricular septum flattening, and indicators of hypovolemia. The time taken to perform the protocol and the difficulty level were noted. An expert panel followed the patient till hospital discharge and provided the final diagnosis and intervention.
+
+**RESULTS:** The study enrolled 223 patients with a mean age of 49.12 years. The echoSHOCK protocol showed a 94.2% agreement with expert panel diagnoses on the cause of shock and proposed interventions, with a statistically significant near perfect agreement (Cohen’s Kappa −0.896, *P* < 0.001 and 0.897, *P* < 0.001, respectively). In contrast, the agreement between the clinical assessment, routine workup, and expert panel diagnoses was 46.2% on the cause of shock and 45.7% on the proposed interventions, respectively. The echoSHOCK protocol’s median feasibility score was 7 (interquartile range [IQR]: 6–8), and its median performance time was 7 min (IQR: 6–10). Confidence in diagnoses was significantly higher with echoSHOCK (mean: 7.14) than with clinical examination (mean: 4.47) (Wilcoxon Test: *P* <0.001).
+
+**CONCLUSION:** The echoSHOCK protocol rapidly identifies shock etiology in patients at the emergency department. This aids in rapid resuscitation.
+
+## Introduction
+
+Shock is defined as a clinical syndrome of hypoxia at the cellular and tissue level that can occur through inadequate delivery of oxygen, an elevation in the demand for oxygen, or an amalgamation of these processes. The presentation of the patient in shock is diverse. It can vary from concealed hypoperfusion with preserved blood pressure to circulatory collapse, which is its most severe form.[[1](#r1),[2](#r2)] The mechanisms of shock can be broadly classified into four categories – hypovolemia, obstructive, cardiogenic, and distributive. There have been considerable improvements in the management of shock over time. However, the short term mortality still remains high ranging from 20% to 50%.[[3](#r3),[4](#r4)] Nontraumatic undifferentiated shock is a challenging condition to manage for the emergency physician owing to etiological ambiguity, lack of appropriate history, and the fast deteriorating patient.[[5](#r5),[6](#r6)] While timely diagnosis and appropriate resuscitation is the key to reducing mortality in shock, both inadequate and over resuscitation are linked with a risk of higher mortality. The concept of optimal resuscitation holds, especially true for fluid resuscitation.[[6](#r6),[7](#r7)]
+
+Focused cardiac ultrasound (FoCUS) is a time sensitive and noninvasive cardiac evaluation of the symptomatic patient, executed and construed by the emergency physician within the clinical context.[[8](#r8),[9](#r9)] A framework of FoCUS for various clinical scenarios was provided by the first International Conferen
+
+--- FUENTE WEB ---
+Título: SHoC-ED – The Bottom Line
+URL: https://www.thebottomline.org.uk/summaries/em/shoc-ed
+Score: 0.5201313
+
+Texto:
+[Skip to content](#content)
+
+* [Twitter](http://twitter.com/WICSbottomline)
+* [Google+](https://plus.google.com/101541170118503923680/posts)
+* [Facebook](https://www.facebook.com/wicsthebottomline)
+* [Reddit](https://www.reddit.com/user/wicsthebottomline)
+* [RSS](http://www.thebottomline.org.uk/feed/)
+
+[The Bottom Line](https://www.thebottomline.org.uk/)
+
+A compendium of critical appraisals in Intensive Care Medicine research and related specialties
+
+![The Bottom Line](https://www.thebottomline.org.uk/wp-content/uploads/2016/02/tbl2-logo-on-line-in-the-rain.jpg)
+
+# SHoC-ED
+
+[Segun Olusanya](https://www.thebottomline.org.uk/author/segunolusanya/ "View all posts by Segun Olusanya")  [Emergency Medicine](https://www.thebottomline.org.uk/category/summaries/em/)   [4 comments](https://www.thebottomline.org.uk/summaries/em/shoc-ed/#comments)
+
+# Does Point-of-Care Ultrasonography Improve Clinical Outcomes in Emergency Department Patients With Undifferentiated Hypotension? An International Randomized Controlled Trial From the SHoC-ED Investigators
+
+Atkinson RP. Ann Em Med (Ahead of print). DOI: https://doi.org/10.1016/j.annemergmed.2018.04.002
+
+### Clinical Question
+
+* In selected non-trauma patients presenting to the Emergency Department (ED) with undifferentiated hypotension, does a standardised point-of-care ultrasound protocol, compared with usual care, improve 30 day or hospital survival?
+
+### Background
+
+* Patients with undifferentiated shock are a diagnostic challenge in the emergency department, with an increased mortality
+* Point-of-care ultrasound (POCUS) is currently being used to diagnose numerous pathologies in the emergency department
+* Single centre studies and case series incorporating POCUS into the management of shock have shown an improvement in both diagnostic accuracy and mortality, with ultrasound directing changes in management in up to 50% of patients (such as [this trial by Volpicelli](https://www.ncbi.nlm.nih.gov/pubmed/23584471))
+* There have been no multicentre prospective randomised control trials of POCUS in shock in the emergency department
+
+### Design
+
+* Multicentre randomised control trial
+* Non-blinded
+* All centres had accredited EM physicians and active POCUS programmes
+* Scans performed either by physicians who had demonstrated training and competence in POCUS, or by residents supervised by those physicians
+* Competencies required for scanning agreed by investigators before initiation of study
+* Physicians from North America visited the South African sites to ensure comparable competency standards and vice versa
+* Patient selection was a convenience sample of eligible patients when appropriately trained staff were available in ED
+* Randomised convenience-sampling blocks performed by site, using computer-generated randomisation into 100 sealed envelopes- 50 POCUS, 50 control
+* Sealed envelopes ensured allocation concealment
+* Randomisation secured by having pre-randomised sequentially numbered envelopes, matched for size and weight
+* To provide 80% power to detect a 10% difference in primary outcome at alpha= 0.05, sample size of 400 required
+  + assuming baseline mortality of 30% in group
+
+### Setting
+
+* 6 Centres
+  + 3 in North America (all tertiary referral/treatment centres)
+  + 3 in South Africa (1 tertiary centre, one large regional hospital, one large district hospital)
+* September 2012-December 2016
+
+### Population
+
+* Inclusion:
+  + Age 19 or over
+  + Sustained systolic BP <100mmHg OR
+  + Shock index (systolic BP/HR) of >1.0 (with systolic BP <120)
+* Exclusion:
+  + Pregnancy
+  + Necessity of CPR before screening or enrolment
+  + History of significant trauma in last 24 hours
+  + 12 lead ECG diagnostic of myocardial infarction
+  + Clear evident mechanism for shock identifiable by clinician
+  + Previously known diagnosis from another hospital
+  + Vagal episode
+  + Non-pathological low blood pressure
+* 347 patients assessed, 273 patients enrolled (138 POCUS, 135 Control)
+  + terminated at interim analysis due to slow recruitment and futility
+* 3 patients lost to follow up
+* Similar baseline characteristics, with a slight male preponderance in the POCUS group (73% vs 65%)
+* There were significant differences in final diagnoses in the North American and South African cohorts:
+  + Much more sepsis in South African than in North American group (71% vs 42%)
+  + More severe dehydration in North America vs South Africa( 20% vs 3%)
+
+### Intervention
+
+* POCUS protocol, combining core elements of Abdominal and Cardiothoracic Evaluation with Sonography in Shock (ACES) and Rapid Ultrasound in Shock and Hypotension (RUSH) protocols
+* Performed within 60 minutes of patient visit, after normal physician clinical assessment
+* Documented on standardised form
+* Views:
+  + Cardiac views: PLAX, PSAX, Apical and Subcostal to assess LV/RV function, size and presence of pericardial effusion
+  + Lung views: Base of lung thoracic scans looking for lung sliding and pleural effusions
+  + Abdominal views: RUQ, LUQ, and pelvic views for free fluid and bladder size; Abdominal aorta for AAA; IVC for size and collapsibility
+
+### Control
+
+* Normal physician clinical assessment
+
+#### Management common to both groups
+
+* Secondary clinical assessment performed by physician 60 minutes after primary assessment
+
+### Outcome
+
+* Primary outcome: no significant difference in either 30 day or hospital discharge survival
+  + - POCUS: 104/136= 76.5% (95% CI 68.4%-83.3%)
+    - Control: 102/134= 76.1% (95% CI 68.0- 83.1%)
+      * Difference = 0.35%, 95% CI= -10.2 -11.1%
+      * Analysis by site showed a higher mortality in South African sites but still no significant benefit from POCUS
+* Secondary outcomes: no significant differences seen between POCUS and control in:
+  + Median volumes of fluid administered (median= 1609ml vs 1683 ml)
+  + Hospital admission rates (81% vs 83%)
+  + Rates of inotrope administration (12% vs 9%)
+  + Rates of CT scanning (26% vs 24%)
+  + ICU admission rates  (18% vs 14%)
+ 
+
+--- FUENTE WEB ---
+Título: Shock Management - Traumatic shock
+URL: https://www.ebmedicine.net/topics/critical-care/management-of-shock
+Score: 0.4362623
+
+Texto:
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![Click to search](/template_images/_ebm_icon_search.png)](#_ebm_global_topBar_searchMin)
+
+[![navigation bar background](/template_images/_icon_bars_trans.png)](#)
+
+[Browse Topics](/topics) [Earn CME Credits](/cme) [FOAMed](https://foamed.ebmedicine.net/) [Pathways](/pathways) [About](/About) [Contact](/contact.php)
+[Log In](/login.php)
+
+[![EB Medicine logo](/template_images/EBM_logo_2.png)](/)
+
+[![](/template_images/_icon_grid_trans.png) **Store**](#) 
+
+[Emergency Medicine Practice](/EMPinfo) [Pediatric Emergency Medicine Practice](/PEMPinfo) [Evidence-Based Urgent Care](/urgent-care-CME) [Savings & Upgrades](/subscribe) [Courses](/store/Courses-and-LLSAs) [LLSA Study Guides](/LLSA) [Stroke CME](/store/stroke) [Trauma CME](/store/trauma) [State-Required CME](/CME-Requirements ) [View All Products](/store)
+
+[![Call EB Medicine](https://s3.us-east-2.amazonaws.com/ebmedicine.net-media-library/Blue+Phone+Icon.png) 678-366-7933](tel:1-678-366-7933)[![Click to check your cart](/template_images/_ebm_cart_icon.png)0](/store.php?paction=viewCart)[**Log In**](/login.php) [**Subscribe**](/subscribe)
+
+* [Browse Topics](/topics)
+* [Earn CME Credits](#)
+
+  [Stroke](/cme/stroke) [Cardiac](/cme/cardiovascular) [Trauma](/cme/trauma) [Pediatric Trauma](/cme.php?paction=setFilterOpts&sortBy=publication_date+DESC&resultsPerPg=25&available_to=all_cme&products%5B%5D=pemp&categories%5B%5D=Trauma) [Urgent Care](/CME/evidence-based-urgent-care) [All CME Tests](/cme)
+* [FOAMed](https://foamed.ebmedicine.net/)
+* [Pathways](/pathways)
+* [About](/About)
+* [Contact](/contact.php)
+
+* [**Resources For**](#)
+
+  [Emergency Clinicians](/emergency-clinicians) [Urgent Care Clinicians](/urgent-care-clinicians) [Emergency PAs & NPs](/apc) [Residents](/Residents) [Groups & Hospitals](/Groups)
+
+[Home](/) > [All Topics](/topics) > Diagnosis And Management Of Shock In The Emergency Department
+
+![](/publicationImages/EMP-Heading.png "Emergency Medicine Practice")
+
+# Diagnosis And Management Of Shock In The Emergency Department
+
+|  |
+| --- |
+|  |
+
+[**Log in**](/login.php)
+
+[**Subscribe**](/subscribe)
+
+[**Free Sample**](javascript:void(0);)
+
+![](/template_images/New-TOC-desktop-icon.png)![](/template_images/New-TOC-mobile-icon.png)
+
+Table of Contents![](/template_images/icon-close.png)
+
+Table of Contents
+
+1. [Abstract](#Abstract)
+2. [Case Presentation](#Case-Presentation)
+3. [Introduction](#Introduction)
+4. [Critical Appraisal Of The Literature](#Critical-Appraisal)
+5. Pathophysiology
+   1. Hypovolemic Shock
+   2. Distributive Shock
+   3. Cardiogenic Shock
+   4. Obstructive Shock
+6. Emergency Department Evaluation
+   1. Initial Stabilization
+   2. History
+   3. Physical Examination
+7. Diagnostic Studies
+   1. Laboratory Studies
+      1. Base Deficit
+   2. Imaging
+      1. Ultrasound
+   3. Chest X-Ray
+   4. Computed Tomography
+   5. Echocardiography
+   6. Other Diagnostics
+8. Treatment
+   1. Cardiovascular Monitoring
+   2. Fluid Resuscitation
+      1. Goals Of Fluid Resuscitation
+      2. Fluid Selection
+   3. Central Venous Lines
+      1. Arterial Lines
+      2. Pulmonary Artery Catheters
+   4. Vasopressors
+   5. Clinical Course In The Emergency Department
+      1. Deterioration
+9. Special Circumstances
+   1. Shock In Pregnancy
+   2. Traumatic Shock
+   3. Septic Shock
+   4. Anaphylactic Shock
+   5. Cardiogenic Shock Due To Myocardial Infarction
+10. Controversies And Cutting Edge
+    1. Early Goal-Directed Therapy
+    2. Pulmonary Embolism
+    3. Noninvasive Hemodynamic Monitors
+11. Disposition
+12. Summary
+13. In The March/April Issue of EM Practice Guidelines Update
+14. [Pitfalls To Avoid In The Diagnosis And Management Of Shock](#Risk-Management-Pitfalls)
+15. Case Conclusion
+16. Clinical Pathway For Diagnosing And Managing Shock
+17. [Tables](#Tables)
+    1. [Table 1. Categories Of Shock](#Table-1)
+    2. [Table 2. Etiologies Of Cardiogenic Shock](#Table-2)
+    3. Table 3. Causes Of Shock In The Trauma Patient
+    4. Table 4. Early Goal-Directed Therapy Protocol For Patients With Severe Sepsis And Septic Shock
+18. [References](#References)
+
+### Abstract
+
+Shock is a state of acute circulatory failure leading to decreased organ perfusion, with inadequate delivery of oxygenated blood to tissues and resultant end-organ dysfunction. The mechanisms that can result in shock are divided into 4 categories: (1) hypovolemic, (2) distributive, (3) cardiogenic, and (4) obstructive. While much is known regarding treatment of patients in shock, several controversies continue in the literature. Assessment begins with identifying the need for critical interventions such as intubation, mechanical ventilation, or obtaining vascular access. Prompt workup should be initiated with laboratory testing (especially of serum lactate levels) and imaging, as indicated. Determining the intravascular volume status of patients in shock is critical and aids in categorizing and informing treatment decisions. This issue reviews the 4 primary categories of shock as well as special categories, including shock in pregnancy, traumatic shock, septic shock, and cardiogenic shock in myocardial infarction. Adherence to evidence-based care of the specific causes of shock can optimize a patient’s chances of surviving this life-threatening condition.
+
+### Case Presentation
+
+*You are working in the ED late one evening when an 82-yearold man is brought in by his son. His son reports that earlier today, his father had been in his usual state of health, but this evening he found his father confused, with labored breathing. On arrival, the patient has the following vital signs: temperature, 38°C; heart rate, 130 beats/min; blood pressure, 110/60 mm Hg; respiratory rate, 34 breaths/min; and oxygen saturation, 89% on room air. He is delirious and unable to answer questions. A focused physical examination demonstrates tachycardia without extra heart sounds or murmurs, right basilar crackles on lung auscultation, a benign abdo
+
+--- FUENTE WEB ---
+Título: Shock - StatPearls - NCBI Bookshelf - NIH
+URL: https://www.ncbi.nlm.nih.gov/books/NBK531492
+Score: 0.38623142
+
+Texto:
+Undifferentiated shock means that the diagnosis of shock has been made; however, the underlying etiology has not been uncovered. 1. Distributive Shock.
+
+--- FUENTE WEB ---
+Título: Heart in Distress: How Different Shock States Converge on Cardiac Dysfunction
+URL: https://www.mdpi.com/2227-9059/14/10/2157
+Score: 0.31044397
+
+Texto:
+[Skip to Content](#main)
+
+[![MDPI](https://mdpi-res.com/data/mdpi-logo-black.svg)
+![MDPI](https://mdpi-res.com/data/mdpi-logo-black.svg)](/)
+
+
+
+
+
+* Review
+* ![Open Access](https://mdpi-res.com/data/open-access.svg)
+
+24 September 2026
+
+37 Pages
+
+# Heart in Distress: How Different Shock States Converge on Cardiac Dysfunction
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+and
+
+1
+
+3rd Department of Cardiology, Thoracic Diseases Hospital of Athens “Sotiria”, National and Kapodistrian University of Athens, 11527 Athens, Greece
+
+2
+
+3rd Cardiology Department, “Sotiria” General Hospital of Chest Diseases of Athens, Athina Ioanni Martinou Endowed Chair, Medical School, National and Kapodistrian University of Athens, 11527 Athens, Greece
+
+\*
+
+Author to whom correspondence should be addressed.
+
+[Biomedicines](/journal/biomedicines)
+**2026**, *14*(10), 2157;
+<https://doi.org/10.3390/biomedicines14102157>
+
+This article belongs to the Special Issue [Shock Syndromes: Pathophysiology, Diagnostics and Emerging Therapeutics Across the Clinical Spectrum](/journal/biomedicines/special_issues/08M269X0F2)
+
+[Version Notes](/2227-9059/14/10/2157/notes)
+
+[Order Reprints](/2227-9059/14/10/2157/reprints)
+
+## Abstract
+
+Shock is traditionally classified according to its primary etiology—septic, hypovolemic, obstructive, or cardiogenic—yet these syndromes frequently converge on a common feature: disturbances of cardiac performance, ventricular loading, and tissue perfusion. Despite distinct initiating mechanisms, altered preload and afterload, ventricular interdependence, vascular dysfunction, maladaptive neurohormonal responses, and, in selected states, impaired myocardial contractility may ultimately reduce effective forward flow and tissue perfusion. Echocardiography provides a rapid, noninvasive bedside tool for characterizing these evolving cardiovascular effects. It enables assessment of left and right ventricular function, cardiac filling, preload responsiveness, pulmonary and systemic venous congestion, fluid tolerance, and broader hemodynamic profiles while facilitating recognition of reversible causes such as cardiac tamponade, acute pulmonary embolism, or severe hypovolemia. This allows clinicians to move beyond static etiologic classifications toward a physiology-based assessment of shock. Beyond diagnosis, echocardiography can inform fluid resuscitation and vasoactive or inotropic therapy. Serial assessment also permits evaluation of therapeutic response and evolving hemodynamic phenotypes. This review synthesizes the mechanisms of cardiac involvement across shock syndromes and highlights echocardiography as a unifying tool for their evaluation and management. By integrating pathophysiology, bedside imaging, and hemodynamic treatment, we propose a physiology-based framework that complements traditional shock classification and may improve diagnostic precision and individualized management in critically ill patients.
+
+Keywords:
+
+[shock](/search?q=shock); [cardiac dysfunction](/search?q=cardiac+dysfunction); [echocardiography](/search?q=echocardiography); [hemodynamics](/search?q=hemodynamics); [septic shock](/search?q=septic+shock); [right ventricular dysfunction](/search?q=right+ventricular+dysfunction); [fluid resuscitation](/search?q=fluid+resuscitation); [vasopressors and inotropes](/search?q=vasopressors+and+inotropes); [critical care](/search?q=critical+care); [point-of-care ultrasound](/search?q=point-of-care+ultrasound)
+
+## 1. Introduction
+
+Circulatory failure represents a life-threatening condition in which effective blood flow and oxygen delivery become insufficient relative to tissue metabolic requirements and requires rapid recognition and targeted management [1,2]. It is classically categorized into four major forms, cardiogenic, distributive, hypovolemic, and obstructive shock, based on the primary mechanism of hemodynamic impairment. Although this framework remains fundamental in clinical practice, patients frequently present with overlapping features, making precise classification challenging [3,4,5,6].
+
+Beyond primary cardiac causes, alterations in cardiac performance are increasingly recognized as important components of non-cardiac shock states [7]. In cardiogenic shock, primary myocardial or mechanical cardiac dysfunction directly limits cardiac output [8]. In hypovolemic shock, myocardial contractility may initially remain preserved, while reduced venous return and ventricular underfilling critically limit stroke volume. In obstructive shock, cardiac output falls because ventricular filling or ejection is mechanically constrained, as occurs in pulmonary embolism, cardiac tamponade, or tension pneumothorax [7]. In distributive states, profound vasodilation, altered vascular tone, capillary leak, and abnormal blood-flow distribution may coexist with preserved or increased cardiac output, but secondary myocardial dysfunction may develop and substantially modify the hemodynamic phenotype [7].
+
+In sepsis, a dysregulated host response to infection can directly impair myocardial function, leading to sepsis-induced cardiomyopathy, a typically reversible condition characterized by variable systolic and/or diastolic dysfunction involving one or both ventricles [9,10]. Cardiac involvement is common, affecting up to 40–60% of patients with septic shock in the early phase of illness [10,11], and often reflects the global impact of systemic inflammation on both left and right ventricular function. Importantly, shock is a dynamic process in which different mechanisms may coexist or evolve over time [12].
+
+In this review, we examine the mechanisms underlying cardiac involvement across the major shock states, contrasting primary pump failure in cardiogenic shock with secondary, load-dependent, or mechanically mediated cardiac consequences in septic, hypovolemic, obstructive, and anaphylactic shock. We further discuss contemporary diagnostic and therapeutic approaches, the integration of cardiology within multidisciplinary c
+
+--- FUENTE WEB ---
+Título: Hypovolemia and Hypovolemic Shock - StatPearls - NCBI - NIH
+URL: https://www.ncbi.nlm.nih.gov/books/NBK513297
+Score: 0.07586518
+
+Texto:
+by S Taghavi · 2025 · Cited by 28 — Hypovolemic shock is a life-threatening condition caused by a significant reduction in blood volume, which prevents the heart from pumping
+
+--- FUENTE WEB ---
+Título: Pulmonary Artery Catheter Use and Mortality in the Cardiac ...
+URL: https://www.jacc.org/doi/10.1016/j.jchf.2023.04.007
+Score: 0.056511793
+
+Texto:
+by BS Kadosh · 2023 · Cited by 143 — Shock etiology was classified by the site investigator as cardiogenic, distributive, hypovolemic, or mixed according to prespecified definitions
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
