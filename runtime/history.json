@@ -30,8 +30,8 @@
     "axis": "cardiovascular"
   },
   "sepsis_early_recognition": {
-    "last_seen": "2026-10-21",
-    "times_reviewed": 9,
+    "last_seen": "2026-10-31",
+    "times_reviewed": 10,
     "axis": "infectious"
   },
   "copd_exacerbation": {
