@@ -20,8 +20,8 @@
     "axis": "cardinal_symptoms"
   },
   "shock_undifferentiated": {
-    "last_seen": "2026-10-30",
-    "times_reviewed": 33,
+    "last_seen": "2026-11-01",
+    "times_reviewed": 34,
     "axis": "critical_care"
   },
   "acute_coronary_syndrome_troponin": {
