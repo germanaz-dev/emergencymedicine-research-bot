@@ -1,0 +1,106 @@
+[
+  {
+    "pmid": "42949674",
+    "title": "Interpreting High-Sensitivity Cardiac Troponin in Clinical Practice and Emerging Directions: Detection Is No Longer Diagnosis.",
+    "journal": "Journal of the American College of Cardiology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1016/j.jacc.2026.09.019",
+    "abstract": "High-sensitivity cardiac troponin (hs-cTn) assays have solved the problem of detecting myocardial injury and, in doing so, created the problem of classifying it. Abnormal troponin concentrations are now known to be common across a wide spectrum of cardiac and systemic disease, and the central challenge of contemporary practice is no longer whether myocardial injury can be detected, but whether it can be correctly classified. Misclassification occurs in both directions and with real consequence: nonischemic myocardial injury is frequently mislabeled as secondary myocardial infarction (MI), contributing to the overdiagnosis of MI, and chronic myocardial injury, which carries a risk of subsequent MI or cardiovascular death approaching that of primary MI, is routinely dismissed once infarction has been excluded. This narrative review argues that accurate classification cannot be delegated to an algorithm and instead requires integrated, context-aware interpretation grounded in 4 domains: 1) the analytical and biological properties of hs-cTnI and hs-cTnT, including assay-specific and sex-specific thresholds, clearance kinetics, and sources of analytical interference and false-positive results; 2) the capabilities and limitations of guideline-endorsed serial testing, including the European Society of Cardiology 0/1h and 0/2h algorithms, point-of-care platforms, and artificial intelligence-based decision support; 3) rigorous application of the Fifth Universal Definition of Myocardial Infarction, in particular the distinctions between myocardial injury, necrosis, and infarction, and between diagnosis and risk stratification; and 4) recognition of the non-acute coronary syndrome conditions-chronic kidney disease, heart failure, sepsis, tachyarrhythmias, pulmonary embolism, takotsubo syndrome, and others-in which troponin elevation is expected rather than anomalous. We provide explicit bedside guidance for the situations that clinicians find most difficult, including suspected secondary MI, the observe zone, and troponin elevation without a dynamic pattern. Finally, we review emerging understanding of troponin biology, clearance, proteolysis and fragmentation, macrotroponin, antitroponin autoantibodies, and extracellular vesicle-associated troponin, which may eventually allow the assay itself to carry more of the interpretive burden. Until then, that burden rests with the clinician.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949674/"
+  },
+  {
+    "pmid": "42942374",
+    "title": "Occlusive Myocardial Infarction: A Practical Review of STEMI-Negative Coronary Occlusion in Acute Coronary Syndromes.",
+    "journal": "Medicina (Kaunas, Lithuania)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1016/j.jacadv.2025.102227",
+    "abstract": "ST-segment elevation myocardial infarction (STEMI) and non-ST-segment elevation myocardial infarction (NSTEMI) remain the dominant operational categories for acute coronary syndrome triage because they are simple, widely implemented, and closely linked to reperfusion pathways. However, diagnostic ST-segment elevation and acute coronary occlusion are not synonymous. A clinically important subgroup of patients classified as NSTEMI have total or near-total culprit-artery occlusion and may experience delayed angiography despite ongoing myocardial ischemia. This structured narrative review examines the rationale, evidence, electrocardiographic patterns, quantitative bedside criteria, and emerging technologies relevant to occlusion myocardial infarction (OMI), with particular emphasis on STEMI-negative coronary occlusion. Conventional STEMI criteria are highly specific but incompletely sensitive for acute coronary occlusion, particularly in posterior or circumflex infarction, early anterior occlusion, left bundle branch block, ventricular paced rhythm, and transient reperfusion. Recognition of OMI therefore requires integration of ECG morphology, reciprocal changes, serial ECG evolution, clinical presentation, troponin kinetics, and adjunctive imaging rather than reliance on ST-segment thresholds alone. Practical patterns include hyperacute T waves, the de Winter pattern, posterior OMI, modified Sgarbossa-positive conduction abnormalities, subtle anterior OMI, and selected high-risk ischemic patterns. Artificial intelligence may improve scalable detection of subtle occlusion patterns, although external validation, workflow integration, explainability, and prospective outcome studies remain necessary. Current evidence supports OMI as a promising complementary diagnostic framework rather than an established replacement for guideline-based STEMI/NSTEMI classification. Prospective implementation studies are required to determine whether OMI-guided pathways improve clinical outcomes without unacceptable false-positive catheterization-laboratory activation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42942374/"
+  },
+  {
+    "pmid": "42938268",
+    "title": "Artificial Intelligence in Acute Coronary Syndromes: From Early Diagnosis to Culprit Lesion Characterization, Coronary Physiology, and Risk Stratification.",
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1016/j.isci.2026.115026",
+    "abstract": "Artificial intelligence (AI) is being investigated across the acute coronary syndrome (ACS) care pathway, including early diagnosis, coronary lesion characterization, procedural guidance, and risk prediction. This comprehensive review examines the current evidence across the entire ACS trajectory, with particular emphasis on clinically actionable and interventional applications. AI-enabled electrocardiography (ECG) may improve detection of myocardial infarction, including occlusion myocardial infarction (OMI) that does not meet conventional STEMI criteria. Models combining clinical data and high-sensitivity troponin may improve early rule-out and rule-in. In coronary imaging, AI can quantify plaque characteristics and assist with the interpretation of OCT and IVUS, while image-derived physiology may help assess non-culprit lesions. However, better diagnostic accuracy does not necessarily translate into better revascularization decisions. AI-based models can also estimate post-ACS ischemic, bleeding, and mortality risk, although evidence that their use improves treatment or outcomes remains limited. The next priority is prospective evaluation of whether these tools improve decisions, workflow, and patient outcomes across diverse clinical settings.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42938268/"
+  },
+  {
+    "pmid": "42894477",
+    "title": "Diagnostic accuracy of high-sensitivity point-of-care troponin assays in emergency department for patients presenting with chest pain: a systematic review.",
+    "journal": "European journal of emergency medicine : official journal of the European Society for Emergency Medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "doi": "10.1097/MEJ.0000000000001381",
+    "abstract": "Background High-sensitivity cardiac troponin (hs-cTn) assays have significantly enhanced the diagnosis in patients suspected of acute coronary syndrome (ACS). New hs-cTn point-of-care (POC) devices (turnaround time <20 min) may significantly reduce time to diagnosis. Purpose We evaluated the diagnostic accuracy of four currently commercially available hs-cTn POC devices to assess their potential for clinical implementation at the emergency department (ED). Methods We conducted a search in PubMed Central on 20 November, 2025. Studies were included if they investigated patients greater than or equal to 18 years presenting with chest pain suggestive of ACS and evaluated commercially available hs-cTn POC devices. Studies had to report diagnostic accuracy [sensitivity, specificity, negative predictive value (NPV), positive predictive value] for the diagnosis of acute myocardial infarction (AMI). Studies were assessed for risk of bias and applicability using the QUADAS-3 tool. Results We identified 436 articles. The 11 included studies consisted of both derivation and validation studies, including a total of 10 115 patients. The hs-cTn POC assays demonstrated the best diagnostic accuracy when applied as a single-test rule-out upon arrival at the ED, showing the following sensitivity and NPV: Atellica VTLi sensitivity 98.8-100% for troponin less than 4 ng/L (NPV: 99.8-100%) and 100% for troponin less than 7 ng/L (NPV 100%). Pathfast sensitivity 96.3-100% for troponin less than 3 ng/L (NPV: 98.1-100%). i-STAT sensitivity of 99.8% for troponin less than 5 ng/L (NPV: 100%). TriageTrue sensitivity of 100% for troponin less than 3 ng/L (NPV 100%). VTLi, Pathfast, and TriageTrue were also tested using the 99 th percentile with a 0 + 1/2/3 h troponin protocol. Reported sensitivities: VTLi 64.8-100%, Pathfast 87% for plasma and 83% for whole blood, and TriageTrue 79.8%. Conclusion Hs-cTn POC assays are reliable for integration into the diagnostic pathways for patients presenting with chest pain at the ED, mainly when used for rapid rule-out of AMI in patients with very low troponin values upon arrival.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894477/"
+  },
+  {
+    "pmid": "42835658",
+    "title": "Coronary heart disease in young women: risk factors, mechanistic phenotypes, and implications for primary care.",
+    "journal": "Frontiers in cardiovascular medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.12114/j.issn.1007-9572.2024.0621",
+    "abstract": "Coronary heart disease (CHD) in young women remains under-recognized because early risk signals are often dispersed across different clinical settings and symptoms are frequently interpreted as non-cardiac at first contact. This narrative review provides a clinically oriented synthesis that integrates conventional and female-specific cardiovascular risk factors with coronary phenotypes and practical primary-care screening, triage, referral, and longitudinal management. As a narrative review, this study employed a structured but non-systematic literature search of PubMed, CNKI, and the Chinese General Practice journal website for relevant publications available through May 2026, supplemented by manual screening of reference lists. Priority was given to recent cohort studies, systematic reviews, clinical guidelines, expert consensus statements, and representative mechanistic studies.The available literature suggests that hypertension, dysglycemia, smoking, dyslipidemia, family history, and psychosocial stress are not necessarily more severe in young women, but are more likely to be clinically underestimated. Their impact is often amplified when combined with hypertensive disorders of pregnancy, polycystic ovary syndrome, autoimmune disease, antiphospholipid syndrome, or persistent psychosocial burden. Beyond obstructive atherosclerosis, plaque erosion, coronary microvascular dysfunction, vasospasm, myocardial infarction with non-obstructive coronary arteries, and spontaneous coronary artery dissection deserve particular attention. Common primary-prevention risk scores are heavily weighted by age and generally do not fully incorporate female-specific risk-enhancing factors; they should not replace chest-pain risk stratification or mechanism-oriented evaluation in symptomatic patients.Primary care assessment should distinguish among asymptomatic individuals undergoing primary prevention, symptomatic patients presenting with chest pain, and patients with established premature CHD. In the first group, evaluation should focus on basic risk factors, including medical history, blood pressure, body mass index, lipid profile, and glycemic status. In symptomatic patients, electrocardiography and echocardiography should be selected according to the clinical context; high-sensitivity cardiac troponin should be measured when acute coronary syndrome (ACS) or acute myocardial injury is suspected, rather than used as a routine primary-care screening test. Referral for coronary computed tomography angiography or further functional/invasive assessment should be guided by clinical likelihood and the suspected mechanism. Patients with established disease require intensified secondary prevention and long-term follow-up. Recognition of CHD in young women should therefore move beyond the narrow question of visible stenosis and adopt an integrated framework that links conventional risk factors, female-specific exposures, coronary functional phenotypes, and continuity of care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42835658/"
+  },
+  {
+    "pmid": "42784940",
+    "title": "Pregnancy-associated MINOCA: Diagnostic challenges and emergency management in young women.",
+    "journal": "The American journal of emergency medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1016/j.ajem.2026.09.032",
+    "abstract": "Myocardial infarction with nonobstructive coronary arteries (MINOCA) is identified in approximately 5 to 10% of patients with myocardial infarction referred for coronary angiography, and it remains a working diagnosis rather than a final mechanistic one. The diagnostic challenge is greatest in young women during pregnancy and the early postpartum period. Pregnancy-related and pregnancy-amplified conditions are increasingly recognized contributors, yet direct MINOCA evidence is uneven. This review examines how hypertensive disorders of pregnancy (HDP), gestational diabetes mellitus (GDM), antiphospholipid syndrome (APS) and inherited thrombophilia, and spontaneous coronary artery dissection (SCAD) map onto distinct patterns of coronary and microvascular injury. The links between HDP or GDM and MINOCA are supported mainly by mechanistic and microvascular studies outside dedicated MINOCA cohorts. APS, by contrast, is supported by direct although limited MINOCA-specific data, and pregnancy-associated SCAD is better characterized as a cause of myocardial infarction, although only cases with less than 50% angiographic stenosis meet MINOCA criteria. Serial high-sensitivity cardiac troponin and standard acute coronary syndrome assessment remain the diagnostic foundation. Cardiac magnetic resonance, selective intracoronary imaging, and targeted antiphospholipid testing can refine mechanism assignment after stabilization. The ratio of soluble fms-like tyrosine kinase-1 to placental growth factor is established for the evaluation of suspected preeclampsia, but its relevance to coronary microvascular injury in MINOCA remains uncertain. Inherited thrombophilia testing should be individualized rather than applied routinely. The assigned mechanism should then guide antithrombotic treatment, revascularization decisions, and follow-up. Prospective phenotype-defined studies are needed before routine biomarker-driven strategies can be recommended.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42784940/"
+  },
+  {
+    "pmid": "42670727",
+    "title": "Artificial Intelligence in Echocardiography for Acute Coronary Syndromes: Current Evidence and Integration With Electrocardiography and Biomarkers.",
+    "journal": "Echocardiography (Mount Kisco, N.Y.)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1111/echo.70610",
+    "abstract": "Early diagnosis of acute coronary syndromes (ACS) remains challenging because electrical, mechanical, and biochemical manifestations of myocardial ischemia evolve at different stages of the ischemic cascade. Although electrocardiography (ECG), cardiac biomarkers, and echocardiography are routinely used in clinical practice, these diagnostic modalities are commonly interpreted independently, potentially delaying recognition of myocardial ischemia. Recent advances in artificial intelligence (AI) offer new opportunities to improve diagnostic accuracy through multimodal integration, with echocardiography serving as the central imaging modality. AI-enhanced echocardiography, integrated with electrocardiographic findings, cardiac biomarkers, and clinical information, may improve the early diagnosis, risk stratification, and clinical management of patients with suspected ACS compared with conventional sequential diagnostic approaches. A comprehensive narrative review of contemporary literature was performed to evaluate current evidence regarding AI applications in echocardiography and their integration with ECG and cardiac biomarkers for the diagnosis of ACS. Published studies addressing automated image acquisition, chamber quantification, myocardial deformation analysis, regional wall-motion assessment, multimodal machine-learning models, explainable AI, and clinical implementation were critically reviewed and synthesized. AI has substantially expanded the capabilities of echocardiography by enabling automated image interpretation, quantitative assessment of ventricular function, myocardial strain analysis, and detection of regional wall-motion abnormalities with high reproducibility. When integrated with ECG, serial high-sensitivity cardiac troponin measurements, and clinical variables, multimodal AI systems demonstrate the potential to improve diagnostic accuracy, facilitate earlier identification of myocardial ischemia, reduce diagnostic uncertainty, and support individualized clinical decision-making. Nevertheless, widespread implementation requires prospective multicenter validation, standardized imaging protocols, explainable algorithms, regulatory oversight, and seamless integration into clinical workflows. AI-enhanced echocardiography represents a promising step toward precision cardiovascular imaging and may become the central imaging component of future multimodal diagnostic pathways for patients with suspected ACS. Integration of structural, functional, electrical, biochemical, and clinical information through AI-supported decision systems has the potential to improve diagnostic performance and optimize emergency cardiovascular care.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42670727/"
+  },
+  {
+    "pmid": "42663357",
+    "title": "Fifth Universal Definition of Myocardial Infarction (2026).",
+    "journal": "Journal of the American College of Cardiology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1016/j.jacc.2026.07.025",
+    "abstract": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42663357/"
+  }
+]
