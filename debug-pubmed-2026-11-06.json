@@ -1,0 +1,109 @@
+[
+  {
+    "pmid": "42984968",
+    "title": "Brain cytoprotection in acute ischemic stroke in the reperfusion era: neuroimmune networks, clinical evidence, and translational barriers.",
+    "journal": "Frontiers in immunology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.3389/fphar.2026.1843513",
+    "abstract": "Intravenous thrombolysis and mechanical thrombectomy have transformed acute ischemic stroke (AIS) care, yet angiographic recanalization does not guarantee adequate tissue reperfusion or long-term functional independence. Brain cytoprotection has therefore expanded from neuron-centered rescue to preservation of the ischemic penumbra, neurovascular unit, blood-brain barrier (BBB), and microcirculation. Using a systems-immunology perspective, this clinically oriented narrative review examines ischemia-reperfusion injury as a dynamic network linking danger-associated molecular pattern sensing, microglia and astrocytes, circulating leukocytes, platelets and complement, endothelium and pericytes, cytokine signaling, edema, no-reflow, and regulated cell-death programs. We integrate classic and recent evidence for excitotoxic, redox and mitochondrial, inflammatory, barrier, microvascular, and cell-death targets; evaluate representative pharmacologic and nonpharmacologic interventions; and distinguish negative primary endpoints from exploratory subgroup or surrogate signals. Confirmatory excitotoxicity trials have remained negative overall. Selected multitarget agents have shown benefit in specific Chinese populations, whereas immune-, edema-, and no-reflow-directed approaches have yielded stage-specific but inconsistent safety, imaging, and functional results. Statins, nitric oxide donors, and phosphodiesterase inhibition have plausible vascular or immunomodulatory actions, but available trials do not establish them as acute cytoprotective therapies. Future development should align the right mechanism, tissue phenotype, treatment time, exposure, target-engagement measure, and patient-centered endpoint, followed by multicenter preclinical testing and independent cross-regional clinical replication. This end-to-end framework reframes brain cytoprotection as precision modulation of a spatially and temporally evolving neuroimmune-vascular system rather than a single undifferentiated treatment class.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42984968/"
+  },
+  {
+    "pmid": "42974624",
+    "title": "Superbore Aspiration Catheters: An Innovation in Mechanical Thrombectomy.",
+    "journal": "Stroke (Hoboken, N.J.)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1161/SVIN.126.002492",
+    "abstract": "Mechanical thrombectomy has become the standard treatment for acute ischemic stroke caused by large vessel occlusion. Aspiration thrombectomy has evolved substantially over the past decade; however, conventional large-bore aspiration catheters (inner diameter ≥0.068″) may be limited by incomplete clot ingestion, distal embolization, and dependence on adjunctive devices such as balloon guide catheters to achieve proximal flow arrest. Superbore aspiration catheters, typically defined by an inner diameter ≥0.080 inches, are the most recent technological advancement in aspiration thrombectomy. Superbore catheters have the ability to navigate to the M1 segment of the middle cerebral artery, facilitating local flow control, complete clot ingestion, and distal flow reversal during aspiration. Since 2020, several superbore systems have been developed, including Zoom 88 (Imperative Care), HiPoint 88 (Route 92 Medical), Millipede88 (Perfuze), SOFIA 88 (Terumo), Broadway 8 (Stryker Neurovascular), and Cereglide 92 (Johnson & Johnson MedTech). Early clinical studies suggest that superbore catheters may improve first-pass effect and final reperfusion rates compared with standard aspiration thrombectomy devices, while maintaining an acceptable safety profile. This review summarizes the design characteristics, clinical evidence, and procedural considerations associated with currently available superbore systems. Although preliminary data are promising, further randomized clinical trials are needed to determine the optimal role of superbore aspiration in large vessel occlusion treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42974624/"
+  },
+  {
+    "pmid": "42974351",
+    "title": "Endovascular Therapy in Intracranial Atherosclerotic Stenosis-Related Large Vessel Occlusion Stroke: A Brief Practice Update and Consensus Statement From the SVIN.",
+    "journal": "Stroke (Hoboken, N.J.)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1161/SVIN.126.002529",
+    "abstract": "Intracranial atherosclerotic stenosis-related large vessel occlusion (ICAS-LVO) represents a distinct subset of acute ischemic stroke with unique diagnostic and therapeutic challenges during endovascular therapy. Compared with embolic LVO, ICAS-LVO is associated with higher rates of reocclusion and the frequent use of adjunctive interventions. This Brief Practice Update summarizes current evidence and expert consensus to guide the identification and management of ICAS-LVO during endovascular therapy. The Society of Vascular and Interventional Neurology Guidelines and Practice Standards committee convened a multidisciplinary writing group of neurointerventionalists to review available literature and define key clinical questions on ICAS-LVO and endovascular therapy. Evidence was appraised using the Society of Vascular and Interventional Neurology framework for Class of Recommendation and Level of Evidence, adapted from the American College of Cardiology/American Heart Association. Draft statements were iteratively refined and approved by the Society of Vascular and Interventional Neurology Guidelines and Practice Standards Quality Committee for adherence to internal standards and endorsed by the Society of Vascular and Interventional Neurology Board of Directors. Evidence was derived from randomized trials, multicenter registries, cohort studies, post hoc analyses, and meta-analyses addressing diagnostic features, first-line thrombectomy strategies, and adjunctive therapies in ICAS-LVO. Both stent retriever and direct aspiration approaches are acceptable initial strategies; however, durable recanalization is only achieved in about half of patients. Adjunctive use of intravenous or intra-arterial glycoprotein IIb/IIIa inhibitors, balloon angioplasty, and rescue stenting has demonstrated improved recanalization rates and favorable functional outcomes in observational studies, without increased hemorrhagic complications. However, the quality of evidence remains weak. A summary of recommendations is provided to guide practice in common procedural scenarios. This Brief Practice Update provides evidence-based and expert consensus recommendations for the diagnosis and endovascular treatment of ICAS-LVO. Management should be individualized by incorporating the clinical presentation, imaging characteristics, and operator expertise. While adjunctive therapy may be beneficial in select cases, high-quality randomized trials are needed to define optimal strategies and establish standardized algorithms for this challenging stroke subtype.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42974351/"
+  },
+  {
+    "pmid": "42967054",
+    "title": "Beyond Blood-Brain Barrier Crossing in Reperfusion-Era Ischemic Stroke: Interface-Matched Active-Entity Delivery and Translational Product Design.",
+    "journal": "International journal of nanomedicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1001/jamaneurol.2024.1562",
+    "abstract": "Reperfusion therapy has transformed acute ischemic stroke care, yet large-vessel recanalization does not ensure capillary reperfusion, preservation of the blood-brain barrier and neurovascular unit (BBB/NVU), or durable neurological recovery. Nanomedicine is still commonly judged by BBB crossing or ischemic-hemisphere accumulation, although vascular access, tissue viability, transport phenotype, thromboinflammation, and standard treatment change rapidly during the lifetime of a formulation. This narrative review proposes a conceptual framework that matches the reperfusion state and pathological interface to the compartment in which the therapeutically active entity must act. The framework is intended to organize preclinical evidence and generate testable translational hypotheses; it has not yet been clinically validated. Persistent occlusion may favor intravascular targets, whereas recanalization with no-reflow creates a distinct microvascular delivery problem. Early reperfusion injury may prioritize BBB/NVU stabilization, while later biological contexts may require selective immune, regenerative, or organelle-directed interventions. These contexts may coexist spatially, vary across vascular territories, and shift during treatment; they should therefore not be interpreted as a mandatory chronological sequence. We distinguish BBB crossing, controlled barrier modulation, and BBB/NVU repair as separate therapeutic tasks, and introduce transport attrition as a practical explanation for why sequential targeting, transcytosis, cellular uptake, endosomal escape, and organelle localization can yield little final active-entity exposure despite strong tissue imaging. Recent predominantly preclinical examples illustrate how thrombus-targeted rtPA systems, neutrophil-intercepting particles, NET-degrading polymersomes, lesion-targeted nanoplatforms, and mitochondrial nanomedicines may fit different delivery topologies. Translational credibility requires topology-resolved exposure, target engagement in viable tissue, hemocompatibility under antithrombotic treatment, state-appropriate models, function-linked manufacturing controls, and compatibility with thrombolysis and thrombectomy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42967054/"
+  },
+  {
+    "pmid": "42924239",
+    "title": "Precision medicine for futile recanalization after mechanical thrombectomy in acute ischemic stroke: mechanisms, diagnostics, and tailored therapies.",
+    "journal": "Frontiers in neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1186/s10020-024-00828-5",
+    "abstract": "Mechanical thrombectomy has substantially improved outcomes in appropriately selected patients with acute ischemic stroke, yet futile recanalization remains a major clinical challenge. Futile recanalization describes poor functional recovery despite technically successful macrovascular reperfusion, underscoring the incomplete relationship between angiographic reperfusion and tissue-level or microvascular perfusion. This narrative review summarizes current clinical, mechanistic, and translational evidence on the determinants of futile recanalization and evaluates emerging precision-medicine approaches to its prevention and management. Precision imaging has established a role in tissue-based patient selection, and recent randomized trials have expanded thrombectomy evidence to selected patients with large-core infarction. In contrast, current randomized evidence does not support routine endovascular treatment for unselected medium-vessel occlusion populations. We further examine bridging therapy versus direct mechanical thrombectomy, individualized periprocedural management, biomarkers, and decision support based on artificial intelligence. Clinical and imaging phenotypes may provide prognostic or mechanistic information, but no phenotype-based strategy has been prospectively validated to select bridging therapy or direct thrombectomy. Biomarkers currently remain primarily prognostic or exploratory. Artificial intelligence applications are largely focused on diagnostic and prognostic support. treatment-benefit prediction, by contrast, requires evidence of treatment-effect modification and prospective validation. Experimental studies of microvascular no-reflow and thrombo-inflammation provide biological rationale for targeted interventions but do not establish clinical efficacy. Future research should integrate multimodal imaging, biological profiling, and validated decision-support tools to move beyond angiographic success toward individualized strategies focused on tissue integrity and meaningful functional recovery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42924239/"
+  },
+  {
+    "pmid": "42901796",
+    "title": "[Ethical Issues in Mechanical Thrombectomy for Acute Ischemic Stroke].",
+    "journal": "No shinkei geka. Neurological surgery",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "English Abstract"
+    ],
+    "doi": "10.11477/mf.030126030540051066",
+    "abstract": "Mechanical thrombectomy (MT) has become the standard treatment for acute ischemic stroke (AIS) caused by large vessel occlusion, and its indications have expanded substantially over the past decade. Recent randomized controlled trials (RCTs) have extended eligibility to patients presenting in extended time windows, those with large ischemic cores, and other populations previously considered unsuitable for intervention. However, the expansion of MT indications has also raised important ethical challenges. Patients with AIS often lack decision-making capacity, requiring physicians to balance respect for patient autonomy with the principles of beneficence, nonmaleficence, and justice under severe time constraints. Moreover, RCTs have enrolled highly selected populations, and evidence remains limited for many patients encountered in clinical practice. This review discusses ethical issues related to MT across clinical contexts involving treatment beyond conventional time windows, large ischemic cores, medium or distal vessel occlusions, futile recanalization, active malignancy, and prestroke disability. Representative cases illustrate situations in which ethical considerations extend beyond guideline recommendations. Whenever possible, treatment decisions should incorporate each patient's premorbid functional status, values, anticipated quality of life, procedural risks, and expected neurological recovery. Continued evidence generation in understudied populations will be essential to support the ethically sound, patient-centered application of MT.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901796/"
+  },
+  {
+    "pmid": "42901789",
+    "title": "[Intravenous Thrombolysis for Acute Ischemic Stroke: Current Evidence and Perspectives].",
+    "journal": "No shinkei geka. Neurological surgery",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "English Abstract"
+    ],
+    "doi": "10.11477/mf.030126030540050996",
+    "abstract": "Since its introduction, intravenous thrombolysis (IVT) with alteplase has remained a mainstay of reperfusion therapy in the hyperacute management of acute ischemic stroke (AIS). Recent clinical evidence has driven a major paradigm shift from a strictly \"time-based\" approach to a \"tissue-based\" approach. Advanced neuroimaging techniques, including diffusion-weighted imaging-fluid-attenuated inversion recovery (DWI-FLAIR mismatch) and perfusion mismatch analyses, have enabled extension of the treatment window beyond 4.5 h and treatment of patients with strokes of unknown onset, particularly benefiting those who are ineligible for endovascular thrombectomy (EVT). Furthermore, the treatment criteria have been refined to recommend IVT for disabling deficits regardless of the baseline stroke severity score while withholding it from patients with minor, nondisabling presentations. An emerging challenge in clinical practice is determining whether IVT should be contraindicated in patients receiving novel amyloid-targeting therapies for Alzheimer's disease. Meanwhile, prehospital protocols involving mobile stroke units (MSUs) may help reduce onset-to-needle time in selected regions. IVT continues to evolve through personalized patient selection aimed at maximizing safety and improving functional outcomes.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901789/"
+  },
+  {
+    "pmid": "42901788",
+    "title": "[Acute-Phase Medical Treatment:Treatment to \"Reduce\" the Risk of Symptom Worsening].",
+    "journal": "No shinkei geka. Neurological surgery",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "English Abstract",
+      "Review"
+    ],
+    "doi": "10.11477/mf.030126030540050988",
+    "abstract": "Acute medical management after acute ischemic stroke (AIS) is often perceived as a supportive or conservative treatment, following decisions regarding intravenous thrombolysis and mechanical thrombectomy. However, it should be regarded as an active strategy to reduce the risk of neurological deterioration and support subsequent recovery. Acute medical treatment can be divided into two components: prevention of recurrent stroke or infarct expansion, and prevention of systemic complications that may delay recovery. This approach mainly aims at preventing early neurological deterioration (END), a clinically important but variably defined phenomenon associated with poor functional outcomes. Estimating the risk of END at admission using the clinical background, comorbidities, frailty, stroke mechanism, vascular imaging, and infarct distribution guides treatment intensity and monitoring. In patients with non-cardioembolic AIS with a high risk of END, antithrombotic strategies, including prasugrel and argatroban, may be considered while balancing the risk of bleeding. Recent randomized trials support earlier initiation of direct oral anticoagulants in selected patients with cardioembolic stroke. General medical care, including hemodynamic management, mobilization, swallowing assessment, and nutrition, is essential to prevent deterioration and promote recovery.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901788/"
+  }
+]
