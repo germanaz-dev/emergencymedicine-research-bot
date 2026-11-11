@@ -45,8 +45,8 @@
     "axis": "vulnerable_populations"
   },
   "dyspnea_ed": {
-    "last_seen": "2026-10-06",
-    "times_reviewed": 3,
+    "last_seen": "2026-11-11",
+    "times_reviewed": 4,
     "axis": "cardinal_symptoms"
   },
   "pocus_shock": {
