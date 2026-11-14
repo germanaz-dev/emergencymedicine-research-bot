@@ -1,0 +1,587 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: undifferentiated shock in emergency medicine
+
+PAPERS RECUPERADOS DE PUBMED:
+No se recuperaron resultados relevantes de PubMed.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Vasopressor and Inotrope Use in Canadian Emergency Departments: Evidence Based Consensus Guidelines | Canadian Journal of Emergency Medicine | Cambridge Core
+URL: https://www.cambridge.org/core/journals/canadian-journal-of-emergency-medicine/article/vasopressor-and-inotrope-use-in-canadian-emergency-departments-evidence-based-consensus-guidelines/B638E796A5FCF04EEC72FA539F0A20BE
+Score: 0.7570767
+
+Texto:
+## Login Alert
+
+Menu links
+
+![](https://static.cambridge.org/covers/CEM_0_0_0/canadian-journal-of-emergency-medicine.jpg)
+
+## Article contents
+
+# Vasopressor and Inotrope Use in Canadian Emergency Departments: Evidence Based Consensus Guidelines
+
+Published online by Cambridge University Press:  **05 March 2015**
+
+![](data:image/svg+xml,%3csvg%20width='11'%20height='6'%20viewBox='0%200%2011%206'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M5.50006%206C5.32846%206%205.16398%205.93339%205.04252%205.81501L0.189448%201.0778C-0.0631763%200.831257%20-0.0631763%200.431452%200.18961%200.184908C0.442396%20-0.061636%200.852062%20-0.061636%201.10452%200.184908L5.50006%204.47575L9.8956%200.184908C10.1482%20-0.061636%2010.5579%20-0.061636%2010.8105%200.184908C11.0631%200.431452%2011.0631%200.8311%2010.8107%201.0778L5.9576%205.81501C5.83614%205.93339%205.67166%206%205.50006%206Z'%20fill='%23707070'/%3e%3c/svg%3e)
+![](data:image/svg+xml,%3csvg%20width='11'%20height='6'%20viewBox='0%200%2011%206'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M5.50006%206C5.32846%206%205.16398%205.93339%205.04252%205.81501L0.189448%201.0778C-0.0631763%200.831257%20-0.0631763%200.431452%200.18961%200.184908C0.442396%20-0.061636%200.852062%20-0.061636%201.10452%200.184908L5.50006%204.47575L9.8956%200.184908C10.1482%20-0.061636%2010.5579%20-0.061636%2010.8105%200.184908C11.0631%200.431452%2011.0631%200.8311%2010.8107%201.0778L5.9576%205.81501C5.83614%205.93339%205.67166%206%205.50006%206Z'%20fill='%23707070'/%3e%3c/svg%3e)
+![](/core/page-component/save-pdf-icon.cjNGlHhD.svg)
+![](/core/page-component/pdf-download-icon.DZ-WgbBg.svg)
+![](/core/page-component/pdf-download-icon.DZ-WgbBg.svg)
+![](data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='UTF-8'?%3e%3csvg%20width='34px'%20height='34px'%20viewBox='0%200%2034%2034'%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3ctitle%3e600CE05C-914F-45CF-A397-E5E6C1A72E10%3c/title%3e%3cg%20id='Stylesheet'%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%3e%3cg%20transform='translate(-1130.000000,%20-796.000000)'%20id='BUTTONS'%3e%3cg%20transform='translate(100.000000,%20597.000000)'%3e%3cg%20id='Dropbox-icon'%20transform='translate(1031.000000,%20200.000000)'%3e%3ccircle%20id='Oval'%20stroke='%23595959'%20cx='16'%20cy='16'%20r='16'%3e%3c/circle%3e%3cpath%20d='M16.0132946,18.6511508%20L20.5549528,22.4198056%20L22.4982149,21.1510765%20L22.4982149,22.5733099%20L16.0132946,26.4623643%20L9.52816336,22.5733099%20L9.52816336,21.1510765%20L11.4716363,22.4198056%20L16.0132946,18.6511508%20Z%20M9.47485861,13.8086411%20L15.9998419,17.8379158%20L11.4716785,21.6177461%20L5.00004217,17.3923741%20L9.47485861,13.8086411%20Z%20M22.5251836,13.8086833%20L27,17.3924162%20L20.5283637,21.6177883%20L15.9997786,17.837958%20L22.5251836,13.8086833%20Z%20M11.4716363,6%20L15.9997997,9.77961948%20L9.47481643,13.8086833%20L5,10.2253721%20L11.4716363,6%20Z%20M20.5283004,6%20L26.9999367,10.2253721%20L22.5251203,13.8086833%20L15.9997153,9.77961948%20L20.5283004,6%20Z'%20id='Combined-Shape'%20fill='%23595959'%3e%3c/path%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/svg%3e)
+![](data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='UTF-8'?%3e%3csvg%20width='34px'%20height='34px'%20viewBox='0%200%2034%2034'%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3ctitle%3e7938129F-4B2C-4A92-94CA-7F800692E4C2%3c/title%3e%3cg%20id='Stylesheet'%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%3e%3cg%20transform='translate(-1174.000000,%20-796.000000)'%20id='BUTTONS'%3e%3cg%20transform='translate(100.000000,%20597.000000)'%3e%3cg%20id='Google-Drive-icon'%20transform='translate(1075.000000,%20200.000000)'%3e%3ccircle%20id='Oval'%20stroke='%23595959'%20cx='16'%20cy='16'%20r='16'%3e%3c/circle%3e%3cpath%20d='M12.8518394,6%20L19.240753,18.6315789%20L25.5370016,18.6315789%20L19.148088,6%20L12.8518394,6%20Z%20M6,19.6842105%20L9.14814243,26%20L15.2592061,13.8947368%20L12.0185076,7.57894737%20L6,19.6842105%20Z%20M13.8703198,19.6842105%20L10.7222136,26%20L22.8517849,26%20L26,19.6842105%20L13.8703198,19.6842105%20Z'%20id='Fill-1'%20fill='%23595959'%3e%3c/path%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/svg%3e)
+![](data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='UTF-8'?%3e%3csvg%20width='34px'%20height='34px'%20viewBox='0%200%2034%2034'%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3ctitle%3eDB8F8373-4111-493B-B4C2-BF91610CACC1%3c/title%3e%3cg%20id='Stylesheet'%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%3e%3cg%20transform='translate(-1218.000000,%20-796.000000)'%20id='BUTTONS'%3e%3cg%20transform='translate(100.000000,%20597.000000)'%3e%3cg%20id='Kindle-icon'%20transform='translate(1119.000000,%20200.000000)'%3e%3ccircle%20id='Oval'%20stroke='%23595959'%20cx='16'%20cy='16'%20r='16'%3e%3c/circle%3e%3cpolygon%20id='Fill-1'%20fill='%23595959'%20points='10%204%2010%2028%2012.5228967%2028%2012.5228967%2020.3673464%2019.2184173%2028%2022.574173%2028%2014.6493525%2018.9664774%2021.5777405%2012.0400883%2018.1403645%2011.9088297%2012.5228967%2017.5256312%2012.5228967%204'%3e%3c/polygon%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/svg%3e)
+![](data:image/svg+xml,%3c?xml%20version='1.0'%20encoding='UTF-8'?%3e%3csvg%20width='19px'%20height='19px'%20viewBox='0%200%2019%2019'%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'%20xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3ctitle%3eC463FD83-D33A-4C98-8D4A-06A081DCC473%3c/title%3e%3cg%20id='Stylesheet'%20stroke='none'%20stroke-width='1'%20fill='none'%20fill-rule='evenodd'%3e%3cg%20transform='translate(-1038.000000,%20-804.000000)'%20fill-rule='nonzero'%20id='BUTTONS'%20stroke='%23006FCA'%3e%3cg%20transform='translate(100.000000,%20597.000000)'%3e%3cg%20id='close-x'
+
+--- FUENTE WEB ---
+Título: The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion | International Journal of Emergency Medicine | Springer Nature Link
+URL: https://link.springer.com/article/10.1186/s12245-024-00660-y
+Score: 0.7037531
+
+Texto:
+Advertisement
+
+![Advertisement](//pubads.g.doubleclick.net/gampad/ad?iu=/270604982/springerlink/12245/article&sz=728x90&pos=top&articleid=s12245-024-00660-y)
+![Springer Nature Link](/oscar-static/images/darwin/header/img/logo-springer-nature-link-05805fde18.svg)
+
+# The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion
+
+You have full access to this open access article
+
+![](https://media.springernature.com/w72/springer-static/cover-hires/journal/12245?as=webp)
+
+45k Accesses
+
+12 Citations
+
+232 
+Altmetric
+
+[Explore all metrics](/article/10.1186/s12245-024-00660-y/metrics)
+
+## Abstract
+
+Acute circulatory shock is a life-threatening emergency requiring an efficient and timely management plan, which varies according to shock etiology and pathophysiology. Specific guidelines have been developed for each type of shock; however, there is a need for a clear timeline to promptly implement initial life-saving interventions during the early phase of shock recognition and management. A simple, easily memorable bundle of interventions could facilitate standardized management with clear targets and specified timeline. The authors propose the “MINUTES” acronym which summarizes essential interventions which should be performed within the first 30 min following shock recognition. All the interventions in the MINUTES bundle are suitable for any patient with undifferentiated shock. In addition to the acronym, we suggest a timeline for each step, balancing the feasibility and urgency of each intervention. The MINUTES acronym includes seven sequential steps which should be performed in the first 30 min following shock recognition: **M**aintain “ABCs”, **IN**fuse vasopressors and/or fluids (to support hemodynamic/perfusion) and **IN**vestigate with simple blood tests, **U**ltrasound to detect the type of shock, **T**reat the underlying **E**tiology, and **S**tabilize organ perfusion.
+
+## Ask a research question
+
+Get related insights from Springer Nature content.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-981-95-0179-3?as=webp)
+
+### [Approach to Shock in the ICU](https://link.springer.com/chapter/10.1007/978-981-95-0179-3_61?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-032-29397-8?as=webp)
+
+### [Shock Types: Overview of Physiology, and Management](https://link.springer.com/chapter/10.1007/978-3-032-29397-8_52?fromPaywallRec=false)
+
+![](https://media.springernature.com/w92h120/springer-static/cover-hires/book/978-3-319-98497-1?as=webp)
+
+### [Management of Shock](https://link.springer.com/chapter/10.1007/978-3-319-98497-1_175?fromPaywallRec=false)
+
+### Explore related subjects
+
+## Background
+
+Acute circulatory shock is a life-threatening and highly time-sensitive emergency [[1](/article/10.1186/s12245-024-00660-y#ref-CR1 "Brunauer A, Koköfer A, Bataar O, Gradwohl-Matis I, Dankl D, Dünser MW. The arterial blood pressure associated with terminal cardiovascular collapse in critically ill patients: a retrospective cohort study. Crit Care. 2014;18:719. 
+                  https://doi.org/10.1186/s13054-014-0719-2
+                  
+                ")]. For its acute nature, circulatory shock is usually managed by frontline physicians, who are, sometimes, of limited knowledge and experience. Moreover, they may work in limited resource settings. Hence, having a clear, timely, easily memorizable approach may facilitate their performance and finally improve patient’s management.
+
+According to the type of shock, clinical guidelines have been developed and are regularly updated to optimize patient’s management. Once the specific diagnosis of shock has been made, evidence-based management for each type (e.g., septic, hemorrhagic, cardiogenic shock) is well established by international guidelines [[2](#ref-CR2 "Evans L, Rhodes A, Alhazzani W, Antonelli M, Coopersmith CM, French C, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive Care Med. 2021;47:1181–247. 
+                  https://doi.org/10.1007/s00134-021-06506-y
+                  
+                "),[3](#ref-CR3 "ACC/AHA Joint Committee. Management of Heart Failure Guideline Hub. 2022 AHA ACC HFSA Guideline for the management of heart failure. J Am Coll Cardiol. 2022;79:1–167. 
+                  https://doi.org/10.1016/j.jacc.2021.12.012
+                  
+                . 
+                  https://www.jacc.org/doi/pdf/
+                  
+                "),[4](#ref-CR4 "Kietaibl S, Ahmed A, Afshari A, Albaladejo P, Aldecoa C, Barauskas G et al. Management of severe peri-operative bleeding: Guidelines from the European Society of Anaesthesiology and Intensive Care: Second update 2022. 2023."),[5](#ref-CR5 "Konstantinides SV, Meyer G, Becattini C, Bueno H, Geersing G-J, Harjola V-P, et al. 2019 ESC guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): the Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of. Eur Respir J. 2019;54. 
+                  https://doi.org/10.1183/13993003.01647-2019
+                  
+                "),[6](/article/10.1186/s12245-024-00660-y#ref-CR6 "Rossaint R, Afshari A, Bouillon B, Cerny V, Cimpoesu D, Curry N, et al. The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition. Crit Care. 2023;27:1–45. 
+                  https://doi.org/10.1186/s13054-023-04327-7
+                  
+                ")]. However, it is critical to minimize the time between shock recognition and initiation of shock- or disease-specific therapies. Currently, specific recommendations for the management of shock due to any etiology in the initial few minutes are lacking.
+
+All physicians, especially junior staff, may benefit
+
+--- FUENTE WEB ---
+Título: The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11270766
+Score: 0.6709318
+
+Texto:
+# The MINUTES bundle for the initial 30 min management of undifferentiated circulatory shock: an expert opinion
+
+Ahmed Hasanin, Filippo Sanfilippo, Martin W Dünser, Hassan M Ahmed, Laurent Zieleskiewicz, Sheila Nainan Myatra, Maha Mostafa
+
+International Journal of Emergency Medicine · 2024-07-25 · 17:96 · DOI: 10.1186/s12245-024-00660-y · PMID: 39054461 · PMCID: PMC11270766
+
+## Abstract
+
+Acute circulatory shock is a life-threatening emergency requiring an efficient and timely management plan, which varies according to shock etiology and pathophysiology. Specific guidelines have been developed for each type of shock; however, there is a need for a clear timeline to promptly implement initial life-saving interventions during the early phase of shock recognition and management. A simple, easily memorable bundle of interventions could facilitate standardized management with clear targets and specified timeline. The authors propose the “MINUTES” acronym which summarizes essential interventions which should be performed within the first 30 min following shock recognition. All the interventions in the MINUTES bundle are suitable for any patient with undifferentiated shock. In addition to the acronym, we suggest a timeline for each step, balancing the feasibility and urgency of each intervention. The MINUTES acronym includes seven sequential steps which should be performed in the first 30 min following shock recognition: Maintain “ABCs”, INfuse vasopressors and/or fluids (to support hemodynamic/perfusion) and INvestigate with simple blood tests, Ultrasound to detect the type of shock, Treat the underlying Etiology, and Stabilize organ perfusion.
+
+## Keywords
+
+Shock, Ultrasound, Vasopressors, Fluids, Norepinephrine, Hypotension, Congestion
+
+## Background
+
+Acute circulatory shock is a life-threatening and highly time-sensitive emergency [1]. For its acute nature, circulatory shock is usually managed by frontline physicians, who are, sometimes, of limited knowledge and experience. Moreover, they may work in limited resource settings. Hence, having a clear, timely, easily memorizable approach may facilitate their performance and finally improve patient’s management.
+
+According to the type of shock, clinical guidelines have been developed and are regularly updated to optimize patient’s management. Once the specific diagnosis of shock has been made, evidence-based management for each type (e.g., septic, hemorrhagic, cardiogenic shock) is well established by international guidelines [2–6]. However, it is critical to minimize the time between shock recognition and initiation of shock- or disease-specific therapies. Currently, specific recommendations for the management of shock due to any etiology in the initial few minutes are lacking.
+
+All physicians, especially junior staff, may benefit from a common pathway to manage patients with undifferentiated shock during the first minutes. Such a common pathway should be applicable to all patients, independently of what type of shock is subsequently diagnosed. In case of rapid clinical deterioration, it is widely accepted that provision of basic and advanced life support must be the first priority [7]. However, it is unclear how these first steps should be implemented, specifically regarding their timing and order.
+
+The aim of this review is to propose a simplified bundle for the initial management of patients with undifferentiated shock. Based on pathophysiological knowledge and scientific evidence, the expert panel suggests an acronym that could help acute care physicians in this task by applying a bundle of sequential interventions. The acronym “MINUTES” was intentionally selected to summarize not only the most important and initial actions but also to focus on the importance of a timely and sequential approach for the main supportive and diagnostic steps. We believe that under most circumstances, the bundle can be accomplished within the first 30 min after shock recognition.
+
+## Do the current guidelines cover the early phase of shock adequately?
+
+Despite the presence of dedicated guidelines for several types of shock, most of these represent recommendations in separate statements without specific order of interventions nor a timeframe for achieving each management step [2–6]. For instance, the Surviving Sepsis Campaign considers several interventions according to different sections (hemodynamic, infection, initial resuscitation, etc.), but a timely approach is not present for all interventions. Moreover, actions should be undertaken to stabilize the patient and decrease mortality and morbidity before the cause of shock is recognized.
+
+Indeed, several guidelines focus on the management of the cause of shock. A summary of the existing guidelines for different types of circulatory shock and the recommendations of its initial management is shown in Table 1. Considering the identified potential gap in clinically-oriented guidelines for the initial management of undifferentiated shock, the expert panel thinks that more attention is required towards common major supportive steps. We think that the proposed first management steps should be implemented independently from the cause of shock and before diagnosis is made, in order to reduce the period of “under-perfusion” and organ damage. Notably, the expert panel also suggests a timeframe for the accomplishment of each phase.
+
+**Table 1** · Guidelines for different types of circulatory shock and recommendations to be implemented within the first 30 min
+
+|  | Latest guidelines | Recommendations to be implemented within the first 30–60 min |
+|---|---|---|
+| Septic shock | Surviving sepsis campaign 2021 [2] | Measure lactate levels.Obtain blood cultures before administering antibiotics.Administer broad-spectrum antibiotics.Begin to rapidly administer 30 ml/kg crystalloid for hypotension or lactate ≥ 4 mmol/L. |
+| Cardiogenic shock | American Heart Association 2022 [3] | No specific timeline recommendations |
+| Hypovol
+
+--- FUENTE WEB ---
+Título: Guideline of the Week - by Emergency Medicine Update
+URL: https://diarmaidmcmenamin.substack.com/p/guideline-of-the-week-010
+Score: 0.6657367
+
+Texto:
+# [EM Update](/)
+
+# Guideline of the Week
+
+### Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026 — SCCM/ESICM (March 2026)
+
+[Emergency Medicine Update](https://substack.com/@emupdate)
+
+Photo by [National Institute of Allergy and Infectious Diseases](https://unsplash.com/@niaid) on [Unsplash](https://unsplash.com)
+
+[Link To Paper](https://link.springer.com/article/10.1007/s00134-026-08361-1)
+
+The bag of 0.9% saline. The qSOFA score on the whiteboard. The three-hour antibiotic target on every sepsis proforma. You’ve done this hundreds of times.
+
+The Surviving Sepsis Campaign just told us to reconsider all of it.
+
+Published March 2026, the SSC’s latest adult guidelines are the most substantial update since 2021 — 129 statements, 46 of them brand new, published simultaneously in Intensive Care Medicine and Critical Care Medicine and endorsed by 24 professional societies. The nuances that have shifted will affect your next shift.
+
+---
+
+## Why Was This Guideline Produced?
+
+Sepsis kills approximately 50,000 people a year in the UK. The 2021 SSC guidelines moved away from rigid bundle targets, but five years of new evidence in fluid strategy, antibiotic optimisation, vasopressor timing, and screening tool performance had accumulated — applied inconsistently. The 2026 update sets out to convert conditional suggestions into definitive recommendations. Areas that stayed soft in 2021 — balanced crystalloids, prolonged beta-lactam infusions, peripheral vasopressor initiation — have been re-examined and, where evidence supports it, upgraded.
+
+---
+
+## New Guideline or Update? What’s Changed?
+
+This is a major update, not a new document. The headline changes: balanced crystalloids are now recommended over 0.9% saline; prolonged beta-lactam infusions are now a recommendation rather than a suggestion; NEWS or NEWS2 is formally endorsed over qSOFA for screening; peripheral vasopressors are explicitly supported; antibiotic timing is stratified by severity; and MAP targets are age-stratified for the first time. These formalise what the evidence has been pointing toward for years. The significance is that they change how protocols are written, how trainees are taught, and how audit standards are set.
+
+---
+
+## The Top 10 Clinical Points
+
+**1. Switch to balanced crystalloids — and mean it**
+
+For adults with sepsis or septic shock, balanced crystalloids (Hartmann’s, Plasma-Lyte) are now formally recommended over 0.9% saline. Normal saline causes hyperchloraemic acidosis, impairs renal tubular function, and carries a measurable mortality cost. The SMART trial sepsis subgroup showed 31.2% vs 26.3% in-hospital mortality in favour of balanced crystalloids. Audit your department’s default resuscitation fluid.
+
+**2. Tiered antibiotic timing: 1 hour for shock, 3 hours for sepsis**
+
+For septic shock: antimicrobials immediately, ideally within one hour of recognition. For sepsis without shock: within three hours. For low clinical suspicion with no haemodynamic compromise, deferral pending further workup is now supported. This deliberately moves away from a blanket one-hour target for all patients — a change designed to reduce empiric over-prescribing in undifferentiated presentations.
+
+**3. Prolong your beta-lactam infusions**
+
+Extended or continuous infusion of beta-lactams is now a recommendation for maintenance dosing after an initial loading dose. The pharmacokinetic rationale is time-dependent killing: sustained drug levels above MIC outperform bolus dosing. The BLING III trial was neutral on 90-day mortality but showed improved clinical cure; a subsequent meta-analysis confirmed a mortality benefit. The science supports the upgrade even if BLING III alone wouldn’t have made the case.
+
+**4. De-escalate when cultures come back**
+
+Antimicrobial de-escalation based on confirmed microbiological diagnosis has been upgraded from suggestion to recommendation. Broad empirical therapy maintained beyond culture return is no longer the safe default. Stewardship is patient safety — and it’s now stated as such.
+
+**5. Start vasopressors peripherally — don’t wait for central access**
+
+In adults with septic shock, initiate noradrenaline peripherally rather than delaying MAP restoration until a central line is in. Use a large peripheral vein at or proximal to the antecubital fossa. Extravasation rate in the relevant systematic review was 3.4%. The risk of delayed MAP restoration exceeds that. This is what good resus teams already do — it’s now formally endorsed.
+
+**6. NEWS2 over qSOFA for screening**
+
+The guidelines formally recommend NEWS, NEWS2, MEWS, or SIRS over qSOFA as a sole screening tool. qSOFA has poor sensitivity — a study of 36,000 ED patients showed NEWS >5 sensitivity of 86% vs 34% for qSOFA ≥2. For UK practice, this changes nothing operationally since NEWS2 is already embedded in NHS workflows. But it formally closes the door on qSOFA and validates current UK practice.
+
+**7. Lower MAP targets in patients aged 65 and over**
+
+An initial MAP target of 60–65 mmHg is now suggested over the standard ≥65 mmHg in older patients with septic shock. The 65 trial showed no increase in 90-day mortality with permissive hypotension in this group, with lower vasopressor doses and no additional adverse events. Automatic titration to ≥65 mmHg in elderly patients is now evidence-poor — individualise the target.
+
+**8. Use dynamic measures to guide fluid resuscitation**
+
+Passive leg raise, pulse pressure variation, and formal fluid challenge are recommended over static measures such as CVP. CVP as a resuscitation guide has been functionally abandoned at the evidence level for a decade. Its continued use as a primary decision tool is now indefensible.
+
+**9. Plan for fluid removal after resuscitation**
+
+This is a new topic area. Once haemodynamically stable, active fluid removal — via diuresis or ultrafiltration — should be planned, not passively awaited. Positive fluid balance is an independe
+
+--- FUENTE WEB ---
+Título: Diagnosis And Management Of Shock In The Emergency Department
+URL: https://www.cmua.nl/cmua/Inwerken_files/0314%20Shock.pdf
+Score: 0.6550051
+
+Texto:
+M arch 2014 V olum e 16, Num ber 3 Authors Jeremy B. Richards, MD, MA Division of Pulmonary, Critical Care, and Sleep Medicine, Beth Israel Deaconess Medical Center, Boston, MA Susan R. Wilcox, MD Department of Anesthesia, Critical Care, and Pain Medicine, Massachusetts General Hospital, Boston, MA Peer Reviewers Rachel Garvin, MD Assistant Professor, Neurosurgery and Emergency Medicine, University of Texas Health Science Center, San Antonio, San Antonio, TX Scott D. Weingart, MD, FCCM Associate Professor of Emergency Medicine, Director, Division of ED Critical Care, Icahn School of Medicine at Mount Sinai, New York, NY CME Objectives Upon completion of this article, you should be able to: 1. Analyze available clinical data to be able to distinguish between the distinct pathophysiologic mechanisms that cause shock. 2. Describe and apply the initial resuscitative and therapeutic steps in the management of a patient presenting with undifferentiated shock. 3. Compare and contrast focused therapeutic interventions for the distinct pathophysiologic categories of shock. 4. Discuss the evidence-based clinical approach to hemorrhagic shock due to trauma.
+Prior to beginning this activity, see “Physician CME Information” on the back page.
+Diagnosis And M anagem ent Of Shock In The Em ergency Departm ent Abstract Shock is a state of acute circulatory failure leading to decreased organ perfusion, with inadequate delivery of oxygenated blood to tissues and resultant end-organ dysfunction. The mechanisms that can result in shock are divided into 4 categories: (1) hypovolemic, (2) distribu­ tive, (3) cardiogenic, and (4) obstructive. While much is known re­ garding treatment of patients in shock, several controversies continue in the literature. Assessment begins with identifying the need for critical interventions such as intubation, mechanical ventilation, or obtaining vascular access. Prompt workup should be initiated with laboratory testing (especially of serum lactate levels) and imaging, as indicated. Determining the intravascular volume status of patients in shock is critical and aids in categorizing and informing treatment decisions. This issue reviews the 4 primary categories of shock as well as special categories, including shock in pregnancy, traumatic shock, septic shock, and cardiogenic shock in myocardial infarction. Adher­ ence to evidence-based care of the specific causes of shock can opti­ mize a patient’s chances of surviving this life-threatening condition.
+Editor-In-Chief Andy Jagoda, MD, FACEP Professor and Chair, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, Medical Director, Mount Sinai Hospital, New York, NY Associate Editor-In-Chief Kaushal Shah, MD, FACEP Associate Professor, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Editorial Board William J. Brady, MD Professor of Emergency Medicine and Medicine, Chair, Medical Emergency Response Committee, Medical Director, Emergency Management, University of Virginia Medical Center, Charlottesville, VA Peter DeBlieux, MD Professor of Clinical Medicine, Interim Public Hospital Director of Emergency Medicine Services, Louisiana State University Health Science Center, New Orleans, LA Francis M. Fesmire, MD, FACEP Professor and Director of Clinical Research, Department of Emergency Medicine, UT College of Medicine, Chattanooga; Director of Chest Pain Center, Erlanger Medical Center, Chattanooga, TN Nicholas Genes, MD, PhD Assistant Professor, Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New York, NY Michael A. Gibbs, MD, FACEP Professor and Chair, Department of Emergency Medicine, Carolinas Medical Center, University of North Carolina School of Medicine, Chapel Hill, NC Steven A. Godwin, MD, FACEP Professor and Chair, Department of Emergency Medicine, Assistant Dean, Simulation Education, University of Florida COM-Jacksonville, Jacksonville, FL Gregory L. Henry, MD, FACEP Clinical Professor, Department of Emergency Medicine, University of Michigan Medical School; CEO, Medical Practice Risk Assessment, Inc., Ann Arbor, MI John M. Howell, MD, FACEP Clinical Professor of Emergency Medicine, George Washington University, Washington, DC; Director of Academic Affairs, Best Practices, Inc, Inova Fairfax Hospital, Falls Church, VA Shkelzen Hoxhaj, MD, MPH, MBA Chief of Emergency Medicine, Baylor College of Medicine, Houston, TX Eric Legome, MD Chief of Emergency Medicine, King’s County Hospital; Professor of Clinical Emergency Medicine, SUNY Downstate College of Medicine, Brooklyn, NY Keith A. Marill, MD Research Faculty, Depatment of Emergency Medicine, University of Pittsburgh Medical Center, Pittsburgh, PA Charles V. Pollack, Jr., MA, MD, FACEP Professor and Chair, Department of Emergency Medicine, Pennsylvania Hospital, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA Michael S. Radeos, MD, MPH Assistant Professor of Emergency Medicine, Weill Medical College of Cornell University, New York; Research Director, Department of Emergency Medicine, New York Hospital Queens, Flushing, NY Ali S. Raja, MD, MBA, MPH Director of Network Operations and Business Development, Department of Emergency Medicine, Brigham and Women’s Hospital; Assistant Professor, Harvard Medical School, Boston, MA Robert L. Rogers, MD, FACEP, FAAEM, FACP Assistant Professor of Emergency Medicine, The University of Maryland School of Medicine, Baltimore, MD Alfred Sacchetti, MD, FACEP Assistant Clinical Professor, Department of Emergency Medicine, Thomas Jefferson University, Philadelphia, PA Robert Schiller, MD Chair, Department of Family Medicine, Beth Israel Medical Center; Senior Faculty, Family Medicine and Community Health, Icahn School of Medicine at Mount Sinai, New York, NY Scott Silvers, MD, FACEP Chair, Department of Emergency Medicine, Mayo Clinic, Jacksonville, FL Corey M. Slovis, MD, FACP, FACEP Professor and Chair, Department of Emergency M
+
+--- FUENTE WEB ---
+Título: SHoC-ED – The Bottom Line
+URL: https://www.thebottomline.org.uk/summaries/em/shoc-ed
+Score: 0.6178009
+
+Texto:
+[Skip to content](#content)
+
+* [Twitter](http://twitter.com/WICSbottomline)
+* [Google+](https://plus.google.com/101541170118503923680/posts)
+* [Facebook](https://www.facebook.com/wicsthebottomline)
+* [Reddit](https://www.reddit.com/user/wicsthebottomline)
+* [RSS](http://www.thebottomline.org.uk/feed/)
+
+[The Bottom Line](https://www.thebottomline.org.uk/)
+
+A compendium of critical appraisals in Intensive Care Medicine research and related specialties
+
+![The Bottom Line](https://www.thebottomline.org.uk/wp-content/uploads/2016/02/tbl2-logo-on-line-in-the-rain.jpg)
+
+# SHoC-ED
+
+[Segun Olusanya](https://www.thebottomline.org.uk/author/segunolusanya/ "View all posts by Segun Olusanya")  [Emergency Medicine](https://www.thebottomline.org.uk/category/summaries/em/)   [4 comments](https://www.thebottomline.org.uk/summaries/em/shoc-ed/#comments)
+
+# Does Point-of-Care Ultrasonography Improve Clinical Outcomes in Emergency Department Patients With Undifferentiated Hypotension? An International Randomized Controlled Trial From the SHoC-ED Investigators
+
+Atkinson RP. Ann Em Med (Ahead of print). DOI: https://doi.org/10.1016/j.annemergmed.2018.04.002
+
+### Clinical Question
+
+* In selected non-trauma patients presenting to the Emergency Department (ED) with undifferentiated hypotension, does a standardised point-of-care ultrasound protocol, compared with usual care, improve 30 day or hospital survival?
+
+### Background
+
+* Patients with undifferentiated shock are a diagnostic challenge in the emergency department, with an increased mortality
+* Point-of-care ultrasound (POCUS) is currently being used to diagnose numerous pathologies in the emergency department
+* Single centre studies and case series incorporating POCUS into the management of shock have shown an improvement in both diagnostic accuracy and mortality, with ultrasound directing changes in management in up to 50% of patients (such as [this trial by Volpicelli](https://www.ncbi.nlm.nih.gov/pubmed/23584471))
+* There have been no multicentre prospective randomised control trials of POCUS in shock in the emergency department
+
+### Design
+
+* Multicentre randomised control trial
+* Non-blinded
+* All centres had accredited EM physicians and active POCUS programmes
+* Scans performed either by physicians who had demonstrated training and competence in POCUS, or by residents supervised by those physicians
+* Competencies required for scanning agreed by investigators before initiation of study
+* Physicians from North America visited the South African sites to ensure comparable competency standards and vice versa
+* Patient selection was a convenience sample of eligible patients when appropriately trained staff were available in ED
+* Randomised convenience-sampling blocks performed by site, using computer-generated randomisation into 100 sealed envelopes- 50 POCUS, 50 control
+* Sealed envelopes ensured allocation concealment
+* Randomisation secured by having pre-randomised sequentially numbered envelopes, matched for size and weight
+* To provide 80% power to detect a 10% difference in primary outcome at alpha= 0.05, sample size of 400 required
+  + assuming baseline mortality of 30% in group
+
+### Setting
+
+* 6 Centres
+  + 3 in North America (all tertiary referral/treatment centres)
+  + 3 in South Africa (1 tertiary centre, one large regional hospital, one large district hospital)
+* September 2012-December 2016
+
+### Population
+
+* Inclusion:
+  + Age 19 or over
+  + Sustained systolic BP <100mmHg OR
+  + Shock index (systolic BP/HR) of >1.0 (with systolic BP <120)
+* Exclusion:
+  + Pregnancy
+  + Necessity of CPR before screening or enrolment
+  + History of significant trauma in last 24 hours
+  + 12 lead ECG diagnostic of myocardial infarction
+  + Clear evident mechanism for shock identifiable by clinician
+  + Previously known diagnosis from another hospital
+  + Vagal episode
+  + Non-pathological low blood pressure
+* 347 patients assessed, 273 patients enrolled (138 POCUS, 135 Control)
+  + terminated at interim analysis due to slow recruitment and futility
+* 3 patients lost to follow up
+* Similar baseline characteristics, with a slight male preponderance in the POCUS group (73% vs 65%)
+* There were significant differences in final diagnoses in the North American and South African cohorts:
+  + Much more sepsis in South African than in North American group (71% vs 42%)
+  + More severe dehydration in North America vs South Africa( 20% vs 3%)
+
+### Intervention
+
+* POCUS protocol, combining core elements of Abdominal and Cardiothoracic Evaluation with Sonography in Shock (ACES) and Rapid Ultrasound in Shock and Hypotension (RUSH) protocols
+* Performed within 60 minutes of patient visit, after normal physician clinical assessment
+* Documented on standardised form
+* Views:
+  + Cardiac views: PLAX, PSAX, Apical and Subcostal to assess LV/RV function, size and presence of pericardial effusion
+  + Lung views: Base of lung thoracic scans looking for lung sliding and pleural effusions
+  + Abdominal views: RUQ, LUQ, and pelvic views for free fluid and bladder size; Abdominal aorta for AAA; IVC for size and collapsibility
+
+### Control
+
+* Normal physician clinical assessment
+
+#### Management common to both groups
+
+* Secondary clinical assessment performed by physician 60 minutes after primary assessment
+
+### Outcome
+
+* Primary outcome: no significant difference in either 30 day or hospital discharge survival
+  + - POCUS: 104/136= 76.5% (95% CI 68.4%-83.3%)
+    - Control: 102/134= 76.1% (95% CI 68.0- 83.1%)
+      * Difference = 0.35%, 95% CI= -10.2 -11.1%
+      * Analysis by site showed a higher mortality in South African sites but still no significant benefit from POCUS
+* Secondary outcomes: no significant differences seen between POCUS and control in:
+  + Median volumes of fluid administered (median= 1609ml vs 1683 ml)
+  + Hospital admission rates (81% vs 83%)
+  + Rates of inotrope administration (12% vs 9%)
+  + Rates of CT scanning (26% vs 24%)
+  + ICU admission rates  (18% vs 14%)
+ 
+
+--- FUENTE WEB ---
+Título: An Approach to Undifferentiated Shock and Hypotension - CanadiEM
+URL: https://canadiem.org/approach-to-undifferentiated-shock-and-hypotension
+Score: 0.5883571
+
+Texto:
+[Skip to content](#x-main)
+
+* [## CanadiEM MVP Infographic Series
+
+  Alvin Chin Featured, Infographics August 7, 2019](https://canadiem.org/canadiem-mvp-infographic-series/)
+* [## HiQuiPs (Quality Improvement)
+
+  Ahmed Taher Education & Quality Improvement, HiQuiPs July 10, 2018](https://canadiem.org/hiquips/)
+* [## CRACKCast
+
+  Adam Thomas CRACKCast, Podcast August 11, 2016](https://canadiem.org/crackcast/)
+* [## The ‘Top Five Changes’ Project: 2015 AHA guidelines on CPR + ECC update infographic series
+
+  Blair Bigham Infographics, Knowledge Translation October 22, 2015](https://canadiem.org/the-top-five-changes-project-2015-aha-guidelines-update-cpr-ecc-infographic-series/)
+* [## CaRMS Guide
+
+  Brent Thoma CaRMS Guide, Mentorship January 1, 2015](https://canadiem.org/carms-guide/)
+* [## Basic Airway Assessment: It’s as easy as… 1-2-3?
+
+  Rob Woods Medical Concepts August 4, 2014](https://canadiem.org/basic-airway-assessment-easy-1-2-3/)
+
+[Facebook](https://www.facebook.com/CanadiEM/ "Facebook")[X](https://twitter.com/WeAreCanadiEM "X")[LinkedIn](https://www.linkedin.com/groups/8458253 "LinkedIn")[RSS](http://feeds.feedburner.com/CanadiEM "RSS")
+
+[![CanadiEM](//canadiem.org/wp-content/uploads/2016/01/CanadiEM-300x120.png)](https://canadiem.org/)  [Navigation](#) 
+
+* [About](https://canadiem.org/about/)
+  + [Editorial Board](https://canadiem.org/about/editorial-board/)
+  + [Disclaimer](https://canadiem.org/about/disclaimer-copyright/)
+  + [Terms of Use Agreement](https://canadiem.org/about/terms-of-use-agreement/)
+  + [Privacy Policy](https://canadiem.org/privacy-policy/)
+* [Content](https://canadiem.org/category/all/)
+  + [Education & QI](https://canadiem.org/category/all/education-quality-improvement/)
+    - [Great Evidence in MedEd (GEMeS)](https://canadiem.org/category/all/education-quality-improvement/gemes/)
+    - [Featured Education Innovations (FEI)](https://canadiem.org/category/all/education-quality-improvement/fei/)
+    - [FLOW Hacks](https://canadiem.org/category/all/education-quality-improvement/flow-hacks/)
+    - [Mentorship](https://canadiem.org/category/all/education-quality-improvement/mentorship/)
+    - [TipsForEMExams](https://canadiem.org/category/all/education-quality-improvement/mentorship/tipsforemexams/)
+    - [CaRMS Guide](https://canadiem.org/carms-guide/)
+  + [Medical Concepts](https://canadiem.org/category/all/medical/)
+    - [Chalk Talks](https://canadiem.org/category/all/medical/chalk-talks/)
+    - [Clinical Questions](https://canadiem.org/category/all/medical/clinical-questions/)
+    - [Infographics](https://canadiem.org/category/all/medical/infographics/)
+    - [Knowledge Translation](https://canadiem.org/category/all/medical/knowledge-translation/)
+    - [Tiny Tips](https://canadiem.org/category/all/medical/tiny-tip/)
+  + [Podcast](https://canadiem.org/category/podcast/)
+    - [CRACKCast](https://canadiem.org/category/podcast/crackcast/)
+    - [Physicians as Humans](https://canadiem.org/category/podcast/physicians-as-humans/)
+  + [Opinion & Arts](https://canadiem.org/category/all/opinion/)
+    - [Commentary](https://canadiem.org/category/all/opinion/commentary/)
+    - [Counterpoint](https://canadiem.org/category/all/opinion/counterpoint/)
+    - [Editorial](https://canadiem.org/category/all/opinion/editorial/)
+    - [Arts PRN Gallery](https://canadiem.org/arts-prn-gallery/)
+* [Submissions](https://canadiem.org/submissions/)
+  + [General Submissions](https://canadiem.org/submissions/)
+  + [Arts PRN Project](https://canadiem.org/arts-prn-project/)
+* [Search](#)
+
+![Undifferentiated shock](https://canadiem.org/wp-content/uploads/2024/09/Shock-1-864x329.png)
+
+# An Approach to Undifferentiated Shock and Hypotension
+
+In  [Medical Concepts](https://canadiem.org/category/all/medical/ "View all posts in: “Medical Concepts\”") by Mackenzie MacAuley[Leave a Comment](https://canadiem.org/approach-to-undifferentiated-shock-and-hypotension/#respond "Leave a comment on: “An Approach to Undifferentiated Shock and Hypotension\”")
+
+### Background
+
+Shock is a state of **cellular** and **tissue hypoxia** caused by reduced oxygen delivery or increased oxygen consumption. We tend to use the patients systolic blood pressure (SBP) as our main diagnostic test for shock as it is readily available and simple to assess. Therefore, patients with a SBP of **90 mmHg or less** are considered to be in **shock** **until proven otherwise**. Caution should be noted for special populations such as pediatrics, geriatrics or hypertensive patients who have different cut-offs for acceptable blood pressures. In these cases, consider other indicators of poor perfusion such as the **Shock Index (SI)**, which is a ratio of heart rate to SBP.​1​ This is especially useful when those you suspect are in shock present with normal triage vitals. With mortality from shock exceeding 50% in certain cases it is vital that medical trainees be able to recognize, formulate an approach to and identify the possible underlying etiologies for undifferentiated shock.
+
+### Presentation
+
+While shock can take on many forms, there are certain easily identifiable clues to look out for while in the emergency room. Patients which could be in shock, or at risk of, may be **ill appearing** or have an **altered mental status (AMS)**. They will likely be **tachypneic** with a respiratory rate >20, **tachycardic** at >100 bpm and have **decreased urine output** defined as less than 0.5 mL/kg per hour. However, the strongest predictors of patient outcomes and the most accurate indicators of tissue hypoperfusion are the arterial base deficit and lactate.​2​ Simply put, the less oxygen our tissues receive, the more anerobic respiration takes place and the more lactic acid is produced. To compensate our body uses up more bicarbonate to buffer the increasing lactic acid which in turn lowers the base deficit. Therefore, patients with a **dropping bicarbonate** or **increasing lactate** are at serious risk of circulatory insufficiency wi
+
+--- FUENTE WEB ---
+Título: Undifferentiated shock - WikEM
+URL: https://wikem.org/wiki/Undifferentiated_shock
+Score: 0.5706903
+
+Texto:
+[Skip to content](#content)
+
+[![WikEM home](/w/skins/Wikem/img/logo.jpg)](/wiki/Main_Page) 
+
+[![Harbor-UCLA Department of Emergency Medicine](/w/skins/Wikem/img/harbor-ucla-logo.jpg) Foundational  
+Sponsor](//emedharbor.edu)
+
+* [More](#)
+* [Page](/wiki/Undifferentiated_shock "View the content page [c]")
+* [Discussion](/w/index.php?title=Talk:Undifferentiated_shock&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+* [Read](/wiki/Undifferentiated_shock)
+* [View source](/w/index.php?title=Undifferentiated_shock&action=edit "This page is protected.
+  You can view its source [e]")
+* [View history](/w/index.php?title=Undifferentiated_shock&action=history "Past revisions of this page [h]")
+
+* [Create account](/wiki/Special:CreateAccount)
+* [Log in](/wiki/Special:UserLogin)
+
+[![WikEM home](/w/skins/Wikem/img/logo-mobile.png)](/wiki/Main_Page)
+
+We heard you. **Our native WikEM app is back!** Download from your app store now ([iOS](http://apps.apple.com/us/app/wikem/id576405449) and [Android](https://play.google.com/store/apps/details?id=wikem.chris)).
+
+English
+
+[Polski](/wiki/Undifferentiated_shock/pl)[Tiếng Việt](/wiki/Undifferentiated_shock/vi)
+
+# Undifferentiated shock
+
+This page is for adult patients. For pediatric patients, see: undifferentiated shock
+
+## Contents
+
+* [1 Overview](#Overview)
+* [2 Undifferentiated Hypotension Algorithm[2]](#Undifferentiated_Hypotension_Algorithm[2])
+* [3 Differential Diagnosis](#Differential_Diagnosis)
+  + [3.1 Shock](#Shock)
+* [4 Evaluation](#Evaluation)
+  + [4.1 Shock index (SI)[3]](#Shock_index_(SI)[3])
+  + [4.2 Consider RUSH to CVS](#Consider_RUSH_to_CVS)
+* [5 Management](#Management)
+  + [5.1 Vasopressors](#Vasopressors)
+  + [5.2 Causes of non-response to vasopressors[13]](#Causes_of_non-response_to_vasopressors[13])
+* [6 Disposition](#Disposition)
+* [7 See Also](#See_Also)
+* [8 Calculators](#Calculators)
+  + [8.1 Shock Index](#Shock_Index)
+  + [8.2 Mean Arterial Pressure (MAP)](#Mean_Arterial_Pressure_(MAP))
+* [9 External Links](#External_Links)
+* [10 References](#References)
+* [11 Videos](#Videos)
+
+## Overview
+
+* Inadequate perfusion of the tissues
+* Goal to increase the flow of oxygenated blood to the tissues
+* MAP<50 in dog studies brain will become ischemic and patients might presents as an altered mental status [[1]](#cite_note-1)
+
+## Undifferentiated [Hypotension](/wiki/Hypotension "Hypotension") Algorithm[[2]](#cite_note-2)
+
+Check/manage the following in order:
+
+[![](https://us-southeast-1.linodeobjects.com/wikem-images/images/thumb/Hypotension.png/300px-Hypotension.png)](/wiki/File:Hypotension.png)
+
+Algorithm for the Evaluation of [Hypotension](/wiki/Hypotension "Hypotension")(By Dr. Ravi Morchi)
+
+* Pulse (assess based on patient's age)
+  + Too [slow](/wiki/Bradycardia "Bradycardia") or too [fast](/wiki/Tachycardia "Tachycardia") (to the point where CO is affected)?
+    - If so, HR is likely primary etiology of hypotension
+    - Pace or cardiovert
+* Volume status
+  + What is the LV end-diastolic volume?
+    - Approximated by the [IVC diameter](/wiki/IVC_ultrasound "IVC ultrasound") or CVP
+    - If low:
+      * Assess for [blood](/wiki/Hemorrhage "Hemorrhage") loss versus [fluid loss](/wiki/Hypovolemia "Hypovolemia")
+        + [FAST](/wiki/FAST_exam "FAST exam") for intra-abdominal bleed
+        + US for ruptured [AAA](/wiki/Aortic_ultrasound "Aortic ultrasound")
+        + Guaiac for [GI bleed](/wiki/GI_bleed "GI bleed")
+        + [CXR](/wiki/CXR "CXR") for [hemothorax](/wiki/Hemothorax "Hemothorax")
+      * Treat with [IVF](/wiki/IVF "IVF") and/or [pRBCs](/wiki/PRBCs "PRBCs") depending on cause
+* Contractility
+  + Is the myocardium severely depressed in its contractile function ([cardiogenic shock](/wiki/Cardiogenic_shock "Cardiogenic shock"))?
+    - Assess via [ultrasound](/wiki/Ultrasound:_In_Shock_and_Hypotension "Ultrasound: In Shock and Hypotension")
+    - Treat with inotrope (e.g. [epinephrine](/wiki/Epinephrine "Epinephrine"), [dopamine](/wiki/Dopamine "Dopamine")
+  + Is forward flow occurring?
+    - Assess for valvular dysfunction ([MR](/wiki/Mitral_regurgitation "Mitral regurgitation"), [AR](/wiki/Aortic_regurgitation "Aortic regurgitation"))
+    - Assess for obstruction ([PE](/wiki/PE "PE"), [tamponade](/wiki/Tamponade "Tamponade"))
+* Systemic Vascular Resistance
+  + Pathologic vasodilation (decreased SVR) suggested by:
+    - Warm extremities
+    - Bounding pulse
+  + Treated based on likely etiology of distributive shock (see below)
+
+## Differential Diagnosis
+
+### [Shock](/wiki/Shock "Shock")
+
+* [Cardiogenic](/wiki/Cardiogenic_shock "Cardiogenic shock")
+  + [Acute valvular Regurgitation](/wiki/Valvular_emergencies "Valvular emergencies")/VSD
+  + [CHF](/wiki/CHF "CHF")
+  + [Dysrhythmia](/wiki/Dysrhythmia "Dysrhythmia")
+  + [ACS](/wiki/ACS "ACS")
+  + [Myocardial Contusion](/wiki/Myocardial_Contusion "Myocardial Contusion")
+  + [Myocarditis](/wiki/Myocarditis "Myocarditis")
+  + Drug toxicity (e.g. [beta blocker](/wiki/Beta_blocker_toxicity "Beta blocker toxicity"), [CCB](/wiki/Calcium_channel_blocker_toxicity "Calcium channel blocker toxicity"), or [bupropion OD](/wiki/Bupropion_toxicity "Bupropion toxicity"))
+* Obstructive
+  + [Air embolism](/wiki/Air_embolism "Air embolism")
+  + [Aortic Stenosis](/wiki/Aortic_Stenosis "Aortic Stenosis")
+  + [Cardiac Tamponade](/wiki/Cardiac_Tamponade "Cardiac Tamponade")
+  + [PE](/wiki/PE "PE")
+  + [Tension pneumothorax](/wiki/Tension_pneumothorax "Tension pneumothorax")
+* Distributive
+  + [Adrenal crisis](/wiki/Adrenal_crisis "Adrenal crisis")
+  + [Anaphylaxis](/wiki/Anaphylaxis "Anaphylaxis")
+  + [Neurogenic shock](/wiki/Neurogenic_shock "Neurogenic shock")
+  + [Sepsis](/wiki/Sepsis "Sepsis")
+  + [Toxicologic](/wiki/Toxicology_(Main) "Toxicology (Main)")
+* Hypovolemic
+  + Severe [dehydration](/wiki/Dehydration "Dehydration")
+  + [Hemorrhagic shock](/wiki/Hemorrhagic_shock "Hemorrhagic shock") (traumatic and non-traumatic)
+
+## Evaluation
+
+### [Shock index](/wiki/Shock_
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
