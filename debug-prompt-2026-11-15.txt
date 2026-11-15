@@ -1,0 +1,557 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: sepsis early recognition in the emergency department
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Rural Pathologies: A Late Presentation Special.
+Revista: Emergency medicine Australasia : EMA
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42956713
+DOI: 10.1111/1742-6723.70381
+URL: https://pubmed.ncbi.nlm.nih.gov/42956713/
+
+Abstract:
+Patients in rural and remote Australia often present later and with more advanced disease compared to major and regional cities. Drawing on experience as a junior doctor in the Cape and in rural emergency departments, this article explores how geographic isolation, limited resources, health literacy challenges and inequities in access shape these presentations. Cases include a critically unwell patient managed overnight in a makeshift intensive care bay when weather delayed retrieval, a family of young children with Norwegian Scabies, and a partial finger amputation complicated by weekend staffing shortages. The article reviews Australian evidence on sepsis, scabies and its link to rheumatic heart disease and trauma outcomes, all of which tend to be more challenging to manage. Timely care in rural and remote communities depends on early recognition, clear communication and close collaboration between rural generalists, FACEMs, retrieval services and specialist teams.
+
+--- PAPER PUBMED ---
+Título: Spleen Tyrosine Kinase in Malignancies and Sepsis: Pathophysiological Roles and Biomarker Potential-A Narrative Review.
+Revista: Biomolecules
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42939783
+DOI: 10.3390/biomedicines14061271
+URL: https://pubmed.ncbi.nlm.nih.gov/42939783/
+
+Abstract:
+Spleen tyrosine kinase is a non-receptor tyrosine kinase that couples receptor engagement to cellular survival, immune responses, and tissue injury. This narrative review compares its biology in malignancies and sepsis to examine how cellular compartment, receptor architecture, activation state, and signaling duration alter the meaning of a common signaling hub. A structured narrative search of PubMed/MEDLINE, Scopus, and Web of Science covered English-language publications from January 2000 to August 2026, supplemented by older seminal studies. In several hematological malignancies, sustained receptor signaling or oncogenic cooperation supports malignant-cell persistence; solid tumors show both tumor-promoting and tumor-suppressive functions. In sepsis, dynamically changing immune and vascular responses link spleen tyrosine kinase to pathogen recognition, inflammatory and oxidative responses, endothelial dysfunction, and organ injury. Oncology includes mechanistic studies, human cohorts, and early clinical therapeutic trials, whereas sepsis evidence remains predominantly experimental, with limited human observational and ex vivo validation. Transcript abundance, total protein, and phosphorylation are distinct biomarker endpoints whose interpretation requires identification of the cellular source and sampling context. Kinase inhibitors have shown clinical activity in selected malignancies and protection in experimental sepsis, but these findings do not establish a validated predictive biomarker or clinical efficacy in sepsis. Translation requires disease-specific validation, standardized cellular assessment, and attention to treatment timing and preservation of host defense.
+
+--- PAPER PUBMED ---
+Título: Septic shock in the era of precision medicine: rethinking fluids, vasopressors, and immunomodulation.
+Revista: Frontiers in medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42846226
+DOI: 10.1186/s13054-024-05020-z
+URL: https://pubmed.ncbi.nlm.nih.gov/42846226/
+
+Abstract:
+Septic shock remains a high-mortality syndrome despite advances in early recognition, antimicrobial therapy, source control, and protocolized resuscitation. A major limitation of current practice is that septic shock is often managed as a single clinical entity, whereas patients meeting the same diagnostic criteria may differ substantially in hemodynamic phenotype, endothelial injury, microcirculatory function, immune state, coagulation activation, fluid tolerance, and vasopressor responsiveness. These differences help explain why biologically plausible therapies frequently fail when tested in unselected populations. This narrative review synthesizes evidence supporting a precision-oriented approach to septic shock across three therapeutic domains-fluid therapy, vasopressor support, and immunomodulation-supported by two cross-cutting precision layers: biological phenotyping and bedside precision tools. We distinguish bedside clinical phenotypes from biological endotypes and explain how this framework can refine resuscitation decisions. Fluid therapy is reframed as a titrated intervention requiring assessment of both fluid responsiveness and fluid tolerance. Vasopressor therapy is discussed beyond a uniform mean arterial pressure target, with emphasis on timing, agent selection, tissue perfusion, and individualized weaning. Immune, endothelial, and coagulation phenotyping are presented as biological bridges between bedside physiology and targeted therapy, while immunomodulation is considered a promising but still investigational frontier requiring patient stratification. Finally, we propose a pragmatic precision-resuscitation framework that integrates lactate kinetics, capillary refill time, point-of-care ultrasound, congestion assessment, and immune/endothelial biomarkers where available. Precision care should not delay time-critical sepsis interventions; rather, it should mature protocolized management into a dynamic process of early treatment, repeated reassessment, and phenotype-directed adjustment.
+
+--- PAPER PUBMED ---
+Título: Contemporary Evidence on Interhospital Neonatal Transport as a Potentially Sepsis-Relevant Care Interval: A Scoping Review.
+Revista: Medicina (Kaunas, Lithuania)
+Fecha: 2026
+Tipo: Scoping Review, Journal Article
+PMID: 42796359
+DOI: 10.3390/children12040423
+URL: https://pubmed.ncbi.nlm.nih.gov/42796359/
+
+Abstract:
+Background and Objectives: Neonatal sepsis is time-sensitive, yet the role of interhospital transport in its early care pathway is poorly characterised. This scoping review systematically identified and classified contemporary neonatal transport variables, interventions, and organisational practices potentially relevant to early sepsis care, examined the evidentiary proximity of the available literature to neonatal sepsis, and identified priorities for direct investigation. Materials and Methods: PubMed/MEDLINE, Embase, Scopus, Web of Science, and the Cochrane Library were searched for English-language, peer-reviewed reports published from 1 January 2020 to 30 June 2026. Google Scholar, an academic search engine, and backward citation searching supplemented the database search. Two reviewers independently screened records; a third author charted data using a predefined matrix. Findings were reported according to PRISMA-ScR and synthesised descriptively because the mapping question and non-comparable concepts and outcomes did not support a pooled estimate. Results: Thirty-nine sources of evidence were included. They covered system organisation; respiratory and procedural stabilisation; haemodynamic, metabolic, and thermal management; medication and fluid use; adverse events; environmental exposures; and communication. Evidence was predominantly indirect: 24 sources were classified as indirect clinical, seven as indirect organisational, four as indirect technical, one as indirect experiential, and three as direct transport-process/indirect sepsis-outcome evidence. Few reports addressed infection-related processes, and none established that a transport intervention independently improved sepsis-specific outcomes. Antimicrobial timing, culture status, perfusion trajectories, and structured sepsis handover were rarely reported. Conclusions: Contemporary neonatal transport research identifies measurable care processes that may matter when sepsis is suspected, but the sepsis-specific effect of transport remains unproven. Prospective multicentre studies should directly link transport-phase processes with infection-defined populations and outcomes.
+
+--- PAPER PUBMED ---
+Título: Serum Cystatin C as an Early Predictive Biomarker for Acute Kidney Injury (AKI) in Neonates: A PRISMA-DTA Systematic Review.
+Revista: Children (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42794222
+DOI: 10.3389/fped.2023.1270200
+URL: https://pubmed.ncbi.nlm.nih.gov/42794222/
+
+Abstract:
+Acute kidney injury (AKI) affects 12-40% of critically ill newborns and significantly increases mortality risk. Diagnosis currently relies on serum creatinine (sCr), which rises only after substantial renal damage, so early biomarkers are needed in this vulnerable population. Serum cystatin C (sCysC) is a candidate because it is produced at a constant rate by all nucleated cells. The study aimed to investigate the diagnostic performance of sCysC for early detection of neonatal AKI. This systematic review followed the PRISMA-DTA guidelines and is registered with PROSPERO (CRD420261302574). We searched four databases for studies measuring sCysC in neonates (0-28 days) with validated assays and creatinine-based AKI definitions as the reference standard. Studies were categorized by sampling timing as concurrent diagnostic or early predictive, and appraised with QUADAS-2 and QUIPS, respectively. Thirteen studies were included. In the early predictive group, sCysC was elevated at scheduled timepoints preceding creatinine-defined AKI, with AUC values of 0.670-1.000. The concurrent diagnostic studies reported sensitivities of 84.8-88.5%, specificities of 61.8-75.0%, and AUC values of 0.844-0.849. Reported cut-offs ranged from 0.60 to 2.87 mg/L, with one sepsis-associated AKI study reporting 9.4 mg/L. sCysC is a promising adjunctive biomarker whose earlier elevation may support earlier recognition of neonatal AKI. Standardized assays and validated population-specific thresholds are required before routine clinical use.
+
+--- PAPER PUBMED ---
+Título: Prehospital Administration of Antibiotics for Patients with Suspected Severe Infection: A Systematic Review and Meta Analysis.
+Revista: Antibiotics (Basel, Switzerland)
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42792005
+DOI: 10.1186/1471-2288-14-135
+URL: https://pubmed.ncbi.nlm.nih.gov/42792005/
+
+Abstract:
+Background: Sepsis is a time-sensitive, serious condition; therefore, early recognition and prompt initiation of therapy are critical to improving outcomes in patients with infection. We sought to evaluate whether prehospital antibiotic administration (PHAA) is associated with improved outcomes in patients with suspected severe sepsis. Methods: We conducted a systematic review and meta-analysis. This review was conducted in accordance with the PRISMA guidelines, and the protocol was developed a priori and registered with the International Prospective Register of Systematic Reviews (PROSPERO). PubMed, Embase, Cochrane, and Scopus were searched from inception through January 2026. Randomized controlled trials (RCTs) and observational studies evaluating empirical PHAA compared with the standard of care were included. The risk of bias and certainty of evidence were assessed. Outcomes included short- and long-term mortality, hospital length of stay (HLOS), and intensive care unit (ICU) admission. Sensitivity analyses were performed. Results: Eleven studies recruiting 23,146 patients were included (three RCTs and eight observational studies). Restricting the short-term mortality analysis to RCTs alone showed no mortality benefit with PHAA (RR 0.96, 95% CI 0.74-1.23), whereas the broader, observational-dominated pooled analysis suggested a possible reduction in short-term mortality (RR 0.84, 95% CI 0.68-1.02, I2 = 51.0%), reaching statistical significance when restricted to the adult sepsis/septic shock population (RR 0.82, 95% CI 0.69-0.99, I2 = 18.5%). No significant difference in short-term mortality was observed in the exploratory subgroup analysis of two high-severity studies (RR 0.89, 95% CI 0.67-1.18). There were no significant long-term mortality differences in the observational and RCT studies (RR 0.86, 95% CI 0.71-1.04 and RR 1.09, 95% CI 0.76-1.54, respectively). Patients who received PHAA had no significantly different ICU admissions (RR 1.12, 95% CI 0.95-1.33) or HLOS (MD -1.79 days, 95% CI -6.05 to 2.47). Even though individual studies showed no significant difference, pooled HLOS was significantly higher with PHAA for the RCT subgroup (MD 0.66, 95% CI 0.42-0.90, I2 = 0.00%) after conversion of median to mean values (for better statistical compatibility). Conclusions: PHAA was not associated with a significant reduction in short-term mortality, though a significant reduction was observed when restricted to adult sepsis/septic shock population. No mortality benefit was found in pooled RCTs, mixed-age population studies, or long-term mortality. Observational studies suggest a possible mortality benefit, whereas randomized evidence does not confirm it. This discrepancy may reflect confounding by indication, patient selection, severity, and differences in EMS systems rather than a true treatment effect. The certainty of evidence remains very low, and data on prehospital antibiotic type, blood culture, and infection severity are lacking. Therefore, high-quality prospective RCTs are warranted.
+
+--- PAPER PUBMED ---
+Título: Evolving landscape of paediatric sepsis: progress, gaps and the next generation of tools.
+Revista: Archives of disease in childhood
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42727989
+DOI: 10.1136/archdischild-2026-331272
+URL: https://pubmed.ncbi.nlm.nih.gov/42727989/
+
+Abstract:
+Paediatric sepsis remains a major cause of childhood mortality worldwide, despite substantial changes in its epidemiology, definitions and management over the past two decades. Progress has come from sharper criteria centred on organ dysfunction, prevention through vaccination and more nuanced bedside management. The Phoenix Sepsis Criteria have moved paediatric sepsis away from inflammation-based definitions towards life-threatening organ dysfunction, while conjugate vaccine programmes have reshaped the population of children presenting with invasive bacterial infection. Contemporary guidance also increasingly stratifies treatment by severity, reflecting a shift away from uniform bundles applied to all.Important gaps remain. Many paediatric sepsis deaths still occur within the first 24 hours of referral to intensive care, suggesting that outcomes are often determined before paediatric intensive care unit admission. Early recognition remains difficult: screening tools perform imperfectly in unselected febrile children, biomarkers remain adjuncts, and clinicians still rely on gestalt and parental concern. Sepsis is also heterogeneous, spanning children with different pathogens, host factors and immune responses.Future progress is likely to depend on risk stratification rather than universal screening. Machine learning may make early recognition more reproducible, while phenotype-informed approaches may support trials targeted to biologically meaningful subgroups. Both require prospective validation before routine use.
+
+--- PAPER PUBMED ---
+Título: Interventions to improve early recognition and management of sepsis in emergency departments: A systematic review and meta-analysis.
+Revista: Intensive & critical care nursing
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42705021
+DOI: 10.1016/j.iccn.2026.104517
+URL: https://pubmed.ncbi.nlm.nih.gov/42705021/
+
+Abstract:
+Timely recognition and management of sepsis in emergency departments (ED) is critical to improving patient outcomes. We conducted a systematic review and meta-analysis to evaluate the impact of targeted interventions on sepsis care in ED. Studies published between 2001 and 2024 were included if they assessed interventions to improve sepsis recognition and/or management. Risk of bias was assessed using the ROBINS-I quality appraisal tools by Cochrane. Our primary outcome was the posterior probability of any intervention effect, using a Bayesian approach. Outcomes of interest included rates of compliance with sepsis guidelines, patient mortality, and time to administration of intravenous antibiotics and fluids. Both frequentist and Bayesian meta-analyses were performed, and heterogeneity was assessed using the I2 statistic. Fifty-six studies were included; all were before-and-after designs, except a single randomised controlled trial. Bayesian analyses estimated a posterior probability >99% of any improvement in compliance, and a posterior probability of 97% of any mortality reduction, in the context of sceptical priors, for targeted sepsis interventions. Pooled random-effects showed higher compliance during intervention periods (Risk Ratios(RR) =1.71, 95% Confidence Intervals(CI) 1.39-2.15; I2 = 93%) and lower mortality (RR =0.80, 95% CI 0.73-0.86; I2 = 46%), when compared to non-intervention periods. Time to treatment was also estimated to be reduced for antibiotics administration (Mean Difference (MD) = -32.5 min, 95% CI -44.7 to -20.2) and fluid administration (MD = -20.4 min, 95% CI -37.6 to -3.1). Posterior probabilities suggested a 90% likelihood of any time reduction, though estimates of reduced antibiotic times were sensitive to analysis that accounted for risk-of-bias assumptions. Targeted ED interventions improve compliance with sepsis guidelines and reduce mortality. While gains in treatment timeliness were modest, likely reflecting prioritisation of sicker patients, evidence supports multimodal, context-specific strategies strengthening early sepsis management. Given heterogeneity of studies, future research should evaluate specific intervention components in well-designed, adequately powered randomised controlled trials. PROSPERO ID: CRD42024560232.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Clinical Practice Guideline for Early Identification of Sepsis in the Emergency
+URL: https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=12623&context=dissertations
+Score: 0.81242126
+
+Texto:
+Walden University Walden University 
+
+# ScholarWorks ScholarWorks 
+
+Walden Dissertations and Doctoral Studies  Walden Dissertations and Doctoral Studies 
+
+Collection 
+
+2021 
+
+# Clinical Practice Guideline for Early Identification of Sepsis in the Clinical Practice Guideline for Early Identification of Sepsis in the 
+
+# Emergency Emergency 
+
+Delta Williams Walden University 
+
+Follow this and additional works at:  https://scholarworks.waldenu.edu/dissertations 
+
+Part of the  Nursing Commons 
+
+This Dissertation is brought to you for free and open access by the Walden Dissertations and Doctoral Studies 
+
+Collection at ScholarWorks. It has been accepted for inclusion in Walden Dissertations and Doctoral Studies by an 
+
+authorized administrator of ScholarWorks. For more information, please contact  ScholarWorks@waldenu.edu .Walden University 
+
+College of Nursing This is to certify that the doctoral study by Delta Williams has been found to be complete and satisfactory in all respects, and that any and all revisions required by the review committee have been made. Review Committee Dr. Cheryl Holly, Committee Chairperson, Nursing Faculty Dr. Camilla Jaekel, Committee Member, Nursing Faculty Dr. Jonas Nguh, University Reviewer, Nursing Faculty Chief Academic Officer and Provost Sue Subocz, Ph.D. Walden University 2021 Abstract Clinical Practice Guideline for Early Identification of Sepsis in the Emergency Department by Delta Williams MS, City University of New York, 2010 BS, University of Dundee, 2007 Project Submitted in Partial Fulfillment of the Requirements for the Degree of Doctor of Nursing Practice Walden University November 2021 Abstract Sepsis, a life-threatening condition caused by infection, is a leading cause of mortality and morbidity globally. Researchers suggest that early identification of sepsis upon admission to the emergency department (ED) can help mitigate the consequences of sepsis. The emergency department of a hospital in a large urban U.S. city has participated in the Centers for Medicare & Medicaid Services’ sepsis reporting system (SEP-1) since 2015; however, recent reports indicated below benchmark scores. As more than half of patients diagnosed with sepsis were admitted or readmitted through the ED, the purpose of this project was to develop a clinical practice guideline, informed by Rosswurm and Larrabee’s evidence-based practice model and a literature search, for use in the ED with input from an expert advisory panel using the AGREE II tool criteria across six domains. A 4-member panel member, comprised of the ED’s medical director, director of nursing, nurse manager, and an ED staff nurse unanimously recommended the use of the guideline. Domain scores ranged from 40 to 100%, with a mean of 83%. This sepsis clinical guideline scored highest in the domains of scope and purpose (100%) and clarity and presentation (95%) and applicability (83%). The domains of stakeholder involvement (40%) and editorial independence (57%) had the lowest domain scores. The overall quality assessment score was 7 based on a Likert scale ranging from 1 ( lowest possible quality ) to 7 ( highest possible quality ). In making sepsis screening a routine practice informed by a clinical guideline, nurses at the project site may be able to identify sepsis earlier in patients presenting to the ED, resulting in improved outcomes, promoting a positive social change, and increasing the SEP-1 scores .Clinical Practice Guideline for Early Identification of Sepsis in the Emergency Department by Delta Williams MS, City University of New York, 2010 BS, University of Dundee, 2007 Project Submitted in Partial Fulfillment of the Requirements for the Degree of Doctor of Nursing Practice Walden University November 2021 Dedication This project is dedicated in loving memory of a close friend Cheryl Simon, who had been a constant support of all educational endeavors and who encouraged me to pursue my Doctor of Nursing Practice. Cheryl died from sepsis-related complication. Acknowledgments To my daughter, Toya G. Robinson, and my grandson Carter, thanks for your support and patience. Toya, you always believe I can accomplish anything I attempt. Many thanks to my project mentor, Cheryl Holly, EdD, RN, ANEF, FNAP, for her encouragement, support, and guidance throughout this project. Dr. Holly, thank you for your unfailing support in keeping me on track with this project and for all the help provided. Dr. Frumenti, thank you for facilitating an excellent clinical experience. Special thanks to my manager Mary Mitchell, Sharon Simmons, and Shirley Hartley, for your support throughout this journey towards completing my DNP. Special thanks to Dr. Cheryl Etienne, Dr. Sally Francisco, and Ms. Degano for their encouragement, mentoring, and guidance throughout this project. iTable of Contents List of Tables ..................................................................................................................... iii 
+
+Section 1: Nature of the Project ...........................................................................................1 
+
+Introduction ....................................................................................................................1 
+
+Problem Statement .........................................................................................................2 
+
+Purpose...........................................................................................................................2 
+
+Nature of the Doctoral Project .......................................................................................3 
+
+Significance....................................................................................................................4 
+
+Summary ........................................................................................................................5 
+
+Section 2: Background and Context .........................................................................
+
+--- FUENTE WEB ---
+Título: Evaluation of Updated NG51 Guidelines on Early Recognition and Sepsis Outcomes in Elderly Patients
+URL: https://clinmedjournals.org/articles/ijccem/international-journal-of-critical-care-and-emergency-medicine-ijccem-11-168.php?jid=ijccem
+Score: 0.7401744
+
+Texto:
+[![logo](https://clinmedjournals.org/img/logo.png)](https://clinmedjournals.org/)
+
+[###### *International Journal of*
+
+Critical Care and Emergency Medicine](../../International-Journal-of-Critical-Care-and-Emergency-Medicine.php) ISSN: 2474-3674
+
+# Table of Contents
+
+* [Abstract](#abs)
+* [Introduction](#int)
+* [Positive Implications of NG51 Updates](#pos)
+* [Limitations of Updates](#lim)
+* [Challenges in Elderly Patients](#cha)
+* [Considerations for Future Updates](#cons)
+* [NG51 in Practice](#ng51)
+* [Conclusion and Reflections](#con)
+* [Acknowledgments](#ack)
+* [Conflicts of Interest](#conf)
+* [Tables](#tab)
+
++ - [Table 1](#tab1)
+
+* [References](#ref)
+* [Citation](#cit)
+
+# Citation
+
+Greenwold J (2025) Evaluation of Updated NG51 Guidelines on Early Recognition and Sepsis Outcomes in Elderly Patients. Int J Crit Care Emerg Med 11:168. doi.org/10.23937/2474-3674/1510168
+
+###### Review Article | OPEN ACCESS DOI: 10.23937/2474-3674/1510168
+
+# Evaluation of Updated NG51 Guidelines on Early Recognition and Sepsis Outcomes in Elderly Patients
+
+##### Jack Greenwold\*
+
+University of Bristol, United Kingdom
+
+# Abstract
+
+On 31st January 2024, NICE updated NG51, following recommendations from the Academy of Medical Royal Colleges in 2022. After years of stalling progress for sepsis outcomes, particularly in the elderly population, this guideline update seeks to address sepsis mortality rates by introducing new recommendations surrounding early administration of antibiotics, and most significantly encouraging universal use of NEWS2 to identify deterioration, aiding identification of early septic patients. This review critically examines the evidence and arguments regarding the impacts of the updated NG51 guidelines on future sepsis identification, diagnosis and outcomes. Drawing on personal observations of sepsis management in the Emergency Department, this review also includes original recommendations for potential future updates to the NG51 guidelines.
+
+# Introduction
+
+Sepsis is defined as life-threatening organ dysfunction due to an unregulated host response to infection. The Lancet Journal of Respiratory Medicine reported 245,000 sepsis cases annually in England, with a 20.3% mortality rate, responsible for more deaths than leukaemia, breast, bowel, and prostate cancer combined [[1](#ref1),[2](#ref2)]. In 2016, the National Institute for Health and Care Excellence published NICE Guidelines 51 (NG51), a protocol for recognition, early diagnosis, and management of sepsis. On 31
+st
+January 2024, NICE updated NG51, following recommendations from the Academy of Medical Royal Colleges in 2022. Specifically, the elderly population typically suffer the least favourable sepsis outcomes, with mortality in 75-79 year-olds in England increasing by 351 annual deaths from 2015-22 [[3](#ref3),[4](#ref4)]. Therefore, this update aims to address the challenges surrounding diagnosis and sepsis treatment, given early intervention has proven to significantly mitigate mortality.
+
+This academic review aims to critically evaluate the updated NG51 guidelines on early recognition and sepsis outcomes in elderly patients, analysing the impact in this vulnerable patient demographic. The 2024 NG51 update holds positive implications for sepsis outcomes, however, some limitations remain unresolved since its original publication in 2016. Given limited progress to improve outcomes in recent years, this review will propose original recommendations for research and updates for future guideline amendments.
+
+# Positive Implications of NG51 Updates
+
+The 2024 NG51 update amends important considerations involving recognising sepsis early. Firstly, whilst sepsis is typically suspected in patients recording a temperature > 39 °C or < 36 °C, some septic patients will record normal body temperature, previously including elderly patients, infants, cancer patients and severe sepsis patients. The 2024 update includes patients with spinal cord injuries, thus increasing vigilance for potential hidden cases of sepsis.
+
+NG51 includes further details informing early antibiotic treatment. Evidence highlights prescribing antibiotics within the first hour of suspecting sepsis is crucial for successful recovery. From 2024, ambulance staff should administer antibiotics if the hospital transfer time exceeds one hour and if the patient meets any high-risk criteria, minimising delayed treatment. Outlined are the high-risk criteria for patients aged > 12 years: New altered mental state, respiratory rate > 25 bpm, requiring > 40% oxygen delivery to maintain SaO
+2
+> 92% (SaO
+2
+> 88% in COPD), systolic BP < 90 mmHg (alternatively > 40 mmHg below their normal systolic pressure), heart rate > 130 bpm, no urine output in previous 18 hours, cyanosis, mottled/ashen skin.
+
+Prior to the 2024 update, research at James Paget University Hospital discovered the significance of early antibiotic administration. The trust increased the number of patients receiving antibiotics within one hour of suspecting sepsis from 63% to 87%. Subsequently, sepsis mortality decreased by 2.4% and admission length decreased by 3.3 days [[5](#ref5)]. Thus, promoting early antibiotic treatment in the updated NG51 guidelines aims to reduce mortality rates and hospitalisation, enhancing patient reintegration into society and improving outcomes.
+
+The most significant update is introducing the National Early Warning Score (NEWS2) for use in hospital, mental health and ambulance settings. Early warning scores assess patient deterioration, monitoring: temperature, heart rate, respiratory rate, oxygen saturation, blood pressure, consciousness level [[6](#ref6)].
+
+A normal parameter scores 0, whilst the maximum score of 3 for a single parameter indicates increased risk of organ dysfunction [[7](#ref7)]. NEWS2 facilitates regular vital sign monitoring, providing a visible trajectory of deterioration. Following recommendations by the Academy of Medical Royal Colleges in 2022, proposing “NEWS2 should 
+
+--- FUENTE WEB ---
+Título: Evolution of Sepsis Management in the Emergency Department: From Early Goal-Directed Therapy to Personalized Resuscitation
+URL: https://www.cureus.com/articles/509863-evolution-of-sepsis-management-in-the-emergency-department-from-early-goal-directed-therapy-to-personalized-resuscitation
+Score: 0.73411953
+
+Texto:
+## Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See our [privacy policy](https://www.cureus.com/privacy) for more information on the use of your personal data.
+
+Manage preferences for further information and to change your choices.
+
+Accept all cookies Reject optional cookies
+
+*   [Home](https://www.cureus.com/)
+*   Specialties![Image 1](https://public.cureus.com/new-nav-bar/nav-right-arrow.png)  
+
+![Image 2](https://public.cureus.com/new-nav-bar/nav-left-arrow-blue.png)Specialties 
+
+#### Browse
+
+    *   [![Image 3](https://public.cureus.com/new-nav-bar/article-icon.png)Articles](https://www.cureus.com/articles)
+    *   [![Image 4](https://public.cureus.com/new-nav-bar/poster-icon.png)Posters](https://www.cureus.com/posters)
+    *   [![Image 5](https://public.cureus.com/new-nav-bar/abstract-icon.png)Abstracts](https://www.cureus.com/abstracts)
+    *   [![Image 6: New](https://public.cureus.com/new-nav-bar/new-tag-mobile.png)![Image 7](https://public.cureus.com/new-nav-bar/collections-blue.png)Cureus Collections](https://www.cureus.com/collections)
+
+#### Specialties
+
+    *   [![Image 8](https://public.cureus.com/new-nav-bar/specialties-tab/allergy_immunology.png)Allergy / Immunology](https://allergy_immunology.cureus.com/)
+    *   [![Image 9](https://public.cureus.com/new-nav-bar/specialties-tab/anatomy.png)Anatomy](https://anatomy.cureus.com/)
+    *   [![Image 10](https://public.cureus.com/new-nav-bar/specialties-tab/anesthesiology.png)Anesthesiology](https://anesthesiology.cureus.com/)
+    *   [![Image 11](https://public.cureus.com/new-nav-bar/specialties-tab/cardiac_thoracic_vascular_surgery.png)Cardiac / Thoracic / Vascular Surgery](https://cardiac_thoracic_vascular_surgery.cureus.com/)
+    *   [![Image 12](https://public.cureus.com/new-nav-bar/specialties-tab/cardiology.png)Cardiology](https://cardiology.cureus.com/)
+    *   [![Image 13](https://public.cureus.com/new-nav-bar/specialties-tab/dentistry.png)Dentistry](https://dentistry.cureus.com/)
+    *   [![Image 14](https://public.cureus.com/new-nav-bar/specialties-tab/dermatology.png)Dermatology](https://dermatology.cureus.com/)
+    *   [![Image 15](https://public.cureus.com/new-nav-bar/specialties-tab/emergency_medicine.png)Emergency Medicine](https://emergency_medicine.cureus.com/)
+    *   [![Image 16](https://public.cureus.com/new-nav-bar/specialties-tab/endocrinology_diabetes_metabolism.png)Endocrinology / Diabetes / Metabolism](https://endocrinology_diabetes_metabolism.cureus.com/)
+    *   [![Image 17](https://public.cureus.com/new-nav-bar/specialties-tab/environmental_health.png)Environmental Health](https://environmental_health.cureus.com/)
+    *   [![Image 18](https://public.cureus.com/new-nav-bar/specialties-tab/epidemiology_public_health.png)Epidemiology / Public Health](https://epidemiology_public_health.cureus.com/)
+    *   [![Image 19](https://public.cureus.com/new-nav-bar/specialties-tab/family_general_practice.png)Family / General Practice](https://family_general_practice.cureus.com/)
+    *   [![Image 20](https://public.cureus.com/new-nav-bar/specialties-tab/forensic_medicine.png)Forensic Medicine](https://cureus.com/forensic_medicine)
+    *   [![Image 21](https://public.cureus.com/new-nav-bar/specialties-tab/gastroenterology.png)Gastroenterology](https://gastroenterology.cureus.com/)
+    *   [![Image 22](https://public.cureus.com/new-nav-bar/specialties-tab/general_surgery.png)General Surgery](https://general_surgery.cureus.com/)
+    *   [![Image 23](https://public.cureus.com/new-nav-bar/specialties-tab/genetics.png)Genetics](https://cureus.com/genetics)
+    *   [![Image 24](https://public.cureus.com/new-nav-bar/specialties-tab/geriatrics.png)Geriatrics](https://cureus.com/geriatrics)
+    *   [![Image 25](https://public.cureus.com/new-nav-bar/specialties-tab/healthcare_technology.png)Healthcare Technology](https://healthcare_technology.cureus.com/)
+    *   [![Image 26](https://public.cureus.com/new-nav-bar/specialties-tab/health_policy.png)Health Policy](https://health_policy.cureus.com/)
+    *   [![Image 27](https://public.cureus.com/new-nav-bar/specialties-tab/hematology.png)Hematology](https://hematology.cureus.com/)
+    *   [![Image 28](https://public.cureus.com/new-nav-bar/specialties-tab/hiv_aids.png)HIV / AIDS](https://cureus.com/hiv_aids)
+    *   [![Image 29](https://public.cureus.com/new-nav-bar/specialties-tab/infectious_disease.png)Infectious Disease](https://infectious_disease.cureus.com/)
+    *   [![Image 30](https://public.cureus.com/new-nav-bar/specialties-tab/integrative_complementary_medicine.png)Integrative / Complementary Medicine](https://cureus.com/integrative_complementary_medicine)
+    *   [![Image 31](https://public.cureus.com/new-nav-bar/specialties-tab/internal_medicine.png)Internal Medicine](https://internal_medicine.cureus.com/)
+    *   [![Image 32](https://public.cureus.com/new-nav-bar/specialties-tab/medical_education.png)Medical Education](https://cureus.com/medical_education)
+    *   [![Image 33](https://public.cureus.com/new-nav-bar/specialties-tab/medical_physics.png)Medical Physics](https://cureus.com/medical_physics)
+    *   [![Image 34](https://public.cureus.com/new-nav-bar/specialties-tab/medical_simulation.png)Medical Simulation](https://cureus.com/medical_simulation)
+    *   [![Image 35](https://public.cureus.com/new-nav-bar/specialties-tab/nephrology.png)Nephrology](https://nephrology.cureus.com/)
+    *   [![Image 36](https://public.cureus.com/new-nav-bar/specialties-tab/neurology.png)Neurology](https
+
+--- FUENTE WEB ---
+Título: Sepsis-Emergency-Medicine-2025.pdf
+URL: https://www.ebmedicine.net/media_library/files/Sepsis-Emergency-Medicine-2025.pdf
+Score: 0.6924341
+
+Texto:
+AUGUST 2025 | VOLUME 27 | ISSUE 8 Updates and Controversies in the Early Management of Sepsis and Septic Shock n Abstract Sepsis is a common life-threatening condition that requires early recognition and prompt management. Diagnosis and treatment of sepsis and septic shock are fundamental for emergency clinicians. Optimal sepsis management includes prompt identification of early signs of sepsis and septic shock, hemodynamic optimization, knowledge of clinical and laboratory indicators of subtle and overt organ dysfunction, and prompt infection source identification and control. This structured review summarizes and evaluates the most recent literature on the management of sepsis, focusing on the current evidence, guidelines, and protocols.
+EBMEDICINE.NET Prior to beginning this activity, see “CME Information” on page 2.
+CLINICAL CHALLENGES: •	What are the most recent changes to sepsis and septic shock screening guidelines?
+•	What are the current recommen­ dations on sepsis treatment? Authors Elisabeth H. W. Hwang, MD Assistant Professor of Military and Emergency Medicine, Uniformed Services University of the Health Sciences, Bethesda, MD Charles W. Hwang, MD, FACEP , FAEMS Associate Professor of Emergency Medicine and EMS, Department of Emergency Medicine, University of Florida Gainesville, Gainesville, FL Beulah Augustin, MD Assistant Clinical Professor, Department of Emergency Medicine, University of Florida Gainesville, Gainesville, FL Faheem W. Guirgis, MD, FACEP Professor and Vice Chair of Research, Department of Emergency Medicine, University of Florida Gainesville, Gainesville, FL Lauren P . Black, MD, MPH Assistant Professor, Department of Emergency Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL Peer Reviewers Neil K. Dasgupta, MD, FAAEM Vice Chair/Program Director, Department of Emergency Medicine, Nassau University Medical Center, East Meadow, NY; Clinical Associate Professor of Emergency Medicine, New York Institute of Technology College of Osteopathic Medicine, New York, NY Chad M. Meyers, MD Associate Professor, Clinical Emergency Medicine, Icahn School of Medicine at Mount Sinai; Chief, Division of Emergency Critical Care, Mount Sinai Health System; Director, Emergency Critical Care, Elmhurst Hospital Center, New York, NY Prior to beginning this activity, see “CME Information” on page 2.
+Emergency Medicine Practice Evidence-Based Education • Practical Application For online access: For mobile app access: AUGUST 2025 • www.ebmedicine.net 2 ©2025 EB MEDICINE CME Information Date of Original Release: August 1, 2025. Date of most recent review: July 10, 2025. Termination date: August 1, 2028.
+Accreditation: EB Medicine is accredited by the Accreditation Council for Continuing Medical Education (ACCME) to provide continuing medical education for physicians. Credit Designation: EB Medicine designates this enduring material for a maximum of 4 AMA PRA Category 1 CreditsTM. Physi­ cians should claim only the credit commensurate with the extent of their participation in the activity.
+Specialty CME: Included as part of the 4 credits, this CME activity is eligible for 2 Infectious Disease and 2 Pharmacology CME credits, subject to your state and institutional approval. For more information, call Customer Service at 678-366-7933. ACEP Accreditation: Emergency Medicine Practice is approved by the American College of Emergency Physicians for 48 hours of ACEP Cat­ egory I credit per annual subscription.
+AAFP Accreditation: The AAFP has reviewed Emergency Medicine Practice, and deemed it acceptable for AAFP credit. Term of approval is from 07/01/2025 to 06/30/2026. Physicians should claim only the credit commensurate with the extent of their participation in the activity. This session, Updates and Controversies in the Early Management of Sepsis and Septic Shock, is approved for 4.0 enduring material AAFP Prescribed credits.
+AOA Accreditation: Emergency Medicine Practice is eligible for 4 Category 2-B credit hours per issue by the American Osteopathic Association.
+Needs Assessment: The need for this educational activity was determined by a practice gap analysis; a survey of medical staff, including the editorial board of this publication; review of morbidity and mortality data from the CDC, AHA, NCHS, and ACEP; and evaluation responses from prior educational activities for emergency physicians.
+Target Audience: This enduring material is designed for emergency medicine physicians, physician assistants, nurse practitioners, and residents.
+Goals: Upon completion of this activity, you should be able to: (1) identify areas in practice that require modification to be consistent with current evidence in order to improve competence and performance; (2) develop strategies to accurately diagnose and treat both common and critical ED presentations; and (3) demonstrate informed medical decision-making based on the strongest clinical evidence. CME Objectives: Upon completion of this activity, you should be able to: (1) describe criteria and scoring systems for early recognition of sepsis in patients presenting with signs and symptoms of infection; (2) explain specific recommendations for early management of sepsis and septic shock; and (3) describe and evaluate the evidence basis for sepsis management strategies.
+Discussion of Investigational Information: As part of the activity, faculty may be presenting investigational information about pharmaceutical products that is outside Food and Drug Administration approved labeling. Information presented as part of this activity is intended solely as continuing medical education and is not intended to promote off-label use of any pharmaceutical product.
+Disclosure: It is the policy of EB Medicine to ensure objectivity, balance, independence, transparency, and scientific rigor in all CME activities. All individuals in a position to control content have disclosed all financial relationships with ACCME-defined ineligible companies. EB Me
+
+--- FUENTE WEB ---
+Título: Challenges in early detection and prognostication of sepsis: new approaches from the emergency department and intensive care unit
+URL: https://www.sciencedirect.com/science/article/pii/S2589537026001112
+Score: 0.6662797
+
+Texto:
+[Skip to main content](https://www.sciencedirect.com/science/article/pii/S2589537026001112#screen-reader-main-content)[Skip to article](https://www.sciencedirect.com/science/article/pii/S2589537026001112#screen-reader-main-title)
+
+[![Image 2: Elsevier logo](https://www.sciencedirect.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://www.sciencedirect.com/)
+
+*   [Journals & Books](https://www.sciencedirect.com/browse/journals-and-books)
+
+*   Help   
+*   [Search](https://www.sciencedirect.com/search) 
+
+[My account](https://www.sciencedirect.com/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2589537026001112&from=globalheader)
+
+[Sign in](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2589537026001112)
+
+*   [View**PDF**](https://www.sciencedirect.com/science/article/pii/S2589537026001112/pdfft?md5=8137443e19cb6e7d830e05d134dd3779&pid=1-s2.0-S2589537026001112-main.pdf)
+*   Download full issue
+
+Search ScienceDirect 
+
+[![Image 3: Elsevier](https://www.sciencedirect.com/us-east-1/prod/e911374836fc26c65c00085fe87e2195e64294ae/image/elsevier-non-solus.svg)](https://www.sciencedirect.com/journal/eclinicalmedicine "Go to eClinicalMedicine on ScienceDirect")
+
+## [eClinicalMedicine](https://www.sciencedirect.com/journal/eclinicalmedicine "Go to eClinicalMedicine on ScienceDirect")
+
+[Volume 94](https://www.sciencedirect.com/journal/eclinicalmedicine/vol/94/suppl/C "Go to table of contents for this volume/issue"), April 2026, 103864
+
+[![Image 4: eClinicalMedicine](https://ars.els-cdn.com/content/image/1-s2.0-S2589537026X2003X-cov150h.gif)](https://www.sciencedirect.com/journal/eclinicalmedicine/vol/94/suppl/C)
+
+# Review
+
+Challenges in early detection and prognostication of sepsis: new approaches from the emergency department and intensive care unit
+
+Author links open overlay panel Thomas Lafon a b, Melanie Weingart c, Julien Vaidie b d, [Carolyn S.Calfee c](https://www.sciencedirect.com/author/9535168300/carolyn-s-calfee), [Shevin T.Jacob e f](https://www.sciencedirect.com/author/23568269600/shevin-t-jacob), [Yonathan Freund g h](https://www.sciencedirect.com/author/36128479400/yonathan-freund), [Nathan I.Shapiro i](https://www.sciencedirect.com/author/7103180208/nathan-i-shapiro), [Olivier Barraud b j](https://www.sciencedirect.com/author/36149878500/o-barraud), [Guillaume Monneret k l](https://www.sciencedirect.com/author/7003291558/guillaume-monneret), [Tom van der Poll m](https://www.sciencedirect.com/author/7101676266/tom-van-der-poll), Yeleen Fromage b, [Bruno François b d j](https://www.sciencedirect.com/author/8635472700/bruno-francois)
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+
+[https://doi.org/10.1016/j.eclinm.2026.103864](https://doi.org/10.1016/j.eclinm.2026.103864 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S2589537026001112&orderBeanReset=true)View accessibility information
+
+Under a Creative Commons [license](http://creativecommons.org/licenses/by-nc/4.0/)
+
+Open access
+
+## Summary
+
+In this narrative review, we aimed to provide a comprehensive overview of emerging diagnostic strategies and precision medicine approaches in sepsis, while explicitly acknowledging the heterogeneity of clinical contexts. In the Emergency Department (ED), timely recognition of infection and sepsis represents one of the most frequent and challenging tasks, which may delay management directly increasing morbidity and mortality. Even if very popular and widely used, traditional scores and routine biomarkers remain of limited interest to confirm diagnosis and predict deterioration. Nevertheless, emerging point-of-care tools hold promise such as “real-time microbiology”, bedside immune profiling, and echocardiography for on-time hemodynamic phenotyping. More advanced strategies, such as omics technologies and transcriptomic signatures, offer deeper biological precision, while machine learning and artificial intelligence can integrate high-dimensional ED data to anticipate deterioration and capture the dynamic evolution of sepsis subphenotypes. Many of these tools are already feasible at the bedside and only await integration into routine ED workflows. Embedding them within dedicated sepsis pathways and multidisciplinary teams could optimize global patient care and accelerate the transition toward precision medicine in acute sepsis. Sustainable improvements in sepsis outcomes will most likely not come from isolated devices but from their integration into coordinated and sepsis-specific pathways.
+
+*   [Previous article in issue](https://www.sciencedirect.com/science/article/pii/S2589537026000830)
+*   [Next article in issue](https://www.sciencedirect.com/science/article/pii/S2589537026001276)
+
+## Keywords
+
+Sepsis
+
+Diagnosis
+
+Artificial intelligence
+
+Phenotypes
+
+Emergency department
+
+Sorry, something went wrong. Please try again and make sure cookies are enabled
+
+Recommended articles
+
+## Cited by (0)
+
+© 2026 The Author(s). Published by Elsevier Ltd.
+
+## Recommended articles
+
+Recommended articles cannot be displayed at this time.
+
+## Article Metrics
+
+### Citations
+
+*   Citation Indexes 9
+
+### Captures
+
+*   Mendeley Readers 44
+
+![Image 5: PlumX Metrics Logo](https://www.sciencedirect.com/us-east-1/prod/e911374836fc26c65c00085fe87e2195e64294ae/logo/plumx-logo.png)[View details](https://plumx.elsevier.com/plum/a/?doi=10.1016%2Fj.eclinm.2026.103864&theme=plum-sciencedirect-theme&hideUsage=true)
+
+[![Image 6: Elsevier logo with wordmark](https://www.sciencedirect.com/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+
+*   [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+*   [Remote access](https://www.sciencedirect.com/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2FS2589537026001112)
+*   [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+*  
+
+--- FUENTE WEB ---
+Título: Surviving sepsis: New guidelines harness life saving evidence for treating adults | University of Michigan Medical School
+URL: https://medschool.umich.edu/health-lab/surviving-sepsis-new-guidelines-harness-life-saving-evidence-treating-adults
+Score: 0.65445316
+
+Texto:
+Consent for Cookie Use
+
+We use cookies to improve your experience on our websites. You can learn more about what information we collect and how we use it on our [Internet Privacy Statement](https://www.michiganmedicine.org/internet-privacy-statement "Privacy & Cookies Policy").
+
+[Skip to main content](#main-content)
+
+Education
+[About Michigan Medicine](https://www.michiganmedicine.org)
+[Patient Care](https://www.uofmhealth.org)
+[Research](https://medresearch.umich.edu)
+[Education](https://medschool.umich.edu)
+[Departments](https://medschool.umich.edu/departments)
+
+
+Facilities & Spaces
+
+
+Student Organizations
+
+
+Alumni
+
+
+Events
+
+[![University of Michigan Medical School Logo](/themes/custom/outline_frontend/logo-education.svg)](https://medschool.umich.edu/)
+
+* [Programs & Admissions](/programs-admissions)
+  + [MD Program](/programs-admissions/md-program)
+    - [MD Admissions](/programs-admissions/md-program/md-admissions)
+      * [Requirements](/programs-admissions/md-program/md-admissions/md-admissions-requirements)
+        + [Pre-Application Tips](/programs-admissions/md-program/md-admissions/requirements/pre-application-tips-prospective-med-students)
+      * [Timeline](/programs-admissions/md-program/md-admissions/md-admissions-timeline)
+      * [Interview Day](/programs-admissions/md-program/md-admissions/interview-day)
+      * [FAQs](/programs-admissions/md-program/md-admissions/md-admissions-faqs)
+        + [Michigan's 35 AAMC Answers](/programs-admissions/md-program/md-admissions/faqs/michigans-answers-aamcs-35-most-asked-questions)
+        + [Michigan's 10 AAMC Financial Aid Answers](/programs-admissions/md-program/md-admissions/faqs/michigans-answers-aamcs-top-10-financial-aid-questions)
+      * [Contact](/programs-admissions/md-program/md-admissions/contact-md-admissions)
+      * [Admitted Students](/programs-admissions/md-program/md-admissions/admitted-students)
+    - [MD Curriculum](/programs-admissions/md-program/md-program-curriculum)
+      * [Overview & Highlights](/programs-admissions/md-program/md-curriculum/md-program-curriculum-overview-highlights)
+      * [Year 1](/programs-admissions/md-program/md-curriculum/md-program-year-1)
+        + [Patient Interaction](/programs-admissions/md-program/md-curriculum/year-1/md-program-year-1-patient-interaction)
+        + [Chief Concern](/programs-admissions/md-program/md-curriculum/year-1/md-program-year-1-chief-concern)
+      * [Year 2](/programs-admissions/md-program/md-curriculum/md-program-year-2)
+      * [Years 3 & 4](/programs-admissions/md-program/md-curriculum/md-program-years-3-4)
+      * [Learning Informatics](/programs-admissions/md-program/md-curriculum/learning-informatics)
+      * [Training Sites](/programs-admissions/md-program/md-curriculum/md-program-training-sites)
+      * [Impact Curriculum](/programs-admissions/md-program/md-curriculum/impact-curriculum)
+        + [Capstone for Impact](/programs-admissions/md-program/md-curriculum/impact-curriculum/capstone-impact-projects)
+          - [Ethics](/programs-admissions/md-program/md-curriculum/impact-curriculum/capstone-impact-projects/ethics)
+          - [Global Health](/programs-admissions/md-program/md-curriculum/impact-curriculum/capstone-impact-projects/global-health)
+          - [Health Equity](/programs-admissions/md-program/md-curriculum/impact-curriculum/capstone-impact-projects/health-equity)
+          - [Public Health](/programs-admissions/md-program/md-curriculum/impact-curriculum/capstone-impact-projects/public-health)
+          - [Quality Improvement](/programs-admissions/md-program/md-curriculum/impact-curriculum/capstone-impact-projects/quality-improvement)
+          - [Tech & Innovation](/programs-admissions/md-program/md-curriculum/impact-curriculum/capstone-impact-projects/technology-innovation)
+        + [Leadership Program](/programs-admissions/md-program/md-curriculum/impact-curriculum/md-curriculum-leadership-program)
+        + [Paths of Excellence](/programs-admissions/md-program/md-curriculum/impact-curriculum/md-curriculum-paths-excellence)
+          - [Ethics](/programs-admissions/md-program/md-curriculum/impact-curriculum/paths-excellence/paths-excellence-ethics)
+          - [Global Health & Disparities](/programs-admissions/md-program/md-curriculum/impact-curriculum/paths-excellence/paths-excellence-global-health-disparities)
+          - [Healthcare Innovation](/programs-admissions/md-program/md-curriculum/impact-curriculum/paths-excellence/paths-excellence-healthcare-innovation)
+          - [Health Policy](/programs-admissions/md-program/md-curriculum/impact-curriculum/paths-excellence/paths-excellence-health-policy-economics)
+          - [Medical Humanities](/programs-admissions/md-program/md-curriculum/impact-curriculum/paths-excellence/paths-excellence-medical-humanities)
+          - [Patient Safety & Quality Improvement](/programs-admissions/md-program/md-curriculum/impact-curriculum/paths-excellence/paths-excellence-patient-safety-quality-improvement)
+          - [Scientific Discovery](/programs-admissions/md-program/md-curriculum/impact-curriculum/paths-excellence/paths-excellence-scientific-discovery)
+      * [Longitudinal Learning](/programs-admissions/md-program/md-curriculum/longitudinal-learning)
+        + [Doctoring Course](/programs-admissions/md-program/md-curriculum/longitudinal-learning/longitudinal-learning-doctoring-course)
+        + [Evidence-Based Medicine](/programs-admissions/md-program/md-curriculum/longitudinal-learning/longitudinal-learning-evidence-based-medicine)
+        + [Interprofessional Education](/programs-admissions/md-program/md-curriculum/longitudinal-learning/longitudinal-learning-interprofessional-education)
+      * [Health Equity](/programs-admissions/md-program/md-curriculum/md-curriculum-health-equity)
+        + [Language Opportunities](/programs-admissions/md-program/md-curriculum/health-equity/language-opportunities)
+      * [Curriculum Diagrams](/programs-admissions/md-program/md-curriculum/md-
+
+--- FUENTE WEB ---
+Título: Emergency medicine updates: Evaluation and diagnosis of sepsis and septic shock.
+URL: https://pubmed.ncbi.nlm.nih.gov/39892181
+Score: 0.64332926
+
+Texto:
+# Emergency medicine updates: Evaluation and diagnosis of sepsis and septic shock.
+
+Brit Long, Michael Gottlieb
+
+The American journal of emergency medicine · 2025-01-22 · 90:169-178 · DOI: 10.1016/j.ajem.2025.01.055 · PMID: 39892181
+
+Publication type: Journal Article, Review
+
+## Introduction
+
+Sepsis and septic shock are common conditions evaluated and managed in the emergency department (ED), and these conditions are associated with significant morbidity and mortality. There have been several recent updates in the literature, including guidelines, on the evaluation and diagnosis of sepsis and septic shock.
+
+## Objective
+
+This is the first paper in a two-part series that provides emergency clinicians with evidence-based updates concerning sepsis and septic shock. This first paper focuses on evaluation and diagnosis of sepsis and septic shock.
+
+## Discussion
+
+The evaluation, diagnosis, and management of sepsis have evolved since the first definition in 1991. Current guidelines emphasize rapid diagnosis to improve patient outcomes. However, scoring systems have conflicting data for diagnosis, and sepsis should be considered in any patient with infection and abnormal vital signs, evidence of systemic inflammation (e.g., elevated white blood cell count or C-reactive protein), or evidence of end-organ dysfunction. The clinician should consider septic shock in any patient with infection and hypotension despite volume resuscitation or who require vasopressors to maintain a mean arterial pressure ≥ 65 mmHg. There are a variety of sources of sepsis but the most common include pulmonary, urinary tract, abdomen, and skin/soft tissue. Examples of other less common etiologies include the central nervous system (e.g., meningitis, encephalitis), spine (e.g., spinal epidural abscess, osteomyelitis), cardiac (e.g., endocarditis), and joints (e.g., septic arthritis). Evaluation may include biomarkers such as procalcitonin, C-reactive protein, and lactate, but these should not be used in isolation to exclude sepsis. Imaging is a key component of evaluation and should be based on the suspected source.
+
+## Conclusion
+
+There have been several recent updates in the literature including guidelines concerning sepsis and septic shock; an understanding of these updates can assist emergency clinicians and improve the care of these patients.
+
+## Keywords
+
+Abscess, CRP, Cellulitis, Computed tomography, Lactate, Necrotizing infection, POCUS, Pneumonia, Procalcitonin, SIRS, SOFA, Sepsis, Septic shock, Ultrasound, Urinary tract infection, qSOFA
+
+## MeSH Terms
+- Humans
+- Shock, Septic / diagnosis, therapy*
+- Sepsis / diagnosis, therapy*
+- Emergency Service, Hospital
+- Practice Guidelines as Topic
+- Emergency Medicine*
+
+--- FUENTE WEB ---
+Título: Perspectives and implications of the new sepsis clinical practice ...
+URL: https://jtd.amegroups.org/article/view/10015/html
+Score: 0.6355618
+
+Texto:
+AME evidence series 001—The Society for Translational Medicine: clinical practice guidelines for diagnosis and early identification of sepsis in the hospital.
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
