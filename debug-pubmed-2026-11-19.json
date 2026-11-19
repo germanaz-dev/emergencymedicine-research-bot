@@ -1,0 +1,108 @@
+[
+  {
+    "pmid": "43027981",
+    "title": "Chemical Mechanisms of Cerebral Ischemia-Reperfusion Injury and Neuroprotection in the Thrombectomy Era.",
+    "journal": "International journal of molecular sciences",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1001/jamaneurol.2026.1074",
+    "abstract": "Mechanical thrombectomy has significantly improved outcomes for patients with large-vessel occlusion stroke. However, restoring the artery does not always re-establish full microvascular blood flow, tissue rescue, or a good neurological outcome. Ischemia-reperfusion injury varies over time, with distinct biochemical mechanisms dominating during ischemia, early reperfusion, and the subsequent hours. During ischemia, factors like adenosine triphosphate (ATP) depletion, ionic imbalance, calcium overload, mitochondrial dysfunction, acidosis, and metabolic changes such as succinate build-up render brain tissue highly vulnerable. When blood flow resumes, oxygen delivery to this stressed tissue can induce rapid mitochondrial redox shifts, electron leakage, reactive oxygen and nitrogen species formation, iron-dependent radical generation, and lipid peroxidation. Damage may then persist for hours through ongoing mitochondrial dysfunction, phospholipid hydroperoxide accumulation, reactive aldehydes, ferroptosis, blood-brain barrier breakdown, microvascular issues, and inflammation. Much of the mechanistic evidence supporting these processes derives from experimental studies, and their relevance to clinical outcomes after thrombectomy requires further validation. This narrative review tracks these chemical changes across the main phases of cerebral ischemia-reperfusion injury and connects them to modern thrombectomy practices. It also explores how the timing of each process may inform neuroprotective strategies, drug delivery methods, patient selection via imaging, and future clinical trial approaches.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027981/"
+  },
+  {
+    "pmid": "43008260",
+    "title": "Severity-Based Triage for Direct Transportation to Nearest Comprehensive Stroke Center: A Systematic Review and Meta-Analysis.",
+    "journal": "Neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "doi": "10.1212/WNL.0000000000218473",
+    "abstract": "The efficacy of endovascular thrombectomy (EVT) for acute ischemic stroke due to large vessel occlusion (LVO) is time dependent. Patients initially transported to a primary stroke center (PSC) may require secondary transfer, potentially delaying EVT. For severely affected patients, bypassing the PSC for direct transport to a comprehensive stroke center may expedite EVT but risks delaying IV thrombolysis. Effects of prehospital bypass strategies on functional outcomes are thus uncertain. For this systematic review and meta-analysis, PubMed and Web of Science were searched until December 2025. Randomized and nonrandomized studies comparing transport to the nearest stroke center with transport to a more distant comprehensive stroke center in patients with suspected stroke were included. Two investigators independently screened records, selected eligible studies, extracted summary data, and assessed risk of bias. Random-effects meta-analysis was used to quantify associations between prehospital bypass, endovascular therapy, and functional outcomes. Literature search identified 1,991 distinct reports. Of 18 eligible studies, 2 were randomized controlled trials (RCTs, n = 1,540 patients), 11 before-after studies (n = 11,837), and 5 cross-sectional studies (n = 1,139), comprising a total of 14,516 patients (52% men/48% women). Risk of bias was high in nonrandomized studies. Patients undergoing prehospital bypass and control patients had similar likelihoods of receiving EVT (odds ratio [OR] 1.52, 95% CI 0.98-2.35) or thrombolysis (OR 1.12, 0.92-1.35). Prehospital bypass was associated with earlier groin puncture (median difference -63.9 minutes, 95% CI -84.1 to -43.7). Time to needle in bypass patients was longer than in control patients in RCTs (median delay 34 minutes, 23.1-44.9 minutes), but similar in nonrandomized studies. Functional independence (modified Rankin Scale 0-2) at 90 days was more frequent in bypass patients (OR 1.23, 1.04-1.45). In patients with intracerebral hemorrhage, bypass was associated with increased mortality (risk ratio 1.30, 1.02-1.64). For patients with LVO stroke, benefits of expedited thrombectomy may outweigh possible risks associated with longer prehospital transport times. However, evidence is insufficient to recommend the routine implementation of prehospital bypass protocols. Further research is needed to determine circumstances under which direct access to comprehensive stroke centers should be prioritized for patients with severe stroke symptoms.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43008260/"
+  },
+  {
+    "pmid": "42997865",
+    "title": "Beyond Absolute Blood Pressure Targets During Endovascular Thrombectomy: A Narrative Review of Intraprocedural Hemodynamics.",
+    "journal": "Cureus",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.7759/cureus.117604",
+    "abstract": "Hemodynamic management is a central component of procedural care for acute ischemic stroke (AIS) during endovascular thrombectomy (EVT). Current guideline recommendations predominantly provide absolute blood pressure (BP) targets for intraprocedural management. Studies have also examined relative BP reduction, the magnitude and duration of hypotensive exposure, and blood pressure variability (BPV), providing additional measures of systemic hemodynamic exposure during EVT. However, definitions, baseline reference pressures, measurement intervals, and BPV metrics vary widely across studies, and associations with neurological outcomes are inconsistent. Importantly, these systemic BP parameters do not directly establish cerebral perfusion. This limitation supports investigating cerebral autoregulation as a complementary, patient-specific assessment. Evidence linking individualized autoregulatory limits to outcomes remains predominantly post-EVT, with very limited evidence during the pre-recanalization phase under anesthesia. This review examines intraprocedural BP during EVT under anesthesia beyond absolute pressure targets. It considers relative BP reduction, the magnitude and duration of hypotensive exposure, pressure-time burden, BPV, and individualized autoregulatory limits in relation to cerebral perfusion. A narrative literature search was conducted in PubMed for studies evaluating hemodynamics during EVT under anesthesia, supplemented by screening of selected reference lists. Studies examining intraprocedural BP targets, relative changes, hypotension duration, pressure-time burden, and BPV in relation to neurological or imaging outcomes under anesthesia were prioritized, with emphasis on the pre-recanalization period. Post-EVT hemodynamic studies were not included in the primary synthesis, except where they informed the discussion of cerebral autoregulation and future research. Intraprocedural hemodynamic variables during EVT characterize different aspects of systemic arterial-pressure exposure that may be relevant to cerebral perfusion in the ischemic penumbra. Absolute pressure, relative change, magnitude and duration of hypotension, pressure-time burden, and BPV should be regarded as complementary rather than interchangeable measures. Differences in reference pressures, definitions, measurement intervals, exposure periods relative to recanalization, and anesthesia techniques limit comparisons and standardization across studies. Future prospective studies, particularly during general anesthesia (GA), should integrate clearly defined systemic BP metrics with dynamic cerebral autoregulation. This may help determine which parameters or combinations best reflect cerebral physiological vulnerability. Individualized autoregulation-guided BP targets remain investigational and require prospective validation before they can inform routine clinical hemodynamic management.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997865/"
+  },
+  {
+    "pmid": "42996467",
+    "title": "The reliability conundrum of DWI-ASPECTS in stroke assessment: a systematic review of agreement on DWI-ASPECTS in anterior circulation stroke.",
+    "journal": "Frontiers in neurology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "doi": "10.1212/WNL.0000000000011096",
+    "abstract": "The DWI-ASPECT score (DWI-ASPECTS) can aid patients' selection for thrombectomy. This systematic review aimed to evaluate clinicians' interrater and intrarater agreement on DWI-ASPECTS for anterior circulation stroke patients. We conducted a broad search of electronic databases (CINAHL, EBM Reviews, MEDLINE, EMBASE & EMBASE Classic) between January 1st, 2000, and September 9th, 2026. Our primary outcome was to collect data on any available measures of agreement for DWI-ASPECTS. Measures of agreement collected included ICC (intraclass correlation coefficient), weighted or unweighted kappa. Out of 3,658 articles screened, nineteen studies reporting 37 measures of agreement were included in the review. Populations, methods, analyses, and results were heterogeneous (poor to excellent agreement), precluding a meta-analysis. For interrater agreement, measures of agreement using full scale ICC ranged from strong to excellent, ranged from poor to strong using unweighted kappa, and ranged from moderate to excellent using weighted kappa. Only four studies offered interrater agreement values on DWI-ASPECTS<6. Only two studies offered information on intrarater agreement values. Data on the reliability of DWI-ASPECTS in acute ischemic stroke is scant, while the methodologies and results in the studies assessed are heterogeneous. More robust studies are required, particularly for strokes with DWI-ASPECTS <6.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42996467/"
+  },
+  {
+    "pmid": "42984968",
+    "title": "Brain cytoprotection in acute ischemic stroke in the reperfusion era: neuroimmune networks, clinical evidence, and translational barriers.",
+    "journal": "Frontiers in immunology",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "doi": "10.3389/fphar.2026.1843513",
+    "abstract": "Intravenous thrombolysis and mechanical thrombectomy have transformed acute ischemic stroke (AIS) care, yet angiographic recanalization does not guarantee adequate tissue reperfusion or long-term functional independence. Brain cytoprotection has therefore expanded from neuron-centered rescue to preservation of the ischemic penumbra, neurovascular unit, blood-brain barrier (BBB), and microcirculation. Using a systems-immunology perspective, this clinically oriented narrative review examines ischemia-reperfusion injury as a dynamic network linking danger-associated molecular pattern sensing, microglia and astrocytes, circulating leukocytes, platelets and complement, endothelium and pericytes, cytokine signaling, edema, no-reflow, and regulated cell-death programs. We integrate classic and recent evidence for excitotoxic, redox and mitochondrial, inflammatory, barrier, microvascular, and cell-death targets; evaluate representative pharmacologic and nonpharmacologic interventions; and distinguish negative primary endpoints from exploratory subgroup or surrogate signals. Confirmatory excitotoxicity trials have remained negative overall. Selected multitarget agents have shown benefit in specific Chinese populations, whereas immune-, edema-, and no-reflow-directed approaches have yielded stage-specific but inconsistent safety, imaging, and functional results. Statins, nitric oxide donors, and phosphodiesterase inhibition have plausible vascular or immunomodulatory actions, but available trials do not establish them as acute cytoprotective therapies. Future development should align the right mechanism, tissue phenotype, treatment time, exposure, target-engagement measure, and patient-centered endpoint, followed by multicenter preclinical testing and independent cross-regional clinical replication. This end-to-end framework reframes brain cytoprotection as precision modulation of a spatially and temporally evolving neuroimmune-vascular system rather than a single undifferentiated treatment class.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42984968/"
+  },
+  {
+    "pmid": "42981570",
+    "title": "Intravenous Thrombolysis for Acute Ischemic Stroke - New Directions.",
+    "journal": "The New England journal of medicine",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1056/NEJMra2519017",
+    "abstract": "In the past 5 years, substantial changes have been made in the use of intravenous thrombolysis (IVT) in patients with acute ischemic stroke. Integrating IVT with endovascular thrombectomy, which improves outcomes in patients with stroke due to large cerebral vessel occlusion, has been a particular challenge. This review discusses the underlying vascular targets for IVT and thrombectomy, the increasing use of tenecteplase instead of alteplase, broadening indications for the use of IVT, and ancillary drugs and dosing methods that may augment the success of IVT.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42981570/"
+  },
+  {
+    "pmid": "42974624",
+    "title": "Superbore Aspiration Catheters: An Innovation in Mechanical Thrombectomy.",
+    "journal": "Stroke (Hoboken, N.J.)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1161/SVIN.126.002492",
+    "abstract": "Mechanical thrombectomy has become the standard treatment for acute ischemic stroke caused by large vessel occlusion. Aspiration thrombectomy has evolved substantially over the past decade; however, conventional large-bore aspiration catheters (inner diameter ≥0.068″) may be limited by incomplete clot ingestion, distal embolization, and dependence on adjunctive devices such as balloon guide catheters to achieve proximal flow arrest. Superbore aspiration catheters, typically defined by an inner diameter ≥0.080 inches, are the most recent technological advancement in aspiration thrombectomy. Superbore catheters have the ability to navigate to the M1 segment of the middle cerebral artery, facilitating local flow control, complete clot ingestion, and distal flow reversal during aspiration. Since 2020, several superbore systems have been developed, including Zoom 88 (Imperative Care), HiPoint 88 (Route 92 Medical), Millipede88 (Perfuze), SOFIA 88 (Terumo), Broadway 8 (Stryker Neurovascular), and Cereglide 92 (Johnson & Johnson MedTech). Early clinical studies suggest that superbore catheters may improve first-pass effect and final reperfusion rates compared with standard aspiration thrombectomy devices, while maintaining an acceptable safety profile. This review summarizes the design characteristics, clinical evidence, and procedural considerations associated with currently available superbore systems. Although preliminary data are promising, further randomized clinical trials are needed to determine the optimal role of superbore aspiration in large vessel occlusion treatment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42974624/"
+  },
+  {
+    "pmid": "42974351",
+    "title": "Endovascular Therapy in Intracranial Atherosclerotic Stenosis-Related Large Vessel Occlusion Stroke: A Brief Practice Update and Consensus Statement From the SVIN.",
+    "journal": "Stroke (Hoboken, N.J.)",
+    "date": "2026",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "doi": "10.1161/SVIN.126.002529",
+    "abstract": "Intracranial atherosclerotic stenosis-related large vessel occlusion (ICAS-LVO) represents a distinct subset of acute ischemic stroke with unique diagnostic and therapeutic challenges during endovascular therapy. Compared with embolic LVO, ICAS-LVO is associated with higher rates of reocclusion and the frequent use of adjunctive interventions. This Brief Practice Update summarizes current evidence and expert consensus to guide the identification and management of ICAS-LVO during endovascular therapy. The Society of Vascular and Interventional Neurology Guidelines and Practice Standards committee convened a multidisciplinary writing group of neurointerventionalists to review available literature and define key clinical questions on ICAS-LVO and endovascular therapy. Evidence was appraised using the Society of Vascular and Interventional Neurology framework for Class of Recommendation and Level of Evidence, adapted from the American College of Cardiology/American Heart Association. Draft statements were iteratively refined and approved by the Society of Vascular and Interventional Neurology Guidelines and Practice Standards Quality Committee for adherence to internal standards and endorsed by the Society of Vascular and Interventional Neurology Board of Directors. Evidence was derived from randomized trials, multicenter registries, cohort studies, post hoc analyses, and meta-analyses addressing diagnostic features, first-line thrombectomy strategies, and adjunctive therapies in ICAS-LVO. Both stent retriever and direct aspiration approaches are acceptable initial strategies; however, durable recanalization is only achieved in about half of patients. Adjunctive use of intravenous or intra-arterial glycoprotein IIb/IIIa inhibitors, balloon angioplasty, and rescue stenting has demonstrated improved recanalization rates and favorable functional outcomes in observational studies, without increased hemorrhagic complications. However, the quality of evidence remains weak. A summary of recommendations is provided to guide practice in common procedural scenarios. This Brief Practice Update provides evidence-based and expert consensus recommendations for the diagnosis and endovascular treatment of ICAS-LVO. Management should be individualized by incorporating the clinical presentation, imaging characteristics, and operator expertise. While adjunctive therapy may be beneficial in select cases, high-quality randomized trials are needed to define optimal strategies and establish standardized algorithms for this challenging stroke subtype.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42974351/"
+  }
+]
