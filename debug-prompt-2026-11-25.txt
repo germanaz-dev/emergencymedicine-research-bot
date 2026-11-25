@@ -1,0 +1,564 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: right ventricular dysfunction in pulmonary embolism
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Transcatheter Directed Interventions in Pulmonary Embolism: Recent Evidence, Guidelines and Challenges.
+Revista: Journal of cardiovascular development and disease
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 43083076
+DOI: 10.3390/jcdd13110569
+URL: https://pubmed.ncbi.nlm.nih.gov/43083076/
+
+Abstract:
+Acute pulmonary embolism (PE) is a major cause of cardiovascular mortality, and managing patients at risk of deterioration despite anticoagulation is challenging. Transcatheter interventions, including catheter-directed thrombolysis (CDT) and mechanical thrombectomy (MT), aim to rapidly unload the right ventricle while limiting the bleeding risk of systemic thrombolysis. Their use long preceded robust evidence, but recent randomised trials have changed this. In normotensive patients with right ventricular dysfunction and elevated cardiac biomarkers, low-dose CDT, with or without ultrasound, reduced early clinical deterioration in two trials with differing eligibility criteria: HI-PEITHO required troponin elevation and at least two additional markers of cardiorespiratory compromise, whereas PRAGUE-26 required troponin or natriuretic peptide elevation. No statistically significant difference in major bleeding was detected, although mortality did not improve and intracranial haemorrhage occurred. MT accelerated right ventricular recovery versus anticoagulation and, in an open-label trial against CDT, improved a composite driven by deterioration and intensive care use. Guidelines predate most of these data and differ between continents: the 2019 European Society of Cardiology guideline and European consensus documents reserve transcatheter treatment mainly for high-risk PE with contraindicated or failed thrombolysis and for rescue after deterioration, whereas the 2026 American Heart Association/American College of Cardiology guideline allows its consideration in incipient cardiopulmonary failure. This review summarises techniques, evidence and recommendations, and it discusses patient selection, comparative effectiveness and long-term outcomes. Pending updates, decisions should be individualised by multidisciplinary PE response teams.
+
+--- PAPER PUBMED ---
+Título: Interventional reperfusion for pulmonary embolism.
+Revista: JAAPA : official journal of the American Academy of Physician Assistants
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 43070664
+DOI: 10.1097/01.JAA.0000000000000402
+URL: https://pubmed.ncbi.nlm.nih.gov/43070664/
+
+Abstract:
+The management of patients with intermediate-risk pulmonary embolism (PE) has evolved in recognition of this unique population's potential for circulatory collapse. Systemic thrombolysis, catheter-directed thrombolysis (CDT), and mechanical thrombectomy are reperfusion therapies typically reserved for patients with high-risk PE. Intermediate-risk PE represents a dynamic pathophysiologic state, whereby right ventricular dysfunction (RVD) may progress to cardiogenic shock in minutes to hours. More recent evidence suggests that early reperfusion for patients with intermediate-risk PE can have a profound impact on mortality (and adverse bleeding events) compared with anticoagulation alone. Anticoagulation is paramount in PE management, although recent trends highlight a reliance on unfractionated heparin despite evidence favoring alternative anticoagulation strategies. Modern perspectives on PE management emphasize early identification of RVD and escalation to interventional reperfusion, using vasoactive medications as a bridge to therapy.
+
+--- PAPER PUBMED ---
+Título: How to identify patients with low-risk acute pulmonary embolism: clinical implications and knowledge gaps.
+Revista: Cardiology journal
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 43048849
+DOI: 10.17219/acem/187187
+URL: https://pubmed.ncbi.nlm.nih.gov/43048849/
+
+Abstract:
+Acute pulmonary embolism (APE) is a common disease, affecting 75-269 out of 100,000 people each year. The clinical spectrum of APE is broad, ranging from asymptomatic or mild dyspnea to shock and cardiac arrest. A significant number of patients could be treated on an outpatient basis; however, there are no clear criteria for selecting individuals who could be safely treated at home. Although there is evidence of the safety and effectiveness of selection for home treatment based on the simplified Pulmonary Embolism Severity Index (sPESI) or the Hestia criteria, further analyses showed the benefits of combining these criteria with assessment of right ventricular dysfunction (RVD) on imaging and laboratory biomarker testing (troponins and N-terminal pro-B-type natriuretic peptide [NT-proBNP]). Another issue that should not be neglected is the assessment of bleeding risk associated with anticoagulant treatment initiation. This state-of-the-art review provides a comprehensive overview of risk stratification in patients with APE, focusing particularly on low-risk patients who can be safely treated at home.
+
+--- PAPER PUBMED ---
+Título: Temporary Mechanical Circulatory Support in Pulmonary Embolism.
+Revista: Clinics in chest medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42977387
+DOI: 10.1016/j.ccm.2026.07.013
+URL: https://pubmed.ncbi.nlm.nih.gov/42977387/
+
+Abstract:
+This article highlights the limitations of thrombolysis in high-risk pulmonary embolism and the emerging role of temporary mechanical circulatory support, especially venoarterial extracorporeal membrane oxygenation, as a bridge to recovery or definitive therapy. The pathophysiology of right ventricular failure in pulmonary embolism, risk stratification strategies, and decision-making frameworks for initiating mechanical circulatory support are reviewed. Further, we cover practical considerations, including device selection, circuit management during thrombectomy, and the imperative for preanesthesia planning in risk mitigation. Finally, this article highlights the importance of conducting prospective and randomized studies on device choice, timing, and integration with reperfusion strategies.
+
+--- PAPER PUBMED ---
+Título: Intensive Care Unit Management of the Hemodynamically Significant Pulmonary Embolism.
+Revista: Clinics in chest medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42977378
+DOI: 10.1016/j.ccm.2026.07.004
+URL: https://pubmed.ncbi.nlm.nih.gov/42977378/
+
+Abstract:
+Acute pulmonary embolism remains a major cause of cardiovascular morbidity and mortality, with prognosis determined by right ventricular (RV) adaptation to the abrupt rise in pulmonary vascular resistance. Although most cases can be managed outside the intensive care unit, patients with RV failure, hemodynamic instability, or cardiac arrest require advanced monitoring and intervention. Management in this setting emphasizes rapid diagnosis and risk stratification, timely initiation of reperfusion therapies, and carefully tailored hemodynamic and respiratory support. Optimal outcomes rely on multidisciplinary collaboration, early escalation of care, and individualized, evidence-based decision-making.
+
+--- PAPER PUBMED ---
+Título: Advances in Risk Stratification of Pulmonary Embolism.
+Revista: Clinics in chest medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42977377
+DOI: 10.1016/j.ccm.2026.07.003
+URL: https://pubmed.ncbi.nlm.nih.gov/42977377/
+
+Abstract:
+Normotensive patients with pulmonary embolism (PE) experience highly variable outcomes. Despite advances in clinical prediction tools, echocardiography, and computed tomographic imaging, there is no universally agreed upon strategy to identify which normotensive patients with PE are at risk of decompensation. This article reviews the current state of evidence and recent advances in risk prediction tools, echocardiography, and imaging to predict clinical deterioration.
+
+--- PAPER PUBMED ---
+Título: Pathophysiology of Right Ventricular Failure in Pulmonary Embolism.
+Revista: Clinics in chest medicine
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42977375
+DOI: 10.1016/j.ccm.2026.07.001
+URL: https://pubmed.ncbi.nlm.nih.gov/42977375/
+
+Abstract:
+Acute pulmonary embolism (PE) is a potentially life-threatening condition that can precipitate obstructive shock, a form of circulatory failure caused by the mechanical obstruction of blood flow through the pulmonary circulation. This article explores the pathophysiological mechanisms linking massive PE to obstructive shock, highlighting key diagnostic challenges, and the importance of rapid recognition in the emergency setting. We examine current strategies for risk stratification, imaging, and laboratory testing, as well as emerging biomarkers that may aid in early identification. The article also evaluates the efficacy and limitations of therapeutic interventions, including systemic thrombolysis, catheter-directed therapies, and surgical embolectomy, in the context of hemodynamic instability. Understanding the complex interplay between PE and obstructive shock is essential for optimizing outcomes in critically ill patients.
+
+--- PAPER PUBMED ---
+Título: Two Faces of the Same Thrombus: Molecular Phenotypes of Thromboinflammation in Acute Pulmonary Embolism and the Path to Phenotype-Guided Risk Stratification.
+Revista: International journal of molecular sciences
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42942030
+DOI: 10.2174/0115701611390778250321130817
+URL: https://pubmed.ncbi.nlm.nih.gov/42942030/
+
+Abstract:
+Acute pulmonary embolism (PE) is a potentially fatal cardiovascular emergency where early risk assessment determines treatment escalation. Clinical scores like PESI and sPESI are useful but capture only a single moment and cannot track evolving biological processes: coagulation on inflamed endothelium, nitric oxide signaling loss, and right ventricular pressure overload. Circulating biomarkers provide direct readouts of these events. This review proposes that acute PE molecular pathophysiology organizes into two overlapping phenotypes-two faces of the same thrombus. The first is a predominantly thromboinflammatory phenotype, driven by neutrophil extracellular traps (NETs), complement activation, and endothelial injury; the second is a predominantly myocardial phenotype, driven by right ventricular pressure overload and subendocardial ischemia. We examine each phenotype's molecular basis and appraise how far corresponding biomarkers-D-dimer, cardiac troponins, natriuretic peptides, GDF-15, H-FABP, sST2, complement activation products, and inflammatory indices-have moved into clinical practice. Two issues deserve attention: biomarker kinetics during the first 72 h after symptom onset, and whether intermediate-risk patients can be separated into meaningful molecular phenotypes. We address implementation barriers: lack of harmonized assays, undefined decision thresholds, and absence of prospective multicenter validation. This narrative review connects disease mechanisms to which patients are most likely to deteriorate and outlines a research agenda for phenotype-guided risk stratification.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: Key Advances: Pulmonary Embolism, Clinical Policy Alert
+URL: https://www.abem.org/wp-content/uploads/2024/07/key-advances_pulmonary-embolism_clinical-policy-alert.pdf
+Score: 0.7844842
+
+Texto:
+MyEMCert Key Advances Page 1 Reconfirmed July 2025 KEY ADVANCES CLINICAL POLICY ALERT Outpatient Treatment for Pulmonary Embolism Based primarily on 2021 Guideline Update on Antithrombotic Therapy for Venous Thromboembolism (VTE) Disease Stevens SM, Woller SC, Kreuziger LB, Bounameaux H, Doerschug K, Geersing GJ, Huisman MV, Kearon C, King CS, Knighton AJ, Lake E, Murin S, Vintch JRE, Wells PS, Moores LK. Antithrombotic therapy for VTE disease: second update of the CHEST Guideline and Expert Panel Report. Chest. 2021;160(6):e545-e608. doi:10.1016/j.chest.2021.07.055. PMID: 34352278. Erratum in: Chest. 2022;162(1):269. (1) Policy Recommendations and Focus Points in bold Clinical Question: In patients with low-risk pulmonary embolism (PE), is outpatient treatment recommended? Patient Management Recommendation: In patients with low-risk PE, we recommend outpatient treatment over hospitalization provided access to medications, ability to access outpatient care, and home circumstances are adequate (strong recommendation, low-certainty evidence). (1) Key Points: • Treatment at home is more convenient and less expensive than hospitalization and is preferred by most patients. (1) • Treatment with direct oral anticoagulants (DOACs) (e.g., apixaban or rivaroxaban) makes outpatient therapy more accessible and less complicated. (1) • To help identify low-risk patients suitable for home treatment, physicians may use clinical decision instruments, such as the Hestia criteria, or clinician judgment in conjunction with a simplified Pulmonary Embolism Severity Index (sPESI). (1,2) MyEMCert Key Advances Page 2 • Patients with evidence of right ventricular (RV) strain or increased troponin/B-type natriuretic peptide (BNP) levels should be considered for hospitalization, given their higher risk for poor outcomes. (1) RV strain pattern on electrocardiogram (ECG), RV abnormality on computed tomography (CT), or elevated troponin/BNP should prompt a diagnostic echocardiogram. • Although the evidence base supporting the guideline recommendations is considered weak, it is consistent with the results of 2 recent systematic reviews that reported no difference in outcomes among patients with low-risk PE, whether treated as inpatients or outpatients. (1,3,4) Patient Risk Stratification The initial disposition of patients with PE should be guided by an assessment of clinical patient risk. Risk stratification can be accomplished by classifying patients into the following three categories (5): • High-risk: signs of shock, end-organ damage or hypoperfusion, hypotension, or cardiac arrest • Intermediate-risk: evidence of right-heart strain on imaging (ECG, CT, echocardiogram), elevated troponin, and/or elevated BNP • Low-risk: clinically stable without evidence of high-risk or intermediate-risk features and low-risk assessment using a clinical decision tool, such as the Hestia criteria or sPESI score + physician judgment (see diagram) Patients with high- or intermediate-risk criteria should be hospitalized for inpatient treatment. In the HOME-PE trial by Roy et al., a randomized study comparing the Hestia criteria with the sPESI, both strategies had similar safety and effectiveness, allowing more than one third of patients to be treated safely at home. Importantly, both scoring tools were considered complementary to the physician’s clinical judgment. The treating physician was able to overrule the triaging tool in cases when admission was prudent for medical or social reasons.(2) The MATH-VTE trial conducted by Kline et al. demonstrated real-world efficacy and safety of monotherapy oral anticoagulation to treat patients with deep vein thrombosis and PE in the emergency care setting who are deemed low risk by either the modified Hestia criteria or sPESI plus clinical judgment. In this study, eligible patients with a variety of PE locations (including subsegmental, segmental, lobar, and main pulmonary artery) were treated successfully as outpatients. In addition, the 30-day rate of PE and VTE recurrence was low (1.0%), the rate of subsequent bleeding complications requiring hospitalization was 0.8%, and, importantly, there were no deaths. (6) These studies support the ability of these clinical decision tools to safely risk stratify patients to outpatient DOAC therapy. If the patient has no high- or intermediate-risk criteria, evaluate the patient for low risk using Hestia criteria or clinician judgment plus sPESI: Criteria for low-risk (adapted from Kline J, Adler D, Alanis N, et al. Study protocol for a multicentre implementation trial of monotherapy anticoagulation to expedite home treatment of patients diagnosed with venous thromboembolism in the emergency department. BMJ Open 2020;10[10]:e038078). (7) MyEMCert Key Advances Page 3 The modified Hestia criteria (all must be true): • Systolic blood pressure >100 mm Hg • No thrombolysis needed • No active bleeding • SaO2 >94% while breathing room air • Not already anticoagulated • No more than two doses of intravenous narcotics in the emergency department • No other medical or social reasons to admit • Creatinine clearance >30 mL/min • Not pregnant, no severe liver disease or heparin-induced thrombocytopenia OR Physician judgment plus sPESI criteria The physician opinion that a patient’s overall social and medical situation is favorable for home treatment* and the patient has a zero score on the sPESI. All of the following must be true: • Age 18–81 years • No history of cancer • No history of heart failure or chronic lung disease • Pulse <110 beats/min • Systolic blood pressure >99 mm Hg • O2 saturation >89% *Examples of additional social and medical factors include: Does the patient have the ability to obtain (i.e., pay for) medication? Does the patient have access to expeditious outpatient follow-up? Does the patient have adequate home circumstances (family and social support)? Disposition Determination Recent guidelines recommend that patients classified as low-risk PE ca
+
+--- FUENTE WEB ---
+Título: New guidelines for the diagnosis and management of pulmonary embolism: Key changes
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7284001
+Score: 0.77864933
+
+Texto:
+# New guidelines for the diagnosis and management of pulmonary embolism: Key changes
+
+Anastasia Erythropoulou-Kaltsidou, Stelina Alkagiet, Konstantinos Tziomalos
+
+World Journal of Cardiology · 2020-05-26 · 12(5):161-166 · DOI: 10.4330/wjc.v12.i5.161 · PMID: 32547711 · PMCID: PMC7284001
+
+## Abstract
+
+Pulmonary embolism (PE) is an important public health problem. In August 2019, the European Society of Cardiology in collaboration with the European Respiratory Society released new guidelines for the diagnosis and management of PE. We discuss the basic changes between these recent guidelines and the previous guidelines that were published in 2014. Regarding diagnosis, the new guidelines propose the use of an age-adjusted cut-off level of D-dimers instead of a fixed cut-off value. A D-dimer test adapted to clinical possibility should also be considered instead of fixed cut-off level of D-dimer. Detailed recommendations for the diagnosis of PE during pregnancy are also provided. Regarding risk stratification, assessment of PE-related early mortality risk is recommended. Moreover, the importance of right ventricular dysfunction is emphasized in low-risk patients. For further risk stratification of the severity of PE in patients without hemodynamic instability, use of validated scores that combine clinical, imaging and laboratory PE-related prognostic factors might also be considered. Regarding treatment, the possibility of early discharge is mentioned in patients without severe comorbidities, who are not of high risk for sudden death and in whom proper medical management at home and proper medical follow up can be ensured. The new guidelines also suggest that pro-brain natriuretic peptide levels, right ventricular function and the presence of thrombus in the right heart could be useful for guiding the decision of early discharge. Overall, these new guidelines introduce several key changes and knowledge and adherence to them will improve the outcome of patients with PE.
+
+## Keywords
+
+Pulmonary embolism, Guidelines, Diagnosis, Treatment, D-dimers, Pregnancy
+
+Core tip: We discuss the basic changes between the recent guidelines published in August 2019 by the European Society of Cardiology in collaboration with the European Respiratory Society regarding the diagnosis and management of pulmonary embolism and the previous guidelines that were published in 2014. The use of age-specific cut-off levels of D-dimers, detailed recommendations for risk stratification and the possibility of outpatient management are some of the key changes. Knowledge and adherence to these new guidelines will improve the outcome of patients with pulmonary embolism.
+
+## INTRODUCTION
+
+Venous thromboembolism (VTE), which includes both deep vein thrombosis (DVT) and pulmonary embolism (PE), is an important public health problem. The annual incidence of first-time VTE in the United States is 71-117 cases per 100000[1]. Moreover, the 28-d case fatality rate after a first episode of VTE is approximately 11%[2]. However, PE-related mortality rates have declined recently[3,4]. This decrease could be due to improvements in the diagnosis and managements of PE[4]. However, the decrease in PE-mortality might also be related to the overdiagnosis of PE, due to introduction and overuse of computed tomographic pulmonary angiography, in which non-clinically important PE is diagnosed and treated[5].
+
+In August 2019, the European Society of Cardiology (ESC) in collaboration with the European Respiratory Society released the new guidelines for the diagnosis and management of PE[6]. This editorial will focus on the basic changes between the recent guidelines of the ESC for the diagnosis and management of PE and the previous guidelines that were published in 2014.
+
+## CHANGES IN THE DIAGNOSIS OF PULMONARY EMBOLISM
+
+Flow chart for the diagnosis of pulmonary embolism was shown in Figure 1. Based on the new ESC guidelines, instead of a fixed-cut off level of D-dimers (500 ng/mL), an age-adjusted cut-off level of D-dimers should be considered to exclude PE in patients with low or intermediate clinical possibility for PE and in those where PE is unlikely[7,8]. The age-adjusted cut-off level of D-dimers is calculated by multiplying the age of the patient by 10 (for patients older than 50 years). Thus, in a 60-year-old patient who has a low or intermediate clinical possibility for PE or who is unlikely to have PE, D-dimers levels < 600 ng/mL (i.e., age × 10) instead of D-dimers levels < 500 ng/mL (i.e., the fixed-cut off level) excludes PE. On the other hand, in a 40-year-old patient who has a low or intermediate clinical possibility for PE or who is unlikely to have PE, the fixed-cut off D-dimers level of < 500 ng/mL should be used, since the patient is younger than 50 years.
+
+**Figure 1** · Flow chart for the diagnosis of pulmonary embolism. PE: Pulmonary embolism; RV: Right ventricle; CTPA: Computed tomography pulmonary angiography.
+
+A D-dimer test adapted to clinical possibility should also be considered instead of fixed cut-off level of D-dimer[6]. Based on the YEARS study, if D-dimer levels are < 1000 ng/mL and none of the 3 clinical items of Wells score (signs of DVT, hemoptysis or PE being the most likely diagnosis) are present or if D-dimer levels are < 500 ng/mL and one or more clinical items of Wells score are present, then a diagnosis of PE should be excluded[9].
+
+There is also a change in the class of recommendation for the use of D-dimer levels during pregnancy and the post-partum period. According to the new guidelines, D-dimer measurement and clinical prediction rules should be considered to exclude PE during pregnancy and post-partum period[6]. Moreover, in case of suspected PE during pregnancy or the first 6 weeks post-partum, a specific diagnostic workup is provided to rule out or confirm the diagnosis of PE[6]. This updated diagnostic algorithm is based on recently published multicenter trials[10,11].
+
+Furthermore, the 2019 guidelines
+
+--- FUENTE WEB ---
+Título: International Clinical Practice Guideline Recommendations for Acute Pulmonary Embolism: Harmony, Dissonance, and Silence | JACC
+URL: https://www.jacc.org/doi/10.1016/j.jacc.2024.07.044
+Score: 0.74223495
+
+Texto:
+# International Clinical Practice Guideline Recommendations for Acute Pulmonary Embolism: Harmony, Dissonance, and Silence
+
+## Abstract
+
+1
+
+,
+
+[Although overall case fatality and mortality rates have declined in the United States and Europe, the number of deaths appears to be increasing in key subpopulations, including young and middle-aged adults and those with more severe presentations.](#core-collateral-bib2)
+
+2
+
+3-6
+
+[However, as with other areas of cardiovascular medicine, heterogeneity in the clinical care of patients with PE, especially as related to social determinants of health, runs counter to this effort.](#core-collateral-bib7)
+
+7
+
+8
+
+,
+
+[Further complicating the care of patients with PE is the rapidly expanding number of interventional options, including catheter-based therapies and mechanical circulatory support devices, many with only limited evidence of efficacy and safety from randomized trials.](#core-collateral-bib9)
+
+9
+
+[Inadequate data for integration of device therapy for PE as well as other key aspects of management, such as lifestyle modification and follow-up for short- and long-term complications, hamper the ability of guideline writing committees to provide clear or consistent recommendations. The multiplicity of guidelines, scientific statements, and standardization documents as well as numerous areas of disagreement and inconsistency in recommendations may leave the clinician without a clear management pathway.](#core-collateral-bib10)
+
+10
+
+## Methodology
+
+*guidelines*), we focused on those that were published in English language from European or North American societies and were based on systematic evidence review (ie, predefined and preferentially reproducible search criteria) and evidence synthesis (such as those of Grading of Recommendations Assessment, Development and Evaluation \[GRADE] criteria
+
+[).](#core-collateral-bib11)
+
+11
+
+[Pulmonary Embolism Response Team Consortium (PERT),](#core-collateral-bib2)
+
+2
+
+[CHEST (previously referred to as the American College of Chest Physicians guidelines),](#core-collateral-bib12)
+
+12
+
+[the American Heart Association (AHA),](#core-collateral-bib13)
+
+13
+
+[the American Society of Hematology (ASH),](#core-collateral-bib14)
+
+14
+
+[and the National Institute for Health and Care Excellence (NICE).](#core-collateral-bib15)
+
+15-19
+
+20
+
+,
+
+[Some professional societies provided all recommendations in one document, and others published them in multiple documents. If the latter was the case for any given question, the reference was to the most updated document that followed the eligibility criteria. In addition to summarizing those guidelines, at the conclusion of each section, practical considerations are offered by the current author group. Of note, differences in guideline recommendations are likely multifactorial, and are partly driven by the time of publication (and evidence review) or regional variation in resource availability and treatment strategies.](#core-collateral-bib21)
+
+21
+
+## Diagnosis of Acute PE
+
+2
+
+,
+
+12
+
+,
+
+15
+
+,
+
+[(](#core-collateral-bib20)
+
+20
+
+[Figure 1](#fig1)). ESC/ERS, NICE, ASH, and PERT guidelines propose utilization of stepwise diagnostic algorithms.
+
+2
+
+,
+
+12
+
+,
+
+15
+
+,
+
+[Most current guidelines emphasize initial patient assessment using validated pretest probability scores, with different preferences between documents for tools such as the Wells’ or the Geneva score.](#core-collateral-bib20)
+
+20
+
+22
+
+,
+
+[Furthermore, all recommend D-dimer testing to exclude acute PE in case of non–high-pretest probability; ESC/ERS](#core-collateral-bib23)
+
+23
+
+[and PERT](#core-collateral-bib2)
+
+2
+
+[suggest using age-adjusted](#core-collateral-bib12)
+
+12
+
+[or probability-adapted](#core-collateral-bib24)
+
+24
+
+[cutoffs, whereas NICE](#core-collateral-bib25)
+
+25
+
+[and ASH](#core-collateral-bib20)
+
+20
+
+[suggest the use of age-adjusted cutoffs in patients over 50 years of age. ASH,](#core-collateral-bib15)
+
+15
+
+[NICE,](#core-collateral-bib15)
+
+15
+
+[and PERT](#core-collateral-bib20)
+
+20
+
+[suggest the use of the Pulmonary Embolism Rule-out Criteria (PERC)](#core-collateral-bib12)
+
+12
+
+[in patients felt to have a low pretest probability of PE, allowing the identification of a patient subgroup in whom no further testing is indicated. The ESC/ERS](#core-collateral-bib26)
+
+26
+
+[does not incorporate the Pulmonary Embolism Rule-out Criteria,](#core-collateral-bib2)
+
+2
+
+[noting that the evidence for its use is still limited and may be unsafe to rule out acute PE in settings with an expected higher prevalence of PE.](#core-collateral-bib26)
+
+26
+
+![](https://www.jacc.org/cms/10.1016/j.jacc.2024.07.044/asset/a55c999b-e156-4f81-b20a-d1abd9a1118e/assets/graphic/gr1.jpg)
+
+[ESC/ERS,](#core-collateral-bib27)
+
+27
+
+[NICE,](#core-collateral-bib2)
+
+2
+
+[and PERT](#core-collateral-bib20)
+
+20
+
+[highlight that computed tomographic pulmonary angiography (CTPA) is the primary diagnostic imaging tool for acute PE. In contrast, the ASH guidelines recommend the use of ventilation/perfusion (V/Q) lung scan over CTPA to limit radiation exposure, in centers able to perform studies rapidly and with the expertise to interpret the results in a timely manner.](#core-collateral-bib12)
+
+12
+
+[The use of CTPA is suggested when V/Q scanning and review by experts are not feasible.](#core-collateral-bib15)
+
+15
+
+[Both the ESC/ERS](#core-collateral-bib15)
+
+15
+
+[and PERT](#core-collateral-bib2)
+
+2
+
+[documents suggest the use of transthoracic echocardiography (TTE), V/Q lung scintigraphy, or pulmonary angiography, when available, in case of contraindications or inability to obtain CTPA. Furthermore, in patients with clinical deterioration and suspected PE, the ESC/ERS guidelines recommend bedside echocardiography or emergency CTPA, depending on availability and clinical circumstances, for diagnosis and prognostication.](#core-collateral-bib12)
+
+12
+
+[Additionally, the ESC/ERS guidelines](#core-collateral-bib2)
+
+2
+
+[suggest the use of compression ultrasound of the lowe
+
+--- FUENTE WEB ---
+Título: Managing right ventricular failure in the setting of pulmonary embolism | Cleveland Clinic Journal of Medicine
+URL: https://www.ccjm.org/content/92/5/301
+Score: 0.717309
+
+Texto:
+## ABSTRACT
+
+Pulmonary embolism (PE) has a significant impact on right-sided heart function. Clinical presentation can range from no involvement of the right ventricle to right ventricular dysfunction, cardiogenic shock, and even cardiac arrest. The authors explore the pathophysiology of PE-induced right ventricular failure, emphasizing the mechanisms by which PE contributes to dysfunction, current diagnostic tools for risk stratification, and the importance of timely diagnosis. The primary focus is on strategies for managing right ventricular failure secondary to PE, including medical, percutaneous interventional, and surgical options. Recent advances in the field are also noted, including emerging therapies and evolving treatment algorithms.
+
+- Inpatient mortality for patients with high-risk PE is as high as 42.1% and is primarily due to right ventricular dysfunction from a sudden rise in right ventricular afterload.
+- Risk of mortality is classified as low, intermediate (intermediate low-risk and intermediate high-risk), and high.
+- Management of PE with right ventricular involvement of varying severity requires prompt and concomitant integration of several approaches: management of hemodynamics (preload and afterload), reperfusion, pharmacologic support, supportive care, and, in refractory cases, use of mechanical circulatory support and advanced therapy.
+
+Pulmonary embolism (PE) significantly impacts right-sided heart function. Clinical presentation can range from no involvement of the right ventricle to right ventricular dysfunction, cardiogenic shock, and even cardiac arrest. In a retrospective subset from the Pulmonary Embolism Response Team Consortium Registry,[1](#ref-1) inpatient mortality was as high as 42.1% in patients with high-risk PE with hemodynamic collapse (termed *catastrophic* PE). Management requires critical evaluation, risk stratification, and multidisciplinary care that can include medical, percutaneous interventional, and surgical options. This article predominantly discusses patients classified as having intermediate- and high-risk PE, given the associated hemodynamics and involvement of the right ventricle.
+
+## RIGHT VENTRICULAR FAILURE IN ACUTE PE
+
+Acute PE is associated with an elevated risk of death, primarily due to acute right ventricular dysfunction resulting from a sudden rise in right ventricular afterload.[2](#ref-2) Vascular obstruction caused by thrombus in the pulmonary arterial circulation can lead to significant increases in pulmonary pressures and pulmonary vascular resistance, raising right ventricular afterload. In PE, hypoxemia and pulmonary vasoconstrictors also contribute to pulmonary vascular resistance. The crescent-shaped right ventricle, characterized by fine layers of myofibrils arranged in series for volume expansion and enhanced compliance compared with the left ventricle, is designed to tolerate preload changes and is compliant in low-pressure systems. It struggles to adapt rapidly to acute elevations in circulatory pressures and has limited capacity to adapt to sudden increases in afterload.
+
+During an acute PE, the right ventricle attempts to preserve right ventricle–pulmonary artery coupling and maintain stroke volume and cardiac output by dilating and altering its geometry.[3](#ref-3) However, the right ventricle cannot endure consistently elevated pressures, which leads to further right ventricular dilation and acute septal deviation toward the left ventricle, giving rise to altered ventricular interdependence—a phenomenon where the performance of one ventricle is influenced by the other due to the shared interventricular septum. Consequently, the right ventricle exerts pressure on the interventricular septum, impairing filling of the left ventricle, decreasing left ventricular preload, and reducing blood supply to the coronary arteries.
+
+The increase in right ventricular intramural pressure and wall tension also causes straightening of the wall of the right ventricle, leading to decreased right coronary artery perfusion and right ventricular ischemia, even in individuals without preexisting coronary disease.[2](#ref-2) Furthermore, with persistent right ventricular dilation and enlargement, the tricuspid valve annulus may expand, resulting in inadequate closure of the valve leaflets and subsequent secondary tricuspid regurgitation. These effects create a cycle of ischemia, compounded by decreased oxygenation from obstructive thrombotic material, resulting in a drop in blood pressure and hemodynamic changes, all of which may manifest as syncope, hypotension, cardiogenic shock, and cardiac arrest ([Figure 1](#F1)).[2](#ref-2),[4](#ref-4) Moreover, this dysfunction permits retrograde blood flow into the right atrium, compromising right ventricular filling, elevating right atrial pressure, and contributing to progressive venous congestion.
+
+![Illustration of the pathophysiology and development of right ventricular (RV) failure in the setting of acute increase in afterload caused by pulmonary embolism. LV = left ventricular Based on information from references 2 and 4.](https://www.ccjm.org/content/ccjom/92/5/301/F1.medium.gif)
+
+## DIAGNOSTIC AND PROGNOSTIC TOOLS IN ACUTE PE
+
+Signs of right ventricular involvement can be observed through laboratory and imaging studies. Computed tomography pulmonary angiography has been a cornerstone in the diagnosis of acute PE due to its detailed contrast enhancement of pulmonary vasculature. It is also a valuable tool in assessment of the right ventricle. Per the 2019 European Respiratory Society (ERS) guidelines, an increase in the right ventricle-to-left ventricle diameter ratio greater than 1 found with computed tomography pulmonary angiography ([Figure 2](#F2)) is indicative of acute right ventricular dysfunction, and is associated with increased risk of adverse outcomes and all-cause and PE-related mortality.[5](#ref-5)–[7](#ref-7) Additional findings that may be supportive of acute right v
+
+--- FUENTE WEB ---
+Título: Managing Pulmonary Embolism - Annals of Emergency Medicine
+URL: https://www.annemergmed.com/article/S0196-0644(23)00033-1/fulltext
+Score: 0.6952346
+
+Texto:
+Patients with intermediate-risk PE (“submassive”) are hemodynamically stable but exhibit signs of right ventricular dysfunction. trial JAMA.
+
+--- FUENTE WEB ---
+Título: Pulmonary Embolism and Right Ventricular Dysfunction: Mechanism and Management
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11443303
+Score: 0.6806664
+
+Texto:
+# Pulmonary Embolism and Right Ventricular Dysfunction: Mechanism and Management
+
+Ogbonnaya N Ajah
+
+Cureus · 2024-09-30 · 16(9):e70561 · DOI: 10.7759/cureus.70561 · PMID: 39355468 · PMCID: PMC11443303
+
+## Abstract
+
+Pulmonary embolism (PE) occurs when thrombi from deep vein thrombosis dislodge and obstruct pulmonary arteries, raising pulmonary artery pressure and straining the right ventricle. This strain can lead to right ventricular dysfunction (RVD), characterized by reduced cardiac output, impaired contractility, and potential development of chronic thromboembolic pulmonary hypertension. Clinically, PE may present with symptoms such as dyspnea, pleuritic chest pain, and tachycardia. Diagnosis is typically confirmed through computed tomography pulmonary angiography, biomarkers like D-dimer and cardiac troponins, and clinical scoring systems. Acute management focuses on hemodynamic support, including intravenous fluids and vasopressors, and may involve anticoagulation with low-molecular-weight heparin or direct oral anticoagulants. Severe cases may require systemic anticoagulation, catheter-directed techniques, and surgeries like pulmonary endarterectomy. Long-term management involves continued anticoagulation tailored to individual risk factors, with ongoing monitoring to prevent recurrence. Effective early diagnosis and management are crucial, as severe PE can significantly increase mortality and lead to serious complications. This review explores the pathophysiology, diagnosis, and management of PE and RVD.
+
+## Keywords
+
+anticoagulants, hemodynamics, heart ventricles, management, mechanisms, right ventricular dysfunction, pulmonary embolism
+
+## Introduction and background
+
+Pulmonary embolism (PE) is a severe and frequently life-threatening condition resulting from the obstruction of a pulmonary artery or its branches, typically due to a thrombus that has migrated from deep vein thrombosis (DVT) [1]. This obstruction disrupts blood flow to the lungs, causing an acute elevation in pulmonary arterial pressure. The resultant increase in pressure imposes substantial strain on the right ventricle (RV), the cardiac chamber responsible for propelling blood into the pulmonary circulation. As the RV attempts to manage the heightened workload, it may become overwhelmed, leading to right ventricular dysfunction (RVD). This dysfunction compromises the heart's ability to pump blood effectively, potentially resulting in reduced cardiac output, hypotension, and further systemic circulatory impairment. Significant hemodynamic compromise can occur in up to 8% of patients with acute PE. This condition is linked to a substantial rise in mortality rates, ranging from 15% to 42%, primarily due to acute right ventricular failure [2]. Clinically, PE can present with acute symptoms such as sudden onset of dyspnea, sharp chest pain, tachycardia, and in severe cases, syncope or collapse [3]. Long-term complications, including chronic thromboembolic pulmonary hypertension (CTEPH), can arise when elevated pulmonary pressures persist, leading to sustained RV impairment and ongoing cardiovascular strain [4].
+
+The clinical significance of PE and RVD is substantial due to their impact on patient outcomes and healthcare systems. PE is a common disorder with an estimated yearly incidence of 0.7 to 1 per 1000 inhabitants in the Western world [5]. It is a leading cause of cardiovascular morbidity and mortality globally, with prevalence influenced by variables such as age, underlying health conditions, and lifestyle factors. RVD plays a critical role in the severity of PE and is associated with increased mortality and adverse outcomes. Patients exhibiting RVD face a higher risk of severe complications, including shock and death, and often require more intensive therapeutic interventions. In-hospital mortality due to PE ranges from 22.0% to 31.8%, increasing up to 65% in cases of cardiac arrest [6], with most deaths occurring within the first hour [7]. This highlights the critical need for early recognition and treatment. Research indicates that the presence of RVD is correlated with poorer prognosis and can complicate the management of PE, underscoring the importance of early detection and timely treatment [8]. A comprehensive understanding of the prevalence and impact of RVD in PE patients is essential for developing effective treatment strategies and enhancing patient outcomes. This review aims to comprehensively evaluate the mechanisms and management strategies associated with PE and RVD by analyzing the evidence from the current available literature. The objectives include examining the pathophysiological processes through which PE induces RVD, assessing the clinical impact of RVD on patient outcomes, and reviewing current treatment approaches.
+
+## Review
+
+Discussion
+
+Pathophysiology and Mechanism
+
+Pulmonary embolism: Most PEs arise from thrombi in the deep veins of the lower extremities, primarily in the calf veins, followed by the femoropopliteal veins, and less frequently in the iliac veins. Thrombosis often occurs in areas with reduced blood flow, such as near valve cusps and at bifurcations, and can be exacerbated by local hypercoagulability due to factors like hypoxia and hemoconcentration [9]. A smaller fraction of emboli originates from upper extremity veins, typically associated with central venous catheters, intracardiac devices such as pacemakers and defibrillators, malignancy, or trauma related to activity. Additionally, DVT in the pelvic veins can lead to PEs, especially when accompanied by risk factors such as pelvic infections, surgeries, or pregnancy. Central DVTs in the lower extremities are more likely to result in PE for 15%-32%, while those in the upper extremities have a lower incidence of PE approximately 6% [9].
+
+PE occurs when clots formed in the deep venous system break loose and travel to block the pulmonary arteries. Smaller PEs may resolve on their own, but larger clots can cause a rapid a
+
+--- FUENTE WEB ---
+Título: Acute PE Guideline Offers More Nuanced Risk Stratification
+URL: https://consultqd.clevelandclinic.org/guideline-for-acute-pe-offers-nuanced-risk-stratification
+Score: 0.67082393
+
+Texto:
+New framework better distinguishes stable from critically ill patients
+
+**Image content:** This image is available to view online.
+
+View image online (https://assets.clevelandclinic.org/transform/17d43410-964f-4244-9615-e34749b00a74/Pulmonary-Embolism-Labeled)
+
+clot in a lung passageway with an arrow pointing at it
+
+Recent months saw the release of the first-ever comprehensive, multidisciplinary clinical guideline in the U.S. on the evaluation and management of adults with acute pulmonary embolism (PE).
+
+Advertisement
+
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.Policy
+
+The document, issued by a multispecialty group of 10 medical societies spearheaded by the American Hospital Association (AHA) and the American College of Cardiology (ACC), provides a welcome alternative to the most recent (2019) acute PE guidelines from the European Society of Cardiology (ESC), which U.S. physicians found insufficient to meet clinical needs.
+
+“The ESC guidelines divide patients with PE into three risk categories: low, intermediate and high,” says Cleveland Clinic vascular medicine physician Leben Tefera, MD, who served on the writing committee for the AHA/ACC/Multisociety guideline. “A general classification system like that makes it hard to know which patients are critically ill and might benefit from evolving technology. We wanted a more clinically appropriate classification that would be helpful in differentiating patients who are stable enough to go home the same day from those who are very sick. Now we have it.”
+
+PE may be managed by various types of clinicians — pulmonologists, critical care specialists, vascular medicine physicians, cardiologists, emergency medicine physicians, interventional radiologists and others — which has rendered it somewhat of an orphan disease.
+
+Dr. Tefera suspects that this ambiguity about the specialty to which PE “belongs” may be a key reason why medical organizations have been hesitant to claim ownership of the disease and take up its cause. Fortunately, the AHA and ACC stepped in to fill the need. Nevertheless, developing the guideline proved to be a multiyear process that involved dozens of multidisciplinary experts.
+
+The central feature of the new AHA/ACC/Multisociety guideline — which is jointly published in *Circulation* and the *Journal of the American College of Cardiology* — is an updated classification system consisting of five clinical categories of acute PE, ranging from lowest risk (A) to highest risk (E) for adverse outcomes. Categories are divided into subcategories, as detailed in the summary of the classification below.
+
+Patients in Categories A and B have no or mild symptoms and a low risk of severe complications; they typically can be safely discharged from the emergency department. Categories C-E include people with symptoms of acute PE who are at higher risk of adverse outcomes and require hospitalization.
+
+| Essentials of the Classification System |
+|---|
+| CATEGORY A. Subclinical (incidental and asymptomatic) |
+| CATEGORY B. Symptomatic (low clinical severity score) |
+| B1. Subsegmental (single/multiple) |
+| B2. Non-subsegmental |
+| CATEGORY C. Symptomatic (elevated clinical severity score) |
+| C1. Normal right ventricle and normal biomarkers |
+| C2. Abnormal right ventricle or ≥1 abnormal biomarker |
+| C3. Abnormal right ventricle and ≥1 abnormal biomarker |
+| ± R. Respiratory modifier (O2 &lt;90%, respiratory rate ≥30, need supplemental O2) |
+| CATEGORY D. Incipient Cardiopulmonary Failure |
+| D1. Transient hypotension |
+| D2. Normotensive shock |
+| ± R. Respiratory modifier (&gt;6 L nasal cannula or use of a nonrebreather mask) |
+| CATEGORY E. Cardiopulmonary Failure |
+| E1. Recurrent or persistent hypotension with cardiogenic shock |
+| E2. Refractory cardiogenic shock or cardiac arrest |
+| ± R. Respiratory modifier (hypoxemic respiratory failure or ventilatory failure) |
+| Essentials of the Classification System |
+| CATEGORY A. Subclinical (incidental and asymptomatic) |
+| CATEGORY B. Symptomatic (low clinical severity score) |
+| B1. Subsegmental (single/multiple) |
+| B2. Non-subsegmental |
+| CATEGORY C. Symptomatic (elevated clinical severity score) |
+| C1. Normal right ventricle and normal biomarkers |
+| C2. Abnormal right ventricle or ≥1 abnormal biomarker |
+| C3. Abnormal right ventricle and ≥1 abnormal biomarker |
+| ± R. Respiratory modifier (O2 &lt;90%, respiratory rate ≥30, need supplemental O2) |
+| CATEGORY D. Incipient Cardiopulmonary Failure |
+| D1. Transient hypotension |
+| D2. Normotensive shock |
+| ± R. Respiratory modifier (&gt;6 L nasal cannula or use of a nonrebreather mask) |
+| CATEGORY E. Cardiopulmonary Failure |
+| E1. Recurrent or persistent hypotension with cardiogenic shock |
+| E2. Refractory cardiogenic shock or cardiac arrest |
+| ± R. Respiratory modifier (hypoxemic respiratory failure or ventilatory failure) |
+
+“These categories provide much better stratification of patients who are sick and who are not sick,” Dr. Tefera says. “They make it easier to decide whether to treat a patient with anticoagulation alone versus a more advanced therapy like thrombectomy, catheter-based thrombolysis or surgical embolectomy.”
+
+In addition to improving patient care in the short term, the expanded clinical classification system is expected to have a long-term impact on clinical trials.
+
+“A very narrow classification system makes it hard to know which patients are best suited to receive an advanced intervention,” Dr. Tefera explains. “Having additional classes into which patients can fit is helpful in determining which patients will benefit most from a procedure and which don’t need it.”
+
+Recommendations for treating patients in each of the five categories were updated following a review of the extensive literature on acute PE published in recent years. One major change is that low-molecular-weight heparin has re
+
+--- FUENTE WEB ---
+Título: Managing Right Ventricular Failure in Pulmonary Embolism - Cardiac Interventions Today
+URL: https://citoday.com/articles/2023-mar-apr/managing-right-ventricular-failure-in-pulmonary-embolism
+Score: 0.6627965
+
+Texto:
+Advertisement
+
+Advertisement
+
+##### [March/April 2023](https://citoday.com/issues/2023-mar-apr)
+
+# Managing Right Ventricular Failure in Pulmonary Embolism
+
+Experience and evidence for the use of mechanical circulatory support for managing high-risk PE associated with shock.
+
+Every year in the United States, roughly 370,000 patients develop a pulmonary embolism (PE), with &gt; 100,000 Americans dying annually from venous thromboembolic disease.1 The clinical significance of the PE depends on the right ventricular (RV) response to the clot and the increase in afterload. Patients with RV strain defined by positive biomarkers and RV enlargement are termed intermediate-high risk because they are at risk of progressing to shock. Those who present with cardiac arrest, hypotension, and evidence of end-organ hypoperfusion are termed high risk.2,3 Patients who progress to shock are associated with mortality rates of &gt; 50%, making PE the third-leading cause of cardiovascular death after myocardial infarction (MI) and stroke.4 Although awareness and treatment options are improving, PE remains a significant public health problem.
+
+During cardiogenic shock, mechanical circulatory support (MCS) serves as a bridge to maintain perfusion to the body long enough to allow for the correction of the underlying problem ([Figure 1](https://core4-cms.imgix.net/issue-2402/0323_SF2_Fig1.png?auto=compress%2Cformat)). MCS use is ideal in scenarios in which there is an acute insult that is treatable, such as PE. Treatment options for PE have evolved beyond just anticoagulation and systemic thrombolytics to include surgical embolectomy and catheter-based percutaneous technologies.
+
+![](https://core4-cms.imgix.net/issue-2402/0323_SF2_Fig1.png?auto=compress%2Cformat)
+
+Figure 1. MCS represented as a bridge to definitive treatment for PE.
+
+In fact, our modern-day mechanical support devices are in a large part based on work done in the early 20th century after a patient died of PE. Dr. John Gibbon was a young surgeon in 1930 when he was tasked to care for a patient with a massive PE dying of progressive RV failure. Helplessly watching her pass away, he dedicated his research to developing a machine that would remove venous blood from the body, oxygenate this blood, and then return the blood to the arterial circulation, completely bypassing the cardiopulmonary system. By the late 1930s, he developed an extracorporeal oxygenation machine that gradually prolonged life from minutes to eventually weeks when the pulmonary artery was occluded. This technology allowed for more complex cardiac surgeries and served as the basis for future MCS devices.5
+
+Although anticoagulation and systemic thrombolysis remain the standard for treatment per the guidelines, we are entering an era with rapid advancement of catheter-based technologies and MCS to treat PE. This article focuses on the use of MCS as part of the modern-day treatment armamentarium.
+
+### MODERN-DAY THERAPY FOR PE
+
+Anticoagulation remains the cornerstone therapy for treating all severities of PE. Anticoagulation prevents further clot formation while allowing the body’s own fibrinolysis to break down the clot, which can take time. Therefore, patients entering the shock spectrum often need a more rapid mechanism for clot reduction.
+
+Systemic thrombolysis is the primary recommendation for high-risk PE patients based on American and European guidelines.2-6 This is based on historic data derived from older studies with small sample sizes. Meta-analyses have shown a benefit of systemic thrombolysis compared to anticoagulation alone,7-9 but significant limitations do exist and successful improvement in hemodynamics is not guaranteed. Limitations of thrombolysis include major bleeding, intracranial hemorrhage, the inability to use in patients with contraindications, and higher rates of complications if MCS is needed afterward.
+
+Due to the limitation of systemic thrombolysis, the concept of catheter-directed thrombolysis (CDT)—in which a lower-dose thrombolytic agent is delivered directly into the pulmonary arteries—began to form. There are now several catheters designed for drug delivery into the pulmonary artery, leading to improvements in hemodynamics and RV function.10-14 To date, these studies primarily focused on intermediate-risk PE patients, with some successful data in sicker patients who are in shock. CDT can lead to significant hemodynamic improvements over the course of a few hours but prospective studies in high-risk PE are limited.13 The ease of insertion and rapid procedure time are major benefits but the true bleeding risk, the best delivery system, and optimal duration of infusion are still being investigated.
+
+PE is caused by embolization of thrombus to the pulmonary artery and therefore it makes intuitive sense to develop tools to extract these clots as a form of treatment. Surgical thrombectomy achieves this but requires a sternotomy and is limited to surgeons with expertise. Several percutaneous devices now exist that allow for rapid extraction of large thrombus, with several more devices in development. [Figure 2](https://core4-cms.imgix.net/issue-2402/0323_SF2_Fig2.png?auto=compress%2Cformat) demonstrates a saddle PE in a deceased patient and another patient in whom the saddle PE was successfully removed via mechanical thrombectomy (MT). These devices range from 8 to 24 F in size and can be performed via the jugular or femoral veins. These devices have been primarily studied in the intermediate-risk cohort,15-17 but the FlowTriever system (Inari Medical) was recently used in high-risk patients with success and low rates of complications.18,19 As the technology for thrombectomy improves so do the success rates of quickly removing large amounts of thrombus, leading to rapid hemodynamic improvements immediately during the procedure. High success rates, low complication rates, and an increase in the availability of these devices has made percutaneous thrombectom
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
