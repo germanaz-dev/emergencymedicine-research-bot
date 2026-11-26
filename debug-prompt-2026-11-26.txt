@@ -1,0 +1,554 @@
+Eres un médico de urgencias experto, editor científico y analista crítico de evidencia.
+
+Tema de actualización: delirium in older adults in the emergency department
+
+PAPERS RECUPERADOS DE PUBMED:
+--- PAPER PUBMED ---
+Título: Multidisciplinary Perioperative and Post-Acute Care for Older Adults with Hip Fracture and Cognitive Impairment or Dementia: A Narrative Review.
+Revista: Journal of multidisciplinary healthcare
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42968950
+DOI: 10.1186/s12877-019-1133-z
+URL: https://pubmed.ncbi.nlm.nih.gov/42968950/
+
+Abstract:
+Hip fracture care becomes more complex when an older adult has cognitive impairment. Pain may be expressed behaviorally, consent and goals of care may require supported decision-making, delirium can be difficult to distinguish from baseline impairment, and rehabilitation must accommodate altered learning and communication. Unlike reviews focused predominantly on individual management domains, this narrative review integrates evidence across the entire care pathway, from emergency assessment and perioperative management to inpatient care, post-acute rehabilitation, and discharge planning, with particular emphasis on how cognitive impairment affects care coordination and continuity. The most consistent priorities are timely surgery after correction of reversible instability, reliable recognition and treatment of pain and delirium, early supported activity, and access to rehabilitation adapted to the person's abilities. Cognitive impairment changes how these elements are delivered; it is not, by itself, a reason to withhold them. Decisions about discharge and longer-term recovery are better anchored in prefracture function, transfer ability, residence, caregiver capacity, and the patient's goals than in a cognitive label alone. In advanced dementia, operative and non-operative management are both active care pathways and require explicit discussion of comfort, transfers, nursing burden, survival, and previously expressed values. Direct evidence is most limited for patients with moderate or severe dementia, who are commonly excluded from trials despite being among those most vulnerable to gaps in care.
+
+--- PAPER PUBMED ---
+Título: Cognitive impairment after critical illness: A scoping review of recovery trajectories, assessment practices, and risk factors.
+Revista: Australian critical care : official journal of the Confederation of Australian Critical Care Nurses
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42849346
+DOI: 10.1016/j.aucc.2026.101698
+URL: https://pubmed.ncbi.nlm.nih.gov/42849346/
+
+Abstract:
+Persistent cognitive impairment is an important long-term sequela of critical illness, yet evidence regarding its post-intensive care unit (ICU) trajectories, determinants, and assessment practices remains fragmented. The aim of this study was to map the literature on persistent post-ICU cognitive impairment among adult survivors of critical illness, with particular attention to recovery trajectories, cognitive assessment practices, associated risk factors, and evidence gaps. A scoping review was conducted following the Joanna Briggs Institute methodology and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews guidelines. Cochrane, CINAHL, Embase, MEDLINE, and ClinicalTrials.gov were searched from inception to 20 November 2025. Studies involving adult ICU survivors (aged ≥18 years) reporting postdischarge cognitive outcomes, including persistent post-ICU cognitive impairment, were included. In contrast, studies assessing cognitive dysfunction exclusively during hospitalisation or delirium without postdischarge cognitive assessment were excluded. Data were synthesised using descriptive and evidence-mapping approaches. Forty-one studies were included, predominantly prospective cohort studies from Europe and North America. Cognitive impairment was most prevalent within the first month after ICU discharge, with substantial heterogeneity in recovery trajectories over time. While partial recovery occurred in some individuals, a considerable proportion experienced persistent impairment at mid- and long-term follow-up. Memory and executive functions were most frequently affected. Associated factors were clustered into six domains: patient vulnerability, ICU-related factors, sedation and treatment exposure, psychological factors, biomarkers/neurobiology, and protective or modifiable factors. Considerable variability existed in cognitive assessment tools and timing, with limited alignment across domains and follow-up phases. Evidence mapping revealed gaps in studies of older adults, low- and middle-income settings, and intervention-based research beyond early recovery. Persistent post-ICU cognitive impairment is common and heterogeneous among adult survivors of critical illness, with cognitive deficits often emerging early after ICU discharge and persisting in some survivors. These findings support the conceptualisation of cognitive recovery as a dynamic and multifactorial process influenced by patient vulnerability, critical illness, treatment exposures, and postdischarge factors. Evidence remains limited regarding predictors of prolonged or persistent impairment. Greater standardisation of cognitive assessment and longitudinal and interventional research is needed to characterise recovery trajectories, identify individuals at risk of persistent impairment, and evaluate potentially modifiable targets.
+
+--- PAPER PUBMED ---
+Título: Feasibility of the Four 'A's Test (4AT) Delirium Screening Tool in Older Adults Presenting to the Emergency Department: A Rapid Systematic Review.
+Revista: Cureus
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42724819
+DOI: 10.7759/cureus.114359
+URL: https://pubmed.ncbi.nlm.nih.gov/42724819/
+
+Abstract:
+Delirium is a common, serious, and frequently underdiagnosed condition in older adults presenting to the emergency department (ED). The Four 'A's Test (4AT) is a brief, validated delirium screening tool requiring no specialist training or equipment, making it potentially well-suited to the fast-paced ED environment. However, evidence on its feasibility in this setting remains limited and has not been systematically synthesised. This rapid systematic review aimed to evaluate the feasibility of the 4AT, including completion time, completion rates, staff acceptability, and implementation barriers and facilitators, in EDs for adults aged 65 years and older. A rapid systematic review was conducted in accordance with PRISMA 2020 guidelines and prospectively registered on PROSPERO (CRD420261370525). PubMed, MEDLINE via Ovid, and EMBASE via Ovid were searched from January 2011 to April 2026. Two reviewers independently screened titles, abstracts, and full texts, with conflicts resolved by discussion. Primary studies reporting feasibility outcomes for the 4AT in an ED setting in adults aged ≥65 were included. Data were extracted using a standardised form and methodological quality was assessed using the Joanna Briggs Institute (JBI) critical appraisal checklist appropriate to each study design. Findings were synthesised narratively. A total of 195 records were identified across PubMed, MEDLINE, and EMBASE. Following removal of 98 duplicates, 97 unique records were screened at title and abstract stage, of which 23 were retrieved for full-text review. Six studies met the inclusion criteria and were included in the final synthesis (UK n = 3, Spain n = 1, Norway n = 1, Netherlands n = 1). The available evidence suggests that the 4AT is feasible across emergency care settings, with short completion times, high acceptability among healthcare professionals, and minimal training requirements. Implementation success was influenced primarily by organisational factors, with education, electronic integration, and workflow support facilitating uptake, while time pressures and competing clinical demands remained key barriers. The available evidence suggests that the 4AT is a feasible delirium screening tool for older adults presenting to EDs, demonstrating rapid administration, minimal training requirements, and generally positive staff acceptability. However, successful implementation appears to depend on organisational factors, including staff education, workflow integration, and clear allocation of screening responsibilities. These findings support consideration of the 4AT within ED delirium screening pathways, while highlighting the need for further research on implementation strategies and long-term clinical outcomes.
+
+--- PAPER PUBMED ---
+Título: Efficacy and hemodynamic safety of perioperative dexmedetomidine for the prevention of postoperative delirium in elderly patients undergoing cardiac surgery: an updated systematic review and meta-analysis of randomized controlled trials.
+Revista: Frontiers in neurology
+Fecha: 2026
+Tipo: Journal Article, Systematic Review, Meta-Analysis
+PMID: 42656262
+DOI: 10.1016/j.athoracsur.2019.03.078
+URL: https://pubmed.ncbi.nlm.nih.gov/42656262/
+
+Abstract:
+Postoperative delirium (POD) is a common and clinically important complication after cardiac surgery in older adults. We performed an updated systematic review and meta-analysis of randomized controlled trials (RCTs) to evaluate the efficacy and hemodynamic safety of perioperative dexmedetomidine for POD prevention in older adults undergoing cardiac surgery. We searched PubMed, Embase, Scopus, and the Cochrane Central Register of Controlled Trials from inception through July 12th, 2026 for RCTs comparing perioperative dexmedetomidine with placebo or alternative sedative /analgesic regimens in elderly patients aged 60 years or older, or in extractable elderly subgroups, undergoing cardiac surgery. Primary outcomes were POD incidence and delirium duration. Secondary outcomes included length of intensive care unit (ICU) stay, length of hospital stay, and the risk of bradycardia and hypotension. Fifteen RCTs involving 3,274 patients were included. Perioperative dexmedetomidine was associated with a lower incidence of POD (Risk Ratio [RR] 0.70, 95% Confidence Interval [CI] 0.56 to 0.86, p = 0.001, I2 = 19%; GRADE: moderate certainty) and shorter duration of delirium among patients with POD (Mean Difference [MD] -1.12 days, 95% CI -1.89 to -0.35, p = 0.01, I2 = 83%; GRADE: low certainty). The apparent benefit was more evident in active-comparator trials than in placebo/saline-controlled trials, but this comparator-dependent pattern should not be interpreted as proof of a uniform neuroprotective effect. However, dexmedetomidine was associated with increased bradycardia (RR 2.08, 95% CI 1.31 to3.31, p = 0.0019, I2 = 0%; GRADE: low certainty). No significant differences were observed for length of ICU stay, length of hospital stay, or hypotension. Perioperative dexmedetomidine may reduce POD incidence in selected older cardiac surgery patients, particularly when compared with selected active sedative or analgesic regimens. However, the certainty of evidence was moderate, and the effect was less clear in saline/placebo-controlled trials. Evidence for delirium duration was based on few affected patients, showed substantial heterogeneity, and should not drive the main clinical conclusion. Dexmedetomidine increased reported bradycardia, and clinical use should be individualized with careful hemodynamic monitoring. https://osf.io/f6nwu.
+
+--- PAPER PUBMED ---
+Título: Early Diagnosis of Delirium in Geriatric Patients in Emergency Departments: A Systematic Review and Meta-Analysis.
+Revista: Brain sciences
+Fecha: 2026
+Tipo: Journal Article, Review
+PMID: 42651173
+DOI: 10.1136/bmj.n71
+URL: https://pubmed.ncbi.nlm.nih.gov/42651173/
+
+Abstract:
+Acute confusional state, or delirium, is a common neuropsychiatric disorder in older adults, particularly in emergency departments. It is associated with high morbidity and mortality, as well as difficult detection. Its early identification is crucial to prevent complications and improve prognosis. This study aims to identify and analyze available strategies for the early diagnosis of delirium in geriatric patients in emergency departments. A literature review and meta-analysis were conducted between 2020 and 2026 using the PubMed, Scopus, Web of Science, CINAHL, and Cochrane databases (PRISMA 2020). To estimate the prevalence of patients with delirium in emergency departments, a meta-analysis was performed using Stats Direct statistical software (Version 4). Methodological quality was evaluated according to the Oxford Centre for Evidence-Based Medicine levels of evidence. Eleven studies were included, demonstrating that delirium in emergency departments is highly prevalent among older adults, particularly those with dementia, polypharmacy, or functional impairment. The 4AT scale was the most frequently used screening tool, notable for its strong sensitivity. Hypoactive delirium emerged as the most common subtype and carried the poorest prognosis. Furthermore, its presence was associated with longer hospital stays, increased complications, and higher mortality rates, while a lack of training among healthcare staff continues to limit early detection. The meta-analysis detected no publication bias and revealed a 20.6% prevalence of delirium among patients in emergency departments. One in five patients attending the emergency department presents with delirium. Delirium in geriatric emergency care demands a structured clinical response grounded in prevention, early detection, and professional training. Integrating validated diagnostic tools and reinforcing the role of nursing professionals are key to improving patient outcomes and safety.
+
+--- PAPER PUBMED ---
+Título: Transcranial Electrical Stimulation and Delirium Among Postoperative Patients: A Randomized Clinical Trial.
+Revista: JAMA network open
+Fecha: 2026
+Tipo: Journal Article, Randomized Controlled Trial
+PMID: 42611517
+DOI: 10.1016/j.tins.2025.07.007
+URL: https://pubmed.ncbi.nlm.nih.gov/42611517/
+
+Abstract:
+Postoperative delirium (POD) occurs as a significant complication after elective surgery. To investigate the modulation of delirium incidence by transcranial electric stimulation (tES). A double-blind, sham-controlled randomized clinical trial (Modulating Delirium Through Stimulation [MODEST]) was conducted at University Medicine Greifswald, Germany, from February 8, 2024, to January 15, 2025. Patients were aged 65 years or older who were scheduled to undergo elective surgery. Exclusion criteria were any history of neurological or psychiatric disease, or intake of central nervous system-active medication. Data were analyzed from June 10, 2025, to June 5, 2026. α-Transcranial alternating current stimulation (tACS) of the salience network, transcranial direct current stimulation (tDCS) of the frontoparietal network (dosing: 20 minutes, 2 mA), or sham, in the postanesthesia care unit (PACU) after major elective surgery. The primary outcome was POD incidence in the ward during 1 of up to 5 postoperative days for the comparison of tACS vs the sham group. The secondary outcomes included POD in the ward for the comparison of tDCS vs sham group, POD in PACU, POD severity and motor type, and postoperative pain. Prespecified subgroup analyses opted to test the dependence of POD incidence on age, sex, duration, and type of surgery, baseline cognitive function, and preoperative pain levels. A total of 225 patients (mean [SD] age, 73.0 [6.0] years; 59.6% [134] male) were randomly assigned to tACS (n = 68), tDCS (n = 83), or sham stimulation (n = 74). No substantial between group differences were observed for POD incidence in ward (tACS, 11.5% [6 of 52]; tDCS, 14.3% [9 of 63]; sham, 9.2% [6 of 65]; tACS vs sham: odds ratio [OR], 1.60 [95% CI, 0.47-5.46]; P = .45; tDCS vs sham: OR, 1.51 [95% CI, 0.49-4.68]; P = .47) or in PACU (tACS, 14.6% [7 of 48]; tDCS, 21.4% [12 of 56]; sham, 21.7% [13 of 60]; tACS vs sham: OR, 0.95 [95% CI, 0.38-2.36]; P = .91; tDCS vs sham: OR, 0.91 [95% CI, 0.36-2.30]; P = .83). Further secondary analyses of POD severity and motor type, and modulation of pain levels, did not show any substantial difference between stimulation groups. Prespecified subgroup analyses revealed different modulation of POD incidence in PACU depending on duration of surgery (OR, 0.15 [95% CI, 0.02-0.97]; P = .046), indicating that tACS may reduce POD incidence for patients with longer surgery (absolute risk difference for POD in the tACS compared with the sham group, for a surgical duration of 3 to 5 hours of -26.6% to -46.5%). Ratings of adverse events did not differ between groups (incidence rate ratio, 2.3 [95% CI, 0.8-6.5]), and no serious adverse events were reported. In this randomized clinical trial of tES for POD, there was no evidence for a uniform effect of postoperative tES on the incidence of POD, but it suggested a benefit of parietal α oscillatory enhancement for patients with longer surgery. Future research has to test the specific effect on vulnerable groups, examine the optimal timing for tES application to modulate POD, and investigate the value of personalizing tES parameters. German Clinical Trials Register: DRKS00033703.
+
+--- PAPER PUBMED ---
+Título: Risk factors associated with delirium in older emergency department patients: A systematic review and meta-analysis.
+Revista: Medicine
+Fecha: 2026
+Tipo: Journal Article, Meta-Analysis, Systematic Review
+PMID: 42566629
+DOI: 10.1097/MD.0000000000050157
+URL: https://pubmed.ncbi.nlm.nih.gov/42566629/
+
+Abstract:
+Delirium is a frequent yet underrecognized neuropsychiatric syndrome among older patients presenting to the emergency department (ED) and is associated with adverse outcomes, including prolonged hospitalization, functional decline, and mortality. Evidence on ED delirium risk factors remains fragmented. We systematically searched PubMed, Embase, Web of Science, and the Cochrane Library from database inception to December 31, 2025. Comparative observational studies of ED patients aged 65 years or older were eligible if delirium was assessed using a validated tool or diagnostic criteria and if a delirium versus non-delirium comparison was available. Studies enrolling only patients with delirium or lacking a non-delirium comparator were excluded from the risk-factor meta-analysis. Adjusted odds ratios (ORs) were preferentially extracted; unadjusted ORs or raw data were used only when adjusted estimates were unavailable. Random-effects models were used for clinically comparable risk-factor domains. Sixteen comparative observational studies involving 31,543 older ED patients were included. The pooled delirium prevalence was approximately 10%. Factors significantly associated with delirium included advanced age (OR = 1.49, 95% confidence initerval [CI]: 1.13-1.97), baseline cognitive impairment or dementia (OR = 1.90, 95% CI: 1.31-2.76), and medication-related exposures (OR = 1.49, 95% CI: 1.20-1.85). Functional dependence and ED-related environmental or process factors were not statistically significant in pooled analyses, and comorbidity burden showed a borderline association. Most included studies were of moderate-to-high methodological quality. Heterogeneity was substantial in several domains, and no strong evidence of publication bias was detected for the cognitive impairment analysis. In older ED patients, delirium is associated with several demographic and clinical factors, particularly age, baseline cognitive impairment, and medication-related exposures. These associations should be interpreted as risk markers rather than causal effects. Early identification of high-risk patients may support risk stratification and guide future delirium prevention research in the ED.
+
+--- PAPER PUBMED ---
+Título: Positive End-Expiratory Pressure, Tidal Volume, and Fraction of Inspired Oxygen During General Anaesthesia in High-Risk Patients-A Randomised Clinical Feasibility Trial.
+Revista: Acta anaesthesiologica Scandinavica
+Fecha: 2026
+Tipo: Journal Article, Randomized Controlled Trial, Multicenter Study
+PMID: 42508987
+DOI: 10.1111/aas.70309
+URL: https://pubmed.ncbi.nlm.nih.gov/42508987/
+
+Abstract:
+Optimal ventilatory settings during general anaesthesia are unknown. The goal of this trial was to test different ventilatory settings and blood pressure targets during general anaesthesia. This manuscript focuses on the ventilatory interventions. This was a multicentre, randomised factorial trial conducted at eight hospitals in Denmark. Four hundred and eighty-three patients ASA 3-5, scheduled for major surgery under general anaesthesia, were included. Patients were randomised to positive end-expiratory pressure (PEEP) of 5, 8, or 10 cm H2O, tidal volume of 6, 8, or 10 mL/kg, and fraction of inspired oxygen (FiO2) of 30% or 80%. The primary outcome was feasibility of delivering the ventilatory interventions, while secondary outcomes included intra- and postoperative complications, hospital length of stay, quality of life and recovery, and mortality. Feasibility goals were not met, but clear separation within each intervention was achieved. There were no differences between groups in most postoperative outcomes. Cardiac arrhythmias appeared more frequently in the PEEP-8- and 10-cm-H2O groups (OR 9.32, 95% CI 1.59; 178 and OR 6.71, 95% CI 1.00; 134), compared to the PEEP-5-cm-H2O group. Outcomes did not differ between tidal volume interventions. Pneumonia (OR 4.04, 95% CI 1.40; 14.6) and emergence delirium (OR 5.56, 95% CI 1.94; 20.4) were more frequent in patients allocated to FiO2 of 80% than 30%. Adherence to interventions was acceptable, although below feasibility goals. Few postoperative complications were more frequent in patients receiving PEEP 8 and 10, and in patients receiving FiO2 of 80%. These findings should be interpreted with caution given the uncertainty of the estimates. Clinicaltrials.gov: NCT06047119.
+
+CONTEXTO WEB COMPLEMENTARIO:
+--- FUENTE WEB ---
+Título: GRADE‐Based Clinical Practice Guidelines for Emergency Department Delirium Risk Stratification, Screening, and Brain Imaging in Older Patients With Suspected Delirium
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12875304
+Score: 0.7849791
+
+Texto:
+# GRADE‐Based Clinical Practice Guidelines for Emergency Department Delirium Risk Stratification, Screening, and Brain Imaging in Older Patients With Suspected Delirium
+
+Sangil Lee, Danya Khoujah, Debra Eagles, Maura Kennedy, Alexander X. Lo, Christian H. Nickel, Glenn Arendts, Luna Ragsdale, Justine Seidenfeld, Kerstin de Wit, Ines Luciani‐Mcgillivray, Christopher R. Carpenter, Shan W. Liu, the Geriatric Emergency Department Delirium Guidelines 2.0 Writing Team
+
+Academic Emergency Medicine · 2025-10-27 · 33(2):e70167 · DOI: 10.1111/acem.70167 · PMID: 41146403 · PMCID: PMC12875304
+
+## ABSTRACT
+
+### Objectives
+
+This portion of the Geriatric Emergency Department (GED) Guidelines 2.0 focuses on delirium in the emergency department (ED).
+
+### Methods
+
+A multidisciplinary group applied the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach to assess the certainty of evidence and develop recommendations related to older ED patients with possible delirium.
+
+### Results
+
+The GED Guidelines 2.0 Delirium Work Group derived six evidence‐based recommendations for risk stratification, diagnosis, and brain imaging. To reduce universal screening, the Delirium Risk Score may be used to identify older adults at low risk for delirium, though the evidence certainty is very low. In adults over 65 admitted to ED observation units, Zucchelli's risk assessment tool (threshold ≥ 4) may stratify delirium risk, also with very low certainty. For adults over 75, the REDEEM Score may be used to identify low‐ or high‐risk individuals, again with very low certainty. For diagnosis, 4AT, bCAM, CAM‐ICU, mCAM, AMT‐4, or RASS may be used to rule delirium in or out, based on very low certainty. The Delirium Triage Screen (DTS) may be used to rule out, but not to rule in, delirium, also with very low certainty. For diagnostic imaging, there is very low certainty of evidence to recommend for or against obtaining a head CT as part of the evaluation for older ED patients with delirium. All recommendations are conditional, reflecting very low certainty of evidence due to the lack of high‐quality ED‐based studies and comparative effectiveness research.
+
+### Conclusion
+
+Rigorous ED‐based research is needed to strengthen evidence and guide delirium care for older adults in geriatric emergency medicine.
+
+## 1 Introduction
+
+In 2014, the Geriatric Emergency Department (GED) Guidelines 1.0 were published by multiple emergency medicine (EM) and geriatrics professional organizations [1]. The GED Guidelines 1.0 were developed in response to the growth in self‐labeled “geriatric emergency departments”, which were significantly variable in the absence of structure [1, 2]. The GED Guidelines 1.0 provided consensus‐based actionable recommendations and quality metrics for protocol development for geriatric syndromes and the requisite infrastructure to promote aged‐friendly care [1]. Subsequently, the American College of Emergency Physicians (ACEP) began to accredit hospitals when their EDs demonstrated adherence to these guidelines, [3, 4] with over 500 accredited EDs worldwide as of February 2025 [5, 6].
+
+Since the GED Guidelines 1.0 were published, the process of creating clinical practice guidelines has evolved. The Grading of Recommendation, Assessment, Development, and Evaluation (GRADE) approach has been internationally adopted by over 100 guideline‐creating organizations, [7] including the Society for Academic Emergency Medicine (SAEM) Guidelines for Reasonable and Appropriate Care in the Emergency Department (GRACE) [8, 9, 10, 11]. GRADE provides a rigorous and transparent approach to assessing the quality and applicability of evidence for a focused question while also explicitly incorporating factors such as the quantitative balance of anticipated benefits, harms, costs, feasibility, health equity, and alliance with stakeholders' values from direct and indirect evidence [12, 13], in addition to identifying knowledge gaps requiring research as well as implementation approaches to accelerate the uptake of the recommendations.
+
+In 2020, the GED Guidelines 2.0 Writing Team was organized to update the original GED Guidelines 1.0, focusing on older adults, selecting the GRADE methodology [14, 15], and electing to publish separate guideline documents for each geriatric syndrome (delirium, dementia, falls, medication safety, elder abuse, and frailty). This document provides recommendations for risk stratification, assessment, and brain imaging.
+
+As outlined in Table 1, delirium is an acute brain dysfunction that commonly affects older adults—often manifesting as confusion, altered level of consciousness, inattention, and perceptual disturbances [17]. Older adults often present to the ED with altered mental status; approximately 6%–38% of older patients who visit the ED have delirium [18, 19, 20, 21]. The wide range of observed ED delirium is a consequence of differing criterion standards used across studies to define the presence or absence of delirium, as well as variable distinctions between and inclusion of incident and prevalent delirium [20, 22]. Delirium increases mortality rates and leads to functional decline at an estimated cost of $152 billion US dollars to the healthcare system annually [17, 23]. Nearly 15 years ago, the American Geriatrics Society (AGS) and SAEM recommended prioritizing delirium care, including delirium screening and preventative interventions [24, 25, 26, 27, 28]. Seven Cochrane reviews have been published since 2012 synthesizing delirium interventions across a variety of patient populations and clinical settings. However, none included studies from the ED, nor identified a consistent strategy or intervention to prevent incident delirium or treat prevalent delirium [20, 29]. The American Delirium Society houses a list of the existing guidelines for delirium care in the diverse clinical discipline, but its outreach has not involved the ED as of 2024 [30].
+
+**TABLE 1** · Diagnostic 
+
+--- FUENTE WEB ---
+Título: Can we improve delirium prevention and treatment in the emergency department? A systematic review - Lee - 2022 - Journal of the American Geriatrics Society - Wiley Online Library
+URL: https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.17740
+Score: 0.7613611
+
+Texto:
+[Volume 70, Issue 6](https://agsjournals.onlinelibrary.wiley.com/toc/15325415/2022/70/6)pp. 1838-1849
+
+# Can we improve delirium prevention and treatment in the emergency department? A systematic review
+
+## Abstract
+
+### Background
+
+This systematic review was conducted to evaluate any interventions to prevent incident delirium, or shorten the duration of prevalent delirium, in older adults presenting to the emergency department (ED).
+
+### Methods
+
+Health sciences librarian designed electronic searches were conducted from database inception through September 2021. Two authors reviewed studies, and included studies that evaluated interventions for the prevention and/or treatment of delirium and excluded non-ED studies. The risk of bias (ROB) was evaluated by the Cochrane ROB tool or the Newcastle-Ottawa (NOS) scale. Meta-analysis was conducted to estimate a pooled effect of multifactorial programs on delirium prevention.
+
+### Results
+
+Our search strategy yielded 11,900 studies of which 10 met study inclusion criteria. Two RCTs evaluated pharmacologic interventions for delirium prevention; three non-RCTs employed a multi-factorial delirium prevention program; three non-RCTs evaluated regional anesthesia for hip fractures; and one study evaluated the use of Foley catheter, medication exposure, and risk of delirium. Only four studies demonstrated a significant impact on delirium incidence or duration of delirium—one RCT of melatonin reduced the incidence of delirium (OR 0.19, 95% CI 0.06 to 0.62), one non-RCT study on a multi-factorial program decreased inpatient delirium prevalence (41% to 19%) and the other reduced incident delirium (RR 0.37, 95% CI 0.22 to 0.61). One case–control study on the use of ED Foley catheters in the ED increased the duration of delirium (proportional OR 3.1, 95% CI 1.3 to 7.4). A pooled odds ratio for three multifactorial programs on delirium prevention was 0.46 (95% CI 0.31–0.68, I2 = 0).
+
+### Conclusion
+
+Few interventions initiated in the ED were found to consistently reduce the incidence or duration of delirium. Delirium prevention and treatment trials in the ED are still rare and should be prioritized for future research.
+
+## Key points
+
+- The use of melatonin in the selected indications, such as overnight stay in the ED, could be effective in reducing incident delirium, but further research is needed.
+- Multi-factorial programs show the most promise in reducing delirium-related outcomes, but a sustained, multi-center, and likely international collaborative program of research is required to assess whether such interventions are feasible and effective in the ED.
+- Older adults with hip fracture appear to be a target population which investigators used both pharmacological and non-pharmacological interventions; however, interventions studied to date have not demonstrated a significant impact.
+
+## Why does this paper matter?
+
+Evaluation of the current status of prevention and intervention for delirium in the acute care setting will facilitate the design and development of future intervention programs for older adults who present to clinic, inpatient, and intensive care unit after the emergency department visits.
+
+## INTRODUCTION
+
+Delirium is a disturbance of attention, awareness, and a change in baseline cognition. Delirium is common in the emergency department (ED), especially in older adults. Between 6% and 38% of older ED adults have incident delirium, defined as new development of delirium after arrival, or prevalent delirium defined as those who present to the ED with delirium.[1](#jgs17740-bib-0001)-[8](#jgs17740-bib-0008) Importantly, ED delirium is associated with increases in the length of hospital stay and mortality, and decreases in independence and cognitive function.[3](#jgs17740-bib-0003), [7](#jgs17740-bib-0007), [9](#jgs17740-bib-0009)-[12](#jgs17740-bib-0012) Due to the prevalence of delirium in the ED setting and the associated morbidity and mortality, there is a growing support for ED-based strategies to improve identification, management and prevention of delirium. Among accredited level 1 and level 2 geriatric EDs, 90% of level 1 and 40% of level 2 geriatric EDs reported protocols for delirium screening; in addition, many have implemented strategies to decrease delirium incidence.[13](#jgs17740-bib-0013)
+
+The authors previously synthesized seven Cochrane systematic reviews that summarized delirium prevention or treatment trials across a variety of healthcare settings (Table [S1](#support-information-section)).[14](#jgs17740-bib-0014)-[21](#jgs17740-bib-0021) Multifactorial interventions, including individualized care, an educational component, reorientation, and early mobilization, often effectively reduce the incidence of delirium in the inpatient setting.[19](#jgs17740-bib-0019), [22](#jgs17740-bib-0022) Since 2012, four Cochrane reviews summarized pharmacologic and nonpharmacologic delirium interventions in both the hospital setting and long-term care.[14](#jgs17740-bib-0014), [17](#jgs17740-bib-0017), [19](#jgs17740-bib-0019), [20](#jgs17740-bib-0020) The generalizability of pharmacological and nonpharmacological interventions to the ED setting may be limited due to resource constraints and heterogeneous patient populations.[21](#jgs17740-bib-0021)To date, no systematic review has been published assessing delirium prevention or intervention programs targeted at older adults in the ED.
+
+### Objective
+
+The objective of this systematic review was to identify pharmacologic and nonpharmacologic interventions to prevent or treat delirium to reduce the incidence, severity, and duration of delirium in older adults presenting to the ED.
+
+## METHODS
+
+#### *Protocol and registration*
+
+The study follows the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA).[23](#jgs17740-bib-0023) The study protocol was registered to PROSPERO (CRD42020169654).[21](#jgs17740-bib-0021)
+
+### Eligibility criteria
+
+#### *Study characteristics*
+
+
+
+--- FUENTE WEB ---
+Título: Delirium in older adults in the emergency department: a scoping review of current research and identified knowledge gaps | BMC Emergency Medicine | Springer Nature Link
+URL: https://link.springer.com/article/10.1186/s12873-026-01582-z
+Score: 0.7606507
+
+Texto:
+## Abstract
+
+### Background
+
+Delirium is a common neurocognitive syndrome among older adults, associated with increased morbidity, mortality, and healthcare costs. Emergency departments (EDs) represent a critical point for early detection and prevention, yet delirium often remains under-recognized in this setting. Contributing factors include overcrowding, sensory overload, and lack of orientation aids, combined with demographic shifts leading to more acutely admitted older adults with complex needs. This scoping review aimed to map existing research on delirium in elderly patients in EDs and identify knowledge gaps.
+
+### Methods
+
+The review followed Joanna Briggs Institute methodology and adhered to the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews. Structured searches were conducted in EMBASE, MEDLINE, CINAHL, Web of Science, Cochrane, and PsycINFO for studies published between 2015 and July 2024, updated in September 2025. After duplicate removal, two reviewers independently screened 1,455 titles and abstracts, applying refined inclusion and exclusion criteria. 178 publications were reviewed in the research group. A total of 114 publications were included for full-text analysis.
+
+### Results
+
+Publications represented all continents, except for Africa, and most originated from North America (*n* = 54) and Europe (*n* = 35). Through content analysis, studies were categorized into six themes: Prevention, Occurrence, Risk factors, Detection, Management, and Consequences. Occurrence (*n* = 55) and Detection (*n* = 47) were the largest categories, while Prevention was least represented (*n* = 10). Evidence indicates wide variability in reported prevalence, inconsistent screening practices, and limited intervention research. Key gaps include standardized screening protocols, staff training, and effective prevention and management strategies tailored to ED environments.
+
+### Conclusions
+
+Delirium in older adults remains a significant challenge in EDs worldwide. This review synthesises current research on occurrence, risk factors, detection, and clinical outcomes, while highlighting critical gaps in strategies for prevention and management to secure optimal care. Despite valuable insights, evidence on effective prevention and the use of described toolkits in practice is limited. These gaps underscore the urgent need for targeted interventions and robust implementation research to improve recognition and care for this vulnerable patient population.
+
+### Similar content being viewed by others
+
+![](https://media.springernature.com/w215h120/springer-static/image/art%3Aplaceholder%2Fimages/placeholder-figure-nature.png)![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs12028-026-02553-9/MediaObjects/12028_2026_2553_Fig1_HTML.png)![](https://media.springernature.com/w215h120/springer-static/image/art%3A10.1007%2Fs40520-021-01792-4/MediaObjects/40520_2021_1792_Fig1_HTML.png)
+
+## Background
+
+Delirium is a neurocognitive syndrome characterised by acute cognitive decline, disturbed attention and altered awareness, ranging from a hypoactive state to hypervigilance and agitation \[[1](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR1), [2](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR2)]. It is highly prevalent among hospitalised older adults, with the highest occurrence in critically ill patients \[[1](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR1)]. A recent meta-analysis reported a delirium prevalence of approximately 23% among medical inpatients, with rates remaining relatively stable over time \[[3](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR3)]. Despite its association with serious adverse outcomes—including increased morbidity, mortality, and prolonged hospitalisation—delirium frequently remains unrecognized \[[4](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR4)]. Prevention, recognition and treatment of delirium continue to represent significant global healthcare challenges \[[1](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR1)].
+
+The Emergency Department (ED) represents a hospital entry point for a large volume of patients and thus an opportunity for delirium detection and prevention \[[4](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR4)]. Demographic shifts, particularly the rising proportion of individuals over 65 years of age \[[5](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR5)], are contributing to a higher demand for acute care among older adults \[[6](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR6), [7](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR7)]. Consequently, EDs are seeing a growing number of patients with chronic illnesses, cognitive impairment, and geriatric syndromes such as delirium. Worldwide, EDs are increasingly challenged by overcrowding- a growing mismatch between patient needs and available staffing necessary to provide emergency care \[[8](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR8), [9](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR9)]. Like other geriatric syndromes, delirium is often deprioritised in this busy ED setting \[[10](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR10)]. Older patients might be delirious when admitted to the ED, or they might develop delirium in the ED setting (delirium incidence). EDs globally also experience ED boarding; a long waiting time for admitted patients in the ED before a bed is available in the hospital \[[11](https://link.springer.com/article/10.1186/s12873-026-01582-z#ref-CR11)] prolonging the time older patients must stay in the ED. Factors in the ED that potentially contribute and enhances delirium includes sensory overload, disturbance of sleep, timing of medicati
+
+--- FUENTE WEB ---
+Título: Delirium prevention and treatment in the emergency department (ED): a systematic review protocol | BMJ Open
+URL: https://bmjopen.bmj.com/content/10/10/e037915
+Score: 0.74853617
+
+Texto:
+Article Text
+
+**PDF**![Download PDF](https://bmjopen.bmj.com/sites/default/themes/bmjj/img/icon-pdf.png)
+
+## Abstract
+
+**Introduction** Delirium is a dangerous syndrome of acute brain dysfunction that is common in the emergency department (ED), especially among the geriatric population. Most systematic reviews of interventions for delirium prevention and treatment have focused on inpatient settings. Best practices of effective delirium care in ED settings have not been established. The primary objective of this study is to identify pharmacologic and non-pharmacologic interventions as applied by physicians, nursing staff, pharmacists and other ED personnel to prevent incident delirium and to shorten the severity and duration of prevalent delirium in a geriatric population within the ED.
+
+**Methods and analysis** Searches using subject headings and keywords will be conducted from database inception through June 2020 in MEDLINE, EMBASE, Web of Science, PsychINFO, CINAHL, ProQuest Dissertations and Theses Global and Cochrane CENTRAL as well as grey literature. Database searches will not be limited by date or language. Two reviewers will identify studies describing any interventions for delirium prevention and/or treatment in the ED. Disagreements will be settled by a third reviewer. Pooled data analysis will be performed where possible using Review Manager. Risk ratios and weighted difference of means will be used for incidence of delirium and other binary outcomes related to delirium, delirium severity or duration of symptoms, along with 95% CIs. Heterogeneity will be measured by calculating *I*2, and a forest plot will be created. If significant heterogeneity is identified, metaregression is planned using OpenMeta to identify possible sources of heterogeneity.
+
+**Ethics and dissemination** This is a systematic review of previously conducted research; accordingly, it does not constitute human subjects research needing ethics review. This review will be prepared as a manuscript and submitted for publication to a peer-reviewed journal, and the results will be presented at conferences.
+
+**PROSPERO trial registration number** CRD42020169654.
+
+- accident & emergency medicine
+- geriatric medicine
+- delirium & cognitive disorders
+
+[http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
+
+This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See: [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/).
+
+## Statistics from Altmetric.com
+
+### Strengths and limitations of this study
+
+- This study will utilise three reviewers to analyse articles and resolve discrepancies of data collection.
+- Study will be conducted with a well-defined search strategy including a search of unpublished and grey literature.
+- Study will search a broad group of databases to identify studies produced by physicians, nurses, pharmacists and other researchers.
+- There will be increased heterogeneity due to the large number of interventions included.
+- Some outcomes, such as delirium duration, may be assessed differently in each study, limiting the analysis.
+
+## Introduction
+
+Delirium is an acute confusional state characterised by declines in attention, awareness and cognition. Fluctuations of mental status over time are characteristic and necessary for diagnosis.[1 2](#ref-1) Delirium is common in the acute care setting including the emergency department (ED), and is particularly prevalent among adults older than 65 years. As many as 7%–17% of older adults who present to the ED meet diagnostic criteria for delirium.[3–9](#ref-3) ED providers miss delirium in up to 80% of cases.[6](#ref-6) ED delirium is associated with significantly increased in-hospital, 30-day and 6-month mortality, as well as loss of independence,[5 9–11](#ref-5) accelerated cognitive decline and post-traumatic stress disorder which are especially troubling to patients and their families.[11 12](#ref-11) Delirium can be characterised by motor subtypes—namely hypoactive (92%), hyperactive or mixed delirium (8%).[4](#ref-4) Our understanding of delirium prognosis is evolving through a growing body of literature exploring associations between classification of delirium aetiology, motor subtypes and severities of outcomes.[4 13 14](#ref-4)
+
+Interventions aimed at reducing the incidence and severity of delirium have been studied in various settings, but our preliminary searches revealed a paucity of ED research.[15](#ref-15) Multicomponent prevention programmes in hospitalised patients showed a reduction in delirium incidence.[16 17](#ref-16) Several Cochrane reviews have been published since 2012, which reported the utility of pharmacological agents,[18 19](#ref-18) delirium prevention programmes in hospital setting[16](#ref-16) and long-term care.[20](#ref-20) Thus, both pharmacologic and non-pharmacologic interventions applied by physicians, nursing staff, pharmacists and other ED personnel could have a role in reducing the incidence, severity or duration of delirium in the ED, as reported in the studies from other practice settings including inpatient medical, surgical and palliative care units and long-term care facilities.[16–19 21–24](#ref-16) The ED is a critical setting for delirium screening and preventative measures, since more than half of geriatric hospitalisations begin in the ED.[25](#ref-25)
+
+Clearly identifying, preventing and treating delirium is critical for improved patient care. Recognising the importance of improved delirium evaluation, management and prevention, the American College of Emergency Physicians d
+
+--- FUENTE WEB ---
+Título: Geriatric Emergency Department (GED) Guidelines – GEAR Network
+URL: https://gearnetwork.org/geriatric-emergency-department-ged-guidelines
+Score: 0.746139
+
+Texto:
+ [Skip to content](#content)
+
+[![GEAR Network](https://gearnetwork.org/wp-content/uploads/2021/06/GEAR-LOGO-Simplified-Whole-Horz.PNG.png)](https://gearnetwork.org/)
+
+[GEAR Network](https://gearnetwork.org/)  
+
+Geriatric Emergency care Applied Research Standardization Study
+
+[![GEAR Network](https://gearnetwork.org/wp-content/uploads/2021/06/GEAR-LOGO-Simplified-Whole-Horz.PNG.png)](https://gearnetwork.org/)
+
+[GEAR Network](https://gearnetwork.org/)  
+
+Geriatric Emergency care Applied Research Standardization Study
+
+# Geriatric Emergency Department (GED) Guidelines
+
+## Systematic Reviews and Clinical Practice Guidelines 2.0
+
+[All](javascript:;)[Guidelines Systematic Reviews](javascript:;)[Clinical Practice Guidelines](javascript:;)[Delirium](javascript:;)[Dementia](javascript:;)[Elder Mistreatment](javascript:;)[Falls](javascript:;)[Frailty](javascript:;)[Medications](javascript:;)[Palliative Care](javascript:;)
+
+## [Systematic Review: Elder Mistreatment | Screening and Interventions](https://gearnetwork.org/2026/08/26/systematic-review-elder-mistreatment-screening-and-interventions/)
+
+Elder mistreatment is associated with significant morbidity and mortality. Screening and intervention strategies for elder mistreatment in the ED setting are not well characterized. This systematic review found no studies meeting full inclusion criteria, highlighting the large knowledge gaps about...
+
+[Read More](https://gearnetwork.org/2026/08/26/systematic-review-elder-mistreatment-screening-and-interventions/)
+
+## [GED Guidelines 2.0 Methodology](https://gearnetwork.org/2026/03/12/ged-guidelines-2-0-methodology/)
+
+Methodology: The Geriatric Emergency Department Guidelines 2.0 A Model for Developing Subspecialty Clinical Practice Guidelines: The Geriatric Emergency Department Guidelines 2.0 Satheesh Gunaga DO, Christopher R. Carpenter MD, MSc, Maura Kennedy MD, MPH, Lauren T. Southerland MD, MPH, Alexander X....
+
+[Read More](https://gearnetwork.org/2026/03/12/ged-guidelines-2-0-methodology/)
+
+## [Systematic Review: Falls](https://gearnetwork.org/2026/03/12/systematic-review-falls/)
+
+Systematic Review: Fall Prevention Physical and Occupational Therapist Evaluations for Fall Prevention in the Emergency Department: A Geriatric ED Guidelines 2.0 Systematic Review A systematic review Lauren T. Southerland, Pedro K. Curiati, Richard D. Shih, Alexander X. Lo, Kristie Harper,...
+
+[Read More](https://gearnetwork.org/2026/03/12/systematic-review-falls/)
+
+## [Systematic Review: Dementia | Pain Management](https://gearnetwork.org/2026/03/12/systematic-review-dementia-pain-management/)
+
+Systematic Review: Dementia | Pain Management A Systematic Review Evaluating Pain Assessment Strategies for Patients With Dementia in the Emergency Department: The Geriatric ED Guidelines 2.0 A systematic review Sangil Lee, Alexander X. Lo, Teresita M. Hogan, James D. van...
+
+[Read More](https://gearnetwork.org/2026/03/12/systematic-review-dementia-pain-management/)
+
+## [Clinical Practice Guideline: Delirium](https://gearnetwork.org/2026/02/19/clinical-practice-guideline-delirium/)
+
+Clinical Practice Guideline 2.0: Delirium GRADE-Based Clinical Practice Guidelines for Emergency Department Delirium Risk Stratification, Screening, and Brain Imaging in Older Patients With Suspected Delirium A practice guideline Sangil Lee, Danya Khoujah, Debra Eagles, Maura Kennedy, Alexander X Lo, Christian...
+
+[Read More](https://gearnetwork.org/2026/02/19/clinical-practice-guideline-delirium/)
+
+## [Systematic Review: Delirium | Detection](https://gearnetwork.org/2026/02/19/systematic-review-delirium-detection/)
+
+Systematic Review: Delirium | Detection Delirium detection in the emergency department: A diagnostic accuracy meta-analysis of history, physical examination, laboratory tests, and screening instruments A systematic review Christopher R. Carpenter MD, MSc, Sangil Lee MD, MS, Maura Kennedy MD, MPH,...
+
+[Read More](https://gearnetwork.org/2026/02/19/systematic-review-delirium-detection/)
+
+## [Systematic Review: Delirium | Head CT Findings (2 of 2)](https://gearnetwork.org/2026/02/19/systematic-review-delirium-head-ct-findings-2-of-2/)
+
+Systematic Review: Delirium Delirium, confusion, or altered mental status as a risk for abnormal head CT in older adults in the emergency department: A systematic review and meta-analysis A systematic review Sangil Lee, Faithe R Cavalier, Jane M Hayes, Michelle...
+
+[Read More](https://gearnetwork.org/2026/02/19/systematic-review-delirium-head-ct-findings-2-of-2/)
+
+## [Systematic Review: Medications | Severe Agitation](https://gearnetwork.org/2026/02/19/systematic-review-medications-severe-agitation/)
+
+Systematic Review: Medication Comparative Safety of Medications for Severe Agitation A Geriatric Emergency Department Guidelines 2.0 Systematic Review Martin F. Casey, MD, MPH; Natalie M. Elder, MD; Alexander Fenn, MD; et al J Am Geriatr Soc | Epub | April...
+
+[Read More](https://gearnetwork.org/2026/02/19/systematic-review-medications-severe-agitation/)
+
+## [Systematic Review: Delirium | Risk Stratification](https://gearnetwork.org/2026/02/19/systematic-review-delirium-risk-stratification/)
+
+Systematic Review: Delirium Risk factors and risk stratification approaches for delirium screening: A Geriatric Emergency Department Guidelines 2.0 systematic review Justine Seidenfeld MD, MHS, Sangil Lee MD, MS, Luna Ragsdale MD, MPH, Christian H. Nickel MD, Shan W. Liu MD,...
+
+[Read More](https://gearnetwork.org/2026/02/19/systematic-review-delirium-risk-stratification/)
+
+## GED Guidelines 2.0 Meeting: October 2025
+
+Supported by the American Geriatrics Society, the John A. Hartford Foundation, and NYU Grossman School of Medicine.
+
+![](https://gearnetwork.org/wp-content/uploads/2025/10/GED-Guidelines-Photo.jpg)
+
+## Brief History of Geriatric Emergency Department (GED) Guidelines:
+
+2008
+
+recognizing unique needs
+
+Geriatric Emergency Medicine is “Born”
+
+Lowell Gerson published one of the [earliest manuscripts](https://pubmed.ncbi.
+
+--- FUENTE WEB ---
+Título: Delirium in the Older Emergency Department Patient
+URL: https://www.acep.org/siteassets/sites/geda/media/documnets/ed-delirium-toolkit.pdf
+Score: 0.73469096
+
+Texto:
+### Delirium in the Older Emergency Department Patient
+
+### (ED-DEL)
+
+#### Change Package and Toolkit
+
+Courtesy of Alain McLaughlin, CPMC, Pacific Campus, San Francisco, CA
+
+##### Sharon K. Inouye, MD, MPH
+
+Contributors: Stephanie Baker, MHA, Kristen Erickson, MPH; Sarah Gartaganis, LICSW, MPH; Matthew Growdon, MD, MPH; Tammy Hshieh, MD, MPH; Adriane Lesser, MS; Amy R. Stuck, PhD, RN; Maggie Webb, BA
+
+Please contact <u>elderlife@hsl.harvard.edu</u> with any inquiries.
+
+This work was created by Dr. Sharon K. Inouye and is licensed under the Creative Commons Attribution-Non-Commercial-No Derivatives 4.0 International (CC BY-NC-ND 4.0). To view a copy of this license, visit: <u>[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)</u>
+
+Table of Contents
+Background and Rationale.............................................................................................................. 5
+
+Purpose........................................................................................................................................... 5
+
+Guide to Setting Up Your ED Delirium Program.............................................................................. 6
+
+ED Delirium Roadmap..................................................................................................................... 6
+
+Step 1: Assemble your Delirium Team............................................................................................ 7
+
+Step 2: Select the change tactics your team will be implementing................................................. 7
+
+Table 1. ED Delirium Change Package.....................................................................................8
+
+Step 3: Address logistical issues for start-up................................................................................. 10
+
+Step 4: Choose your starting date and identify your target population........................................ 11
+
+Step 5: Identify key measures to track for success........................................................................ 11
+
+Table 2. Process and Outcome Measures to Track for ED Delirium Program........................12
+
+Step 6: Address challenges at team meetings and plan for sustainability..................................... 13
+
+Acknowledgments......................................................................................................................... 15
+
+*Appendix A: ED Delirium Bibliography*........................................................................................... 17
+
+Change Management: Background and References for Creating Change..................................... 18
+
+Background References on Delirium............................................................................................. 18
+
+Selected Delirium Guidelines (2014 – 2020)................................................................................. 18
+
+Outcomes Associated with Delirium in the ED.............................................................................. 19
+
+Screening and Diagnosis of Delirium............................................................................................. 20
+
+Determining Risk for Delirium and Prediction Models.................................................................. 20
+
+Prevention of Delirium.................................................................................................................. 20
+
+Treatment of Delirium.................................................................................................................. 21
+
+Transitions of Care in Delirious Patients....................................................................................... 21
+
+Medications and Delirium............................................................................................................. 22
+
+*Appendix B: ED Delirium Toolkit*.................................................................................................... 24
+
+**Section I. Change Management Tools**.......................................................................................... 26
+
+Resource 1-A: Science of Improvement: Testing Changes........................................................ 26
+
+Resource I-B: TriP Framework Summary....................................................................................... 29
+
+Resource I-C: Organizational Readiness for Implementing Change (ORIC) Survey........................ 31
+
+Resource I-D: Process and Outcome Measures to Track for ED Delirium Program....................... 32
+
+**Section II. Tools for Setting up an ED Delirium Program**............................................................ 34
+
+Resource II-A: The Role of the Delirium Champion....................................................................... 34
+
+Resource II-B: Use of the Electronic Health Record....................................................................... 35
+
+Resource II-C: Costs Associated with Delirium.............................................................................. 37
+
+Resource II-D: Infographic-The Price of Delirium......................................................................... 41
+
+Resource II-E: Fact Check: Delirium in the ED............................................................................... 49
+
+Resource II-F: Sample Annual HELP Report Outline...................................................................... 50
+
+Section III. Educational Materials.................................................................................................. 52
+
+Subsection III. Educational Materials for ED Leaders and Staff..................................................... 52
+
+Resource III-A: The Geriatric Emergency Department Guidelines: Summary.......................52
+Resource III-B: 4M’s Framework of an Age-Friendly Health Systems..................................53
+Resource III-C: Wall Poster: 6 Proven Strategies to
+
+--- FUENTE WEB ---
+Título: Delirium Clinical Practice Guidelines - Delirium Central
+URL: https://www.deliriumcentral.org/delirium-clinical-practice-guidelines
+Score: 0.7325918
+
+Texto:
+## Delirium Clinical Practice Guidelines
+
+# Delirium Clinical Practice Guidelines
+
+- [**American Geriatrics Society Clinical Practice Guideline for Postoperative Delirium in Older Adults (2014)**](https://geriatricscareonline.org/ProductAbstract/american-geriatrics-society-clinical-practice-guideline-for-postoperative-delirium-in-older-adults/CL018): The overall goal of this clinical guideline is to improve clinical care of adults 65 years and older through prevention and treatment of delirium in the postoperative setting. The recommendations are made based on studies that included both surgical and nonsurgical patient cohorts. The specific aims addressed by the guideline include (1) the nonpharmacologic and pharmacologic interventions that should be implemented perioperatively for the prevention (ie, before delirium occurs) of postoperative delirium, and (2) the nonpharmacologic and pharmacologic interventions that should be implemented perioperatively for treatment (ie, once delirium has occurred) of postoperative delirium.
+- **[ADEPT: Confusion and Agitation in the Elderly ED Patient Guidelines from the America College of Emergency Physicians](https://poctools.acep.org/POCTool/Confusion%2FAgitationintheElderly%28ADEPT%29/6db3c051-8851-4822-852a-9c48a214c2fe/):** In 2018, the American College of Emergency Physicians (ACEP) released a tool designed by experts in the field of geriatric emergency medicine to address delirium in the emergency department patient. Assess, Diagnose, Evaluate, Prevent, and Treat (ADEPT) provides evidence-based best practices for delirium, from performing a thorough physical exam to verbal de-escalation principles to pharmacological considerations. You can access the ADEPT tool here.
+- **[Clinical Practice Guidelines for the Prevention and Management of Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU](https://journals.lww.com/ccmjournal/Fulltext/2018/09000/Clinical_Practice_Guidelines_for_the_Prevention.29.aspx):** Published in 2018, in *Critical Care Medicine*, these Clinical Practice Guidelines provide updates and expansion to the 2013 originally published guidelines of the same name. Content experts, methodologists, and ICU Survivors were among the interdisciplinary cohort of international experts highlighting evidence-supported recommendations, as well as remaining literature gaps and research needs. These guidelines are endorsed by several critical care and delirium-specific professional associations and organizations.
+- **[Delirium Toolkit, Regional Geriatric Program of Toronto (2018)](https://rgptoronto.ca/resource/senior-friendly-7-complete-toolkit/):** The Regional Geriatric Program (RGP) is a network of specialized geriatric services that “provides a range of hospital and community-based health care services for elders”. This toolkit, part of their Senior Friendly Care (sfCare) series, acts as a guidance document, providing delirium-specific resources for clinical best practices, as well as self-management tools.
+- [**Geriatric Emergency Department Guidelines**](https://www.acep.org/by-medical-focus/geriatrics/geriatric-emergency-department-guidelines/): Geriatric Emergency Department Guidelines are a top-year, consensus-based collaboration between the American College of Emergency Physicians, American Geriatrics Society, Emergency Nurses Association, and Society for Academic Emergency Medicine. Approved for publication in 2013-2014, these guidelines propose a standardized set of guidelines to effectively improve care of older adults in the emergency department. You can find delirium-specific guidelines beginning on page 28 of this PDF.
+- **[NICE Guidelines for Delirium](https://www.nice.org.uk/guidance/cg103):** Clinical Guidelines for Delirium published by the NHS National Institute for Health and Clinical Excellence. The recommendations in the NICE guideline cover the care of adults (18 and over) with, or at risk of, delirium in hospital and in long-term residential care or a nursing home. The guidelines describe methods of preventing, identifying, diagnosing and managing delirium (Published: 28 July 2010; Last updated: 14 March 2019).
+- [**Optimal Perioperative Management of the Geriatric Patient: Best Practice Guidelines from ACS NSQIP/American Geriatrics Society (2016):**](https://www.facs.org/media/y5efmgox/acs-nsqip-geriatric-2016-guidelines.pdf) Best practice guidelines to prevent and treat postoperative delirium in older patients, developed in collaboration by the American College of Surgeons and American Geriatrics Society.
+- **[Registered Nurse’s Association: Screening for delirium, dementia, and depression in older adults](https://rnao.ca/bpg/guidelines/assessment-and-care-older-adults-delirium-dementia-and-depression):** This is a 2016 document from the Registered Nurses Association of Ontario, which includes nursing best practice guideline for screening of delirium, depression and dementia in older adults.
+
+--- FUENTE WEB ---
+Título: Treating Delirium & Agitation in the Emergency Room, 2015 | EB Medicine
+URL: https://www.ebmedicine.net/topics/psychiatric-behavioral/delirium-agitation
+Score: 0.6900372
+
+Texto:
+|  |
+|---|
+|  |
+
+*It is the beginning of another Saturday night shift, and as you walk in, you see security and the outgoing attending wrestling a large 20-something-year-old man to the bed. He is yelling about a government conspiracy and his right to freedom of speech. A nurse injects medicine into his left deltoid. You are looking forward to the sign-out on this gentleman and wonder what he was injected with and whether there was another way to manage him.*
+
+*As your colleagues manage the young man, you scan the board and see that the next patient to be seen is a 79-year-old lady who presents for altered mental status. As you approach the bed, you do not see anyone with her. You begin to take her history, and observe that she seems a bit lethargic and is tangential in her thinking. She is able to tell you that she lives with her husband and has a history of high blood pressure and confusion. She then mentions that you look like a friend of hers from work and asks whether you are married. You see your colleagues finishing up with their patient, so you extricate yourself and return to the physician station wondering why this patient is so lethargic and why her attention is so decreased.*
+
+*Finally, just as rounds are about to begin, you see an intubated patient in the first resuscitation bay starting to buck at his vent. You notice his hands and feet are in 4-point restraints. After inquiring about the reason for his visit, you are informed that he is a chronic alcoholic who had been attempting to detoxify at home and has come in today in delirium tremens, requiring intubation and large doses of benzodiazepines. You are concerned about the 4-point restraints, which you know are not favored, and you wonder if there was a better (and safer) way to manage the patient’s agitation.*
+
+Delirium is a complex neuropsychiatric disorder that often manifests secondary to a discrete medical condition. *The Diagnostic and Statistical Manual of Mental Disorders, Fifth edition* (DSM-5) describes delirium as an acute (usually developing over hours or a few days) and/or fluctuating disturbance in attention and cognition due to a medical condition, intoxicating substance, or multiple etiologies.
+
+In the younger population, delirium encompasses common chief complaints such as agitation and altered mental status.2,3 Among the elderly population, it is estimated that 7% to 24% of patients presenting to the emergency department (ED) will have delirium, and up to 80% of critically ill intensive care patients will have delirium.4 A diagnosis of delirium carries with it significant morbidity and mortality, in addition to increased utilization of resources.5–9
+
+Studies have shown that most emergency clinicians do not screen for or document their findings of delirium.10-12 Because of this lack of screening and the fluctuating course of the condition, the overall incidence of delirium in the ED is unknown. Some posit that emergency clinicians are aware of the impact of delirium on patient outcomes but are not knowledgeable about its diagnosis and management.13
+
+Emergency clinicians are trained to manage the overt signs of delirium while concurrently searching for its underlying etiology. However, gaps in screening, knowledge, and understanding contribute to a missed diagnosis rate in the range of 54% to 89%.4,14 Additional complicating factors include the varied presentations of these patients and the inherent time and environmental pressures of the ED clinical environment. Diagnostic accuracy has been poor, and much of the emergency medicine literature on delirium is focused on the issue of recognition. Regarding the prevention and management of delirium in the ED, current guidelines are generalized from inpatient and postoperative studies. This issue of *Emergency Medicine Practice* focuses on the challenge of evaluating and managing the patient with delirium in the ED using the best available evidence from the literature.
+
+A literature search was performed on PubMed using the search terms *delirium* OR *agitation* OR *acute confusion* AND *emergency*. Additional references were obtained from the bibliographies of the articles reviewed. A search of the Cochrane Database of Systematic Reviews yielded several reviews regarding the pharmacological management of delirium, as well as 1 review of multicomponent interventions for preventing delirium in hospitalized patients, and 1 study protocol for interventions to prevent delirium in patients in institutional long-term care.
+
+Clinical policies in the National Guidelines Clearinghouse ([www.guideline.gov](http://www.guideline.gov)) and the American College of Emergency Physicians (ACEP) were also searched. Emergency medicine societies weighing in on the diagnosis and management of delirium include ACEP, the Society of Academic Emergency Medicine (SAEM), the Emergency Nurses Association (ENA), and the American Association of Emergency Psychiatry (AAEP). In 1999, ACEP published the “Clinical Policy for the Initial Approach to Patients Presenting with Altered Mental Status,” which critically reviewed the literature and provided an evaluation framework; however, it did not address specific pharmacological interventions for delirium. While altered mental status, as a chief complaint, is not sensitive, it has been noted to be specific for delirium, when documented.3 In 2013, ACEP, the American Geriatrics Society, ENA, and SAEM jointly published “Geriatric Emergency Department Guidelines,” which included recommendations regarding the workup and management of delirium in elderly patients presenting to the ED.15
+
+Various regional and national guidelines for the diagnosis and management of delirium in inpatient settings also exist. Within these guidelines, specific delirium recommendations for the ED are rare, but they can be found in the United Kingdom’s National Institute for Health and Care Excellence (NICE) 2010 guideline, “Delirium: Diagnosis, Prevention and Management,” and
+
+INSTRUCCIONES IMPORTANTES:
+- PubMed es el eje principal.
+- Tavily es solo contexto complementario.
+- No uses manuales generales como fuente principal.
+- No inventes PMID, DOI, autores ni revistas.
+- Diferencia evidencia fuerte, moderada, débil y especulativa.
+- Extensión orientativa: 1500 a 2200 palabras.
+- Escribe para médicos de urgencias y residentes.
+- Incluye implicaciones para triaje, diagnóstico, tratamiento, seguridad y derivación.
+
+ESTRUCTURA:
+1. Resumen ejecutivo
+2. Qué hay de nuevo o relevante
+3. Evidencia científica principal
+4. Evidencia por nivel
+5. Implicaciones para medicina de urgencias
+6. Qué cambia en la práctica
+7. Qué NO sabemos todavía
+8. Riesgos de interpretación excesiva
+9. Bibliografía comentada
